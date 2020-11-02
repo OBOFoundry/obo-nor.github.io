@@ -1,0 +1,5 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_ontology_description	http://www.ontology-of-units-of-measure.org/resource/om-2/	dc11:description	
+ERROR	missing_ontology_title	http://www.ontology-of-units-of-measure.org/resource/om-2/	dc11:title	
+ERROR	multiple_labels	http://www.ontology-of-units-of-measure.org/resource/om-2/	rdfs:label	Ontology of units of Measure (OM)@en
+ERROR	multiple_labels	http://www.ontology-of-units-of-measure.org/resource/om-2/	rdfs:label	測定単位のオントロジー (OM)@ja

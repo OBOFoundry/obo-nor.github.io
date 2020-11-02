@@ -1,0 +1,11 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_ontology_description	obo:ONE	dc11:description	
+ERROR	missing_ontology_license	obo:ONE	dc:license	
+ERROR	missing_ontology_title	obo:ONE	dc11:title	
+INFO	lowercase_definition	non-quantitative FFQ method	IAO:0000115	non-quantitative FFQs collect only frequency information.@en
+INFO	lowercase_definition	representativeness of week/weekend days	IAO:0000115	only week days, only weekend days, or both.@en
+INFO	lowercase_definition	methods of a published study based on dietary survey(s)	IAO:0000115	a few sections are included to describe particular characterisitics of research methods of a study based on dietary surveys.@en
+INFO	lowercase_definition	results of a published study based on dietary survey(s)	IAO:0000115	a few sections are included to describe particular characterisitics of research results of a study based on dietary surveys.@en
+INFO	lowercase_definition	discussion of a published study based on dietary survey(s)	IAO:0000115	a few sections are included to describe particular characterisitics of research discussion of a study based on dietary surveys.@en
+INFO	lowercase_definition	variables section	IAO:0000115	a) Clearly define foods, food groups, nutrients, or other food components.b) When using dietary patterns or indices, describe the methods to obtain them and their nutritional properties.@en
+INFO	lowercase_definition	statistical analysis section of a published study based on dietary survey(s)	IAO:0000115	a) Describe any statistical method used to combine dietary or nutritional data, if applicable; b) Describe and justify the method for energy adjustments, intake modeling, and use of weighting factors, if applicable; c) Report any adjustments for measurement error, i.e,. from a validity or calibration study.@en

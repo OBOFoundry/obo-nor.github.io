@@ -1,0 +1,26 @@
+title: "OBO Dashboard: New Ontology Requests"
+description: "Dashboard for checking new ontology requests to the OBO Foundry. Under construction."
+ontologies:
+  #registry: "https://raw.githubusercontent.com/OBOFoundry/OBOFoundry.github.io/master/registry/ontologies.yml"
+  #todo, deal with: bto chebi dron gaz ncbitaxon ncit pr uberon
+  custom:
+    - id: rbo
+      mirror_from: "https://raw.githubusercontent.com/DanBerrios/RBO/master/ontology/RBO.owl"
+    - id: om
+      mirror_from: "https://raw.githubusercontent.com/HajoRijgersberg/OM/master/om-2.0.rdf"
+    - id: covoc
+      mirror_from: "https://raw.githubusercontent.com/EBISPOT/covoc/master/covoc.owl"
+    - id: hso
+      mirror_from: "https://raw.githubusercontent.com/SVA-SE/HSO/master/hso.owl"
+    - id: one
+      mirror_from: "https://raw.githubusercontent.com/cyang0128/Nutritional-epidemiologic-ontologies/master/ONE.owl"
+    - id: scdo
+      mirror_from: "https://raw.githubusercontent.com/scdodev/scdo-ontology/master/data/scdo.owl"
+prefer_base: True
+profile:
+  baseprofile: "https://raw.githubusercontent.com/ontodev/robot/master/robot-core/src/main/resources/report_profile.txt"
+report_truncation_limit: 600
+redownload_after_hours: 2
+environment:
+  ROBOT_JAR: /tools/robot.jar
+  ROBOT: robot

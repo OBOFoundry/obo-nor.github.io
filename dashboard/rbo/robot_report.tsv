@@ -1,0 +1,26 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_ontology_description	obo:RBO.owl	dc11:description	
+ERROR	missing_ontology_license	obo:RBO.owl	dc:license	
+ERROR	missing_ontology_title	obo:RBO.owl	dc11:title	
+ERROR	label_whitespace	as low as reasonably achievable 	rdfs:label	as low as reasonably achievable 
+ERROR	label_whitespace	excess lifetime risk 	rdfs:label	excess lifetime risk 
+ERROR	label_whitespace	quality factor 	rdfs:label	quality factor 
+ERROR	label_whitespace	radiation weighting factor 	rdfs:label	radiation weighting factor 
+WARN	annotation_whitespace	delta ray	IAO:0000115	Highly energetic electrons produced during inelastic collisions between ionizing radiation and atomic electrons. In a small proportion of collisions, the ejected electron receives a considerable amount of energy (i.e., >1,000 eV), allowing it to travel a long distance and leave a trail of secondary ionizations. 
+WARN	annotation_whitespace	flux	IAO:0000115	The quotient of dN by dt, where dN is the increment of the particle number in the time interval dt. The unit for flux is reciprocal second (s–1.) 
+WARN	annotation_whitespace	heavy ion	IAO:0000119	< In RBO--needs def from NCRP Glossary (https://ncrponline.org/wp-content/themes/ncrp/PDFs/NCRP-Composite-Glossary.pdf)>
+WARN	annotation_whitespace	radiation quality	IAO:0000115	A general term referring to the relative biological effectiveness of the radiation of interest. For example, the absorbed dose from an exposure to neutron radiation may be quantitatively the same as that from an exposure to gamma rays in a volume of tissue on the order of 1 cm3. However, at a higher resolution of a few micrometers the ionizing events will be more uniformly dispersed for the gamma-ray radiation than for the neutron radiation, thus producing quantitatively different biological effects (see relative biological effectiveness). 
+WARN	annotation_whitespace	relative biological effectiveness	IAO:0000112	Neutrons have been found to have a higher RBE than electrons. 
+WARN	missing_definition	tissue equivalent material	IAO:0000115	
+WARN	missing_definition	energy unit	IAO:0000115	
+WARN	missing_definition	radiation risk	IAO:0000115	
+INFO	lowercase_definition	space radiation	IAO:0000115	radiation originating outside the Earth's atmosphere
+INFO	lowercase_definition	iron-56	IAO:0000115	an atomic nucleus with 26 protons and 30 neutrons
+INFO	lowercase_definition	carbon-12	IAO:0000115	an atomic nucleus with 6 protons and 6 neutrons
+INFO	lowercase_definition	silicon-28	IAO:0000115	an atomic nucleus with 14 protons and 14 neutrons
+INFO	lowercase_definition	helium-4	IAO:0000115	an atomic nucleus with 2 protons and 2 neutrons
+INFO	lowercase_definition	neon-20	IAO:0000115	an atomic nucleus with 10 protons and 10 neutrons
+INFO	lowercase_definition	light ion	IAO:0000115	an atomic nucleus, variously defined as having 2, 3, 4, 5, or 6 protons
+INFO	lowercase_definition	fractionated radiation exposure	IAO:0000115	a radiation dose administered in multiple exposures at specified time intervals
+INFO	lowercase_definition	millirad	IAO:0000115	a unit of absorbed dose equal to 1/1000 of a rad
+INFO	lowercase_definition	dose fraction	IAO:0000115	the absorbed radiation dose administered in a single one of a series comprising a fractionated radiation exposure
