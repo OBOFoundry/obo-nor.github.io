@@ -1,10 +1,9 @@
 changed: true
-date: '2020-11-02'
+date: '2020-11-03'
 namespace: om
 results:
   FP1 Open:
-    comment: Missing registry license.
-    status: ERROR
+    status: PASS
   FP11 Locus of Authority:
     comment: Missing contact information
     status: ERROR
@@ -40,6 +39,6 @@ results:
     status: ERROR
 sha256_hash: fad9d49fb1ffb6170362a64030f85ac345c2d4bd9da3a541204abd030ec7e931
 summary:
-  comment: 9 errors
+  comment: 8 errors
   status: ERROR
 version: null

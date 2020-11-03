@@ -6,21 +6,42 @@ ontologies:
   custom:
     - id: rbo
       mirror_from: "https://raw.githubusercontent.com/DanBerrios/RBO/master/ontology/RBO.owl"
+      license:
+        label: CC0
+        logo: http://mirrors.creativecommons.org/presskit/buttons/80x15/png/cc-zero.png
+        url: http://creativecommons.org/publicdomain/zero/1.0/
     - id: om
       mirror_from: "https://raw.githubusercontent.com/HajoRijgersberg/OM/master/om-2.0.rdf"
+      license:
+        label: CC-BY
+        logo: http://mirrors.creativecommons.org/presskit/buttons/80x15/png/by.png
+        url: http://creativecommons.org/licenses/by/4.0/
     - id: covoc
       mirror_from: "https://raw.githubusercontent.com/EBISPOT/covoc/master/covoc.owl"
+      license:
+        label: CC-BY
+        logo: http://mirrors.creativecommons.org/presskit/buttons/80x15/png/by.png
+        url: http://creativecommons.org/licenses/by/4.0/
     - id: hso
       mirror_from: "https://raw.githubusercontent.com/SVA-SE/HSO/master/hso.owl"
+      license:
+        label: CC-BY
+        logo: http://mirrors.creativecommons.org/presskit/buttons/80x15/png/by.png
+        url: http://creativecommons.org/licenses/by/3.0/
     - id: one
       mirror_from: "https://raw.githubusercontent.com/cyang0128/Nutritional-epidemiologic-ontologies/master/ONE.owl"
+      license:
+        label: CC-BY
+        logo: http://mirrors.creativecommons.org/presskit/buttons/80x15/png/by.png
+        url: http://creativecommons.org/licenses/by/4.0/
     - id: scdo
       mirror_from: "https://raw.githubusercontent.com/scdodev/scdo-ontology/master/data/scdo.owl"
+      
 prefer_base: True
 profile:
   baseprofile: "https://raw.githubusercontent.com/ontodev/robot/master/robot-core/src/main/resources/report_profile.txt"
 report_truncation_limit: 600
-redownload_after_hours: 2
+redownload_after_hours: 0
 environment:
   ROBOT_JAR: /tools/robot.jar
   ROBOT: robot

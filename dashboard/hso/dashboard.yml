@@ -1,11 +1,10 @@
 changed: true
-date: '2020-11-02'
+date: '2020-11-03'
 namespace: hso
 results:
   FP1 Open:
-    comment: License should use property 'http://purl.org/dc/terms/license'. Missing
-      registry license.
-    status: ERROR
+    comment: License should use property 'http://purl.org/dc/terms/license'.
+    status: WARN
   FP11 Locus of Authority:
     comment: Missing contact information
     status: ERROR
@@ -40,6 +39,6 @@ results:
     status: ERROR
 sha256_hash: aa3d98b2e9dea8ee954e62dcf256a59da0f5fd38bf1f46746490c9cc35f62751
 summary:
-  comment: 8 errors
+  comment: 7 errors
   status: ERROR
 version: null

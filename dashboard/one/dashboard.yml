@@ -1,9 +1,9 @@
 changed: true
-date: '2020-11-02'
+date: '2020-11-03'
 namespace: one
 results:
   FP1 Open:
-    comment: Missing ontology license. Missing registry license.
+    comment: Missing ontology license.
     status: ERROR
   FP11 Locus of Authority:
     comment: Missing contact information

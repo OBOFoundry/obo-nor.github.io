@@ -1,10 +1,9 @@
 changed: true
-date: '2020-11-02'
+date: '2020-11-03'
 namespace: covoc
 results:
   FP1 Open:
-    comment: Missing registry license.
-    status: ERROR
+    status: PASS
   FP11 Locus of Authority:
     comment: Missing contact information
     status: ERROR
@@ -40,6 +39,6 @@ results:
     status: ERROR
 sha256_hash: 1c097bcb99d25ab6af0d5e821fd772d07cbb4140601c13d032746e048da64b73
 summary:
-  comment: 8 errors
+  comment: 7 errors
   status: ERROR
 version: http://purl.obolibrary.org/obo/covoc/releases/2020-08-28/covoc.owl
