@@ -1,0 +1,6 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_ontology_description	urn:webprotege:ontology:45a9b04c-f61c-4a09-9bab-16442ef2ff11	dc11:description	
+ERROR	missing_ontology_license	urn:webprotege:ontology:45a9b04c-f61c-4a09-9bab-16442ef2ff11	dc:license	
+ERROR	missing_ontology_title	urn:webprotege:ontology:45a9b04c-f61c-4a09-9bab-16442ef2ff11	dc11:title	
+WARN	missing_definition	cell	IAO:0000115	
+INFO	missing_superclass	cell	rdfs:subClassOf	

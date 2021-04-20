@@ -4,39 +4,26 @@ ontologies:
   #registry: "https://raw.githubusercontent.com/OBOFoundry/OBOFoundry.github.io/master/registry/ontologies.yml"
   #todo, deal with: bto chebi dron gaz ncbitaxon ncit pr uberon
   custom:
-    - id: rbo
-      mirror_from: "https://raw.githubusercontent.com/DanBerrios/RBO/master/ontology/RBO.owl"
-      license:
-        label: CC0
-        logo: http://mirrors.creativecommons.org/presskit/buttons/80x15/png/cc-zero.png
-        url: http://creativecommons.org/publicdomain/zero/1.0/
-    - id: om
-      mirror_from: "https://raw.githubusercontent.com/HajoRijgersberg/OM/master/om-2.0.rdf"
-      license:
-        label: CC-BY
-        logo: http://mirrors.creativecommons.org/presskit/buttons/80x15/png/by.png
-        url: http://creativecommons.org/licenses/by/4.0/
-    - id: covoc
-      mirror_from: "https://raw.githubusercontent.com/EBISPOT/covoc/master/covoc.owl"
-      license:
-        label: CC-BY
-        logo: http://mirrors.creativecommons.org/presskit/buttons/80x15/png/by.png
-        url: http://creativecommons.org/licenses/by/4.0/
-    - id: hso
-      mirror_from: "https://raw.githubusercontent.com/SVA-SE/HSO/master/hso.owl"
+    - id: opc
+      title: Ontology of Process Chemistry
+      mirror_from: "https://raw.githubusercontent.com/OPC-ontology/OPC/master/src/ontology/opc.owl"
       license:
         label: CC-BY
         logo: http://mirrors.creativecommons.org/presskit/buttons/80x15/png/by.png
         url: http://creativecommons.org/licenses/by/3.0/
-    - id: one
-      mirror_from: "https://raw.githubusercontent.com/cyang0128/Nutritional-epidemiologic-ontologies/master/ONE.owl"
+    - id: aism
+      mirror_from: "https://raw.githubusercontent.com/insect-morphology/aism/master/aism.owl"
       license:
         label: CC-BY
         logo: http://mirrors.creativecommons.org/presskit/buttons/80x15/png/by.png
         url: http://creativecommons.org/licenses/by/4.0/
-    - id: scdo
-      mirror_from: "https://raw.githubusercontent.com/scdodev/scdo-ontology/master/data/scdo.owl"
-      
+    - id: gombo
+      title: General Ontology of Marine Bioluminescent Organs
+      mirror_from: "https://raw.githubusercontent.com/BridgetSquidget/ceph_photophore_ontology/main/gombo_v1.owx"
+      license:
+        label: CC-BY
+        logo: http://mirrors.creativecommons.org/presskit/buttons/80x15/png/by.png
+        url: http://creativecommons.org/licenses/by/4.0/
 prefer_base: True
 profile:
   baseprofile: "https://raw.githubusercontent.com/ontodev/robot/master/robot-core/src/main/resources/report_profile.txt"

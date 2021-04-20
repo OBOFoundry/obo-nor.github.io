@@ -1,0 +1,137 @@
+Level	Rule Name	Subject	Property	Value
+WARN	missing_definition	root node	IAO:0000115	
+WARN	missing_definition	elastic cuticle	IAO:0000115	
+WARN	missing_definition	lateral_to	IAO:0000115	
+WARN	missing_definition	medial_to	IAO:0000115	
+WARN	missing_definition	evaginated	IAO:0000115	
+WARN	missing_definition	cranio-mandibular articulation	IAO:0000115	
+WARN	missing_definition	head-cervical articulation	IAO:0000115	
+WARN	missing_definition	cardo	IAO:0000115	
+WARN	missing_definition	head capsule	IAO:0000115	
+WARN	missing_definition	dorsal second axillary sclerite	IAO:0000115	
+WARN	missing_definition	first abdominal tergite	IAO:0000115	
+WARN	missing_definition	first axillary sclerite	IAO:0000115	
+WARN	missing_definition	galea	IAO:0000115	
+WARN	missing_definition	labial palpus	IAO:0000115	
+WARN	missing_definition	lacinia	IAO:0000115	
+WARN	missing_definition	solid cuticular protrusion	IAO:0000115	
+WARN	missing_definition	leg	IAO:0000115	
+WARN	missing_definition	wing	IAO:0000115	
+WARN	missing_definition	fore leg	IAO:0000115	
+WARN	missing_definition	mid leg	IAO:0000115	
+WARN	missing_definition	hind leg	IAO:0000115	
+WARN	missing_definition	fore wing	IAO:0000115	
+WARN	missing_definition	hind wing	IAO:0000115	
+WARN	missing_definition	seta	IAO:0000115	
+WARN	missing_definition	labrum	IAO:0000115	
+WARN	missing_definition	mandible	IAO:0000115	
+WARN	missing_definition	maxilla	IAO:0000115	
+WARN	missing_definition	second valvifer	IAO:0000115	
+WARN	missing_definition	second valvula	IAO:0000115	
+WARN	missing_definition	pretarsus	IAO:0000115	
+WARN	missing_definition	ligula	IAO:0000115	
+WARN	missing_definition	glossa	IAO:0000115	
+WARN	missing_definition	paraglossa	IAO:0000115	
+WARN	missing_definition	maxillary palpus	IAO:0000115	
+WARN	missing_definition	mesonotum	IAO:0000115	
+WARN	missing_definition	mesopectus	IAO:0000115	
+WARN	missing_definition	mesotrochantin	IAO:0000115	
+WARN	missing_definition	protrochantin	IAO:0000115	
+WARN	missing_definition	metatrochantin	IAO:0000115	
+WARN	missing_definition	prementum	IAO:0000115	
+WARN	missing_definition	prepectus	IAO:0000115	
+WARN	missing_definition	pronotum	IAO:0000115	
+WARN	missing_definition	propeluron	IAO:0000115	
+WARN	missing_definition	prosternum	IAO:0000115	
+WARN	missing_definition	ring sclerite	IAO:0000115	
+WARN	missing_definition	appendage segment	IAO:0000115	
+WARN	missing_definition	mesocoxa	IAO:0000115	
+WARN	missing_definition	metacoxa	IAO:0000115	
+WARN	missing_definition	procoxa	IAO:0000115	
+WARN	missing_definition	protibia	IAO:0000115	
+WARN	missing_definition	mesotibia	IAO:0000115	
+WARN	missing_definition	metatibia	IAO:0000115	
+WARN	missing_definition	profemur	IAO:0000115	
+WARN	missing_definition	mesofemur	IAO:0000115	
+WARN	missing_definition	metafemur	IAO:0000115	
+WARN	missing_definition	mere	IAO:0000115	
+WARN	missing_definition	tarsomere	IAO:0000115	
+WARN	missing_definition	tibia	IAO:0000115	
+WARN	missing_definition	femur	IAO:0000115	
+WARN	missing_definition	coxa	IAO:0000115	
+WARN	missing_definition	encircles	IAO:0000115	
+WARN	missing_definition	encircled by	IAO:0000115	
+WARN	missing_definition	cranial muscle	IAO:0000115	
+WARN	missing_definition	cranio-antennal muscle	IAO:0000115	
+WARN	missing_definition	cranio-mandibular muscle	IAO:0000115	
+WARN	missing_definition	cranio-labial muscle	IAO:0000115	
+WARN	missing_definition	cranio-labral muscle	IAO:0000115	
+WARN	missing_definition	mesocoxal muscle	IAO:0000115	
+WARN	missing_definition	coxal muscle	IAO:0000115	
+WARN	missing_definition	labium	IAO:0000115	
+WARN	missing_definition	eye cuticle	IAO:0000115	
+WARN	missing_definition	ligament	IAO:0000115	
+WARN	missing_definition	hypopharynx	IAO:0000115	
+WARN	missing_definition	mesopleuro-metapleural conjunctiva	IAO:0000115	
+WARN	missing_definition	mesopostnoto-mesonotal conjunctiva	IAO:0000115	
+WARN	missing_definition	mesosterno-mesopleural conjunctiva	IAO:0000115	
+WARN	missing_definition	metanoto-mesopostnotal conjunctiva	IAO:0000115	
+WARN	missing_definition	neck membrane	IAO:0000115	
+WARN	missing_definition	oral foraminal conjunctiva	IAO:0000115	
+WARN	missing_definition	pronoto-mesonotal conjunctiva	IAO:0000115	
+WARN	missing_definition	pronoto-mesopectal conjunctiva	IAO:0000115	
+WARN	missing_definition	ring conjunctiva	IAO:0000115	
+WARN	missing_definition	basal metacoxal conjunctiva	IAO:0000115	
+WARN	missing_definition	epipharynx	IAO:0000115	
+WARN	missing_definition	basal procoxal conjunctiva	IAO:0000115	
+WARN	missing_definition	stipito-cardinal conjunctiva	IAO:0000115	
+WARN	missing_definition	stipes	IAO:0000115	
+WARN	missing_definition	scape	IAO:0000115	
+WARN	missing_definition	scapal-pedicel conjunctiva	IAO:0000115	
+WARN	missing_definition	pedicel	IAO:0000115	
+WARN	missing_definition	flagellomere	IAO:0000115	
+WARN	missing_definition	first flagellomere	IAO:0000115	
+WARN	missing_definition	pedicel-first flagellomere conjunctiva	IAO:0000115	
+WARN	missing_definition	metapleuron	IAO:0000115	
+WARN	missing_definition	pronoto-procoxal conjunctiva	IAO:0000115	
+WARN	missing_definition	pronoto-propleural conjunctiva	IAO:0000115	
+WARN	missing_definition	basal profemoral conjunctiva	IAO:0000115	
+WARN	missing_definition	basal mesofemoral conjunctiva	IAO:0000115	
+WARN	missing_definition	basal metafemoral conjunctiva	IAO:0000115	
+WARN	missing_definition	socket membrane	IAO:0000115	
+WARN	missing_definition	multicellular cuticular evagination	IAO:0000115	
+WARN	missing_definition	multiporous sensillum	IAO:0000115	
+WARN	missing_definition	placoid	IAO:0000115	
+WARN	missing_definition	multiporous plate	IAO:0000115	
+WARN	missing_definition	exocrine gland duct	IAO:0000115	
+WARN	missing_definition	spiracle	IAO:0000115	
+WARN	missing_definition	branching cuticular invagination	IAO:0000115	
+WARN	missing_definition	malphigian tube	IAO:0000115	
+WARN	missing_definition	apophysis	IAO:0000115	
+WARN	missing_definition	taenidium	IAO:0000115	
+WARN	missing_definition	mesofurca	IAO:0000115	
+WARN	missing_definition	metafurca	IAO:0000115	
+WARN	missing_definition	profurca	IAO:0000115	
+WARN	missing_definition	procoxal muscle	IAO:0000115	
+WARN	missing_definition	metacoxal muscle	IAO:0000115	
+WARN	missing_definition	femoral muscle	IAO:0000115	
+WARN	missing_definition	tibial muscle	IAO:0000115	
+WARN	missing_definition	profemoral muscle	IAO:0000115	
+WARN	missing_definition	mesofemoral muscle	IAO:0000115	
+WARN	missing_definition	metafemoral muscle	IAO:0000115	
+WARN	missing_definition	protibial muscle	IAO:0000115	
+WARN	missing_definition	mesotibial muscle	IAO:0000115	
+WARN	missing_definition	metatibial muscle	IAO:0000115	
+WARN	missing_definition	salivarium	IAO:0000115	
+WARN	missing_definition	mouthpart	IAO:0000115	
+WARN	missing_definition	propleuro-procoxal artiulation	IAO:0000115	
+WARN	missing_definition	articular surface	IAO:0000115	
+WARN	missing_definition	salivary sclerite	IAO:0000115	
+WARN	missing_definition	metanotum	IAO:0000115	
+WARN	missing_definition	metapectus	IAO:0000115	
+WARN	missing_definition	sensu	IAO:0000115	
+WARN	missing_definition	apodeme	IAO:0000115	
+WARN	missing_definition	sensillum basiconicum	IAO:0000115	
+INFO	lowercase_definition	antenna	IAO:0000115	
+INFO	lowercase_definition	trachea	IAO:0000115	"\""The ivagination of the cuticle that is tubular and contains taenidia.\"""
+INFO	missing_superclass	root node	rdfs:subClassOf	

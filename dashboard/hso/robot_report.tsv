@@ -1,4 +1,0 @@
-Level	Rule Name	Subject	Property	Value
-ERROR	missing_ontology_description	https://w3id.org/hso	dc11:description	
-ERROR	missing_ontology_license	https://w3id.org/hso	dc:license	
-ERROR	missing_ontology_title	https://w3id.org/hso	dc11:title	
