@@ -70,13 +70,13 @@ ontologies:
       ObjectUnionOf: 10
     'Info: Does the ontology fall under OWL 2 DL?': false
     'Info: Experimental OBO score':
-      _dashboard: 0.866
+      _dashboard: 0.916
       _formula: (3*impact+2*dashboard)/5
       _impact: 0.0
-      _impact_external: 0
+      _impact_external: 0.25
       _reuse: 1.0
-      oboscore: 0.346
-    'Info: How many externally documented uses?': 0
+      oboscore: 0.366
+    'Info: How many externally documented uses?': 2
     'Info: How many ontologies use it?': 0
     'Info: Logical consistency': true
     'Info: Syntax': RDF/XML Syntax
@@ -112,7 +112,7 @@ ontologies:
   results:
     FP01 Open:
       comment: Ontology license 'http://purl.obolibrary.org/obo/aism/cc-by' does not
-        match regsitry license 'http://creativecommons.org/licenses/by/4.0/'.
+        match regsitry license 'https://creativecommons.org/licenses/by/4.0/'.
       status: ERROR
     FP02 Common Format:
       status: PASS
@@ -121,8 +121,7 @@ ontologies:
     FP04 Versioning:
       status: PASS
     FP05 Scope:
-      comment: Missing domain (scope)
-      status: ERROR
+      status: PASS
     FP06 Textual Definitions:
       comment: 133 missing definitions. See ROBOT Report for details.
       status: WARN
@@ -131,21 +130,17 @@ ontologies:
       file: fp7
       status: INFO
     FP08 Documented:
-      comment: Missing homepage and description
-      status: ERROR
+      status: PASS
     FP09 Plurality of Users:
-      comment: Missing tracker and usages
-      status: ERROR
+      status: PASS
     FP11 Locus of Authority:
-      comment: Missing contact information
-      status: ERROR
+      status: PASS
     FP12 Naming Conventions:
       status: PASS
     FP16 Maintenance:
       status: PASS
     FP20 Responsiveness:
-      comment: Missing tracker and usages
-      status: ERROR
+      status: PASS
     ROBOT Report:
       comment: 133 warnings, 3 info messages.
       file: robot_report
@@ -156,10 +151,10 @@ ontologies:
       status: WARN
   sha256_hash: 5e1f3e0cd71d7a06343180d9b6863d370a4490a9e399334444eb22b55d77e542
   summary:
-    comment: 6 errors
+    comment: 1 errors
     status: ERROR
     summary_count:
-      ERROR: 6
+      ERROR: 1
       INFO: 1
       WARN: 2
   version: http://purl.obolibrary.org/obo/aism/releases/2021-02-09/aism.owl
