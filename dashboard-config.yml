@@ -7,10 +7,31 @@ ontologies:
     - id: opc
       title: Ontology of Process Chemistry
       mirror_from: "https://raw.githubusercontent.com/OPC-ontology/OPC/master/src/ontology/opc.owl"
+      contact:
+        email: wes_schafer@merck.com
+        label: Wes Schafer
+      description: OPC covers process chemistry, the chemical field concerned with scaling up laboratory syntheses to commercially viable processes.
+      domain: process chemistry
+      homepage: https://github.com/OPC-ontology/OPC
+      products:
+        - id: opc.owl
+        - id: opc.obo
+      dependencies:
+        - id: ro
+        - id: obi
+        - id: chebi
+        - id: pato
+        - id: cheminf
+        - id: sbo
+      tracker: https://github.com/OPC-ontology/OPC/issues
       license:
+        url: http://creativecommons.org/licenses/by/4.0/
         label: CC-BY
-        logo: http://mirrors.creativecommons.org/presskit/buttons/80x15/png/by.png
-        url: http://creativecommons.org/licenses/by/3.0/
+      usages:
+        - user: Merck & Co.
+          description: pharmaceutical API development
+        - user: Allotrope
+          description: important domain in pharmaceutical industry
     - id: aism
       mirror_from: "https://raw.githubusercontent.com/insect-morphology/aism/master/aism.owl"
       id: aism
