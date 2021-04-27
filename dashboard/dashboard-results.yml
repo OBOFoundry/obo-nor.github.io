@@ -31,80 +31,80 @@ ontologies:
   changed: true
   metrics:
     'Axioms: Breakdown of axiom types':
-      AnnotationAssertion: 17744
+      AnnotationAssertion: 17769
       ClassAssertion: 17
-      Declaration: 1948
+      Declaration: 1952
       DifferentIndividuals: 2
       DisjointClasses: 95
-      EquivalentClasses: 581
+      EquivalentClasses: 582
       FunctionalObjectProperty: 1
       InverseObjectProperties: 38
       ObjectPropertyDomain: 53
-      ObjectPropertyRange: 51
+      ObjectPropertyRange: 50
       Rule: 18
       SubAnnotationPropertyOf: 46
-      SubClassOf: 4974
-      SubObjectPropertyOf: 183
+      SubClassOf: 4980
+      SubObjectPropertyOf: 182
       SubPropertyChainOf: 76
       SymmetricObjectProperty: 6
       TransitiveObjectProperty: 34
-    'Axioms: Number of axioms': 25867
+    'Axioms: Number of axioms': 25901
     'Entities: % of entities reused': 100.0
     'Entities: Number of annotation properties': 138
-    'Entities: Number of classes': 1591
+    'Entities: Number of classes': 1595
     'Entities: Number of data properties': 0
     'Entities: Number of individuals': 17
     'Entities: Number of object properties': 206
     'Entities: Number of unsatisfiable classes': 0
     'Info: Breakdown of OWL class expressions used':
-      Class: 13967
+      Class: 13983
       ObjectAllValuesFrom: 5
       ObjectComplementOf: 16
-      ObjectExactCardinality: 10
+      ObjectExactCardinality: 2
       ObjectHasSelf: 1
-      ObjectIntersectionOf: 904
+      ObjectIntersectionOf: 905
       ObjectMaxCardinality: 3
-      ObjectMinCardinality: 7
+      ObjectMinCardinality: 6
       ObjectOneOf: 3
-      ObjectSomeValuesFrom: 3776
+      ObjectSomeValuesFrom: 3787
       ObjectUnionOf: 16
-    'Info: Does the ontology fall under OWL 2 DL?': false
+    'Info: Does the ontology fall under OWL 2 DL?': true
     'Info: Experimental OBO score':
-      _dashboard: 0.938
+      _dashboard: 0.939
       _formula: (3*impact+2*dashboard)/5
       _impact: 0.0
       _impact_external: 0.25
       _reuse: 1.0
-      oboscore: 0.375
+      oboscore: 0.376
     'Info: How many externally documented uses?': 2
     'Info: How many ontologies use it?': 0
     'Info: Logical consistency': true
     'Info: Syntax': RDF/XML Syntax
     'Info: Usage of namespaces in axioms':
-      BFO: 2040
-      BSPO: 1009
+      BFO: 2038
+      BSPO: 1011
       CARO: 191
       CHEBI: 16
       CL: 201
-      GO: 66
-      IAO: 2605
+      GO: 59
+      IAO: 2612
       NCBITaxon: 28
       OBI: 3
-      PATO: 351
+      PATO: 374
       PR: 26
-      RO: 2479
+      RO: 2476
       SO: 12
       UBERON: 7873
       dc: 6
-      dc11: 2370
+      dc11: 2378
       foaf: 138
-      obo: 5411
-      oboInOwl: 18509
+      obo: 5414
+      oboInOwl: 18530
       owl: 2
       prefix_unknown: 8
-      rdf: 1932
-      rdfs: 2145
-      xsd: 370
+      rdf: 1931
+      rdfs: 2148
+      xsd: 373
     'Info: Which ontologies use it?':
     - aism
   mirror_from: https://raw.githubusercontent.com/insect-morphology/aism/master/aism.owl
@@ -121,7 +121,7 @@ ontologies:
     FP05 Scope:
       status: PASS
     FP06 Textual Definitions:
-      comment: 5 missing definitions. See ROBOT Report for details.
+      comment: 4 missing definitions. See ROBOT Report for details.
       status: WARN
     FP07 Relations:
       comment: 4 non-RO properties used.
@@ -140,14 +140,14 @@ ontologies:
     FP20 Responsiveness:
       status: PASS
     ROBOT Report:
-      comment: 5 warnings, 1 info messages.
+      comment: 4 warnings, 0 info messages.
       file: robot_report
       results:
         ERROR: 0
-        INFO: 1
-        WARN: 5
+        INFO: 0
+        WARN: 4
       status: WARN
-  sha256_hash: 7fd0725e67cc71dee1dfec86aafe1d2bb6d133417e02de3ce6c552d70f68c10e
+  sha256_hash: 960d64f2887052bdcbce2903e62afcfa856dc5b39c4f35a739e017d01729f98a
   summary:
     comment: 2 warnings
     status: WARN
@@ -155,7 +155,7 @@ ontologies:
       ERROR: 0
       INFO: 1
       WARN: 2
-  version: http://purl.obolibrary.org/obo/aism/releases/2021-04-23/aism.owl
+  version: http://purl.obolibrary.org/obo/aism/releases/2021-04-26/aism.owl
 - base_generated: true
   base_prefixes:
   - GOMBO
