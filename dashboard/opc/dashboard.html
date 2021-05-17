@@ -8,7 +8,7 @@
             <div class="col-md-2"></div>
             <div class="col-md-8">
                 <h1>Dashboard Report - <a href="http://obofoundry.org/ontology/opc.html">opc</a></h1>
-                <p class="lead"><b>Version</b>: None</p>
+                <p class="lead"><b>Version</b>: http://purl.obolibrary.org/obo/opc/releases/20210503/opc.owl</p>
                 <p class="lead" style="margin-top:-15px;"><b>Date run</b>: </p>
                 <p class="lead" style="margin-top:-15px;"><a href="dashboard.yml">View dashboard results as YAML</a></p>
                 <h3>Error Breakdown</h3>
@@ -17,8 +17,8 @@
                     
                         
                     
-                    <div class="alert alert-danger">
-                        <center><h3>ERROR - 4 errors</h3></center>
+                    <div class="alert alert-warning">
+                        <center><h3>WARN - 1 warnings</h3></center>
                     </div>
                 
                 <table class="table">
@@ -99,11 +99,11 @@
                                 
                                 
                             
-                            <td class="table-danger" style="text-align:center;">
-                                <img src="../assets/x.svg" height="15px">
+                            <td class="table-warning" style="text-align:center;">
+                                <img src="../assets/warning.svg" height="15px">
                             </td>
                             
-                                <td>Missing version IRI</td>
+                                <td>Version IRI 'http://purl.obolibrary.org/obo/opc/releases/20210503/opc.owl' is not in recommended format</td>
                             
                             
                                 <td></td>
@@ -139,11 +139,11 @@
                                 
                                 
                             
-                            <td class="table-danger" style="text-align:center;">
-                                <img src="../assets/x.svg" height="15px">
+                            <td class="table-success" style="text-align:center;">
+                                <img src="../assets/check.svg" height="15px">
                             </td>
                             
-                                <td>2 duplicate definitions. See ROBOT Report for details.</td>
+                                <td></td>
                             
                             
                                 <td></td>
@@ -259,11 +259,11 @@
                                 
                                 
                             
-                            <td class="table-danger" style="text-align:center;">
-                                <img src="../assets/x.svg" height="15px">
+                            <td class="table-info" style="text-align:center;">
+                                <img src="../assets/info.svg" height="15px">
                             </td>
                             
-                                <td>Missing version IRI to check date</td>
+                                <td>Version IRI does not have date information</td>
                             
                             
                                 <td></td>
@@ -279,11 +279,11 @@
                                 
                                 
                             
-                            <td class="table-danger" style="text-align:center;">
-                                <img src="../assets/x.svg" height="15px">
+                            <td class="table-info" style="text-align:center;">
+                                <img src="../assets/info.svg" height="15px">
                             </td>
                             
-                                <td>2 errors, 0 warnings, 207 info messages.</td>
+                                <td>{0} info messages.</td>
                             
                             
                                 <td><a href="robot_report.html">View Report</a></td>
@@ -308,11 +308,13 @@
                                 
                                     <td><ul>
                                         
-                                        <li>AnnotationAssertion: 13548</li>
+                                        <li>AnnotationAssertion: 14695</li>
                                         
-                                        <li>AnnotationPropertyRangeOf: 2</li>
+                                        <li>AnnotationPropertyDomain: 1</li>
                                         
-                                        <li>AsymmetricObjectProperty: 3</li>
+                                        <li>AnnotationPropertyRangeOf: 3</li>
+                                        
+                                        <li>AsymmetricObjectProperty: 4</li>
                                         
                                         <li>ClassAssertion: 25</li>
                                         
@@ -320,7 +322,7 @@
                                         
                                         <li>DataPropertyRange: 6</li>
                                         
-                                        <li>Declaration: 2161</li>
+                                        <li>Declaration: 2410</li>
                                         
                                         <li>DifferentIndividuals: 2</li>
                                         
@@ -338,31 +340,31 @@
                                         
                                         <li>InverseFunctionalObjectProperty: 3</li>
                                         
-                                        <li>InverseObjectProperties: 97</li>
+                                        <li>InverseObjectProperties: 139</li>
                                         
-                                        <li>IrrefexiveObjectProperty: 8</li>
+                                        <li>IrrefexiveObjectProperty: 9</li>
                                         
-                                        <li>ObjectPropertyDomain: 103</li>
+                                        <li>ObjectPropertyDomain: 160</li>
                                         
-                                        <li>ObjectPropertyRange: 105</li>
+                                        <li>ObjectPropertyRange: 158</li>
                                         
                                         <li>ReflexiveObjectProperty: 2</li>
                                         
-                                        <li>Rule: 16</li>
+                                        <li>Rule: 18</li>
                                         
-                                        <li>SubAnnotationPropertyOf: 53</li>
+                                        <li>SubAnnotationPropertyOf: 65</li>
                                         
-                                        <li>SubClassOf: 2044</li>
+                                        <li>SubClassOf: 2068</li>
                                         
                                         <li>SubDataPropertyOf: 1</li>
                                         
-                                        <li>SubObjectPropertyOf: 500</li>
+                                        <li>SubObjectPropertyOf: 726</li>
                                         
-                                        <li>SubPropertyChainOf: 98</li>
+                                        <li>SubPropertyChainOf: 142</li>
                                         
-                                        <li>SymmetricObjectProperty: 77</li>
+                                        <li>SymmetricObjectProperty: 82</li>
                                         
-                                        <li>TransitiveObjectProperty: 51</li>
+                                        <li>TransitiveObjectProperty: 54</li>
                                         
                                     </ul></td>
                                 
@@ -372,7 +374,7 @@
                                 <td>Axioms: Number of axioms</td>
                                 
                                 
-                                    <td>18986</td>
+                                    <td>20854</td>
                                 
                             </tr>
                         
@@ -388,7 +390,7 @@
                                 <td>Entities: Number of annotation properties</td>
                                 
                                 
-                                    <td>171</td>
+                                    <td>184</td>
                                 
                             </tr>
                         
@@ -396,7 +398,7 @@
                                 <td>Entities: Number of classes</td>
                                 
                                 
-                                    <td>1456</td>
+                                    <td>1496</td>
                                 
                             </tr>
                         
@@ -420,7 +422,7 @@
                                 <td>Entities: Number of object properties</td>
                                 
                                 
-                                    <td>505</td>
+                                    <td>704</td>
                                 
                             </tr>
                         
@@ -438,7 +440,7 @@
                                 
                                     <td><ul>
                                         
-                                        <li>Class: 5929</li>
+                                        <li>Class: 6142</li>
                                         
                                         <li>DataExactCardinality: 6</li>
                                         
@@ -448,11 +450,13 @@
                                         
                                         <li>DataSomeValuesFrom: 5</li>
                                         
-                                        <li>ObjectAllValuesFrom: 24</li>
+                                        <li>ObjectAllValuesFrom: 25</li>
                                         
                                         <li>ObjectComplementOf: 4</li>
                                         
                                         <li>ObjectExactCardinality: 1</li>
+                                        
+                                        <li>ObjectHasSelf: 6</li>
                                         
                                         <li>ObjectIntersectionOf: 54</li>
                                         
@@ -460,9 +464,9 @@
                                         
                                         <li>ObjectOneOf: 3</li>
                                         
-                                        <li>ObjectSomeValuesFrom: 391</li>
+                                        <li>ObjectSomeValuesFrom: 394</li>
                                         
-                                        <li>ObjectUnionOf: 12</li>
+                                        <li>ObjectUnionOf: 33</li>
                                         
                                     </ul></td>
                                 
@@ -472,7 +476,7 @@
                                 <td>Info: Does the ontology fall under OWL 2 DL?</td>
                                 
                                 
-                                    <td>True</td>
+                                    <td>False</td>
                                 
                             </tr>
                         
@@ -482,7 +486,7 @@
                                 
                                     <td><ul>
                                         
-                                        <li>_dashboard: 0.898</li>
+                                        <li>_dashboard: 0.932</li>
                                         
                                         <li>_formula: (3*impact+2*dashboard)/5</li>
                                         
@@ -492,7 +496,7 @@
                                         
                                         <li>_reuse: 1.0</li>
                                         
-                                        <li>oboscore: 0.359</li>
+                                        <li>oboscore: 0.373</li>
                                         
                                     </ul></td>
                                 
@@ -538,21 +542,29 @@
                                         
                                         <li>APOLLO_SV: 22</li>
                                         
-                                        <li>BFO: 721</li>
+                                        <li>BFO: 788</li>
+                                        
+                                        <li>CARO: 63</li>
                                         
                                         <li>CHEBI: 1501</li>
                                         
                                         <li>CHMO: 332</li>
                                         
+                                        <li>CL: 20</li>
+                                        
+                                        <li>ENVO: 3</li>
+                                        
                                         <li>FIX: 4</li>
                                         
                                         <li>GAZ: 4</li>
                                         
-                                        <li>GO: 21</li>
+                                        <li>GO: 41</li>
                                         
-                                        <li>IAO: 6286</li>
+                                        <li>IAO: 6976</li>
                                         
                                         <li>OBI: 213</li>
+                                        
+                                        <li>OGMS: 13</li>
                                         
                                         <li>PATO: 70</li>
                                         
@@ -560,27 +572,29 @@
                                         
                                         <li>REX: 981</li>
                                         
-                                        <li>RO: 2229</li>
+                                        <li>RO: 3242</li>
                                         
                                         <li>UO: 10</li>
                                         
-                                        <li>dc: 126</li>
+                                        <li>UPHENO: 4</li>
                                         
-                                        <li>dc11: 325</li>
+                                        <li>dc: 128</li>
                                         
-                                        <li>foaf: 20</li>
+                                        <li>dc11: 324</li>
                                         
-                                        <li>obo: 1324</li>
+                                        <li>foaf: 21</li>
                                         
-                                        <li>oboInOwl: 4598</li>
+                                        <li>obo: 1323</li>
                                         
-                                        <li>owl: 37</li>
+                                        <li>oboInOwl: 4768</li>
                                         
-                                        <li>prefix_unknown: 1111</li>
+                                        <li>owl: 60</li>
                                         
-                                        <li>rdf: 14</li>
+                                        <li>prefix_unknown: 1130</li>
                                         
-                                        <li>rdfs: 2617</li>
+                                        <li>rdf: 17</li>
+                                        
+                                        <li>rdfs: 2896</li>
                                         
                                         <li>schema: 4</li>
                                         
@@ -588,7 +602,7 @@
                                         
                                         <li>void: 16</li>
                                         
-                                        <li>xsd: 21</li>
+                                        <li>xsd: 24</li>
                                         
                                     </ul></td>
                                 

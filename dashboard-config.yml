@@ -32,35 +32,27 @@ ontologies:
           description: pharmaceutical API development
         - user: Allotrope
           description: important domain in pharmaceutical industry
-    - id: aism
-      mirror_from: "https://raw.githubusercontent.com/insect-morphology/aism/master/aism.owl"
-      id: aism
-      title: Ontology for the Anatomy of the Insect SkeletoMuscular system
+    - mirror_from: "https://raw.githubusercontent.com/DiseaseOntology/DiseaseDriversOntology/main/src/ontology/disease_drivers.owl"
+      id: disdriv
+      title: The Disease Drivers Ontology
       contact:
-        email: entiminae@gmail.com
-        label: Jennifer C. Girón
-      description: The AISM contains terms used in insect biodiversity research for describing structures of the exoskeleton and the skeletomuscular system. It aims to serve as the basic backbone of generalized terms to be expanded with order-specific terminology.
-      domain: insect anatomy
-      homepage: https://github.com/insect-morphology/aism
+        email: lschriml@som.umaryland.edu
+        label: Lynn Schriml
+      description: Ontology for drivers and triggers of human diseases, built to classify ExO ontology exposure stressors.
+      domain: health
+      homepage: https://github.com/DiseaseOntology/DiseaseDriversOntology
       products:
-        - id: aism.owl
-        - id: aism.obo
+        - id: DISDRIV.owl
+        - id: DISDRIV.obo
       dependencies:
-        - id: ro
-        - id: uberon
-        - id: caro
-        - id: pato
-        - id: bfo
-        - id: bspo
-      tracker: https://github.com/insect-morphology/aism/issues
+        - id: ENVO, CHEBI, ExO, ECTO, OMIT, DRON, NCIT, FOODON, FOBI, HP, ZECO, GSSO
+      tracker: https://github.com/DiseaseOntology/DiseaseDriversOntology/issues 
       license:
-        url: https://creativecommons.org/licenses/by/4.0/
-        label: CC-BY
+        url: https://creativecommons.org/publicdomain/zero/1.0/
+        label: CC0
       usages:
-        - user: https://github.com/insect-morphology/colao
-          description: The AISM is serving as the baseline for the beetle anatomy ontology. 
-        - user: https://github.com/insect-morphology/lepao
-          description: The AISM is serving as the baseline for the anatomy ontology for butterflies and moths. 
+        - user: https://www.disease-ontology.org
+          description: The Human Disease Ontology will import DISDRIV to define disease drivers and triggers via logical definitions.  
     - id: gombo
       title: General Ontology of Marine Bioluminescent Organs
       mirror_from: "https://raw.githubusercontent.com/BridgetSquidget/ceph_photophore_ontology/main/gombo_v1.owx"

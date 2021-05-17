@@ -1,5 +1,0 @@
-Level	Rule Name	Subject	Property	Value
-WARN	missing_definition	lateral_to	IAO:0000115	
-WARN	missing_definition	medial_to	IAO:0000115	
-WARN	missing_definition	encircles	IAO:0000115	
-WARN	missing_definition	encircled by	IAO:0000115	
