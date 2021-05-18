@@ -42,10 +42,21 @@ ontologies:
       domain: health
       homepage: https://github.com/DiseaseOntology/DiseaseDriversOntology
       products:
-        - id: DISDRIV.owl
-        - id: DISDRIV.obo
+        - id: disdriv.owl
+        - id: disdriv.obo
       dependencies:
-        - id: ENVO, CHEBI, ExO, ECTO, OMIT, DRON, NCIT, FOODON, FOBI, HP, ZECO, GSSO
+        - id: ENVO
+        - id: CHEBI
+        - id: ExO
+        - id: ECTO
+        - id: OMIT
+        - id: DRON
+        - id: NCIT
+        - id: FOODON
+        - id: FOBI
+        - id: HP
+        - id: ZECO
+        - id: GSSO
       tracker: https://github.com/DiseaseOntology/DiseaseDriversOntology/issues 
       license:
         url: https://creativecommons.org/publicdomain/zero/1.0/
