@@ -64,6 +64,25 @@ ontologies:
       usages:
         - user: https://www.disease-ontology.org
           description: The Human Disease Ontology will import DISDRIV to define disease drivers and triggers via logical definitions.  
+    - id: epso
+      mirror_from: "https://raw.githubusercontent.com/phwegner/Epilepsyontology/main/EPSO_merged.owl"
+      title: Epilepsy Eontology
+      contact:
+        email: philipp.wegner@scai.fraunhofer.de
+        label: Philipp Wegner
+      description: Ontology for Epilepsy disease
+      domain: epilepsy
+      homepage: https://github.com/phwegner/Epilepsyontology
+      products:
+        - id: EPSO.owl
+        - id: EPSO_merged.owl
+      tracker: https://github.com/phwegner/Epilepsyontology/issues
+      license:
+        url: http://creativecommons.org/licenses/by/3.0/
+        label: CC-BY
+      usages:
+        - user: https://github.com/phwegner/Epilepsyontology
+          description: See development section
     - id: gombo
       title: General Ontology of Marine Bioluminescent Organs
       mirror_from: "https://raw.githubusercontent.com/BridgetSquidget/ceph_photophore_ontology/main/gombo_v1.owx"
