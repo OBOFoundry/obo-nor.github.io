@@ -90,6 +90,28 @@ ontologies:
         label: CC-BY
         logo: http://mirrors.creativecommons.org/presskit/buttons/80x15/png/by.png
         url: http://creativecommons.org/licenses/by/4.0/
+    - id: t4fs
+      mirror_from: "https://raw.githubusercontent.com/terms4fairskills/FAIRterminology/master/development/t4fs.owl"
+      title: terms4FAIRskills
+      contact:
+        email: pete_mcq@protonmail.com
+        label: Peter McQuilton
+      description: A terminology for the skills necessary to make data FAIR and to keep it FAIR.
+      domain: skills for enabling FAIR data, applicable across all research areas including the life sciences
+      homepage: https://github.com/terms4fairskills/FAIRterminology
+      products:
+        - id: t4fs.owl
+      tracker: https://github.com/terms4fairskills/FAIRterminology/issues
+      license:
+        url: http://creativecommons.org/licenses/by/4.0/
+        label: CC-BY 4
+      usages:
+        - user: http://t4fs.esciencedatafactory.com/
+          description: Semaphora integrates terms4FAIRskills, allowing users to annotate training materials with the ontology.
+        - user: https://fairassist.org
+          description: FAIRassist is designed to offer personalised guidance to all stakeholders to enable the discovery of standards and repositories in FAIRsharing, which should be used to make data FAIR, as well as to signpost FAIR assessment resources.
+        - user: https://www.fairsfair.eu/
+          description: FAIRsFAIR Competence Centre (project wp6) will provide a platform for training materials resulting from project training activities, annotated with the terms4FAIRskills terminology for simple finding and comparison. 
 prefer_base: True
 profile:
   baseprofile: "https://raw.githubusercontent.com/ontodev/robot/master/robot-core/src/main/resources/report_profile.txt"

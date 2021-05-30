@@ -5,45 +5,45 @@ base_prefixes:
 changed: true
 metrics:
   'Axioms: Breakdown of axiom types':
-    AnnotationAssertion: 14695
+    AnnotationAssertion: 14562
     AnnotationPropertyDomain: 1
     AnnotationPropertyRangeOf: 3
     AsymmetricObjectProperty: 4
     ClassAssertion: 25
     DataPropertyDomain: 6
     DataPropertyRange: 6
-    Declaration: 2410
+    Declaration: 2365
     DifferentIndividuals: 2
     DisjointClasses: 24
     DisjointObjectProperties: 10
     EquivalentClasses: 25
-    EquivalentObjectProperties: 3
+    EquivalentObjectProperties: 4
     FunctionalDataProperty: 5
     FunctionalObjectProperty: 8
     InverseFunctionalObjectProperty: 3
-    InverseObjectProperties: 139
+    InverseObjectProperties: 140
     IrrefexiveObjectProperty: 9
     ObjectPropertyDomain: 160
     ObjectPropertyRange: 158
     ReflexiveObjectProperty: 2
     Rule: 18
     SubAnnotationPropertyOf: 65
-    SubClassOf: 2068
+    SubClassOf: 1996
     SubDataPropertyOf: 1
-    SubObjectPropertyOf: 726
+    SubObjectPropertyOf: 728
     SubPropertyChainOf: 142
     SymmetricObjectProperty: 82
-    TransitiveObjectProperty: 54
-  'Axioms: Number of axioms': 20854
+    TransitiveObjectProperty: 56
+  'Axioms: Number of axioms': 20610
   'Entities: % of entities reused': 100.0
-  'Entities: Number of annotation properties': 184
-  'Entities: Number of classes': 1496
+  'Entities: Number of annotation properties': 185
+  'Entities: Number of classes': 1448
   'Entities: Number of data properties': 8
   'Entities: Number of individuals': 23
-  'Entities: Number of object properties': 704
-  'Entities: Number of unsatisfiable classes': 26
+  'Entities: Number of object properties': 706
+  'Entities: Number of unsatisfiable classes': 28
   'Info: Breakdown of OWL class expressions used':
-    Class: 6142
+    Class: 5951
     DataExactCardinality: 6
     DataHasValue: 2
     DataMinCardinality: 2
@@ -52,10 +52,10 @@ metrics:
     ObjectComplementOf: 4
     ObjectExactCardinality: 1
     ObjectHasSelf: 6
-    ObjectIntersectionOf: 54
+    ObjectIntersectionOf: 55
     ObjectMinCardinality: 2
     ObjectOneOf: 3
-    ObjectSomeValuesFrom: 394
+    ObjectSomeValuesFrom: 395
     ObjectUnionOf: 33
   'Info: Does the ontology fall under OWL 2 DL?': false
   'Info: Experimental OBO score':
@@ -71,7 +71,7 @@ metrics:
   'Info: Syntax': RDF/XML Syntax
   'Info: Usage of namespaces in axioms':
     APOLLO_SV: 22
-    BFO: 788
+    BFO: 789
     CARO: 63
     CHEBI: 1501
     CHMO: 332
@@ -80,8 +80,8 @@ metrics:
     FIX: 4
     GAZ: 4
     GO: 41
-    IAO: 6976
-    OBI: 213
+    IAO: 6941
+    OBI: 211
     OGMS: 13
     PATO: 70
     PR: 4
@@ -92,14 +92,14 @@ metrics:
     dc: 128
     dc11: 324
     foaf: 21
-    obo: 1323
-    oboInOwl: 4768
-    owl: 60
-    prefix_unknown: 1130
+    obo: 1342
+    oboInOwl: 4766
+    owl: 59
+    prefix_unknown: 936
     rdf: 17
-    rdfs: 2896
+    rdfs: 2788
     schema: 4
-    skos: 327
+    skos: 339
     void: 16
     xsd: 24
   'Info: Which ontologies use it?':
@@ -143,10 +143,10 @@ results:
     file: robot_report
     results:
       ERROR: 0
-      INFO: 207
+      INFO: 210
       WARN: 0
     status: INFO
-sha256_hash: 0ff90c87acd6b21c1a7e8313eac21414a531caea44cae41330e0f124f92b433d
+sha256_hash: ff3e1df2c46d3a144ca2820b3de4a1b4c7bf4af63d6c776ab6d3bc2336c65faf
 summary:
   comment: 1 warnings
   status: WARN
