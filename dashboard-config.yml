@@ -65,7 +65,7 @@ ontologies:
         - user: https://www.disease-ontology.org
           description: The Human Disease Ontology will import DISDRIV to define disease drivers and triggers via logical definitions.  
     - id: epso
-      mirror_from: "https://raw.githubusercontent.com/phwegner/Epilepsyontology/main/EPSO_merged.owl"
+      mirror_from: "https://raw.githubusercontent.com/phwegner/Epilepsyontology/main/release/EPSO_merged.owl"
       title: Epilepsy Eontology
       contact:
         email: philipp.wegner@scai.fraunhofer.de
