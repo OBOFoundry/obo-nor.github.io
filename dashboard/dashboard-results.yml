@@ -31,21 +31,21 @@ ontologies:
   changed: true
   metrics:
     'Axioms: Breakdown of axiom types':
-      AnnotationAssertion: 409
-      Declaration: 131
-      EquivalentClasses: 13
-      SubClassOf: 118
-    'Axioms: Number of axioms': 671
+      AnnotationAssertion: 429
+      Declaration: 132
+      EquivalentClasses: 17
+      SubClassOf: 121
+    'Axioms: Number of axioms': 699
     'Entities: % of entities reused': 100.0
     'Entities: Number of annotation properties': 10
-    'Entities: Number of classes': 120
+    'Entities: Number of classes': 121
     'Entities: Number of data properties': 0
     'Entities: Number of individuals': 0
     'Entities: Number of object properties': 3
     'Entities: Number of unsatisfiable classes': 0
     'Info: Breakdown of OWL class expressions used':
-      Class: 369
-      ObjectSomeValuesFrom: 81
+      Class: 380
+      ObjectSomeValuesFrom: 105
     'Info: Does the ontology fall under OWL 2 DL?': true
     'Info: Experimental OBO score':
       _dashboard: 0.95
@@ -60,7 +60,7 @@ ontologies:
     'Info: Syntax': RDF/XML Syntax
     'Info: Usage of namespaces in axioms':
       BFO: 2
-      CHEBI: 128
+      CHEBI: 143
       DRON: 2
       ENVO: 23
       ExO: 80
@@ -68,16 +68,17 @@ ontologies:
       FOODON: 2
       GSSO: 2
       HP: 6
-      IAO: 131
-      NCIT: 86
+      IAO: 132
+      NCBITaxon: 2
+      NCIT: 88
       OMIT: 24
-      RO: 82
+      RO: 106
       ZECO: 2
       dc: 1
       dc11: 2
-      oboInOwl: 273
+      oboInOwl: 293
       owl: 1
-      prefix_unknown: 12
+      prefix_unknown: 4
       rdfs: 135
     'Info: Which ontologies use it?':
     - disdriv
@@ -112,7 +113,7 @@ ontologies:
       status: PASS
     ROBOT Report:
       status: PASS
-  sha256_hash: c05706decb14bec82fe3aaedb3cc2f192fae629329f15977de1ae0c6c00ca085
+  sha256_hash: 4eba2b4cef3b5e2b71380351453ef367e4df186082245dc0b1be57a15f724bcc
   summary:
     comment: ''
     status: PASS
@@ -120,7 +121,7 @@ ontologies:
       ERROR: 0
       INFO: 0
       WARN: 0
-  version: http://purl.obolibrary.org/obo/disdriv/releases/2021-05-18/disdriv.owl
+  version: http://purl.obolibrary.org/obo/disdriv/releases/2021-06-04/disdriv.owl
 - base_generated: true
   base_prefixes:
   - EPSO
@@ -128,9 +129,9 @@ ontologies:
   changed: true
   metrics:
     'Axioms: Breakdown of axiom types':
-      AnnotationAssertion: 23855
+      AnnotationAssertion: 23844
       AsymmetricObjectProperty: 12
-      Declaration: 2226
+      Declaration: 2225
       DisjointClasses: 19
       EquivalentClasses: 12
       InverseObjectProperties: 74
@@ -139,9 +140,9 @@ ontologies:
       SubObjectPropertyOf: 141
       SymmetricObjectProperty: 28
       TransitiveObjectProperty: 4
-    'Axioms: Number of axioms': 28388
+    'Axioms: Number of axioms': 28376
     'Entities: % of entities reused': 100.0
-    'Entities: Number of annotation properties': 123
+    'Entities: Number of annotation properties': 122
     'Entities: Number of classes': 1916
     'Entities: Number of data properties': 0
     'Entities: Number of individuals': 1
@@ -152,12 +153,12 @@ ontologies:
       ObjectSomeValuesFrom: 59
     'Info: Does the ontology fall under OWL 2 DL?': false
     'Info: Experimental OBO score':
-      _dashboard: 0.923
+      _dashboard: 0.944
       _formula: (3*impact+2*dashboard)/5
       _impact: 0.0
       _impact_external: 0.25
       _reuse: 1.0
-      oboscore: 0.369
+      oboscore: 0.378
     'Info: How many externally documented uses?': 1
     'Info: How many ontologies use it?': 0
     'Info: Logical consistency': true
@@ -197,12 +198,12 @@ ontologies:
       SYMP: 297
       UBERON: 544
       dc: 1
-      dc11: 173
+      dc11: 174
       foaf: 62
       obo: 277
-      oboInOwl: 11730
+      oboInOwl: 13351
       owl: 11
-      prefix_unknown: 5485
+      prefix_unknown: 3851
       rdf: 2
       rdfs: 3885
       skos: 377
@@ -212,8 +213,7 @@ ontologies:
   namespace: epso
   results:
     FP01 Open:
-      comment: Missing ontology license.
-      status: ERROR
+      status: PASS
     FP02 Common Format:
       status: PASS
     FP03 URIs:
@@ -242,19 +242,13 @@ ontologies:
     FP20 Responsiveness:
       status: PASS
     ROBOT Report:
-      comment: 2 errors, 0 warnings, 0 info messages.
-      file: robot_report
-      results:
-        ERROR: 2
-        INFO: 0
-        WARN: 0
-      status: ERROR
-  sha256_hash: 13096fb9fad9895cb08104289425ebfccdab6123d1ed8d6bdd4643b874bd112e
+      status: PASS
+  sha256_hash: 2723f3fb0427397fdf7169a543d34b25aebc01584f3fdff7e3a8e60e264286ae
   summary:
-    comment: 2 errors
-    status: ERROR
+    comment: 1 warnings
+    status: WARN
     summary_count:
-      ERROR: 2
+      ERROR: 0
       INFO: 1
       WARN: 1
   version: https://bio.scai.fraunhofer.de/ontology/epilepsy/2021-05-28/EPSO.owl

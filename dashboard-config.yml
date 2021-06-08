@@ -78,7 +78,7 @@ ontologies:
         - id: EPSO_merged.owl
       tracker: https://github.com/phwegner/Epilepsyontology/issues
       license:
-        url: http://creativecommons.org/licenses/by/3.0/
+        url: http://creativecommons.org/licenses/by/4.0/
         label: CC-BY
       usages:
         - user: https://github.com/phwegner/Epilepsyontology
