@@ -50,7 +50,7 @@ metrics:
     ZECO: 2
     dc: 1
     dc11: 2
-    oboInOwl: 293
+    oboInOwl: 294
     owl: 1
     prefix_unknown: 4
     rdfs: 135
@@ -87,7 +87,7 @@ results:
     status: PASS
   ROBOT Report:
     status: PASS
-sha256_hash: 4eba2b4cef3b5e2b71380351453ef367e4df186082245dc0b1be57a15f724bcc
+sha256_hash: 582242dd62ae9b84a9f0c4d4f5f679321e6fa50099c95d24b446df3c0272d794
 summary:
   comment: ''
   status: PASS

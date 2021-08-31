@@ -1,14 +1,14 @@
 <head>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
-    <title>disdriv Dashboard Report</title>
+    <title>ontovida Dashboard Report</title>
 </head>
 <body>
     <div class="container">
         <div class="row" style="padding-top:30px;">
             <div class="col-md-2"></div>
             <div class="col-md-8">
-                <h1>Dashboard Report - <a href="http://obofoundry.org/ontology/disdriv.html">disdriv</a></h1>
-                <p class="lead"><b>Version</b>: http://purl.obolibrary.org/obo/disdriv/releases/2021-06-04/disdriv.owl</p>
+                <h1>Dashboard Report - <a href="http://obofoundry.org/ontology/ontovida.html">ontovida</a></h1>
+                <p class="lead"><b>Version</b>: http://purl.obolibrary.org/obo/ontoavida-v2012-08-30.owl</p>
                 <p class="lead" style="margin-top:-15px;"><b>Date run</b>: </p>
                 <p class="lead" style="margin-top:-15px;"><a href="dashboard.yml">View dashboard results as YAML</a></p>
                 <h3>Error Breakdown</h3>
@@ -17,8 +17,8 @@
                     
                         
                     
-                    <div class="alert alert-info">
-                        <center><h3>PASS - </h3></center>
+                    <div class="alert alert-danger">
+                        <center><h3>ERROR - 1 errors</h3></center>
                     </div>
                 
                 <table class="table">
@@ -39,11 +39,11 @@
                                 
                                 
                             
-                            <td class="table-success" style="text-align:center;">
-                                <img src="../assets/check.svg" height="15px">
+                            <td class="table-danger" style="text-align:center;">
+                                <img src="../assets/x.svg" height="15px">
                             </td>
                             
-                                <td></td>
+                                <td>Ontology license 'ontoavida by https://fortunalab.org is licensed under cc by 4.0. you are free to share (copy and redistribute the material in any medium or format) and adapt (remix, transform, and build upon the material) for any purpose, even commercially. for any purpose, even commercially. the licensor cannot revoke these freedoms as long as you follow the license terms. you must give appropriate credit (by using the original ontology iri for the whole ontology and original term iris for individual terms), provide a link to the license, and indicate if any changes were made. you may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.' does not match regsitry license 'http://creativecommons.org/licenses/by/4.0/'.</td>
                             
                             
                                 <td></td>
@@ -99,11 +99,11 @@
                                 
                                 
                             
-                            <td class="table-success" style="text-align:center;">
-                                <img src="../assets/check.svg" height="15px">
+                            <td class="table-warning" style="text-align:center;">
+                                <img src="../assets/warning.svg" height="15px">
                             </td>
                             
-                                <td></td>
+                                <td>Version IRI 'http://purl.obolibrary.org/obo/ontoavida-v2012-08-30.owl' is not in recommended format</td>
                             
                             
                                 <td></td>
@@ -259,11 +259,11 @@
                                 
                                 
                             
-                            <td class="table-success" style="text-align:center;">
-                                <img src="../assets/check.svg" height="15px">
+                            <td class="table-info" style="text-align:center;">
+                                <img src="../assets/info.svg" height="15px">
                             </td>
                             
-                                <td></td>
+                                <td>Version IRI does not have date information</td>
                             
                             
                                 <td></td>
@@ -308,13 +308,33 @@
                                 
                                     <td><ul>
                                         
-                                        <li>AnnotationAssertion: 429</li>
+                                        <li>AnnotationAssertion: 16421</li>
                                         
-                                        <li>Declaration: 132</li>
+                                        <li>AsymmetricObjectProperty: 15</li>
                                         
-                                        <li>EquivalentClasses: 17</li>
+                                        <li>DataPropertyDomain: 2007</li>
                                         
-                                        <li>SubClassOf: 121</li>
+                                        <li>DataPropertyRange: 2007</li>
+                                        
+                                        <li>Declaration: 8219</li>
+                                        
+                                        <li>DisjointClasses: 12</li>
+                                        
+                                        <li>FunctionalDataProperty: 4</li>
+                                        
+                                        <li>InverseObjectProperties: 5</li>
+                                        
+                                        <li>ObjectPropertyDomain: 6016</li>
+                                        
+                                        <li>ObjectPropertyRange: 6016</li>
+                                        
+                                        <li>SubClassOf: 189</li>
+                                        
+                                        <li>SubDataPropertyOf: 2007</li>
+                                        
+                                        <li>SubObjectPropertyOf: 6017</li>
+                                        
+                                        <li>SymmetricObjectProperty: 1</li>
                                         
                                     </ul></td>
                                 
@@ -324,7 +344,7 @@
                                 <td>Axioms: Number of axioms</td>
                                 
                                 
-                                    <td>699</td>
+                                    <td>48936</td>
                                 
                             </tr>
                         
@@ -340,7 +360,7 @@
                                 <td>Entities: Number of annotation properties</td>
                                 
                                 
-                                    <td>10</td>
+                                    <td>26</td>
                                 
                             </tr>
                         
@@ -348,7 +368,7 @@
                                 <td>Entities: Number of classes</td>
                                 
                                 
-                                    <td>121</td>
+                                    <td>172</td>
                                 
                             </tr>
                         
@@ -356,7 +376,7 @@
                                 <td>Entities: Number of data properties</td>
                                 
                                 
-                                    <td>0</td>
+                                    <td>2008</td>
                                 
                             </tr>
                         
@@ -372,7 +392,7 @@
                                 <td>Entities: Number of object properties</td>
                                 
                                 
-                                    <td>3</td>
+                                    <td>6019</td>
                                 
                             </tr>
                         
@@ -390,9 +410,11 @@
                                 
                                     <td><ul>
                                         
-                                        <li>Class: 380</li>
+                                        <li>Class: 14625</li>
                                         
-                                        <li>ObjectSomeValuesFrom: 105</li>
+                                        <li>ObjectExactCardinality: 16</li>
+                                        
+                                        <li>ObjectMinCardinality: 2</li>
                                         
                                     </ul></td>
                                 
@@ -412,7 +434,7 @@
                                 
                                     <td><ul>
                                         
-                                        <li>_dashboard: 0.95</li>
+                                        <li>_dashboard: 0.934</li>
                                         
                                         <li>_formula: (3*impact+2*dashboard)/5</li>
                                         
@@ -422,7 +444,7 @@
                                         
                                         <li>_reuse: 1.0</li>
                                         
-                                        <li>oboscore: 0.38</li>
+                                        <li>oboscore: 0.374</li>
                                         
                                     </ul></td>
                                 
@@ -466,47 +488,37 @@
                                 
                                     <td><ul>
                                         
-                                        <li>BFO: 2</li>
+                                        <li>FBcv: 4</li>
                                         
-                                        <li>CHEBI: 143</li>
+                                        <li>GSSO: 9</li>
                                         
-                                        <li>DRON: 2</li>
+                                        <li>IAO: 8219</li>
                                         
-                                        <li>ENVO: 23</li>
+                                        <li>NCIT: 13</li>
                                         
-                                        <li>ExO: 80</li>
+                                        <li>OGG: 3</li>
                                         
-                                        <li>FOBI: 2</li>
+                                        <li>RO: 47</li>
                                         
-                                        <li>FOODON: 2</li>
+                                        <li>STATO: 8</li>
                                         
-                                        <li>GSSO: 2</li>
+                                        <li>dc: 5</li>
                                         
-                                        <li>HP: 6</li>
+                                        <li>dc11: 3</li>
                                         
-                                        <li>IAO: 132</li>
+                                        <li>obo: 54667</li>
                                         
-                                        <li>NCBITaxon: 2</li>
+                                        <li>oboInOwl: 18</li>
                                         
-                                        <li>NCIT: 88</li>
+                                        <li>owl: 42</li>
                                         
-                                        <li>OMIT: 24</li>
+                                        <li>rdf: 1</li>
                                         
-                                        <li>RO: 106</li>
+                                        <li>rdfs: 8199</li>
                                         
-                                        <li>ZECO: 2</li>
+                                        <li>skos: 1</li>
                                         
-                                        <li>dc: 1</li>
-                                        
-                                        <li>dc11: 2</li>
-                                        
-                                        <li>oboInOwl: 294</li>
-                                        
-                                        <li>owl: 1</li>
-                                        
-                                        <li>prefix_unknown: 4</li>
-                                        
-                                        <li>rdfs: 135</li>
+                                        <li>xsd: 2006</li>
                                         
                                     </ul></td>
                                 
@@ -516,7 +528,7 @@
                                 <td>Info: Which ontologies use it?</td>
                                 
                                 
-                                    <td>['disdriv']</td>
+                                    <td>['ontovida']</td>
                                 
                             </tr>
                         

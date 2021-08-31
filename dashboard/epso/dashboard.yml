@@ -5,24 +5,24 @@ base_prefixes:
 changed: true
 metrics:
   'Axioms: Breakdown of axiom types':
-    AnnotationAssertion: 23844
-    AsymmetricObjectProperty: 12
-    Declaration: 2225
+    AnnotationAssertion: 23859
+    AsymmetricObjectProperty: 3
+    Declaration: 2134
     DisjointClasses: 19
     EquivalentClasses: 12
-    InverseObjectProperties: 74
+    InverseObjectProperties: 34
     SubAnnotationPropertyOf: 4
     SubClassOf: 2013
-    SubObjectPropertyOf: 141
-    SymmetricObjectProperty: 28
-    TransitiveObjectProperty: 4
-  'Axioms: Number of axioms': 28376
+    SubObjectPropertyOf: 62
+    SymmetricObjectProperty: 14
+    TransitiveObjectProperty: 2
+  'Axioms: Number of axioms': 28156
   'Entities: % of entities reused': 100.0
   'Entities: Number of annotation properties': 122
   'Entities: Number of classes': 1916
   'Entities: Number of data properties': 0
   'Entities: Number of individuals': 1
-  'Entities: Number of object properties': 187
+  'Entities: Number of object properties': 95
   'Entities: Number of unsatisfiable classes': 0
   'Info: Breakdown of OWL class expressions used':
     Class: 6003
@@ -43,13 +43,13 @@ metrics:
     BFO: 240
     CLO: 4
     CMO: 133
-    DOID: 972
+    DOID: 985
     ERO: 73
     EUPATH: 2
     FMA: 4
     GO: 77
     HP: 890
-    IAO: 3540
+    IAO: 3544
     IDO: 6
     IDOMAL: 3
     MF: 20
@@ -64,7 +64,7 @@ metrics:
     OAE: 23
     OBA: 7
     OBI: 64
-    OGMS: 108
+    OGMS: 95
     OMIABIS: 15
     OMIT: 93
     PATO: 45
@@ -77,11 +77,11 @@ metrics:
     dc11: 174
     foaf: 62
     obo: 277
-    oboInOwl: 13351
-    owl: 11
-    prefix_unknown: 3851
+    oboInOwl: 13359
+    owl: 8
+    prefix_unknown: 3500
     rdf: 2
-    rdfs: 3885
+    rdfs: 3888
     skos: 377
   'Info: Which ontologies use it?':
   - epso
@@ -119,7 +119,7 @@ results:
     status: PASS
   ROBOT Report:
     status: PASS
-sha256_hash: 2723f3fb0427397fdf7169a543d34b25aebc01584f3fdff7e3a8e60e264286ae
+sha256_hash: bda0d7badb237acdf89b70a231bbe0ab84a0f7b7ee26255299613e42a4c8ae81
 summary:
   comment: 1 warnings
   status: WARN
