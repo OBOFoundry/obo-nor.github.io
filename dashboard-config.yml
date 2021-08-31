@@ -90,7 +90,7 @@ ontologies:
         label: CC-BY
         logo: http://mirrors.creativecommons.org/presskit/buttons/80x15/png/by.png
         url: http://creativecommons.org/licenses/by/4.0/
-    - id: ontovida
+    - id: ontoavida
       mirror_from: "https://gitlab.com/fortunalab/ontoavida/-/raw/development/ontoavida.owl"
       title: "OntoAvida: ontology for Avida digital evolution platform"
       contact:
