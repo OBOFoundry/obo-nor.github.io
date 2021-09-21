@@ -3,7 +3,8 @@ dashboard/ ontologies/:
 
 .PRECIOUS: dependencies
 dependencies:
-	pip install networkx==2.6.2
+	#pip install networkx==2.6.2
+	echo "No dependencies needed."
 
 .PRECIOUS: run_dashboard
 run_dashboard: | dependencies dashboard/ ontologies/
