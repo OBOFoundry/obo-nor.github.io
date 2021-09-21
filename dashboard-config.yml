@@ -130,7 +130,7 @@ ontologies:
       tracker: https://github.com/terms4fairskills/FAIRterminology/issues
       license:
         url: http://creativecommons.org/licenses/by/4.0/
-        label: CC-BY 4
+        label: CC-BY
       usages:
         - user: http://t4fs.esciencedatafactory.com/
           description: Semaphora integrates terms4FAIRskills, allowing users to annotate training materials with the ontology.
