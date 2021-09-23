@@ -116,6 +116,23 @@ ontologies:
       usages:
         - user: http://website.of.the.project.using.my.ontology.com
           description: A short description of how the project above is using my ontology
+    - id: cbo
+      mirror_from: "http://cbo.biocomplexity.indiana.edu/svn/cbo/trunk/CBO.owl"
+      title: The Cell Behavior Ontology
+      contact:
+        email: jsluka@iu.edu
+        label: James Sluka
+      description: The Cell Behavior Ontology (CBO) is designed to describe multi-cell computational models. In particular to describe both the existential behaviors of cells (spatiality, growth, movement, adhesion, death, ...) and computational models of those behaviors.
+      domain: Multicell modeling
+      homepage: https://cbo.biocomplexity.indiana.edu/
+      products:
+        - id: cbo.owl
+        - id: cbo.obo
+      dependencies:
+        - id: ro
+      license:
+        url: http://creativecommons.org/licenses/by/3.0/
+        label: CC-BY
     - id: t4fs
       mirror_from: "https://github.com/terms4fairskills/FAIRterminology/raw/obo-foundry-updates/t4fs.owl"
       title: terms4FAIRskills
