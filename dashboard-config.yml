@@ -117,7 +117,7 @@ ontologies:
         - user: http://website.of.the.project.using.my.ontology.com
           description: A short description of how the project above is using my ontology
     - id: t4fs
-      mirror_from: "https://raw.githubusercontent.com/terms4fairskills/FAIRterminology/master/development/t4fs.owl"
+      mirror_from: "https://github.com/terms4fairskills/FAIRterminology/raw/obo-foundry-updates/t4fs.owl"
       title: terms4FAIRskills
       contact:
         email: pete_mcq@protonmail.com
