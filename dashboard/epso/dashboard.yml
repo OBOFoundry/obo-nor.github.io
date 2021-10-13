@@ -5,24 +5,19 @@ base_prefixes:
 changed: true
 metrics:
   'Axioms: Breakdown of axiom types':
-    AnnotationAssertion: 23859
-    AsymmetricObjectProperty: 3
-    Declaration: 2134
+    AnnotationAssertion: 23364
+    Declaration: 2051
     DisjointClasses: 19
     EquivalentClasses: 12
-    InverseObjectProperties: 34
     SubAnnotationPropertyOf: 4
     SubClassOf: 2013
-    SubObjectPropertyOf: 62
-    SymmetricObjectProperty: 14
-    TransitiveObjectProperty: 2
-  'Axioms: Number of axioms': 28156
+  'Axioms: Number of axioms': 27463
   'Entities: % of entities reused': 100.0
   'Entities: Number of annotation properties': 122
   'Entities: Number of classes': 1916
   'Entities: Number of data properties': 0
   'Entities: Number of individuals': 1
-  'Entities: Number of object properties': 95
+  'Entities: Number of object properties': 12
   'Entities: Number of unsatisfiable classes': 0
   'Info: Breakdown of OWL class expressions used':
     Class: 6003
@@ -77,11 +72,11 @@ metrics:
     dc11: 174
     foaf: 62
     obo: 277
-    oboInOwl: 13359
+    oboInOwl: 13371
     owl: 8
-    prefix_unknown: 3500
+    prefix_unknown: 3206
     rdf: 2
-    rdfs: 3888
+    rdfs: 3381
     skos: 377
   'Info: Which ontologies use it?':
   - epso
@@ -119,7 +114,7 @@ results:
     status: PASS
   ROBOT Report:
     status: PASS
-sha256_hash: bda0d7badb237acdf89b70a231bbe0ab84a0f7b7ee26255299613e42a4c8ae81
+sha256_hash: a90dfa4bae2e51b11182a59fc5ce0aa3ac152a3881ff958cc19078a39e3e42c3
 summary:
   comment: 1 warnings
   status: WARN

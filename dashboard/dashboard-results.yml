@@ -228,24 +228,19 @@ ontologies:
   changed: true
   metrics:
     'Axioms: Breakdown of axiom types':
-      AnnotationAssertion: 23859
-      AsymmetricObjectProperty: 3
-      Declaration: 2134
+      AnnotationAssertion: 23364
+      Declaration: 2051
       DisjointClasses: 19
       EquivalentClasses: 12
-      InverseObjectProperties: 34
       SubAnnotationPropertyOf: 4
       SubClassOf: 2013
-      SubObjectPropertyOf: 62
-      SymmetricObjectProperty: 14
-      TransitiveObjectProperty: 2
-    'Axioms: Number of axioms': 28156
+    'Axioms: Number of axioms': 27463
     'Entities: % of entities reused': 100.0
     'Entities: Number of annotation properties': 122
     'Entities: Number of classes': 1916
     'Entities: Number of data properties': 0
     'Entities: Number of individuals': 1
-    'Entities: Number of object properties': 95
+    'Entities: Number of object properties': 12
     'Entities: Number of unsatisfiable classes': 0
     'Info: Breakdown of OWL class expressions used':
       Class: 6003
@@ -300,11 +295,11 @@ ontologies:
       dc11: 174
       foaf: 62
       obo: 277
-      oboInOwl: 13359
+      oboInOwl: 13371
       owl: 8
-      prefix_unknown: 3500
+      prefix_unknown: 3206
       rdf: 2
-      rdfs: 3888
+      rdfs: 3381
       skos: 377
     'Info: Which ontologies use it?':
     - epso
@@ -342,7 +337,7 @@ ontologies:
       status: PASS
     ROBOT Report:
       status: PASS
-  sha256_hash: bda0d7badb237acdf89b70a231bbe0ab84a0f7b7ee26255299613e42a4c8ae81
+  sha256_hash: a90dfa4bae2e51b11182a59fc5ce0aa3ac152a3881ff958cc19078a39e3e42c3
   summary:
     comment: 1 warnings
     status: WARN
@@ -358,41 +353,41 @@ ontologies:
   changed: true
   metrics:
     'Axioms: Breakdown of axiom types':
-      AnnotationAssertion: 542
-      Declaration: 111
+      AnnotationAssertion: 543
+      Declaration: 113
       SubClassOf: 161
-    'Axioms: Number of axioms': 814
+    'Axioms: Number of axioms': 817
     'Entities: % of entities reused': 100.0
-    'Entities: Number of annotation properties': 9
-    'Entities: Number of classes': 101
+    'Entities: Number of annotation properties': 11
+    'Entities: Number of classes': 100
     'Entities: Number of data properties': 0
     'Entities: Number of individuals': 0
-    'Entities: Number of object properties': 3
+    'Entities: Number of object properties': 4
     'Entities: Number of unsatisfiable classes': 0
     'Info: Breakdown of OWL class expressions used':
-      Class: 422
+      Class: 421
       ObjectSomeValuesFrom: 66
     'Info: Does the ontology fall under OWL 2 DL?': true
     'Info: Experimental OBO score':
-      _dashboard: 0.853
+      _dashboard: 0.851
       _formula: (3*impact+2*dashboard)/5
       _impact: 0.0
       _impact_external: 0
       _reuse: 1.0
-      oboscore: 0.341
+      oboscore: 0.34
     'Info: How many externally documented uses?': 0
     'Info: How many ontologies use it?': 0
     'Info: Logical consistency': true
     'Info: Syntax': OWL/XML Syntax
     'Info: Usage of namespaces in axioms':
-      obo: 419
-      oboInOwl: 200
+      obo: 421
+      oboInOwl: 204
       owl: 3
-      prefix_unknown: 310
-      rdfs: 109
+      prefix_unknown: 305
+      rdfs: 111
     'Info: Which ontologies use it?':
     - gombo
-  mirror_from: https://raw.githubusercontent.com/BridgetSquidget/ceph_photophore_ontology/main/gombo_v1.owx
+  mirror_from: https://raw.githubusercontent.com/BridgetSquidget/gombo/main/gombo_v1.owx
   namespace: gombo
   results:
     FP01 Open:
@@ -406,45 +401,46 @@ ontologies:
       comment: Missing version IRI
       status: ERROR
     FP05 Scope:
-      comment: Missing domain (scope)
-      status: ERROR
+      status: PASS
     FP06 Textual Definitions:
-      comment: 1 missing definitions. See ROBOT Report for details.
+      comment: 102 missing definitions. See ROBOT Report for details.
       status: WARN
     FP07 Relations:
-      status: PASS
+      comment: 1 non-RO properties used.
+      file: fp7
+      status: INFO
     FP08 Documented:
-      comment: Missing homepage and description
+      comment: Missing description
       status: ERROR
     FP09 Plurality of Users:
-      comment: Missing tracker and usages
+      comment: Missing usages
       status: ERROR
     FP11 Locus of Authority:
-      comment: Missing contact information
+      comment: Invalid contact information
       status: ERROR
     FP12 Naming Conventions:
-      status: PASS
+      comment: 2 duplicate labels. See ROBOT Report for details.
+      status: ERROR
     FP16 Maintenance:
       comment: Missing version IRI to check date
       status: ERROR
     FP20 Responsiveness:
-      comment: Missing tracker and usages
-      status: ERROR
+      status: PASS
     ROBOT Report:
-      comment: 3 errors, 1 warnings, 1 info messages.
+      comment: 5 errors, 102 warnings, 3 info messages.
       file: robot_report
       results:
-        ERROR: 3
-        INFO: 1
-        WARN: 1
+        ERROR: 5
+        INFO: 3
+        WARN: 102
       status: ERROR
-  sha256_hash: f2ced9d9ede513e25e28f83a88f0af08518ca5762e44ba3c929e2a49da2080df
+  sha256_hash: 96c3b458551e76455ddaa04475520453a99eb7430371fa19e8fb673249c7a2af
   summary:
-    comment: 9 errors
+    comment: 8 errors
     status: ERROR
     summary_count:
-      ERROR: 9
-      INFO: 0
+      ERROR: 8
+      INFO: 1
       WARN: 1
   version: null
 - base_generated: true
@@ -558,6 +554,7 @@ ontologies:
   - OPC
   - OPCALT
   changed: true
+  failure: failed_robot_base
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 14562
