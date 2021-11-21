@@ -4,18 +4,18 @@ ontologies:
   #registry: "https://raw.githubusercontent.com/OBOFoundry/OBOFoundry.github.io/master/registry/ontologies.yml"
   #todo, deal with: bto chebi dron gaz ncbitaxon ncit pr uberon
   custom:
-    - id: opc
-      title: Ontology of Process Chemistry
-      mirror_from: "https://raw.githubusercontent.com/OPC-ontology/OPC/master/src/ontology/opc.owl"
+    - id: proco
+      title: "PROCO: Ontology of Process Chemistry"
+      mirror_from: "https://raw.githubusercontent.com/proco-ontology/PROCO/main/src/ontology/proco.owl"
       contact:
         email: wes_schafer@merck.com
         label: Wes Schafer
       description: OPC covers process chemistry, the chemical field concerned with scaling up laboratory syntheses to commercially viable processes.
       domain: process chemistry
-      homepage: https://github.com/OPC-ontology/OPC
+      homepage: https://github.com/proco-ontology/PROCO
       products:
-        - id: opc.owl
-        - id: opc.obo
+        - id: proco.owl
+        - id: proco.obo
       dependencies:
         - id: ro
         - id: obi
@@ -23,7 +23,7 @@ ontologies:
         - id: pato
         - id: cheminf
         - id: sbo
-      tracker: https://github.com/OPC-ontology/OPC/issues
+      tracker: https://github.com/proco-ontology/PROCO/issues
       license:
         url: https://creativecommons.org/licenses/by/4.0/
         label: CC BY 4.0
