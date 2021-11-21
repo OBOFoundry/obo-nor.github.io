@@ -8,7 +8,7 @@
             <div class="col-md-2"></div>
             <div class="col-md-8">
                 <h1>Dashboard Report - <a href="http://obofoundry.org/ontology/ontoavida.html">ontoavida</a></h1>
-                <p class="lead"><b>Version</b>: http://purl.obolibrary.org/obo/ontoavida/2021-09-01/ontoavida.owl</p>
+                <p class="lead"><b>Version</b>: http://purl.obolibrary.org/obo/ontoavida/2021-11-01/ontoavida.owl</p>
                 <p class="lead" style="margin-top:-15px;"><b>Date run</b>: </p>
                 <p class="lead" style="margin-top:-15px;"><a href="dashboard.yml">View dashboard results as YAML</a></p>
                 <h3>Error Breakdown</h3>
@@ -17,8 +17,8 @@
                     
                         
                     
-                    <div class="alert alert-info">
-                        <center><h3>INFO - 1 info messages</h3></center>
+                    <div class="alert alert-warning">
+                        <center><h3>WARN - 1 warnings</h3></center>
                     </div>
                 
                 <table class="table">
@@ -39,11 +39,11 @@
                                 
                                 
                             
-                            <td class="table-success" style="text-align:center;">
-                                <img src="../assets/check.svg" height="15px">
+                            <td class="table-warning" style="text-align:center;">
+                                <img src="../assets/warning.svg" height="15px">
                             </td>
                             
-                                <td></td>
+                                <td>Registry license 'http://creativecommons.org/licenses/by/4.0/' is not a valid open license.</td>
                             
                             
                                 <td></td>
@@ -163,7 +163,7 @@
                                 <img src="../assets/info.svg" height="15px">
                             </td>
                             
-                                <td>8017 non-RO properties used.</td>
+                                <td>8022 non-RO properties used.</td>
                             
                             
                                 <td><a href="fp7.html">View Report</a></td>
@@ -328,33 +328,39 @@
                                 
                                     <td><ul>
                                         
-                                        <li>AnnotationAssertion: 16421</li>
+                                        <li>AnnotationAssertion: 17431</li>
                                         
-                                        <li>AsymmetricObjectProperty: 15</li>
+                                        <li>AsymmetricObjectProperty: 6015</li>
                                         
-                                        <li>DataPropertyDomain: 2007</li>
+                                        <li>DataPropertyDomain: 2012</li>
                                         
-                                        <li>DataPropertyRange: 2007</li>
+                                        <li>DataPropertyRange: 2012</li>
                                         
-                                        <li>Declaration: 8219</li>
+                                        <li>Declaration: 8726</li>
                                         
-                                        <li>DisjointClasses: 12</li>
+                                        <li>DisjointClasses: 13</li>
                                         
-                                        <li>FunctionalDataProperty: 4</li>
+                                        <li>EquivalentClasses: 7</li>
                                         
-                                        <li>InverseObjectProperties: 5</li>
+                                        <li>FunctionalDataProperty: 9</li>
+                                        
+                                        <li>FunctionalObjectProperty: 2000</li>
+                                        
+                                        <li>InverseObjectProperties: 3005</li>
                                         
                                         <li>ObjectPropertyDomain: 6016</li>
                                         
                                         <li>ObjectPropertyRange: 6016</li>
                                         
-                                        <li>SubClassOf: 189</li>
+                                        <li>SubClassOf: 692</li>
                                         
-                                        <li>SubDataPropertyOf: 2007</li>
+                                        <li>SubDataPropertyOf: 2012</li>
                                         
                                         <li>SubObjectPropertyOf: 6017</li>
                                         
-                                        <li>SymmetricObjectProperty: 1</li>
+                                        <li>SubPropertyChainOf: 2</li>
+                                        
+                                        <li>SymmetricObjectProperty: 2</li>
                                         
                                     </ul></td>
                                 
@@ -364,7 +370,7 @@
                                 <td>Axioms: Number of axioms</td>
                                 
                                 
-                                    <td>48936</td>
+                                    <td>61987</td>
                                 
                             </tr>
                         
@@ -380,7 +386,7 @@
                                 <td>Entities: Number of annotation properties</td>
                                 
                                 
-                                    <td>26</td>
+                                    <td>24</td>
                                 
                             </tr>
                         
@@ -388,7 +394,7 @@
                                 <td>Entities: Number of classes</td>
                                 
                                 
-                                    <td>172</td>
+                                    <td>675</td>
                                 
                             </tr>
                         
@@ -396,7 +402,7 @@
                                 <td>Entities: Number of data properties</td>
                                 
                                 
-                                    <td>2008</td>
+                                    <td>2014</td>
                                 
                             </tr>
                         
@@ -430,11 +436,17 @@
                                 
                                     <td><ul>
                                         
-                                        <li>Class: 14625</li>
+                                        <li>Class: 16162</li>
                                         
-                                        <li>ObjectExactCardinality: 16</li>
+                                        <li>ObjectExactCardinality: 15</li>
                                         
-                                        <li>ObjectMinCardinality: 2</li>
+                                        <li>ObjectIntersectionOf: 7</li>
+                                        
+                                        <li>ObjectMaxCardinality: 1</li>
+                                        
+                                        <li>ObjectMinCardinality: 3</li>
+                                        
+                                        <li>ObjectSomeValuesFrom: 6</li>
                                         
                                     </ul></td>
                                 
@@ -444,7 +456,7 @@
                                 <td>Info: Does the ontology fall under OWL 2 DL?</td>
                                 
                                 
-                                    <td>True</td>
+                                    <td>False</td>
                                 
                             </tr>
                         
@@ -454,7 +466,7 @@
                                 
                                     <td><ul>
                                         
-                                        <li>_dashboard: 0.949</li>
+                                        <li>_dashboard: 0.944</li>
                                         
                                         <li>_formula: (3*impact+2*dashboard)/5</li>
                                         
@@ -464,7 +476,7 @@
                                         
                                         <li>_reuse: 1.0</li>
                                         
-                                        <li>oboscore: 0.38</li>
+                                        <li>oboscore: 0.378</li>
                                         
                                     </ul></td>
                                 
@@ -510,35 +522,33 @@
                                         
                                         <li>FBcv: 4</li>
                                         
-                                        <li>GSSO: 9</li>
+                                        <li>GSSO: 5030</li>
                                         
-                                        <li>IAO: 8219</li>
+                                        <li>IAO: 8722</li>
                                         
-                                        <li>NCIT: 13</li>
+                                        <li>NCIT: 4</li>
                                         
-                                        <li>OGG: 3</li>
-                                        
-                                        <li>RO: 47</li>
+                                        <li>RO: 53</li>
                                         
                                         <li>STATO: 8</li>
                                         
-                                        <li>dc: 5</li>
+                                        <li>dc: 2</li>
                                         
                                         <li>dc11: 3</li>
                                         
-                                        <li>obo: 54667</li>
+                                        <li>obo: 65232</li>
                                         
-                                        <li>oboInOwl: 18</li>
+                                        <li>oboInOwl: 17</li>
                                         
-                                        <li>owl: 42</li>
+                                        <li>owl: 45</li>
                                         
                                         <li>rdf: 1</li>
                                         
-                                        <li>rdfs: 8199</li>
+                                        <li>rdfs: 8708</li>
                                         
                                         <li>skos: 1</li>
                                         
-                                        <li>xsd: 2006</li>
+                                        <li>xsd: 2011</li>
                                         
                                     </ul></td>
                                 

@@ -3,7 +3,6 @@ base_prefixes:
 - OPC
 - OPCALT
 changed: true
-failure: failed_robot_base
 metrics:
   'Axioms: Breakdown of axiom types':
     AnnotationAssertion: 14562
@@ -60,12 +59,12 @@ metrics:
     ObjectUnionOf: 33
   'Info: Does the ontology fall under OWL 2 DL?': false
   'Info: Experimental OBO score':
-    _dashboard: 0.932
+    _dashboard: 0.927
     _formula: (3*impact+2*dashboard)/5
     _impact: 0.0
     _impact_external: 0.25
     _reuse: 1.0
-    oboscore: 0.373
+    oboscore: 0.371
   'Info: How many externally documented uses?': 2
   'Info: How many ontologies use it?': 0
   'Info: Logical consistency': true
@@ -109,7 +108,9 @@ mirror_from: https://raw.githubusercontent.com/OPC-ontology/OPC/master/src/ontol
 namespace: opc
 results:
   FP01 Open:
-    status: PASS
+    comment: Registry license 'http://creativecommons.org/licenses/by/4.0/' is not
+      a valid open license.
+    status: WARN
   FP02 Common Format:
     status: PASS
   FP03 URIs:
@@ -149,10 +150,10 @@ results:
     status: INFO
 sha256_hash: ff3e1df2c46d3a144ca2820b3de4a1b4c7bf4af63d6c776ab6d3bc2336c65faf
 summary:
-  comment: 1 warnings
+  comment: 2 warnings
   status: WARN
   summary_count:
     ERROR: 0
     INFO: 3
-    WARN: 1
+    WARN: 2
 version: http://purl.obolibrary.org/obo/opc/releases/20210503/opc.owl

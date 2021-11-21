@@ -32,57 +32,54 @@ ontologies:
           description: pharmaceutical API development
         - user: Allotrope
           description: important domain in pharmaceutical industry
-    - mirror_from: "https://raw.githubusercontent.com/DiseaseOntology/DiseaseDriversOntology/main/src/ontology/disease_drivers.owl"
-      id: disdriv
-      title: The Disease Drivers Ontology
+    - id: colao
+      mirror_from: https://raw.githubusercontent.com/insect-morphology/colao/master/colao.owl
+      title: Coleoptera Anatomy Ontology
       contact:
-        email: lschriml@som.umaryland.edu
-        label: Lynn Schriml
-      description: Ontology for drivers and triggers of human diseases, built to classify ExO ontology exposure stressors.
-      domain: health
-      homepage: https://github.com/DiseaseOntology/DiseaseDriversOntology
+        email: entiminae@gmail.com
+        label: Jennifer C. Girón
+      description: The Coleoptera Anatomy Ontology contains terms used for describing the anatomy and phenotype of beetles in biodiversity research.
+      domain: insect anatomy
+      homepage: https://github.com/insect-morphology/colao
       products:
-        - id: disdriv.owl
-        - id: disdriv.obo
+        - id: colao.owl
+        - id: colao.obo
       dependencies:
-        - id: ENVO
-        - id: CHEBI
-        - id: ExO
-        - id: ECTO
-        - id: OMIT
-        - id: DRON
-        - id: NCIT
-        - id: FOODON
-        - id: FOBI
-        - id: HP
-        - id: ZECO
-        - id: GSSO
-      tracker: https://github.com/DiseaseOntology/DiseaseDriversOntology/issues 
+        - id: aism
+        - id: ro
+        - id: uberon
+        - id: caro
+        - id: pato
+        - id: bfo
+        - id: bspo
+      tracker: https://github.com/insect-morphology/colao/issues
       license:
-        url: https://creativecommons.org/publicdomain/zero/1.0/
-        label: CC0
-      usages:
-        - user: https://www.disease-ontology.org
-          description: The Human Disease Ontology will import DISDRIV to define disease drivers and triggers via logical definitions.  
-    - id: epso
-      mirror_from: "https://raw.githubusercontent.com/phwegner/Epilepsyontology/main/release/EPSO_merged.owl"
-      title: Epilepsy Eontology
+        url: https://creativecommons.org/licenses/by/4.0/
+        label: CC-BY
+    - id: lepao
+      mirror_from: https://raw.githubusercontent.com/insect-morphology/lepao/main/lepao.owl
+      title: Lepidoptera Anatomy Ontology
       contact:
-        email: philipp.wegner@scai.fraunhofer.de
-        label: Philipp Wegner
-      description: Ontology for Epilepsy disease
-      domain: epilepsy
-      homepage: https://github.com/phwegner/Epilepsyontology
+        email: lagonzalezmo@unal.edu.co; luis.gonzalez.montana@unillanos.edu.co
+        label: Luis A. González-Montaña
+      description: The Lepidoptera Anatomy Ontology contains terms used for describing the anatomy and phenotype of moths and butterflies in biodiversity research. LEPAO is developed in part by BIOfid (The Specialised Information Service Biodiversity Research).
+      domain: Insect Anatomy
+      homepage: https://github.com/insect-morphology/lepao
       products:
-        - id: EPSO.owl
-        - id: EPSO_merged.owl
-      tracker: https://github.com/phwegner/Epilepsyontology/issues
+        - id: lepao.owl
+        - id: lepao.obo
+      dependencies:
+        - id: aism
+        - id: ro
+        - id: uberon
+        - id: caro
+        - id: pato
+        - id: bfo
+        - id: bspo
+      tracker: https://github.com/insect-morphology/lepao/issues
       license:
         url: http://creativecommons.org/licenses/by/4.0/
         label: CC-BY
-      usages:
-        - user: https://github.com/phwegner/Epilepsyontology
-          description: See development section
     - id: gombo
       mirror_from: "https://raw.githubusercontent.com/BridgetSquidget/gombo/main/gombo_v1.owx"
       title: General Ontology for Marine Bioluminescent Organs

@@ -1,0 +1,135 @@
+Level	Rule Name	Subject	Property	Value
+WARN	missing_definition	root node	IAO:0000115	
+WARN	missing_definition	muscle tissue	IAO:0000115	
+WARN	missing_definition	visceral muscle tissue	IAO:0000115	
+WARN	missing_definition	cardiac muscle tissue	IAO:0000115	
+WARN	missing_definition	cellular anatomical entity	IAO:0000115	
+WARN	missing_definition	myofilament	IAO:0000115	
+WARN	missing_definition	anatomical entity	IAO:0000115	
+WARN	missing_definition	immaterial anatomical entity	IAO:0000115	
+WARN	missing_definition	material anatomical entity	IAO:0000115	
+WARN	missing_definition	skeletal musculature	IAO:0000115	
+WARN	missing_definition	molecular entity	IAO:0000115	
+WARN	missing_definition	protein	IAO:0000115	
+WARN	missing_definition	actin	IAO:0000115	
+WARN	missing_definition	myosin	IAO:0000115	
+WARN	missing_definition	acellular anatomical structure	IAO:0000115	
+WARN	missing_definition	carbohydrate	IAO:0000115	
+WARN	missing_definition	chitin	IAO:0000115	
+WARN	missing_definition	artery	IAO:0000115	
+WARN	missing_definition	antennal artery	IAO:0000115	
+WARN	missing_definition	eye artery	IAO:0000115	
+WARN	missing_definition	vessel	IAO:0000115	
+WARN	missing_definition	cephalic vessel	IAO:0000115	
+WARN	missing_definition	pulsatile organ	IAO:0000115	
+WARN	missing_definition	mesoscutellar organ	IAO:0000115	
+WARN	missing_definition	metascutellar organ	IAO:0000115	
+WARN	missing_definition	frontal aortal sac	IAO:0000115	
+WARN	missing_definition	aorta	IAO:0000115	
+WARN	missing_definition	heart	IAO:0000115	
+WARN	missing_definition	dorsal vessel	IAO:0000115	
+WARN	missing_definition	ostium	IAO:0000115	
+WARN	missing_definition	galeal trachea	IAO:0000115	
+WARN	missing_definition	tracheal system	IAO:0000115	
+WARN	missing_definition	ventral head trunk	IAO:0000115	
+WARN	missing_definition	labial palp trachea	IAO:0000115	
+WARN	missing_definition	antennal trachea	IAO:0000115	
+WARN	missing_definition	frontal air sac	IAO:0000115	
+WARN	missing_definition	optical air sac	IAO:0000115	
+WARN	missing_definition	dorsal head trunk	IAO:0000115	
+WARN	missing_definition	lateral head trunk	IAO:0000115	
+WARN	missing_definition	leg trachea	IAO:0000115	
+WARN	missing_definition	longitudinal connecting trunk	IAO:0000115	
+WARN	missing_definition	flight muscle trunk	IAO:0000115	
+WARN	missing_definition	dorsal air sac	IAO:0000115	
+WARN	missing_definition	dorsal tracheal trunk	IAO:0000115	
+WARN	missing_definition	cerebral trachea	IAO:0000115	
+WARN	missing_definition	anterior tracheal trunk	IAO:0000115	
+WARN	missing_definition	pleural tracheal trunk	IAO:0000115	
+WARN	missing_definition	ventral tracheal trunk	IAO:0000115	
+WARN	missing_definition	midgut	IAO:0000115	
+WARN	missing_definition	foregut	IAO:0000115	
+WARN	missing_definition	hindgut	IAO:0000115	
+WARN	missing_definition	tissue	IAO:0000115	
+WARN	missing_definition	epithelium	IAO:0000115	
+WARN	missing_definition	stomodaeal epithelium	IAO:0000115	
+WARN	missing_definition	valve	IAO:0000115	
+WARN	missing_definition	stomodaeal valve	IAO:0000115	
+WARN	missing_definition	ingluvies	IAO:0000115	
+WARN	missing_definition	oesophagus	IAO:0000115	
+WARN	missing_definition	pharynx	IAO:0000115	
+WARN	missing_definition	oesophageal valve	IAO:0000115	
+WARN	missing_definition	layer	IAO:0000115	
+WARN	missing_definition	cell layer	IAO:0000115	
+WARN	missing_definition	acellular layer	IAO:0000115	
+WARN	missing_definition	polysaccharides	IAO:0000115	
+WARN	missing_definition	basal lamina	IAO:0000115	
+WARN	missing_definition	reticular layer	IAO:0000115	
+WARN	missing_definition	collagen	IAO:0000115	
+WARN	missing_definition	peritrophins	IAO:0000115	
+WARN	missing_definition	peritrophic membrane	IAO:0000115	
+WARN	missing_definition	basement membrane	IAO:0000115	
+WARN	missing_definition	neuron	IAO:0000115	
+WARN	missing_definition	ganglion	IAO:0000115	
+WARN	missing_definition	thoracic ganglion	IAO:0000115	
+WARN	missing_definition	abdominal ganglion	IAO:0000115	
+WARN	missing_definition	suboesophageal ganglion	IAO:0000115	
+WARN	missing_definition	anatomical system	IAO:0000115	
+WARN	missing_definition	organ system subdivision	IAO:0000115	
+WARN	missing_definition	epidermis	IAO:0000115	
+WARN	missing_definition	endocuticle	IAO:0000115	
+WARN	missing_definition	epicuticle	IAO:0000115	
+WARN	missing_definition	exocuticle	IAO:0000115	
+WARN	missing_definition	procuticle	IAO:0000115	
+WARN	missing_definition	rectum	IAO:0000115	
+WARN	missing_definition	nervous system	IAO:0000115	
+WARN	missing_definition	protocerebrum	IAO:0000115	
+WARN	missing_definition	deutocerebrum	IAO:0000115	
+WARN	missing_definition	tritocerebrum	IAO:0000115	
+WARN	missing_definition	nerve	IAO:0000115	
+WARN	missing_definition	antennal nerve	IAO:0000115	
+WARN	missing_definition	cervical nerve	IAO:0000115	
+WARN	missing_definition	labro-frontal nerve	IAO:0000115	
+WARN	missing_definition	labial nerve	IAO:0000115	
+WARN	missing_definition	madibular nerve	IAO:0000115	
+WARN	missing_definition	maxillary nerve	IAO:0000115	
+WARN	missing_definition	tegumentary nerve	IAO:0000115	
+WARN	missing_definition	neurohemal system	IAO:0000115	
+WARN	missing_definition	corpora allata	IAO:0000115	
+WARN	missing_definition	corpora cardiaca	IAO:0000115	
+WARN	missing_definition	connective tissue	IAO:0000115	
+WARN	missing_definition	cervico-thoracic connective	IAO:0000115	
+WARN	missing_definition	circumesophageal connective	IAO:0000115	
+WARN	missing_definition	tritocerebral commissure	IAO:0000115	
+WARN	missing_definition	neuropil	IAO:0000115	
+WARN	missing_definition	Synapse-rich neuropil	IAO:0000115	
+WARN	missing_definition	fiber-bundle neuropil	IAO:0000115	
+WARN	missing_definition	cerebral ganglion	IAO:0000115	
+WARN	missing_definition	gnathal ganglion	IAO:0000115	
+WARN	missing_definition	neuromere	IAO:0000115	
+WARN	missing_definition	optic lobe	IAO:0000115	
+WARN	missing_definition	antennal lobe	IAO:0000115	
+WARN	missing_definition	commissure	IAO:0000115	
+WARN	missing_definition	connective	IAO:0000115	
+WARN	missing_definition	labial neuromere	IAO:0000115	
+WARN	missing_definition	maxillary neuromere	IAO:0000115	
+WARN	missing_definition	mandibular neuromere	IAO:0000115	
+WARN	missing_definition	abdominal neuromere	IAO:0000115	
+WARN	missing_definition	abdominal neuromere 1	IAO:0000115	
+WARN	missing_definition	abdominal neuromere 2	IAO:0000115	
+WARN	missing_definition	abdominal neuromere 3	IAO:0000115	
+WARN	missing_definition	abdominal neuromere 4	IAO:0000115	
+WARN	missing_definition	abdominal neuromere 5	IAO:0000115	
+WARN	missing_definition	abdominal neuromere 6	IAO:0000115	
+WARN	missing_definition	abdominal neuromere 7	IAO:0000115	
+WARN	missing_definition	abdominal ganglion 1	IAO:0000115	
+WARN	missing_definition	abdominal ganglion 2	IAO:0000115	
+WARN	missing_definition	abdominal ganglion 3	IAO:0000115	
+WARN	missing_definition	abdominal ganglion 4	IAO:0000115	
+WARN	missing_definition	abdominal ganglion 5	IAO:0000115	
+WARN	missing_definition	abdominal ganglion 6	IAO:0000115	
+WARN	missing_definition	abdominal ganglion 7	IAO:0000115	
+INFO	missing_superclass	root node	rdfs:subClassOf	
+INFO	missing_superclass	muscle tissue	rdfs:subClassOf	
+INFO	missing_superclass	cellular anatomical entity	rdfs:subClassOf	
+INFO	missing_superclass	anatomical entity	rdfs:subClassOf	

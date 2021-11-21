@@ -43,7 +43,8 @@ mirror_from: https://raw.githubusercontent.com/BridgetSquidget/gombo/main/gombo_
 namespace: gombo
 results:
   FP01 Open:
-    comment: Missing ontology license.
+    comment: Registry license 'http://creativecommons.org/licenses/by/4.0/' is not
+      a valid open license. Missing ontology license.
     status: ERROR
   FP02 Common Format:
     status: PASS
