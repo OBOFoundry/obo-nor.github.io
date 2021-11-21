@@ -25,8 +25,8 @@ ontologies:
         - id: sbo
       tracker: https://github.com/OPC-ontology/OPC/issues
       license:
-        url: http://creativecommons.org/licenses/by/4.0/
-        label: CC-BY
+        url: https://creativecommons.org/licenses/by/4.0/
+        label: CC BY 4.0
       usages:
         - user: Merck & Co.
           description: pharmaceutical API development
@@ -55,7 +55,7 @@ ontologies:
       tracker: https://github.com/insect-morphology/colao/issues
       license:
         url: https://creativecommons.org/licenses/by/4.0/
-        label: CC-BY
+        label: CC BY 4.0
     - id: lepao
       mirror_from: https://raw.githubusercontent.com/insect-morphology/lepao/main/lepao.owl
       title: Lepidoptera Anatomy Ontology
@@ -78,8 +78,8 @@ ontologies:
         - id: bspo
       tracker: https://github.com/insect-morphology/lepao/issues
       license:
-        url: http://creativecommons.org/licenses/by/4.0/
-        label: CC-BY
+        url: https://creativecommons.org/licenses/by/4.0/
+        label: CC BY 4.0
     - id: gombo
       mirror_from: "https://raw.githubusercontent.com/BridgetSquidget/gombo/main/gombo_v1.owx"
       title: General Ontology for Marine Bioluminescent Organs
@@ -122,8 +122,8 @@ ontologies:
         - id: mpath
       tracker: https://github.com/BridgetSquidget/gombo/issues
       license:
-        url: http://creativecommons.org/licenses/by/4.0/
-        label: CC-BY
+        url: https://creativecommons.org/licenses/by/4.0/
+        label: CC BY 4.0
     - id: ontoavida
       mirror_from: "https://gitlab.com/fortunalab/ontoavida/-/raw/development/ontoavida.owl"
       title: "OntoAvida: ontology for Avida digital evolution platform"
@@ -145,8 +145,8 @@ ontologies:
         - id: ncit
       tracker: https://gitlab.com/fortunalab/ontoavida/-/issues
       license:
-        url: http://creativecommons.org/licenses/by/4.0/
-        label: CC-BY
+        url: https://creativecommons.org/licenses/by/4.0/
+        label: CC BY 4.0
       usages:
         - user: http://website.of.the.project.using.my.ontology.com
           description: A short description of how the project above is using my ontology
@@ -165,8 +165,8 @@ ontologies:
       dependencies:
         - id: ro
       license:
-        url: http://creativecommons.org/licenses/by/3.0/
-        label: CC-BY
+        url: https://creativecommons.org/licenses/by/3.0/
+        label: CC BY 4.0
     - id: t4fs
       mirror_from: "https://github.com/terms4fairskills/FAIRterminology/raw/obo-foundry-updates/t4fs.owl"
       title: terms4FAIRskills
@@ -180,8 +180,8 @@ ontologies:
         - id: t4fs.owl
       tracker: https://github.com/terms4fairskills/FAIRterminology/issues
       license:
-        url: http://creativecommons.org/licenses/by/4.0/
-        label: CC-BY
+        url: https://creativecommons.org/licenses/by/4.0/
+        label: CC BY 4.0
       usages:
         - user: http://t4fs.esciencedatafactory.com/
           description: Semaphora integrates terms4FAIRskills, allowing users to annotate training materials with the ontology.

@@ -76,8 +76,8 @@ ontologies:
   namespace: cbo
   results:
     FP01 Open:
-      comment: Registry license 'http://creativecommons.org/licenses/by/3.0/' is not
-        a valid open license. Missing ontology license.
+      comment: Registry license 'https://creativecommons.org/licenses/by/3.0/' is
+        not a valid open license. Missing ontology license.
       status: ERROR
     FP02 Common Format:
       status: PASS
@@ -158,12 +158,12 @@ ontologies:
       ObjectUnionOf: 11
     'Info: Does the ontology fall under OWL 2 DL?': true
     'Info: Experimental OBO score':
-      _dashboard: 0.925
+      _dashboard: 0.93
       _formula: (3*impact+2*dashboard)/5
       _impact: 0.0
       _impact_external: 0
       _reuse: 1.0
-      oboscore: 0.37
+      oboscore: 0.372
     'Info: How many externally documented uses?': 0
     'Info: How many ontologies use it?': 0
     'Info: Logical consistency': true
@@ -193,9 +193,7 @@ ontologies:
   namespace: colao
   results:
     FP01 Open:
-      comment: Registry license 'https://creativecommons.org/licenses/by/4.0/' is
-        not a valid open license.
-      status: WARN
+      status: PASS
     FP02 Common Format:
       status: PASS
     FP03 URIs:
@@ -237,7 +235,7 @@ ontologies:
     summary_count:
       ERROR: 1
       INFO: 0
-      WARN: 3
+      WARN: 2
   version: http://purl.obolibrary.org/obo/colao/releases/2021-11-19/colao.owl
 - base_generated: true
   base_prefixes:
@@ -284,8 +282,7 @@ ontologies:
   namespace: gombo
   results:
     FP01 Open:
-      comment: Registry license 'http://creativecommons.org/licenses/by/4.0/' is not
-        a valid open license. Missing ontology license.
+      comment: Missing ontology license.
       status: ERROR
     FP02 Common Format:
       status: PASS
@@ -373,12 +370,12 @@ ontologies:
       ObjectUnionOf: 10
     'Info: Does the ontology fall under OWL 2 DL?': true
     'Info: Experimental OBO score':
-      _dashboard: 0.912
+      _dashboard: 0.917
       _formula: (3*impact+2*dashboard)/5
       _impact: 0.0
       _impact_external: 0
       _reuse: 1.0
-      oboscore: 0.365
+      oboscore: 0.367
     'Info: How many externally documented uses?': 0
     'Info: How many ontologies use it?': 0
     'Info: Logical consistency': true
@@ -408,9 +405,7 @@ ontologies:
   namespace: lepao
   results:
     FP01 Open:
-      comment: Registry license 'http://creativecommons.org/licenses/by/4.0/' is not
-        a valid open license.
-      status: WARN
+      status: PASS
     FP02 Common Format:
       status: PASS
     FP03 URIs:
@@ -452,7 +447,7 @@ ontologies:
     summary_count:
       ERROR: 1
       INFO: 0
-      WARN: 3
+      WARN: 2
   version: http://purl.obolibrary.org/obo/lepao/releases/2021-11-20/lepao.owl
 - base_generated: true
   base_prefixes:
@@ -495,12 +490,12 @@ ontologies:
       ObjectSomeValuesFrom: 6
     'Info: Does the ontology fall under OWL 2 DL?': false
     'Info: Experimental OBO score':
-      _dashboard: 0.944
+      _dashboard: 0.949
       _formula: (3*impact+2*dashboard)/5
       _impact: 0.0
       _impact_external: 0.25
       _reuse: 1.0
-      oboscore: 0.378
+      oboscore: 0.38
     'Info: How many externally documented uses?': 1
     'Info: How many ontologies use it?': 0
     'Info: Logical consistency': true
@@ -527,9 +522,7 @@ ontologies:
   namespace: ontoavida
   results:
     FP01 Open:
-      comment: Registry license 'http://creativecommons.org/licenses/by/4.0/' is not
-        a valid open license.
-      status: WARN
+      status: PASS
     FP02 Common Format:
       status: PASS
     FP03 URIs:
@@ -560,12 +553,12 @@ ontologies:
       status: PASS
   sha256_hash: 2dc5c418bae4b2c88c3ae731d93d8535fa6941e6c20260d93f2d08323da12c27
   summary:
-    comment: 1 warnings
-    status: WARN
+    comment: 1 info messages
+    status: INFO
     summary_count:
       ERROR: 0
       INFO: 1
-      WARN: 1
+      WARN: 0
   version: http://purl.obolibrary.org/obo/ontoavida/2021-11-01/ontoavida.owl
 - base_generated: true
   base_prefixes:
@@ -628,12 +621,12 @@ ontologies:
       ObjectUnionOf: 33
     'Info: Does the ontology fall under OWL 2 DL?': false
     'Info: Experimental OBO score':
-      _dashboard: 0.927
+      _dashboard: 0.932
       _formula: (3*impact+2*dashboard)/5
       _impact: 0.0
       _impact_external: 0.25
       _reuse: 1.0
-      oboscore: 0.371
+      oboscore: 0.373
     'Info: How many externally documented uses?': 2
     'Info: How many ontologies use it?': 0
     'Info: Logical consistency': true
@@ -677,9 +670,7 @@ ontologies:
   namespace: opc
   results:
     FP01 Open:
-      comment: Registry license 'http://creativecommons.org/licenses/by/4.0/' is not
-        a valid open license.
-      status: WARN
+      status: PASS
     FP02 Common Format:
       status: PASS
     FP03 URIs:
@@ -719,12 +710,12 @@ ontologies:
       status: INFO
   sha256_hash: ff3e1df2c46d3a144ca2820b3de4a1b4c7bf4af63d6c776ab6d3bc2336c65faf
   summary:
-    comment: 2 warnings
+    comment: 1 warnings
     status: WARN
     summary_count:
       ERROR: 0
       INFO: 3
-      WARN: 2
+      WARN: 1
   version: http://purl.obolibrary.org/obo/opc/releases/20210503/opc.owl
 - base_generated: true
   base_prefixes:
@@ -756,12 +747,12 @@ ontologies:
       ObjectUnionOf: 2
     'Info: Does the ontology fall under OWL 2 DL?': true
     'Info: Experimental OBO score':
-      _dashboard: 0.847
+      _dashboard: 0.852
       _formula: (3*impact+2*dashboard)/5
       _impact: 0.0
       _impact_external: 0.5
       _reuse: 1.0
-      oboscore: 0.339
+      oboscore: 0.341
     'Info: How many externally documented uses?': 3
     'Info: How many ontologies use it?': 0
     'Info: Logical consistency': true
@@ -782,9 +773,7 @@ ontologies:
   namespace: t4fs
   results:
     FP01 Open:
-      comment: Registry license 'http://creativecommons.org/licenses/by/4.0/' is not
-        a valid open license.
-      status: WARN
+      status: PASS
     FP02 Common Format:
       status: PASS
     FP03 URIs:
@@ -828,5 +817,5 @@ ontologies:
     summary_count:
       ERROR: 2
       INFO: 1
-      WARN: 1
+      WARN: 0
   version: http://purl.obolibrary.org/obo/t4fs/releases/2021-05-25/t4fs.owl
