@@ -1,0 +1,111 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_ontology_description	http://purl.obolibrary.org/obo/license.owl	dc11:description	
+ERROR	duplicate_label	has_alternative_id	rdfs:label	has_alternative_id@en
+ERROR	duplicate_label	has_alternative_id	rdfs:label	has_alternative_id@en
+ERROR	missing_ontology_license	http://purl.obolibrary.org/obo/license.owl	dc:license	
+ERROR	missing_ontology_title	http://purl.obolibrary.org/obo/license.owl	dc11:title	
+WARN	missing_definition	cell	IAO:0000115	
+WARN	missing_definition	accessory cell	IAO:0000115	
+WARN	missing_definition	axial stack cell	IAO:0000115	
+WARN	missing_definition	collagen secretory cell	IAO:0000115	
+WARN	missing_definition	core cell	IAO:0000115	
+WARN	missing_definition	junctional cell	IAO:0000115	
+WARN	missing_definition	packing cell	IAO:0000115	
+WARN	missing_definition	sheath cell	IAO:0000115	
+WARN	missing_definition	torus cell	IAO:0000115	
+WARN	missing_definition	muscle cell	IAO:0000115	
+WARN	missing_definition	nerve cell	IAO:0000115	
+WARN	missing_definition	photocyte	IAO:0000115	
+WARN	missing_definition	pigment cell	IAO:0000115	
+WARN	missing_definition	chromatocyte	IAO:0000115	
+WARN	missing_definition	iridocyte	IAO:0000115	
+WARN	missing_definition	leucocyte	IAO:0000115	
+WARN	missing_definition	cellular component	IAO:0000115	
+WARN	missing_definition	chromatosome	IAO:0000115	
+WARN	missing_definition	iridosome	IAO:0000115	
+WARN	missing_definition	leucosome	IAO:0000115	
+WARN	missing_definition	crystalloid	IAO:0000115	
+WARN	missing_definition	lacunae	IAO:0000115	
+WARN	missing_definition	mitochondrion	IAO:0000115	
+WARN	missing_definition	nucleus	IAO:0000115	
+WARN	missing_definition	vascular element	IAO:0000115	
+WARN	missing_definition	vesicle	IAO:0000115	
+WARN	missing_definition	molecular component	IAO:0000115	
+WARN	missing_definition	collagen	IAO:0000115	
+WARN	missing_definition	dehydrocoelenterazine	IAO:0000115	
+WARN	missing_definition	gene	IAO:0000115	
+WARN	missing_definition	light emitting bacterium	IAO:0000115	
+WARN	missing_definition	pigment	IAO:0000115	
+WARN	missing_definition	protein	IAO:0000115	
+WARN	missing_definition	phototransduction gene	IAO:0000115	
+WARN	missing_definition	enzyme	IAO:0000115	
+WARN	missing_definition	opsin	IAO:0000115	
+WARN	missing_definition	substrate	IAO:0000115	
+WARN	missing_definition	luciferin	IAO:0000115	
+WARN	missing_definition	coelenterazine	IAO:0000115	
+WARN	missing_definition	Vibrio fischeri sp.	IAO:0000115	
+WARN	missing_definition	photobacterium spp.	IAO:0000115	
+WARN	missing_definition	oxidative enzyme	IAO:0000115	
+WARN	missing_definition	luciferase	IAO:0000115	
+WARN	missing_definition	photoprotein	IAO:0000115	
+WARN	missing_definition	symplectin	IAO:0000115	
+WARN	missing_definition	organ	IAO:0000115	
+WARN	missing_definition	chromatophore	IAO:0000115	
+WARN	missing_definition	light organ	IAO:0000115	
+WARN	missing_definition	apical chromatophore	IAO:0000115	
+WARN	missing_definition	iridophore	IAO:0000115	
+WARN	missing_definition	leucophore	IAO:0000115	
+WARN	missing_definition	photophore	IAO:0000115	
+WARN	missing_definition	autogenic photophore	IAO:0000115	
+WARN	missing_definition	bacteriogenic photophore	IAO:0000115	
+WARN	missing_definition	integumental photophore	IAO:0000115	
+WARN	missing_definition	type 1 autogenic photophore	IAO:0000115	
+WARN	missing_definition	type 2 autogenic photophore	IAO:0000115	
+WARN	missing_definition	type 3 autogenic photophore	IAO:0000115	
+WARN	missing_definition	type A integumental photophore	IAO:0000115	
+WARN	missing_definition	type B integumental photophore	IAO:0000115	
+WARN	missing_definition	type C integumental photophore	IAO:0000115	
+WARN	missing_definition	region	IAO:0000115	
+WARN	missing_definition	axial complex	IAO:0000115	
+WARN	missing_definition	distal cap	IAO:0000115	
+WARN	missing_definition	distal flat region	IAO:0000115	
+WARN	missing_definition	orbital space	IAO:0000115	
+WARN	missing_definition	proximal cup	IAO:0000115	
+WARN	missing_definition	proximal curved region	IAO:0000115	
+WARN	missing_definition	tissue	IAO:0000115	
+WARN	missing_definition	accessory tissue	IAO:0000115	
+WARN	missing_definition	membrane	IAO:0000115	
+WARN	missing_definition	muscle tissue	IAO:0000115	
+WARN	missing_definition	photogenic tissue	IAO:0000115	
+WARN	missing_definition	ribbon	IAO:0000115	
+WARN	missing_definition	blood vessel	IAO:0000115	
+WARN	missing_definition	core	IAO:0000115	
+WARN	missing_definition	cytoelastic sacculus	IAO:0000115	
+WARN	missing_definition	distal flat stack	IAO:0000115	
+WARN	missing_definition	diverticulum	IAO:0000115	
+WARN	missing_definition	epithelium-lined crypt	IAO:0000115	
+WARN	missing_definition	filter	IAO:0000115	
+WARN	missing_definition	lens	IAO:0000115	
+WARN	missing_definition	light guide	IAO:0000115	
+WARN	missing_definition	photogenic plexus	IAO:0000115	
+WARN	missing_definition	proximal concave stack	IAO:0000115	
+WARN	missing_definition	reflector	IAO:0000115	
+WARN	missing_definition	shutter	IAO:0000115	
+WARN	missing_definition	torus	IAO:0000115	
+WARN	missing_definition	refractive distal core	IAO:0000115	
+WARN	missing_definition	axial stack	IAO:0000115	
+WARN	missing_definition	color filter	IAO:0000115	
+WARN	missing_definition	inner filter	IAO:0000115	
+WARN	missing_definition	outer filter	IAO:0000115	
+WARN	missing_definition	skylight filter	IAO:0000115	
+WARN	missing_definition	basal concave reflector	IAO:0000115	
+WARN	missing_definition	distal reflector	IAO:0000115	
+WARN	missing_definition	proximal reflector	IAO:0000115	
+WARN	missing_definition	lamella	IAO:0000115	
+WARN	missing_definition	radial muscle tissue	IAO:0000115	
+WARN	missing_definition	identifier	IAO:0000115	
+WARN	missing_definition	has_alternative_id	IAO:0000115	
+WARN	missing_definition	has_alternative_id	IAO:0000115	
+INFO	missing_superclass	molecular component	rdfs:subClassOf	
+INFO	missing_superclass	organ	rdfs:subClassOf	
+INFO	missing_superclass	tissue	rdfs:subClassOf	

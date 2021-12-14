@@ -1,0 +1,3 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_ontology_license	http://cbo.biocomplexity.indiana.edu/svn/cbo/trunk/CBO_1_1_2	dc:license	
+ERROR	missing_ontology_title	http://cbo.biocomplexity.indiana.edu/svn/cbo/trunk/CBO_1_1_2	dc11:title	

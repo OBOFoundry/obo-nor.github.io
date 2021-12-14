@@ -1,0 +1,97 @@
+base_generated: true
+base_prefixes:
+- GOMBO
+- GOMBOALT
+changed: true
+metrics:
+  'Axioms: Breakdown of axiom types':
+    AnnotationAssertion: 543
+    Declaration: 113
+    SubClassOf: 161
+  'Axioms: Number of axioms': 817
+  'Entities: % of entities reused': 100.0
+  'Entities: Number of annotation properties': 11
+  'Entities: Number of classes': 100
+  'Entities: Number of data properties': 0
+  'Entities: Number of individuals': 0
+  'Entities: Number of object properties': 4
+  'Entities: Number of unsatisfiable classes': 0
+  'Info: Breakdown of OWL class expressions used':
+    Class: 421
+    ObjectSomeValuesFrom: 66
+  'Info: Does the ontology fall under OWL 2 DL?': true
+  'Info: Experimental OBO score':
+    _dashboard: 0.851
+    _formula: (3*impact+2*dashboard)/5
+    _impact: 0.0
+    _impact_external: 0
+    _reuse: 1.0
+    oboscore: 0.34
+  'Info: How many externally documented uses?': 0
+  'Info: How many ontologies use it?': 0
+  'Info: Logical consistency': true
+  'Info: Syntax': OWL/XML Syntax
+  'Info: Usage of namespaces in axioms':
+    obo: 421
+    oboInOwl: 204
+    owl: 3
+    prefix_unknown: 305
+    rdfs: 111
+  'Info: Which ontologies use it?':
+  - gombo
+mirror_from: https://raw.githubusercontent.com/BridgetSquidget/gombo/main/gombo_v1.owx
+namespace: gombo
+results:
+  FP01 Open:
+    comment: Missing ontology license.
+    status: ERROR
+  FP02 Common Format:
+    status: PASS
+  FP03 URIs:
+    status: PASS
+  FP04 Versioning:
+    comment: Missing version IRI
+    status: ERROR
+  FP05 Scope:
+    status: PASS
+  FP06 Textual Definitions:
+    comment: 102 missing definitions. See ROBOT Report for details.
+    status: WARN
+  FP07 Relations:
+    comment: 1 non-RO properties used.
+    file: fp7
+    status: INFO
+  FP08 Documented:
+    comment: Missing description
+    status: ERROR
+  FP09 Plurality of Users:
+    comment: Missing usages
+    status: ERROR
+  FP11 Locus of Authority:
+    comment: Invalid contact information
+    status: ERROR
+  FP12 Naming Conventions:
+    comment: 2 duplicate labels. See ROBOT Report for details.
+    status: ERROR
+  FP16 Maintenance:
+    comment: Missing version IRI to check date
+    status: ERROR
+  FP20 Responsiveness:
+    status: PASS
+  ROBOT Report:
+    comment: 5 errors, 102 warnings, 3 info messages.
+    file: robot_report
+    results:
+      ERROR: 5
+      INFO: 3
+      WARN: 102
+    status: ERROR
+sha256_hash: 96c3b458551e76455ddaa04475520453a99eb7430371fa19e8fb673249c7a2af
+summary:
+  comment: 8 errors
+  status: ERROR
+  summary_count:
+    ERROR: 8
+    INFO: 1
+    WARN: 1
+version: null
