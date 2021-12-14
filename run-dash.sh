@@ -4,7 +4,7 @@ set -e
 
 OBODASH="sh odk.sh "
 
-#rm -rf dashboard ontologies
-#mkdir -p dashboard ontologies
+rm -rf dashboard ontologies
+mkdir -p dashboard ontologies
 #$OBODASH refresh -B
 $OBODASH make run_dashboard
