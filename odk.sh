@@ -9,7 +9,7 @@
 # we therefore map the whole repo (../..) to a docker volume.
 #
 # See README-editors.md for more details.
-echo "WARNING USING ODK 1.2.30!"
+#echo "WARNING USING ODK 1.2.30!"
 
 docker run -e ROBOT_JAVA_ARGS='-Xmx4G' -e JAVA_OPTS='-Xmx4G' \
   -v $PWD/dashboard:/tools/OBO-Dashboard/dashboard \
@@ -19,4 +19,4 @@ docker run -e ROBOT_JAVA_ARGS='-Xmx4G' -e JAVA_OPTS='-Xmx4G' \
   -v $PWD/sparql:/tools/OBO-Dashboard/sparql \
   -w /work --rm -ti obolibrary/odkfull "$@"
 
-echo "WARNING USING ODK 1.2.30!"
+#echo "WARNING USING ODK 1.2.30!"
