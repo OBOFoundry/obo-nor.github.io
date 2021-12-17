@@ -26,12 +26,12 @@ metrics:
     ObjectSomeValuesFrom: 4086
   'Info: Does the ontology fall under OWL 2 DL?': false
   'Info: Experimental OBO score':
-    _dashboard: 0.935
+    _dashboard: 0.94
     _formula: (3*impact+2*dashboard)/5
     _impact: 0.0
     _impact_external: 0.25
     _reuse: 1.0
-    oboscore: 0.374
+    oboscore: 0.376
   'Info: How many externally documented uses?': 1
   'Info: How many ontologies use it?': 0
   'Info: Logical consistency': true
@@ -62,9 +62,7 @@ mirror_from: https://raw.githubusercontent.com/obophenotype/provisional_cell_ont
 namespace: pcl
 results:
   FP01 Open:
-    comment: Registry license 'http://creativecommons.org/licenses/by/4.0/' is not
-      a valid open license.
-    status: WARN
+    status: PASS
   FP02 Common Format:
     status: PASS
   FP03 URIs:
@@ -100,10 +98,10 @@ results:
     status: WARN
 sha256_hash: 99e84baff8c99b5cb69e6ee1ab53003a9623cc1a6eeb76fe876130bafd422f49
 summary:
-  comment: 3 warnings
+  comment: 2 warnings
   status: WARN
   summary_count:
     ERROR: 0
     INFO: 0
-    WARN: 3
+    WARN: 2
 version: http://purl.obolibrary.org/obo/pcl/releases/2021-12-17/pcl-base.owl

@@ -1,200 +1,200 @@
 Level	Rule Name	Subject	Property	Value
-WARN	missing_definition	Mouse Gnai3	IAO:0000115	
-WARN	missing_definition	Mouse Pbsn	IAO:0000115	
-WARN	missing_definition	Mouse Cdc45	IAO:0000115	
-WARN	missing_definition	Mouse H19	IAO:0000115	
-WARN	missing_definition	Mouse Scml2	IAO:0000115	
-WARN	missing_definition	Mouse Apoh	IAO:0000115	
-WARN	missing_definition	Mouse Narf	IAO:0000115	
-WARN	missing_definition	Mouse Cav2	IAO:0000115	
-WARN	missing_definition	Mouse Klf6	IAO:0000115	
-WARN	missing_definition	Mouse Scmh1	IAO:0000115	
-WARN	missing_definition	Mouse Cox5a	IAO:0000115	
-WARN	missing_definition	Mouse Tbx2	IAO:0000115	
-WARN	missing_definition	Mouse Tbx4	IAO:0000115	
-WARN	missing_definition	Mouse Zfy2	IAO:0000115	
-WARN	missing_definition	Mouse Ngfr	IAO:0000115	
-WARN	missing_definition	Mouse Wnt3	IAO:0000115	
-WARN	missing_definition	Mouse Wnt9a	IAO:0000115	
-WARN	missing_definition	Mouse Fer	IAO:0000115	
-WARN	missing_definition	Mouse Xpo6	IAO:0000115	
-WARN	missing_definition	Mouse Tfe3	IAO:0000115	
-WARN	missing_definition	Mouse Axin2	IAO:0000115	
-WARN	missing_definition	Mouse Brat1	IAO:0000115	
-WARN	missing_definition	Mouse Gna12	IAO:0000115	
-WARN	missing_definition	Mouse Slc22a18	IAO:0000115	
-WARN	missing_definition	Mouse Itgb2l	IAO:0000115	
-WARN	missing_definition	Mouse Igsf5	IAO:0000115	
-WARN	missing_definition	Mouse Pih1d2	IAO:0000115	
-WARN	missing_definition	Mouse Dlat	IAO:0000115	
-WARN	missing_definition	Mouse Sdhd	IAO:0000115	
-WARN	missing_definition	Mouse Fgf23	IAO:0000115	
-WARN	missing_definition	Mouse Fgf6	IAO:0000115	
-WARN	missing_definition	Mouse Ccnd2	IAO:0000115	
-WARN	missing_definition	Mouse Gpr107	IAO:0000115	
-WARN	missing_definition	Mouse Nalcn	IAO:0000115	
-WARN	missing_definition	Mouse Btbd17	IAO:0000115	
-WARN	missing_definition	Mouse Slfn4	IAO:0000115	
-WARN	missing_definition	Mouse Th	IAO:0000115	
-WARN	missing_definition	Mouse Ins2	IAO:0000115	
-WARN	missing_definition	Mouse Scnn1g	IAO:0000115	
-WARN	missing_definition	Mouse Drp2	IAO:0000115	
-WARN	missing_definition	Mouse Tspan32	IAO:0000115	
-WARN	missing_definition	Mouse Lhx2	IAO:0000115	
-WARN	missing_definition	Mouse Clec2g	IAO:0000115	
-WARN	missing_definition	Mouse Gmpr	IAO:0000115	
-WARN	missing_definition	Mouse Glra1	IAO:0000115	
-WARN	missing_definition	Mouse Mid2	IAO:0000115	
-WARN	missing_definition	Mouse Trim25	IAO:0000115	
-WARN	missing_definition	Mouse Dgke	IAO:0000115	
-WARN	missing_definition	Mouse Scpep1	IAO:0000115	
-WARN	missing_definition	Mouse Mnt	IAO:0000115	
-WARN	missing_definition	Mouse Itgb2	IAO:0000115	
-WARN	missing_definition	Mouse Hddc2	IAO:0000115	
-WARN	missing_definition	Mouse Tpd52l1	IAO:0000115	
-WARN	missing_definition	Mouse Pemt	IAO:0000115	
-WARN	missing_definition	Mouse Cdh1	IAO:0000115	
-WARN	missing_definition	Mouse Cdh4	IAO:0000115	
-WARN	missing_definition	Mouse Ckmt1	IAO:0000115	
-WARN	missing_definition	Mouse Bcl6b	IAO:0000115	
-WARN	missing_definition	Mouse Clec10a	IAO:0000115	
-WARN	missing_definition	Mouse Alox12	IAO:0000115	
-WARN	missing_definition	Mouse Arvcf	IAO:0000115	
-WARN	missing_definition	Mouse Comt	IAO:0000115	
-WARN	missing_definition	Mouse Rtca	IAO:0000115	
-WARN	missing_definition	Mouse Dbt	IAO:0000115	
-WARN	missing_definition	Mouse Dazap2	IAO:0000115	
-WARN	missing_definition	Mouse Mcts1	IAO:0000115	
-WARN	missing_definition	Mouse Rem1	IAO:0000115	
-WARN	missing_definition	Mouse Rnf17	IAO:0000115	
-WARN	missing_definition	Mouse Trappc10	IAO:0000115	
-WARN	missing_definition	Mouse Ccm2	IAO:0000115	
-WARN	missing_definition	Mouse Wap	IAO:0000115	
-WARN	missing_definition	Mouse Tbrg4	IAO:0000115	
-WARN	missing_definition	Mouse Tmprss2	IAO:0000115	
-WARN	missing_definition	Mouse Mx1	IAO:0000115	
-WARN	missing_definition	Mouse Fap	IAO:0000115	
-WARN	missing_definition	Mouse Gcg	IAO:0000115	
-WARN	missing_definition	Mouse Ndufa9	IAO:0000115	
-WARN	missing_definition	Mouse Egfl6	IAO:0000115	
-WARN	missing_definition	Mouse Lck	IAO:0000115	
-WARN	missing_definition	Mouse Tssk3	IAO:0000115	
-WARN	missing_definition	Mouse Cttnbp2	IAO:0000115	
-WARN	missing_definition	Mouse Galnt1	IAO:0000115	
-WARN	missing_definition	Mouse Myf5	IAO:0000115	
-WARN	missing_definition	Mouse Mkrn2	IAO:0000115	
-WARN	missing_definition	Mouse Pparg	IAO:0000115	
-WARN	missing_definition	Mouse Raf1	IAO:0000115	
-WARN	missing_definition	Mouse Sept1	IAO:0000115	
-WARN	missing_definition	Mouse Pdgfb	IAO:0000115	
-WARN	missing_definition	Mouse Acvrl1	IAO:0000115	
-WARN	missing_definition	Mouse Grasp	IAO:0000115	
-WARN	missing_definition	Mouse Acvr1b	IAO:0000115	
-WARN	missing_definition	Mouse Tom1l2	IAO:0000115	
-WARN	missing_definition	Mouse Gpa33	IAO:0000115	
-WARN	missing_definition	Mouse Zfp385a	IAO:0000115	
-WARN	missing_definition	Mouse Itga5	IAO:0000115	
-WARN	missing_definition	Mouse Gabra2	IAO:0000115	
-WARN	missing_definition	Mouse Wdr77	IAO:0000115	
-WARN	missing_definition	Mouse Adora3	IAO:0000115	
-WARN	missing_definition	Mouse Atp5f1	IAO:0000115	
-WARN	missing_definition	Mouse Sox9	IAO:0000115	
-WARN	missing_definition	Mouse Hnrnpd	IAO:0000115	
-WARN	missing_definition	Mouse Dynlt1c	IAO:0000115	
-WARN	missing_definition	Mouse C1d	IAO:0000115	
-WARN	missing_definition	Mouse Gm2a	IAO:0000115	
-WARN	missing_definition	Mouse Krit1	IAO:0000115	
-WARN	missing_definition	Mouse Clcn4	IAO:0000115	
-WARN	missing_definition	Mouse Vmn2r88	IAO:0000115	
-WARN	missing_definition	Mouse Grm6	IAO:0000115	
-WARN	missing_definition	Mouse Sema4f	IAO:0000115	
-WARN	missing_definition	Mouse Hk2	IAO:0000115	
-WARN	missing_definition	Mouse Myo18a	IAO:0000115	
-WARN	missing_definition	Mouse Sez6	IAO:0000115	
-WARN	missing_definition	Mouse Haao	IAO:0000115	
-WARN	missing_definition	Mouse Cd52	IAO:0000115	
-WARN	missing_definition	Mouse Abhd15	IAO:0000115	
-WARN	missing_definition	Mouse Hoxb6	IAO:0000115	
-WARN	missing_definition	Mouse Loxl3	IAO:0000115	
-WARN	missing_definition	Mouse Tcl1b5	IAO:0000115	
-WARN	missing_definition	Mouse Btn1a1	IAO:0000115	
-WARN	missing_definition	Mouse Kat2b	IAO:0000115	
-WARN	missing_definition	Mouse Rab5b	IAO:0000115	
-WARN	missing_definition	Mouse Cryba1	IAO:0000115	
-WARN	missing_definition	Mouse Dnmt3l	IAO:0000115	
-WARN	missing_definition	Mouse Aire	IAO:0000115	
-WARN	missing_definition	Mouse Icosl	IAO:0000115	
-WARN	missing_definition	Mouse Spg7	IAO:0000115	
-WARN	missing_definition	Mouse Sult5a1	IAO:0000115	
-WARN	missing_definition	Mouse Rpl13	IAO:0000115	
-WARN	missing_definition	Mouse Chmp1a	IAO:0000115	
-WARN	missing_definition	Mouse Rpa1	IAO:0000115	
-WARN	missing_definition	Mouse Serpinf1	IAO:0000115	
-WARN	missing_definition	Mouse Tubgcp3	IAO:0000115	
-WARN	missing_definition	Mouse Oprm1	IAO:0000115	
-WARN	missing_definition	Mouse Polr3d	IAO:0000115	
-WARN	missing_definition	Mouse Tcf7	IAO:0000115	
-WARN	missing_definition	Mouse Ddx3x	IAO:0000115	
-WARN	missing_definition	Mouse Il12rb1	IAO:0000115	
-WARN	missing_definition	Mouse Slc5a5	IAO:0000115	
-WARN	missing_definition	Mouse Kcnn3	IAO:0000115	
-WARN	missing_definition	Mouse Usp32	IAO:0000115	
-WARN	missing_definition	Mouse Car4	IAO:0000115	
-WARN	missing_definition	Mouse Txnrd3	IAO:0000115	
-WARN	missing_definition	Mouse Fasl	IAO:0000115	
-WARN	missing_definition	Mouse Zfp512b	IAO:0000115	
-WARN	missing_definition	Mouse Dnajc5	IAO:0000115	
-WARN	missing_definition	Mouse Tpd52l2	IAO:0000115	
-WARN	missing_definition	Mouse Fmr1	IAO:0000115	
-WARN	missing_definition	Mouse Bcl11a	IAO:0000115	
-WARN	missing_definition	Mouse Il4	IAO:0000115	
-WARN	missing_definition	Mouse Pxmp4	IAO:0000115	
-WARN	missing_definition	Mouse Dlg3	IAO:0000115	
-WARN	missing_definition	Mouse Gnb1l	IAO:0000115	
-WARN	missing_definition	Mouse Dbh	IAO:0000115	
-WARN	missing_definition	Mouse Mmp11	IAO:0000115	
-WARN	missing_definition	Mouse Smarcb1	IAO:0000115	
-WARN	missing_definition	Mouse Vpreb3	IAO:0000115	
-WARN	missing_definition	Mouse Hip1r	IAO:0000115	
-WARN	missing_definition	Mouse Nsun5	IAO:0000115	
-WARN	missing_definition	Mouse Top1mt	IAO:0000115	
-WARN	missing_definition	Mouse Hoxa10	IAO:0000115	
-WARN	missing_definition	Mouse Hoxa4	IAO:0000115	
-WARN	missing_definition	Mouse Gm38393	IAO:0000115	
-WARN	missing_definition	Mouse Mmp14	IAO:0000115	
-WARN	missing_definition	Mouse Slc7a7	IAO:0000115	
-WARN	missing_definition	Mouse Oxa1l	IAO:0000115	
-WARN	missing_definition	Mouse Heatr6	IAO:0000115	
-WARN	missing_definition	Mouse Ccl3	IAO:0000115	
-WARN	missing_definition	Mouse Wfdc18	IAO:0000115	
-WARN	missing_definition	Mouse Icam4	IAO:0000115	
-WARN	missing_definition	Mouse Ilf2	IAO:0000115	
-WARN	missing_definition	Mouse Chtop	IAO:0000115	
-WARN	missing_definition	Mouse Snapin	IAO:0000115	
-WARN	missing_definition	Mouse S100a4	IAO:0000115	
-WARN	missing_definition	Mouse S100a3	IAO:0000115	
-WARN	missing_definition	Mouse S100a5	IAO:0000115	
-WARN	missing_definition	Mouse S100a6	IAO:0000115	
-WARN	missing_definition	Mouse Scn4a	IAO:0000115	
-WARN	missing_definition	Mouse Icam2	IAO:0000115	
-WARN	missing_definition	Mouse Mapk7	IAO:0000115	
-WARN	missing_definition	Mouse Epn2	IAO:0000115	
-WARN	missing_definition	Mouse B9d1	IAO:0000115	
-WARN	missing_definition	Mouse Sec24b	IAO:0000115	
-WARN	missing_definition	Mouse N4bp3	IAO:0000115	
-WARN	missing_definition	Mouse Rmnd5b	IAO:0000115	
-WARN	missing_definition	Mouse Nhp2	IAO:0000115	
-WARN	missing_definition	Mouse Vps9d1	IAO:0000115	
-WARN	missing_definition	Mouse Zfp276	IAO:0000115	
-WARN	missing_definition	Mouse C1ql4	IAO:0000115	
-WARN	missing_definition	Mouse Mfsd10	IAO:0000115	
-WARN	missing_definition	Mouse Luzp1	IAO:0000115	
-WARN	missing_definition	Mouse Slc13a2	IAO:0000115	
-WARN	missing_definition	Mouse Kctd10	IAO:0000115	
-WARN	missing_definition	Mouse Poldip2	IAO:0000115	
-WARN	missing_definition	Mouse Sebox	IAO:0000115	
-WARN	missing_definition	Mouse Ift20	IAO:0000115	
-WARN	missing_definition	Mouse Col6a1	IAO:0000115	
-WARN	missing_definition	Mouse Pcbp3	IAO:0000115	
-WARN	missing_definition	Mouse Lgals9	IAO:0000115	
-WARN	missing_definition	Mouse Araf	IAO:0000115	
+WARN	duplicate_exact_synonym	VLMC(i) primary motor cortex vascular leptomeningeal cell (Mus musculus)	oboInOwl:hasExactSynonym	VLMC(i)
+WARN	duplicate_exact_synonym	RNAseq 104-107, 110 - CS202002013_254	oboInOwl:hasExactSynonym	VLMC(i)
+WARN	duplicate_exact_synonym	VLMC(i) primary motor cortex vascular leptomeningeal cell (Callithrix jacchus)	oboInOwl:hasExactSynonym	VLMC(i)
+WARN	duplicate_exact_synonym	RNAseq 104-110 - CS202002013_222	oboInOwl:hasExactSynonym	VLMC
+WARN	duplicate_exact_synonym	VLMC L1-5 PDGFRA COLEC12 primary motor cortex vascular leptomeningeal cell (Homo sapiens)	oboInOwl:hasExactSynonym	VLMC
+WARN	duplicate_exact_synonym	RNAseq 126 - CS201912131_126	oboInOwl:hasExactSynonym	VLMC
+WARN	duplicate_exact_synonym	VLMC(i) primary motor cortex vascular leptomeningeal cell (Callithrix jacchus)	oboInOwl:hasExactSynonym	VLMC
+WARN	duplicate_exact_synonym	RNAseq 90-93 - CS201912132_109	oboInOwl:hasExactSynonym	VLMC
+WARN	duplicate_exact_synonym	RNAseq 90-92 - CS201912132_134	oboInOwl:hasExactSynonym	VLMC
+WARN	duplicate_exact_synonym	Vip-like_C4 primary motor cortex GABAergic interneuron (Mus musculus)	oboInOwl:hasExactSynonym	Vip_4
+WARN	duplicate_exact_synonym	RNAseq 026-027 - CS202002013_149	oboInOwl:hasExactSynonym	Vip_4
+WARN	duplicate_exact_synonym	(Mouse Vip)-like_C4 primary motor cortex GABAergic interneuron (Homo sapiens)	oboInOwl:hasExactSynonym	Vip_4
+WARN	duplicate_exact_synonym	RNAseq 034-038 - CS201912131_162	oboInOwl:hasExactSynonym	Vip_4
+WARN	duplicate_exact_synonym	(Mouse Vip)-like_C4 primary motor cortex GABAergic interneuron (Callithrix jacchus)	oboInOwl:hasExactSynonym	Vip_4
+WARN	duplicate_exact_synonym	RNAseq 15, 25 - CS201912132_124	oboInOwl:hasExactSynonym	Vip_4
+WARN	duplicate_exact_synonym	Vip-like_C3 primary motor cortex GABAergic interneuron (Mus musculus)	oboInOwl:hasExactSynonym	Vip_3
+WARN	duplicate_exact_synonym	RNAseq 015, 019, 022 - CS202002013_241	oboInOwl:hasExactSynonym	Vip_3
+WARN	duplicate_exact_synonym	(Mouse Vip)-like_C3 primary motor cortex GABAergic interneuron (Homo sapiens)	oboInOwl:hasExactSynonym	Vip_3
+WARN	duplicate_exact_synonym	RNAseq 029-033 - CS201912131_161	oboInOwl:hasExactSynonym	Vip_3
+WARN	duplicate_exact_synonym	(Mouse Vip)-like_C3 primary motor cortex GABAergic interneuron (Callithrix jacchus)	oboInOwl:hasExactSynonym	Vip_3
+WARN	duplicate_exact_synonym	RNAseq 21-23 - CS201912132_127	oboInOwl:hasExactSynonym	Vip_3
+WARN	duplicate_exact_synonym	Vip-like_C2 primary motor cortex GABAergic interneuron (Mus musculus)	oboInOwl:hasExactSynonym	Vip_2
+WARN	duplicate_exact_synonym	RNAseq 017-018, 020-021 - CS202002013_242	oboInOwl:hasExactSynonym	Vip_2
+WARN	duplicate_exact_synonym	(Mouse Vip)-like_C2 primary motor cortex GABAergic interneuron (Homo sapiens)	oboInOwl:hasExactSynonym	Vip_2
+WARN	duplicate_exact_synonym	RNAseq 022-028, 039 - CS201912131_160	oboInOwl:hasExactSynonym	Vip_2
+WARN	duplicate_exact_synonym	(Mouse Vip)-like_C2 primary motor cortex GABAergic interneuron (Callithrix jacchus)	oboInOwl:hasExactSynonym	Vip_2
+WARN	duplicate_exact_synonym	RNAseq 16-18, 24 - CS201912132_125	oboInOwl:hasExactSynonym	Vip_2
+WARN	duplicate_exact_synonym	Vip-like_C1 primary motor cortex GABAergic interneuron (Mus musculus)	oboInOwl:hasExactSynonym	Vip_1
+WARN	duplicate_exact_synonym	RNAseq 023-025 - CS202002013_243	oboInOwl:hasExactSynonym	Vip_1
+WARN	duplicate_exact_synonym	(Mouse Vip)-like_C1 primary motor cortex GABAergic interneuron (Homo sapiens)	oboInOwl:hasExactSynonym	Vip_1
+WARN	duplicate_exact_synonym	RNAseq 019-021 - CS201912131_159	oboInOwl:hasExactSynonym	Vip_1
+WARN	duplicate_exact_synonym	(Mouse Vip)-like_C1 primary motor cortex GABAergic interneuron (Callithrix jacchus)	oboInOwl:hasExactSynonym	Vip_1
+WARN	duplicate_exact_synonym	RNAseq 19-20 - CS201912132_126	oboInOwl:hasExactSynonym	Vip_1
+WARN	duplicate_exact_synonym	VIP-like middle temporal gyrus GABAergic interneuron (Homo sapiens)	oboInOwl:hasExactSynonym	VIP-like
+WARN	duplicate_exact_synonym	Neuron 007-027 - CS1908210085	oboInOwl:hasExactSynonym	VIP-like
+WARN	duplicate_exact_synonym	Vip-like Serpinf1_3 primary motor cortex GABAergic interneuron (Mus musculus)	oboInOwl:hasExactSynonym	Vip Serpinf1_3
+WARN	duplicate_exact_synonym	RNAseq 017 - CS202002013_17	oboInOwl:hasExactSynonym	Vip Serpinf1_3
+WARN	duplicate_exact_synonym	Vip-like Igfbp6_1 primary motor cortex GABAergic interneuron (Mus musculus)	oboInOwl:hasExactSynonym	Vip Igfbp6_1
+WARN	duplicate_exact_synonym	RNAseq 026 - CS202002013_26	oboInOwl:hasExactSynonym	Vip Igfbp6_1
+WARN	duplicate_exact_synonym	Vip-like primary motor cortex GABAergic interneuron (Mus musculus)	oboInOwl:hasExactSynonym	Vip
+WARN	duplicate_exact_synonym	RNAseq 015-027 - CS202002013_138	oboInOwl:hasExactSynonym	Vip
+WARN	duplicate_exact_synonym	(Mouse Vip)-like primary motor cortex GABAergic interneuron (Homo sapiens)	oboInOwl:hasExactSynonym	Vip
+WARN	duplicate_exact_synonym	RNAseq 019-039 - CS201912131_130	oboInOwl:hasExactSynonym	Vip
+WARN	duplicate_exact_synonym	(Mouse Vip)-like primary motor cortex GABAergic interneuron (Callithrix jacchus)	oboInOwl:hasExactSynonym	Vip
+WARN	duplicate_exact_synonym	RNAseq 15-25 - CS201912132_97	oboInOwl:hasExactSynonym	Vip
+WARN	duplicate_exact_synonym	L6 CT primary motor cortex glutamatergic neuron (Mus musculus)	oboInOwl:hasExactSynonym	VAL/VM Projecting
+WARN	duplicate_exact_synonym	RNAseq 074-080 - CS202002013_197	oboInOwl:hasExactSynonym	VAL/VM Projecting
+WARN	duplicate_exact_synonym	Upper FS Basket cell primary motor cortex GABAergic interneuron (Mus musculus)	oboInOwl:hasExactSynonym	Upper FS Basket cell
+WARN	duplicate_exact_synonym	RNAseq 054-055 - CS202002013_177	oboInOwl:hasExactSynonym	Upper FS Basket cell
+WARN	duplicate_exact_synonym	Vip-like_C4 primary motor cortex GABAergic interneuron (Mus musculus)	oboInOwl:hasExactSynonym	Uncharacterized VIP cell
+WARN	duplicate_exact_synonym	RNAseq 026-027 - CS202002013_149	oboInOwl:hasExactSynonym	Uncharacterized VIP cell
+WARN	duplicate_exact_synonym	Sst Th_3 primary motor cortex GABAergic interneuron (Mus musculus)	oboInOwl:hasExactSynonym	Sst_7
+WARN	duplicate_exact_synonym	RNAseq 047 - CS202002013_47	oboInOwl:hasExactSynonym	Sst_7
+WARN	duplicate_exact_synonym	Inh L6 SST TH primary motor cortex GABAergic interneuron (Homo sapiens)	oboInOwl:hasExactSynonym	Sst_7
+WARN	duplicate_exact_synonym	RNAseq 058 - CS201912131_58	oboInOwl:hasExactSynonym	Sst_7
+WARN	duplicate_exact_synonym	Inh SST LOC103788138 primary motor cortex GABAergic interneuron (Callithrix jacchus)	oboInOwl:hasExactSynonym	Sst_7
+WARN	duplicate_exact_synonym	RNAseq 29 - CS201912132_29	oboInOwl:hasExactSynonym	Sst_7
+WARN	duplicate_exact_synonym	Sst-like_C6 primary motor cortex GABAergic interneuron (Mus musculus)	oboInOwl:hasExactSynonym	Sst_6
+WARN	duplicate_exact_synonym	RNAseq 043-045 - CS202002013_246	oboInOwl:hasExactSynonym	Sst_6
+WARN	duplicate_exact_synonym	(Mouse Sst)-like_C6 primary motor cortex GABAergic interneuron (Homo sapiens)	oboInOwl:hasExactSynonym	Sst_6
+WARN	duplicate_exact_synonym	RNAseq 055-057 - CS201912131_168	oboInOwl:hasExactSynonym	Sst_6
+WARN	duplicate_exact_synonym	Inh SST LOC108588801 primary motor cortex GABAergic interneuron (Callithrix jacchus)	oboInOwl:hasExactSynonym	Sst_6
+WARN	duplicate_exact_synonym	RNAseq 28 - CS201912132_28	oboInOwl:hasExactSynonym	Sst_6
+WARN	duplicate_exact_synonym	Sst C1ql3_1 primary motor cortex GABAergic interneuron (Mus musculus)	oboInOwl:hasExactSynonym	Sst_5
+WARN	duplicate_exact_synonym	RNAseq 042 - CS202002013_42	oboInOwl:hasExactSynonym	Sst_5
+WARN	duplicate_exact_synonym	(Mouse Sst)-like_C5 primary motor cortex GABAergic interneuron (Homo sapiens)	oboInOwl:hasExactSynonym	Sst_5
+WARN	duplicate_exact_synonym	RNAseq 053-054 - CS201912131_167	oboInOwl:hasExactSynonym	Sst_5
+WARN	duplicate_exact_synonym	Inh SST LOC108589054 primary motor cortex GABAergic interneuron (Callithrix jacchus)	oboInOwl:hasExactSynonym	Sst_5
+WARN	duplicate_exact_synonym	RNAseq 27 - CS201912132_27	oboInOwl:hasExactSynonym	Sst_5
+WARN	duplicate_exact_synonym	Sst Crhr2_2 primary motor cortex GABAergic interneuron (Mus musculus)	oboInOwl:hasExactSynonym	Sst_4
+WARN	duplicate_exact_synonym	RNAseq 037 - CS202002013_37	oboInOwl:hasExactSynonym	Sst_4
+WARN	duplicate_exact_synonym	(Mouse Sst)-like_C4 primary motor cortex GABAergic interneuron (Homo sapiens)	oboInOwl:hasExactSynonym	Sst_4
+WARN	duplicate_exact_synonym	RNAseq 048-049 - CS201912131_166	oboInOwl:hasExactSynonym	Sst_4
+WARN	duplicate_exact_synonym	Inh SST LTBP1 primary motor cortex GABAergic interneuron (Callithrix jacchus)	oboInOwl:hasExactSynonym	Sst_4
+WARN	duplicate_exact_synonym	RNAseq 37 - CS201912132_37	oboInOwl:hasExactSynonym	Sst_4
+WARN	duplicate_exact_synonym	Sst-like_C3 primary motor cortex GABAergic interneuron (Mus musculus)	oboInOwl:hasExactSynonym	Sst_3
+WARN	duplicate_exact_synonym	RNAseq 035-036, 038-041 - CS202002013_245	oboInOwl:hasExactSynonym	Sst_3
+WARN	duplicate_exact_synonym	(Mouse Sst)-like_C3 primary motor cortex GABAergic interneuron (Homo sapiens)	oboInOwl:hasExactSynonym	Sst_3
+WARN	duplicate_exact_synonym	RNAseq 046-047, 050-052 - CS201912131_165	oboInOwl:hasExactSynonym	Sst_3
+WARN	duplicate_exact_synonym	(Mouse Sst)-like_C3 primary motor cortex GABAergic interneuron (Callithrix jacchus)	oboInOwl:hasExactSynonym	Sst_3
+WARN	duplicate_exact_synonym	RNAseq 31-36, 40, 47 - CS201912132_128	oboInOwl:hasExactSynonym	Sst_3
+WARN	duplicate_exact_synonym	Sst-like_C2 primary motor cortex GABAergic interneuron (Mus musculus)	oboInOwl:hasExactSynonym	Sst_2
+WARN	duplicate_exact_synonym	RNAseq 029-030, 034 - CS202002013_244	oboInOwl:hasExactSynonym	Sst_2
+WARN	duplicate_exact_synonym	(Mouse Sst)-like_C2 primary motor cortex GABAergic interneuron (Homo sapiens)	oboInOwl:hasExactSynonym	Sst_2
+WARN	duplicate_exact_synonym	RNAseq 043-045 - CS201912131_164	oboInOwl:hasExactSynonym	Sst_2
+WARN	duplicate_exact_synonym	Inh SST VAPA primary motor cortex GABAergic interneuron (Callithrix jacchus)	oboInOwl:hasExactSynonym	Sst_2
+WARN	duplicate_exact_synonym	RNAseq 39 - CS201912132_39	oboInOwl:hasExactSynonym	Sst_2
+WARN	duplicate_exact_synonym	Sst-like_C1 primary motor cortex GABAergic interneuron (Mus musculus)	oboInOwl:hasExactSynonym	Sst_1
+WARN	duplicate_exact_synonym	RNAseq 031-033 - CS202002013_156	oboInOwl:hasExactSynonym	Sst_1
+WARN	duplicate_exact_synonym	(Mouse Sst)-like_C1 primary motor cortex GABAergic interneuron (Homo sapiens)	oboInOwl:hasExactSynonym	Sst_1
+WARN	duplicate_exact_synonym	RNAseq 041-042 - CS201912131_163	oboInOwl:hasExactSynonym	Sst_1
+WARN	duplicate_exact_synonym	Inh SST AIM1 primary motor cortex GABAergic interneuron (Callithrix jacchus)	oboInOwl:hasExactSynonym	Sst_1
+WARN	duplicate_exact_synonym	RNAseq 38 - CS201912132_38	oboInOwl:hasExactSynonym	Sst_1
+WARN	duplicate_exact_synonym	SST-like middle temporal gyrus GABAergic interneuron (Homo sapiens)	oboInOwl:hasExactSynonym	SST-like
+WARN	duplicate_exact_synonym	Neuron 029-038 - CS1908210108	oboInOwl:hasExactSynonym	SST-like
+WARN	duplicate_exact_synonym	Sst Chodl primary motor cortex GABAergic interneuron (Mus musculus)	oboInOwl:hasExactSynonym	Sst Chodl
+WARN	duplicate_exact_synonym	RNAseq 028 - CS202002013_28	oboInOwl:hasExactSynonym	Sst Chodl
+WARN	duplicate_exact_synonym	Inh L1-6 SST NPY primary motor cortex GABAergic interneuron (Homo sapiens)	oboInOwl:hasExactSynonym	Sst Chodl
+WARN	duplicate_exact_synonym	RNAseq 040 - CS201912131_40	oboInOwl:hasExactSynonym	Sst Chodl
+WARN	duplicate_exact_synonym	Inh SST NPY primary motor cortex GABAergic interneuron (Callithrix jacchus)	oboInOwl:hasExactSynonym	Sst Chodl
+WARN	duplicate_exact_synonym	Sst Chodl(i) primary motor cortex GABAergic interneuron (Callithrix jacchus)	oboInOwl:hasExactSynonym	Sst Chodl
+WARN	duplicate_exact_synonym	RNAseq 01 - CS201912132_1	oboInOwl:hasExactSynonym	Sst Chodl
+WARN	duplicate_exact_synonym	RNAseq 01, 30 - CS201912132_119	oboInOwl:hasExactSynonym	Sst Chodl
+WARN	duplicate_exact_synonym	Inh L3-6 SST NPY middle temporal gyrus GABAergic interneuron (Homo sapiens)	oboInOwl:hasExactSynonym	Sst Chodl
+WARN	duplicate_exact_synonym	Neuron 028 - CS1908210028	oboInOwl:hasExactSynonym	Sst Chodl
+WARN	duplicate_exact_synonym	Sst-like primary motor cortex GABAergic interneuron (Mus musculus)	oboInOwl:hasExactSynonym	Sst
+WARN	duplicate_exact_synonym	RNAseq 029-047 - CS202002013_232	oboInOwl:hasExactSynonym	Sst
+WARN	duplicate_exact_synonym	(Mouse Sst)-like primary motor cortex GABAergic interneuron (Homo sapiens)	oboInOwl:hasExactSynonym	Sst
+WARN	duplicate_exact_synonym	RNAseq 041-058 - CS201912131_131	oboInOwl:hasExactSynonym	Sst
+WARN	duplicate_exact_synonym	(Mouse Sst)-like primary motor cortex GABAergic interneuron (Callithrix jacchus)	oboInOwl:hasExactSynonym	Sst
+WARN	duplicate_exact_synonym	RNAseq 27-40, 47 - CS201912132_98	oboInOwl:hasExactSynonym	Sst
+WARN	duplicate_exact_synonym	Lamp5-like Egln3_1 primary motor cortex GABAergic interneuron (Mus musculus)	oboInOwl:hasExactSynonym	Sncg_4
+WARN	duplicate_exact_synonym	RNAseq 002 - CS202002013_2	oboInOwl:hasExactSynonym	Sncg_4
+WARN	duplicate_exact_synonym	(Mouse Sncg)-like_C4 primary motor cortex GABAergic interneuron (Homo sapiens)	oboInOwl:hasExactSynonym	Sncg_4
+WARN	duplicate_exact_synonym	RNAseq 016-018 - CS201912131_158	oboInOwl:hasExactSynonym	Sncg_4
+WARN	duplicate_exact_synonym	(Mouse Sncg)-like_C4 primary motor cortex GABAergic interneuron (Callithrix jacchus)	oboInOwl:hasExactSynonym	Sncg_4
+WARN	duplicate_exact_synonym	RNAseq 13-14 - CS201912132_123	oboInOwl:hasExactSynonym	Sncg_4
+WARN	duplicate_exact_synonym	Sncg-like_C3 primary motor cortex GABAergic interneuron (Mus musculus)	oboInOwl:hasExactSynonym	Sncg_3
+WARN	duplicate_exact_synonym	RNAseq 011-013 - CS202002013_239	oboInOwl:hasExactSynonym	Sncg_3
+WARN	duplicate_exact_synonym	(Mouse Sncg)-like_C3 primary motor cortex GABAergic interneuron (Homo sapiens)	oboInOwl:hasExactSynonym	Sncg_3
+WARN	duplicate_exact_synonym	RNAseq 012-013 - CS201912131_156	oboInOwl:hasExactSynonym	Sncg_3
+WARN	duplicate_exact_synonym	(Mouse Sncg)-like_C3 primary motor cortex GABAergic interneuron (Callithrix jacchus)	oboInOwl:hasExactSynonym	Sncg_3
+WARN	duplicate_exact_synonym	RNAseq 10-11 - CS201912132_122	oboInOwl:hasExactSynonym	Sncg_3
+WARN	duplicate_exact_synonym	Sncg-like_C2 primary motor cortex GABAergic interneuron (Mus musculus)	oboInOwl:hasExactSynonym	Sncg_2
+WARN	duplicate_exact_synonym	RNAseq 009-010 - CS202002013_134	oboInOwl:hasExactSynonym	Sncg_2
+WARN	duplicate_exact_synonym	Inh L2 PAX6 FREM2 primary motor cortex GABAergic interneuron (Homo sapiens)	oboInOwl:hasExactSynonym	Sncg_2
+WARN	duplicate_exact_synonym	RNAseq 011 - CS201912131_11	oboInOwl:hasExactSynonym	Sncg_2
+WARN	duplicate_exact_synonym	Inh SNCG PLPPR1 primary motor cortex GABAergic interneuron (Callithrix jacchus)	oboInOwl:hasExactSynonym	Sncg_2
+WARN	duplicate_exact_synonym	RNAseq 08 - CS201912132_8	oboInOwl:hasExactSynonym	Sncg_2
+WARN	duplicate_exact_synonym	Sncg-like_C1 primary motor cortex GABAergic interneuron (Mus musculus)	oboInOwl:hasExactSynonym	Sncg_1
+WARN	duplicate_exact_synonym	RNAseq 014, 016 - CS202002013_240	oboInOwl:hasExactSynonym	Sncg_1
+WARN	duplicate_exact_synonym	(Mouse Sncg)-like_C1 primary motor cortex GABAergic interneuron (Homo sapiens)	oboInOwl:hasExactSynonym	Sncg_1
+WARN	duplicate_exact_synonym	RNAseq 009-010 - CS201912131_155	oboInOwl:hasExactSynonym	Sncg_1
+WARN	duplicate_exact_synonym	(Mouse Sncg)-like_C1 primary motor cortex GABAergic interneuron (Callithrix jacchus)	oboInOwl:hasExactSynonym	Sncg_1
+WARN	duplicate_exact_synonym	RNAseq 09, 12 - CS201912132_121	oboInOwl:hasExactSynonym	Sncg_1
+WARN	duplicate_exact_synonym	Sncg-like primary motor cortex GABAergic interneuron (Mus musculus)	oboInOwl:hasExactSynonym	Sncg
+WARN	duplicate_exact_synonym	RNAseq 009-014 - CS202002013_133	oboInOwl:hasExactSynonym	Sncg
+WARN	duplicate_exact_synonym	(Mouse Sncg)-like primary motor cortex GABAergic interneuron (Homo sapiens)	oboInOwl:hasExactSynonym	Sncg
+WARN	duplicate_exact_synonym	RNAseq 009-013, 016-018 - CS201912131_129	oboInOwl:hasExactSynonym	Sncg
+WARN	duplicate_exact_synonym	(Mouse Sncg)-like primary motor cortex GABAergic interneuron (Callithrix jacchus)	oboInOwl:hasExactSynonym	Sncg
+WARN	duplicate_exact_synonym	RNAseq 08-14 - CS201912132_96	oboInOwl:hasExactSynonym	Sncg
+WARN	duplicate_exact_synonym	SMC primary motor cortex smooth muscle cell of the brain vasculature (Mus musculus)	oboInOwl:hasExactSynonym	SMC
+WARN	duplicate_exact_synonym	RNAseq 111 - CS202002013_111	oboInOwl:hasExactSynonym	SMC
+WARN	duplicate_exact_synonym	Vip Sncg primary motor cortex GABAergic interneuron (Mus musculus)	oboInOwl:hasExactSynonym	Small CCK basket cell
+WARN	duplicate_exact_synonym	RNAseq 014 - CS202002013_14	oboInOwl:hasExactSynonym	Small CCK basket cell
+WARN	duplicate_exact_synonym	Inh L1-4 LAMP5 LCP2 middle temporal gyrus GABAergic interneuron (Homo sapiens)	oboInOwl:hasExactSynonym	Rosehip
+WARN	duplicate_exact_synonym	Neuron 004 - CS1908210004	oboInOwl:hasExactSynonym	Rosehip
+WARN	duplicate_exact_synonym	PVM_3 primary motor cortex perivascular macrophage (Mus musculus)	oboInOwl:hasExactSynonym	RNAseq 116
+WARN	duplicate_exact_synonym	Exc L5-6 FEZF2 LPO primary motor cortex oligodendrocyte precursor cell (Homo sapiens)	oboInOwl:hasExactSynonym	RNAseq 116
+WARN	duplicate_exact_synonym	PVM_2 primary motor cortex perivascular macrophage (Mus musculus)	oboInOwl:hasExactSynonym	RNAseq 115
+WARN	duplicate_exact_synonym	Exc L5-6 FEZF2 IFNG-AS1 primary motor cortex glutamatergic neuron (Homo sapiens)	oboInOwl:hasExactSynonym	RNAseq 115
+WARN	duplicate_exact_synonym	PVM_1 primary motor cortex perivascular macrophage (Mus musculus)	oboInOwl:hasExactSynonym	RNAseq 114
+WARN	duplicate_exact_synonym	Exc L5 FEZF2 RNF144A-AS1 primary motor cortex glutamatergic neuron (Homo sapiens)	oboInOwl:hasExactSynonym	RNAseq 114
+WARN	duplicate_exact_synonym	Micro primary motor cortex microglial cell (Mus musculus)	oboInOwl:hasExactSynonym	RNAseq 113
+WARN	duplicate_exact_synonym	Exc L5 FEZF2 NREP-AS1 primary motor cortex glutamatergic neuron (Homo sapiens)	oboInOwl:hasExactSynonym	RNAseq 113
+WARN	duplicate_exact_synonym	Peri primary motor cortex brain pericyte (Mus musculus)	oboInOwl:hasExactSynonym	RNAseq 112
+WARN	duplicate_exact_synonym	Exc L5 FEZF2 PKD2L1 primary motor cortex glutamatergic neuron (Homo sapiens)	oboInOwl:hasExactSynonym	RNAseq 112
+WARN	duplicate_exact_synonym	SMC primary motor cortex smooth muscle cell of the brain vasculature (Mus musculus)	oboInOwl:hasExactSynonym	RNAseq 111
+WARN	duplicate_exact_synonym	Exc L3-5 FEZF2 LINC01107 primary motor cortex glutamatergic neuron (Homo sapiens)	oboInOwl:hasExactSynonym	RNAseq 111
+WARN	duplicate_exact_synonym	VLMC_7 primary motor cortex vascular leptomeningeal cell (Mus musculus)	oboInOwl:hasExactSynonym	RNAseq 110
+WARN	duplicate_exact_synonym	Exc L3-5 FEZF2 ASGR2 primary motor cortex glutamatergic neuron (Homo sapiens)	oboInOwl:hasExactSynonym	RNAseq 110
+WARN	duplicate_exact_synonym	VLMC_6 primary motor cortex vascular leptomeningeal cell (Mus musculus)	oboInOwl:hasExactSynonym	RNAseq 109
+WARN	duplicate_exact_synonym	Exc L5 FEZF2 CSN1S1 primary motor cortex glutamatergic neuron (Homo sapiens)	oboInOwl:hasExactSynonym	RNAseq 109
+WARN	duplicate_exact_synonym	VLMC_5 primary motor cortex vascular leptomeningeal cell (Mus musculus)	oboInOwl:hasExactSynonym	RNAseq 108
+WARN	duplicate_exact_synonym	Exc L6 FEZF2 POGK primary motor cortex glutamatergic neuron (Homo sapiens)	oboInOwl:hasExactSynonym	RNAseq 108
+WARN	duplicate_exact_synonym	VLMC_4 primary motor cortex vascular leptomeningeal cell (Mus musculus)	oboInOwl:hasExactSynonym	RNAseq 107
+WARN	duplicate_exact_synonym	Exc L6 FEZF2 KLK7 primary motor cortex glutamatergic neuron (Homo sapiens)	oboInOwl:hasExactSynonym	RNAseq 107
+WARN	duplicate_exact_synonym	VLMC_3 primary motor cortex vascular leptomeningeal cell (Mus musculus)	oboInOwl:hasExactSynonym	RNAseq 106
+WARN	duplicate_exact_synonym	Exc L5-6 FEZF2 CFTR primary motor cortex glutamatergic neuron (Homo sapiens)	oboInOwl:hasExactSynonym	RNAseq 106
+WARN	duplicate_exact_synonym	VLMC_2 primary motor cortex vascular leptomeningeal cell (Mus musculus)	oboInOwl:hasExactSynonym	RNAseq 105
+WARN	duplicate_exact_synonym	Exc L6 FEZF2 PROKR2 primary motor cortex glutamatergic neuron (Homo sapiens)	oboInOwl:hasExactSynonym	RNAseq 105
+WARN	duplicate_exact_synonym	VLMC_1 primary motor cortex vascular leptomeningeal cell (Mus musculus)	oboInOwl:hasExactSynonym	RNAseq 104
+WARN	duplicate_exact_synonym	Exc L6 FEZF2 FFAR4 primary motor cortex glutamatergic neuron (Homo sapiens)	oboInOwl:hasExactSynonym	RNAseq 104
+WARN	duplicate_exact_synonym	Endo primary motor cortex endothelial cell (Mus musculus)	oboInOwl:hasExactSynonym	RNAseq 103
+WARN	duplicate_exact_synonym	Exc L6 FEZF2 PDYN primary motor cortex glutamatergic neuron (Homo sapiens)	oboInOwl:hasExactSynonym	RNAseq 103
+WARN	duplicate_exact_synonym	Oligo Opalin_4 primary motor cortex oligodendrocyte (Mus musculus)	oboInOwl:hasExactSynonym	RNAseq 102
+WARN	duplicate_exact_synonym	Exc L5-6 FEZF2 SH2D1B primary motor cortex glutamatergic neuron (Homo sapiens)	oboInOwl:hasExactSynonym	RNAseq 102
+WARN	duplicate_exact_synonym	Oligo Opalin_3 primary motor cortex oligodendrocyte (Mus musculus)	oboInOwl:hasExactSynonym	RNAseq 101
+WARN	duplicate_exact_synonym	Exc L5-6 FEZF2 FILIP1L primary motor cortex glutamatergic neuron (Homo sapiens)	oboInOwl:hasExactSynonym	RNAseq 101
+WARN	duplicate_exact_synonym	Oligo Opalin_2 primary motor cortex oligodendrocyte (Mus musculus)	oboInOwl:hasExactSynonym	RNAseq 100
+WARN	duplicate_exact_synonym	Exc L5-6 FEZF2 C9orf135-AS1 primary motor cortex glutamatergic neuron (Homo sapiens)	oboInOwl:hasExactSynonym	RNAseq 100
+WARN	duplicate_exact_synonym	Oligo Opalin_1 primary motor cortex oligodendrocyte (Mus musculus)	oboInOwl:hasExactSynonym	RNAseq 099
+WARN	duplicate_exact_synonym	Exc L5 THEMIS RGPD6 primary motor cortex glutamatergic neuron (Homo sapiens)	oboInOwl:hasExactSynonym	RNAseq 099
+WARN	duplicate_exact_synonym	Oligo Enpp6_4 primary motor cortex oligodendrocyte (Mus musculus)	oboInOwl:hasExactSynonym	RNAseq 098
+WARN	duplicate_exact_synonym	Exc L5 THEMIS LINC01116 primary motor cortex glutamatergic neuron (Homo sapiens)	oboInOwl:hasExactSynonym	RNAseq 098
+WARN	duplicate_exact_synonym	Oligo Enpp6_3 primary motor cortex oligodendrocyte (Mus musculus)	oboInOwl:hasExactSynonym	RNAseq 097
+WARN	duplicate_exact_synonym	Exc L5-6 FEZF2 OR1L8 primary motor cortex glutamatergic neuron (Homo sapiens)	oboInOwl:hasExactSynonym	RNAseq 097
+WARN	duplicate_exact_synonym	Oligo Enpp6_2 primary motor cortex oligodendrocyte (Mus musculus)	oboInOwl:hasExactSynonym	RNAseq 096
+WARN	duplicate_exact_synonym	Exc L5-6 THEMIS SMYD1 primary motor cortex glutamatergic neuron (Homo sapiens)	oboInOwl:hasExactSynonym	RNAseq 096
+WARN	duplicate_exact_synonym	Oligo Enpp6_1 primary motor cortex oligodendrocyte (Mus musculus)	oboInOwl:hasExactSynonym	RNAseq 095
+WARN	duplicate_exact_synonym	Exc L6 THEMIS SNTG2 primary motor cortex glutamatergic neuron (Homo sapiens)	oboInOwl:hasExactSynonym	RNAseq 095
+WARN	duplicate_exact_synonym	Astro Aqp4_Slc7a10 primary motor cortex astrocyte (Mus musculus)	oboInOwl:hasExactSynonym	RNAseq 094
+WARN	duplicate_exact_synonym	Exc L6 THEMIS SLN primary motor cortex glutamatergic neuron (Homo sapiens)	oboInOwl:hasExactSynonym	RNAseq 094
+WARN	duplicate_exact_synonym	Astro_C1 primary motor cortex astrocyte (Mus musculus)	oboInOwl:hasExactSynonym	RNAseq 093-094
+WARN	duplicate_exact_synonym	(Mouse L6 IT)-like_C1 primary motor cortex glutamatergic neuron (Homo sapiens)	oboInOwl:hasExactSynonym	RNAseq 093-094
+WARN	duplicate_exact_synonym	Astro Aqp4_Gfap primary motor cortex astrocyte (Mus musculus)	oboInOwl:hasExactSynonym	RNAseq 093
+WARN	duplicate_exact_synonym	Exc L6 THEMIS LINC00343 primary motor cortex glutamatergic neuron (Homo sapiens)	oboInOwl:hasExactSynonym	RNAseq 093
+WARN	duplicate_exact_synonym	Astro_Top2a primary motor cortex astrocyte (Mus musculus)	oboInOwl:hasExactSynonym	RNAseq 092
+WARN	duplicate_exact_synonym	Exc L5 THEMIS FGF10 primary motor cortex glutamatergic neuron (Homo sapiens)	oboInOwl:hasExactSynonym	RNAseq 092
