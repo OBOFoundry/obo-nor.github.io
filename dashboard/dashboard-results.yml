@@ -126,119 +126,6 @@ ontologies:
   version: null
 - base_generated: true
   base_prefixes:
-  - COLAO
-  - COLAOALT
-  changed: true
-  metrics:
-    'Axioms: Breakdown of axiom types':
-      AnnotationAssertion: 1846
-      Declaration: 712
-      EquivalentClasses: 6
-      FunctionalObjectProperty: 1
-      InverseFunctionalObjectProperty: 1
-      InverseObjectProperties: 8
-      SubClassOf: 2165
-      SubObjectPropertyOf: 6
-      SubPropertyChainOf: 6
-      SymmetricObjectProperty: 3
-      TransitiveObjectProperty: 14
-    'Axioms: Number of axioms': 4768
-    'Entities: % of entities reused': 100.0
-    'Entities: Number of annotation properties': 20
-    'Entities: Number of classes': 663
-    'Entities: Number of data properties': 0
-    'Entities: Number of individuals': 0
-    'Entities: Number of object properties': 30
-    'Entities: Number of unsatisfiable classes': 0
-    'Info: Breakdown of OWL class expressions used':
-      Class: 5389
-      ObjectComplementOf: 10
-      ObjectIntersectionOf: 377
-      ObjectSomeValuesFrom: 1844
-      ObjectUnionOf: 11
-    'Info: Does the ontology fall under OWL 2 DL?': true
-    'Info: Experimental OBO score':
-      _dashboard: 0.93
-      _formula: (3*impact+2*dashboard)/5
-      _impact: 0.0
-      _impact_external: 0
-      _reuse: 1.0
-      oboscore: 0.372
-    'Info: How many externally documented uses?': 0
-    'Info: How many ontologies use it?': 0
-    'Info: Logical consistency': true
-    'Info: Syntax': RDF/XML Syntax
-    'Info: Usage of namespaces in axioms':
-      BFO: 701
-      BSPO: 541
-      CARO: 6
-      CL: 27
-      IAO: 749
-      PATO: 150
-      PR: 2
-      RO: 851
-      UBERON: 80
-      dc: 1
-      dc11: 2693
-      foaf: 5
-      obo: 5240
-      oboInOwl: 1116
-      owl: 3
-      prefix_unknown: 2
-      rdf: 2079
-      rdfs: 764
-    'Info: Which ontologies use it?':
-    - colao
-  mirror_from: https://raw.githubusercontent.com/insect-morphology/colao/master/colao.owl
-  namespace: colao
-  results:
-    FP01 Open:
-      status: PASS
-    FP02 Common Format:
-      status: PASS
-    FP03 URIs:
-      status: PASS
-    FP04 Versioning:
-      status: PASS
-    FP05 Scope:
-      status: PASS
-    FP06 Textual Definitions:
-      comment: 1 missing definitions. See ROBOT Report for details.
-      status: WARN
-    FP07 Relations:
-      status: PASS
-    FP08 Documented:
-      status: PASS
-    FP09 Plurality of Users:
-      comment: Missing usages
-      status: ERROR
-    FP11 Locus of Authority:
-      status: PASS
-    FP12 Naming Conventions:
-      status: PASS
-    FP16 Maintenance:
-      status: PASS
-    FP20 Responsiveness:
-      status: PASS
-    ROBOT Report:
-      comment: 1 warnings, 0 info messages.
-      file: robot_report
-      results:
-        ERROR: 0
-        INFO: 0
-        WARN: 1
-      status: WARN
-  sha256_hash: 3d2299e40b4976b17330ee0b7755a7133dc6fbb5b21ec2c59c89497f92beadbe
-  summary:
-    comment: 1 errors
-    status: ERROR
-    summary_count:
-      ERROR: 1
-      INFO: 0
-      WARN: 2
-  version: http://purl.obolibrary.org/obo/colao/releases/2021-11-19/colao.owl
-- base_generated: true
-  base_prefixes:
   - GOMBO
   - GOMBOALT
   changed: true
@@ -334,78 +221,73 @@ ontologies:
       INFO: 1
       WARN: 1
   version: null
-- base_generated: true
+- base_generated: false
   base_prefixes:
-  - LEPAO
-  - LEPAOALT
+  - PCL
+  - PCLALT
   changed: true
   metrics:
     'Axioms: Breakdown of axiom types':
-      AnnotationAssertion: 2118
-      Declaration: 824
-      EquivalentClasses: 7
-      FunctionalObjectProperty: 1
-      InverseFunctionalObjectProperty: 1
-      InverseObjectProperties: 10
-      SubClassOf: 2193
-      SubObjectPropertyOf: 35
-      SubPropertyChainOf: 21
-      SymmetricObjectProperty: 4
-      TransitiveObjectProperty: 19
-    'Axioms: Number of axioms': 5233
+      AnnotationAssertion: 131893
+      ClassAssertion: 1459
+      Declaration: 112921
+      EquivalentClasses: 557
+      ObjectPropertyAssertion: 1027
+      SubClassOf: 114346
+    'Axioms: Number of axioms': 362203
     'Entities: % of entities reused': 100.0
-    'Entities: Number of annotation properties': 21
-    'Entities: Number of classes': 748
+    'Entities: Number of annotation properties': 49
+    'Entities: Number of classes': 111965
     'Entities: Number of data properties': 0
-    'Entities: Number of individuals': 0
-    'Entities: Number of object properties': 56
+    'Entities: Number of individuals': 902
+    'Entities: Number of object properties': 10
     'Entities: Number of unsatisfiable classes': 0
     'Info: Breakdown of OWL class expressions used':
-      Class: 5496
-      ObjectComplementOf: 10
-      ObjectIntersectionOf: 344
-      ObjectMaxCardinality: 1
-      ObjectMinCardinality: 1
-      ObjectSomeValuesFrom: 1774
-      ObjectUnionOf: 10
-    'Info: Does the ontology fall under OWL 2 DL?': true
+      Class: 343889
+      ObjectHasValue: 1114
+      ObjectIntersectionOf: 1503
+      ObjectSomeValuesFrom: 4086
+    'Info: Does the ontology fall under OWL 2 DL?': false
     'Info: Experimental OBO score':
-      _dashboard: 0.917
+      _dashboard: 0.935
       _formula: (3*impact+2*dashboard)/5
       _impact: 0.0
-      _impact_external: 0
+      _impact_external: 0.25
       _reuse: 1.0
-      oboscore: 0.367
-    'Info: How many externally documented uses?': 0
+      oboscore: 0.374
+    'Info: How many externally documented uses?': 1
     'Info: How many ontologies use it?': 0
     'Info: Logical consistency': true
     'Info: Syntax': RDF/XML Syntax
     'Info: Usage of namespaces in axioms':
-      BFO: 673
-      BSPO: 530
-      CARO: 5
-      CL: 27
-      IAO: 762
-      PATO: 143
-      PR: 2
-      RO: 917
-      UBERON: 93
+      BFO: 65
+      CL: 1208
+      IAO: 1564
+      NCBITaxon: 560
+      PATO: 69
+      PR: 19
+      RO: 4942
+      SO: 110887
+      UBERON: 652
       dc: 1
-      dc11: 2646
-      foaf: 5
-      obo: 5431
-      oboInOwl: 1360
-      owl: 3
-      prefix_unknown: 2
-      rdf: 1961
-      rdfs: 880
+      dc11: 3
+      obo: 15498
+      oboInOwl: 3233
+      owl: 447
+      prefix_unknown: 232766
+      rdfs: 113405
+      schema: 36
+      skos: 1897
+      xsd: 422
     'Info: Which ontologies use it?':
-    - lepao
-  mirror_from: https://raw.githubusercontent.com/insect-morphology/lepao/main/lepao.owl
-  namespace: lepao
+    - pcl
+  mirror_from: https://raw.githubusercontent.com/obophenotype/provisional_cell_ontology/master/pcl-base.owl
+  namespace: pcl
   results:
     FP01 Open:
-      status: PASS
+      comment: Registry license 'http://creativecommons.org/licenses/by/4.0/' is not
+        a valid open license.
+      status: WARN
     FP02 Common Format:
       status: PASS
     FP03 URIs:
@@ -415,15 +297,14 @@ ontologies:
     FP05 Scope:
       status: PASS
     FP06 Textual Definitions:
-      comment: 130 missing definitions. See ROBOT Report for details.
+      comment: 110905 missing definitions. See ROBOT Report for details.
       status: WARN
     FP07 Relations:
       status: PASS
     FP08 Documented:
       status: PASS
     FP09 Plurality of Users:
-      comment: Missing usages
-      status: ERROR
+      status: PASS
     FP11 Locus of Authority:
       status: PASS
     FP12 Naming Conventions:
@@ -433,22 +314,22 @@ ontologies:
     FP20 Responsiveness:
       status: PASS
     ROBOT Report:
-      comment: 130 warnings, 4 info messages.
+      comment: 111863 warnings, 0 info messages.
       file: robot_report
       results:
         ERROR: 0
-        INFO: 4
-        WARN: 130
+        INFO: 0
+        WARN: 111863
       status: WARN
-  sha256_hash: fc2d646a60dc16288c1aaf3a3cd11e496b6dd9c11451b144d82a27162f2acb74
+  sha256_hash: 99e84baff8c99b5cb69e6ee1ab53003a9623cc1a6eeb76fe876130bafd422f49
   summary:
-    comment: 1 errors
-    status: ERROR
+    comment: 3 warnings
+    status: WARN
     summary_count:
-      ERROR: 1
+      ERROR: 0
       INFO: 0
-      WARN: 2
-  version: http://purl.obolibrary.org/obo/lepao/releases/2021-11-20/lepao.owl
+      WARN: 3
+  version: http://purl.obolibrary.org/obo/pcl/releases/2021-12-17/pcl-base.owl
 - base_generated: true
   base_prefixes:
   - PROCO
@@ -456,13 +337,13 @@ ontologies:
   changed: true
   metrics:
     'Axioms: Breakdown of axiom types':
-      AnnotationAssertion: 8198
+      AnnotationAssertion: 8203
       AnnotationPropertyDomain: 1
       AnnotationPropertyRangeOf: 1
       ClassAssertion: 22
       DataPropertyDomain: 3
       DataPropertyRange: 2
-      Declaration: 1089
+      Declaration: 1088
       DisjointClasses: 1
       EquivalentClasses: 22
       EquivalentObjectProperties: 4
@@ -477,7 +358,7 @@ ontologies:
       SubObjectPropertyOf: 17
       SymmetricObjectProperty: 1
       TransitiveObjectProperty: 8
-    'Axioms: Number of axioms': 10798
+    'Axioms: Number of axioms': 10802
     'Entities: % of entities reused': 100.0
     'Entities: Number of annotation properties': 89
     'Entities: Number of classes': 922
@@ -496,23 +377,23 @@ ontologies:
       ObjectUnionOf: 3
     'Info: Does the ontology fall under OWL 2 DL?': false
     'Info: Experimental OBO score':
-      _dashboard: 0.907
+      _dashboard: 0.911
       _formula: (3*impact+2*dashboard)/5
       _impact: 0.0
       _impact_external: 0.25
       _reuse: 1.0
-      oboscore: 0.363
+      oboscore: 0.364
     'Info: How many externally documented uses?': 2
     'Info: How many ontologies use it?': 0
     'Info: Logical consistency': true
     'Info: Syntax': RDF/XML Syntax
     'Info: Usage of namespaces in axioms':
-      BFO: 272
+      BFO: 271
       CHEBI: 1508
-      CHMO: 392
+      CHMO: 393
       FIX: 22
       GO: 20
-      IAO: 3065
+      IAO: 3070
       OBI: 322
       PATO: 40
       PR: 4
@@ -523,7 +404,7 @@ ontologies:
       obo: 1333
       oboInOwl: 3386
       owl: 19
-      prefix_unknown: 431
+      prefix_unknown: 430
       rdfs: 1162
       schema: 1
       skos: 339
@@ -535,7 +416,14 @@ ontologies:
   namespace: proco
   results:
     FP01 Open:
-      comment: Missing ontology license.
+      comment: 'Ontology license ''this work is licensed under a creative commons
+        attribution 4.0 international license http://creativecommons.org/licenses/by/4.0/.
+
+
+        these materials are provided \as is\ and without any warranties, express,
+        implied or statutory, including, without limitation, the warranties of non-infringement,
+        title, merchantability and fitness for a particular purpose.'' does not match
+        regsitry license ''https://creativecommons.org/licenses/by/4.0/''.'
       status: ERROR
     FP02 Common Format:
       status: PASS
@@ -548,8 +436,8 @@ ontologies:
     FP05 Scope:
       status: PASS
     FP06 Textual Definitions:
-      comment: 2 missing definitions. See ROBOT Report for details.
-      status: WARN
+      comment: 0 multiple definitions. See ROBOT Report for details.
+      status: ERROR
     FP07 Relations:
       comment: 5 non-RO properties used.
       file: fp7
@@ -568,21 +456,21 @@ ontologies:
     FP20 Responsiveness:
       status: PASS
     ROBOT Report:
-      comment: 1 errors, 2 warnings, 211 info messages.
+      comment: 2 errors, 1 warnings, 15 info messages.
       file: robot_report
       results:
-        ERROR: 1
-        INFO: 211
-        WARN: 2
+        ERROR: 2
+        INFO: 15
+        WARN: 1
       status: ERROR
-  sha256_hash: 30ec9329cbd9d105088e1f58b84d9fbf6787335fe4efb61bfca3e6fb02b298f7
+  sha256_hash: c0ec379ad7a8cdbe11f5392e4788fe30e1cbda1ba84fce70974f9938dc29c18c
   summary:
-    comment: 2 errors
+    comment: 3 errors
     status: ERROR
     summary_count:
-      ERROR: 2
+      ERROR: 3
       INFO: 2
-      WARN: 2
+      WARN: 1
   version: http://purl.obolibrary.org/obo/proco/proco.owl
 - base_generated: true
   base_prefixes:
@@ -670,11 +558,11 @@ ontologies:
     FP20 Responsiveness:
       status: PASS
     ROBOT Report:
-      comment: 100 errors, 250 warnings, 50 info messages.
+      comment: 100 errors, 250 warnings, 39 info messages.
       file: robot_report
       results:
         ERROR: 100
-        INFO: 50
+        INFO: 39
         WARN: 250
       status: ERROR
   sha256_hash: ec8f7b2011cb4d51ba712dd1ea00973ec8bd4fd415697c105df8738d6cba2029

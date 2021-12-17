@@ -1,0 +1,109 @@
+base_generated: false
+base_prefixes:
+- PCL
+- PCLALT
+changed: true
+metrics:
+  'Axioms: Breakdown of axiom types':
+    AnnotationAssertion: 131893
+    ClassAssertion: 1459
+    Declaration: 112921
+    EquivalentClasses: 557
+    ObjectPropertyAssertion: 1027
+    SubClassOf: 114346
+  'Axioms: Number of axioms': 362203
+  'Entities: % of entities reused': 100.0
+  'Entities: Number of annotation properties': 49
+  'Entities: Number of classes': 111965
+  'Entities: Number of data properties': 0
+  'Entities: Number of individuals': 902
+  'Entities: Number of object properties': 10
+  'Entities: Number of unsatisfiable classes': 0
+  'Info: Breakdown of OWL class expressions used':
+    Class: 343889
+    ObjectHasValue: 1114
+    ObjectIntersectionOf: 1503
+    ObjectSomeValuesFrom: 4086
+  'Info: Does the ontology fall under OWL 2 DL?': false
+  'Info: Experimental OBO score':
+    _dashboard: 0.935
+    _formula: (3*impact+2*dashboard)/5
+    _impact: 0.0
+    _impact_external: 0.25
+    _reuse: 1.0
+    oboscore: 0.374
+  'Info: How many externally documented uses?': 1
+  'Info: How many ontologies use it?': 0
+  'Info: Logical consistency': true
+  'Info: Syntax': RDF/XML Syntax
+  'Info: Usage of namespaces in axioms':
+    BFO: 65
+    CL: 1208
+    IAO: 1564
+    NCBITaxon: 560
+    PATO: 69
+    PR: 19
+    RO: 4942
+    SO: 110887
+    UBERON: 652
+    dc: 1
+    dc11: 3
+    obo: 15498
+    oboInOwl: 3233
+    owl: 447
+    prefix_unknown: 232766
+    rdfs: 113405
+    schema: 36
+    skos: 1897
+    xsd: 422
+  'Info: Which ontologies use it?':
+  - pcl
+mirror_from: https://raw.githubusercontent.com/obophenotype/provisional_cell_ontology/master/pcl-base.owl
+namespace: pcl
+results:
+  FP01 Open:
+    comment: Registry license 'http://creativecommons.org/licenses/by/4.0/' is not
+      a valid open license.
+    status: WARN
+  FP02 Common Format:
+    status: PASS
+  FP03 URIs:
+    status: PASS
+  FP04 Versioning:
+    status: PASS
+  FP05 Scope:
+    status: PASS
+  FP06 Textual Definitions:
+    comment: 110905 missing definitions. See ROBOT Report for details.
+    status: WARN
+  FP07 Relations:
+    status: PASS
+  FP08 Documented:
+    status: PASS
+  FP09 Plurality of Users:
+    status: PASS
+  FP11 Locus of Authority:
+    status: PASS
+  FP12 Naming Conventions:
+    status: PASS
+  FP16 Maintenance:
+    status: PASS
+  FP20 Responsiveness:
+    status: PASS
+  ROBOT Report:
+    comment: 111863 warnings, 0 info messages.
+    file: robot_report
+    results:
+      ERROR: 0
+      INFO: 0
+      WARN: 111863
+    status: WARN
+sha256_hash: 99e84baff8c99b5cb69e6ee1ab53003a9623cc1a6eeb76fe876130bafd422f49
+summary:
+  comment: 3 warnings
+  status: WARN
+  summary_count:
+    ERROR: 0
+    INFO: 0
+    WARN: 3
+version: http://purl.obolibrary.org/obo/pcl/releases/2021-12-17/pcl-base.owl

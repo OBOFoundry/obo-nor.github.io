@@ -32,54 +32,51 @@ ontologies:
           description: pharmaceutical API development
         - user: Allotrope
           description: important domain in pharmaceutical industry
-    - id: colao
-      mirror_from: https://raw.githubusercontent.com/insect-morphology/colao/master/colao.owl
-      title: Coleoptera Anatomy Ontology
+    - id: pcl
+      mirror_from: https://raw.githubusercontent.com/obophenotype/provisional_cell_ontology/master/pcl-base.owl
+      title: "Provisional Cell Ontology"
       contact:
-        email: entiminae@gmail.com
-        label: Jennifer C. Girón
-      description: The Coleoptera Anatomy Ontology contains terms used for describing the anatomy and phenotype of beetles in biodiversity research.
-      domain: insect anatomy
-      homepage: https://github.com/insect-morphology/colao
+        email: davidos@ebi.ac.uk
+        label: David Osumi-Sutherland
+        github: dosumis
+      description: Cell types that are provisionally defined by experimental techniques such as single cell or single nucleus transcriptomics rather than a straightforward & coherent set of properties. 
+      domain: phenotype
+      homepage: https://github.com/obophenotype/provisional_cell_ontology
       products:
-        - id: colao.owl
-        - id: colao.obo
+        - id: pcl.owl
+        - id: pcl.obo
+        - id: pcl.json
+        - id: pcl-base.owl
+        - id: pcl-base.obo
+        - id: pcl-base.json
+        - id: pcl-full.owl
+        - id: pcl-full.obo
+        - id: pcl-full.json
+        - id: pcl-simple.owl
+        - id: pcl-simple.obo
+        - id: pcl-simple.json
       dependencies:
-        - id: aism
+        - id: pr
+        - id: go
+        - id: uberon 
         - id: ro
-        - id: uberon
-        - id: caro
         - id: pato
+        - id: ncbitaxon
         - id: bfo
-        - id: bspo
-      tracker: https://github.com/insect-morphology/colao/issues
+        - id: cl
+        - id: omo
+        - id: nbo
+        - id: chebi
+        - id: so
+      tracker: https://github.com/obophenotype/provisional_cell_ontology/issues
       license:
-        url: https://creativecommons.org/licenses/by/4.0/
-        label: CC BY 4.0
-    - id: lepao
-      mirror_from: https://raw.githubusercontent.com/insect-morphology/lepao/main/lepao.owl
-      title: Lepidoptera Anatomy Ontology
-      contact:
-        email: lagonzalezmo@unal.edu.co; luis.gonzalez.montana@unillanos.edu.co
-        label: Luis A. González-Montaña
-      description: The Lepidoptera Anatomy Ontology contains terms used for describing the anatomy and phenotype of moths and butterflies in biodiversity research. LEPAO is developed in part by BIOfid (The Specialised Information Service Biodiversity Research).
-      domain: Insect Anatomy
-      homepage: https://github.com/insect-morphology/lepao
-      products:
-        - id: lepao.owl
-        - id: lepao.obo
-      dependencies:
-        - id: aism
-        - id: ro
-        - id: uberon
-        - id: caro
-        - id: pato
-        - id: bfo
-        - id: bspo
-      tracker: https://github.com/insect-morphology/lepao/issues
-      license:
-        url: https://creativecommons.org/licenses/by/4.0/
-        label: CC BY 4.0
+        url: http://creativecommons.org/licenses/by/4.0/
+        label: CC-BY 4.0
+      usages:
+        - user: https://biccn.org/
+          description: This ontology will be used to annotate cell types in single cell transcriptomics data, with an initial focus on the brain. It is also used to drive search and navigation in a cell type data explorer web application. 
+      repository: https://github.com/obophenotype/provisional_cell_ontology
+      preferredPrefix: PCL
     - id: gombo
       mirror_from: "https://raw.githubusercontent.com/BridgetSquidget/gombo/main/gombo_v1.owx"
       title: General Ontology for Marine Bioluminescent Organs

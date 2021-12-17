@@ -84,11 +84,11 @@ results:
   FP20 Responsiveness:
     status: PASS
   ROBOT Report:
-    comment: 100 errors, 250 warnings, 50 info messages.
+    comment: 100 errors, 250 warnings, 39 info messages.
     file: robot_report
     results:
       ERROR: 100
-      INFO: 50
+      INFO: 39
       WARN: 250
     status: ERROR
 sha256_hash: ec8f7b2011cb4d51ba712dd1ea00973ec8bd4fd415697c105df8738d6cba2029
