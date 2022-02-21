@@ -26,6 +26,164 @@ oboscore:
 ontologies:
 - base_generated: true
   base_prefixes:
+  - ADO
+  - ADOALT
+  changed: true
+  metrics:
+    'Axioms: Breakdown of axiom types':
+      AnnotationAssertion: 34244
+      Declaration: 2050
+      DisjointClasses: 19
+      SubAnnotationPropertyOf: 15
+      SubClassOf: 2274
+      SubObjectPropertyOf: 1
+      SymmetricObjectProperty: 1
+      TransitiveObjectProperty: 2
+    'Axioms: Number of axioms': 38606
+    'Entities: % of entities reused': 100.0
+    'Entities: Number of annotation properties': 175
+    'Entities: Number of classes': 1860
+    'Entities: Number of data properties': 0
+    'Entities: Number of individuals': 2
+    'Entities: Number of object properties': 14
+    'Entities: Number of unsatisfiable classes': 0
+    'Info: Breakdown of OWL class expressions used':
+      Class: 6445
+      ObjectSomeValuesFrom: 105
+    'Info: Does the ontology fall under OWL 2 DL?': false
+    'Info: Experimental OBO score':
+      _dashboard: 0.924
+      _formula: (3*impact+2*dashboard)/5
+      _impact: 0.0
+      _impact_external: 0
+      _reuse: 1.0
+      oboscore: 0.37
+    'Info: How many externally documented uses?': 0
+    'Info: How many ontologies use it?': 0
+    'Info: Logical consistency': true
+    'Info: Syntax': RDF/XML Syntax
+    'Info: Usage of namespaces in axioms':
+      BFO: 278
+      BTO: 15
+      CHEBI: 2013
+      CL: 103
+      CLO: 6
+      CMO: 39
+      CTO: 21
+      DOID: 200
+      DRON: 32
+      EMAPA: 3
+      ERO: 44
+      ExO: 2
+      FMA: 118
+      FOODON: 2
+      FYPO: 2
+      GECKO: 32
+      GENEPIO: 4
+      GENO: 4
+      GO: 435
+      GSSO: 14
+      HP: 54
+      IAO: 7029
+      ICO: 4
+      IDOMAL: 14
+      INO: 26
+      MAXO: 46
+      MF: 11
+      MFOMD: 2
+      MI: 25
+      MMO: 11
+      MOD: 2
+      MONDO: 94
+      MOP: 21
+      MP: 10
+      MPATH: 11
+      NBO: 16
+      NCBITaxon: 54
+      NCIT: 1255
+      OAE: 12
+      OBA: 2
+      OBCS: 30
+      OBI: 78
+      OGG: 7365
+      OGMS: 83
+      OMIABIS: 2
+      OMIT: 117
+      ONS: 4
+      OPMI: 21
+      PATO: 31
+      PLANA: 2
+      PR: 33
+      PW: 16
+      REX: 2
+      RO: 42
+      SCDO: 41
+      SO: 4
+      STATO: 20
+      SYMP: 100
+      TXPO: 62
+      UBERON: 196
+      VO: 2
+      XCO: 2
+      dc: 21
+      dc11: 571
+      foaf: 24
+      obo: 1838
+      oboInOwl: 15705
+      owl: 4
+      prefix_unknown: 168
+      rdf: 1
+      rdfs: 2325
+      skos: 181
+    'Info: Which ontologies use it?':
+    - ADO
+  mirror_from: https://raw.githubusercontent.com/Fraunhofer-SCAI-Applied-Semantics/ADO/main/Releases/1.0.0/ADO.owl
+  namespace: ADO
+  results:
+    FP01 Open:
+      status: PASS
+    FP02 Common Format:
+      status: PASS
+    FP03 URIs:
+      status: PASS
+    FP04 Versioning:
+      comment: Version IRI 'https://bio.scai.fraunhofer.de/ontology/ADO/1.0.0' is
+        not in recommended format
+      status: WARN
+    FP05 Scope:
+      status: PASS
+    FP06 Textual Definitions:
+      status: PASS
+    FP07 Relations:
+      status: PASS
+    FP08 Documented:
+      status: PASS
+    FP09 Plurality of Users:
+      comment: Missing usages
+      status: ERROR
+    FP11 Locus of Authority:
+      comment: Invalid contact information
+      status: ERROR
+    FP12 Naming Conventions:
+      status: PASS
+    FP16 Maintenance:
+      comment: Version IRI does not have date information
+      status: INFO
+    FP20 Responsiveness:
+      status: PASS
+    ROBOT Report:
+      status: PASS
+  sha256_hash: 15cd8143e3b128d11ee347eaa5d558b71204474aab94d2685d64c5e4e0856edd
+  summary:
+    comment: 2 errors
+    status: ERROR
+    summary_count:
+      ERROR: 2
+      INFO: 1
+      WARN: 1
+  version: https://bio.scai.fraunhofer.de/ontology/ADO/1.0.0
+- base_generated: true
+  base_prefixes:
   - CBO
   - CBOALT
   changed: true
@@ -52,12 +210,12 @@ ontologies:
       Class: 959
     'Info: Does the ontology fall under OWL 2 DL?': true
     'Info: Experimental OBO score':
-      _dashboard: 0.889
+      _dashboard: 0.874
       _formula: (3*impact+2*dashboard)/5
       _impact: 0.0
       _impact_external: 0
       _reuse: 1.0
-      oboscore: 0.356
+      oboscore: 0.35
     'Info: How many externally documented uses?': 0
     'Info: How many ontologies use it?': 0
     'Info: Logical consistency': true
@@ -80,7 +238,8 @@ ontologies:
         not a valid open license. Missing ontology license.
       status: ERROR
     FP02 Common Format:
-      status: PASS
+      comment: OWL syntax (OWL/XML Syntax), but should be RDF/XML
+      status: WARN
     FP03 URIs:
       status: PASS
     FP04 Versioning:
@@ -98,7 +257,8 @@ ontologies:
       comment: Missing tracker and usages
       status: ERROR
     FP11 Locus of Authority:
-      status: PASS
+      comment: Invalid contact information
+      status: ERROR
     FP12 Naming Conventions:
       status: PASS
     FP16 Maintenance:
@@ -117,12 +277,12 @@ ontologies:
       status: ERROR
   sha256_hash: 188fcacc21122c50ca7838a476e65ad83a5109f24d067d9e2824bd1588ef1ece
   summary:
-    comment: 6 errors
+    comment: 7 errors
     status: ERROR
     summary_count:
-      ERROR: 6
+      ERROR: 7
       INFO: 0
-      WARN: 0
+      WARN: 1
   version: null
 - base_generated: true
   base_prefixes:
@@ -147,12 +307,12 @@ ontologies:
       ObjectSomeValuesFrom: 66
     'Info: Does the ontology fall under OWL 2 DL?': true
     'Info: Experimental OBO score':
-      _dashboard: 0.851
+      _dashboard: 0.846
       _formula: (3*impact+2*dashboard)/5
       _impact: 0.0
       _impact_external: 0
       _reuse: 1.0
-      oboscore: 0.34
+      oboscore: 0.338
     'Info: How many externally documented uses?': 0
     'Info: How many ontologies use it?': 0
     'Info: Logical consistency': true
@@ -172,7 +332,8 @@ ontologies:
       comment: Missing ontology license.
       status: ERROR
     FP02 Common Format:
-      status: PASS
+      comment: OWL syntax (OWL/XML Syntax), but should be RDF/XML
+      status: WARN
     FP03 URIs:
       status: PASS
     FP04 Versioning:
@@ -219,115 +380,8 @@ ontologies:
     summary_count:
       ERROR: 8
       INFO: 1
-      WARN: 1
-  version: null
-- base_generated: false
-  base_prefixes:
-  - PCL
-  - PCLALT
-  changed: true
-  metrics:
-    'Axioms: Breakdown of axiom types':
-      AnnotationAssertion: 131893
-      ClassAssertion: 1459
-      Declaration: 112921
-      EquivalentClasses: 557
-      ObjectPropertyAssertion: 1027
-      SubClassOf: 114346
-    'Axioms: Number of axioms': 362203
-    'Entities: % of entities reused': 100.0
-    'Entities: Number of annotation properties': 49
-    'Entities: Number of classes': 111965
-    'Entities: Number of data properties': 0
-    'Entities: Number of individuals': 902
-    'Entities: Number of object properties': 10
-    'Entities: Number of unsatisfiable classes': 0
-    'Info: Breakdown of OWL class expressions used':
-      Class: 343889
-      ObjectHasValue: 1114
-      ObjectIntersectionOf: 1503
-      ObjectSomeValuesFrom: 4086
-    'Info: Does the ontology fall under OWL 2 DL?': false
-    'Info: Experimental OBO score':
-      _dashboard: 0.94
-      _formula: (3*impact+2*dashboard)/5
-      _impact: 0.0
-      _impact_external: 0.25
-      _reuse: 1.0
-      oboscore: 0.376
-    'Info: How many externally documented uses?': 1
-    'Info: How many ontologies use it?': 0
-    'Info: Logical consistency': true
-    'Info: Syntax': RDF/XML Syntax
-    'Info: Usage of namespaces in axioms':
-      BFO: 65
-      CL: 1208
-      IAO: 1564
-      NCBITaxon: 560
-      PATO: 69
-      PR: 19
-      RO: 4942
-      SO: 110887
-      UBERON: 652
-      dc: 1
-      dc11: 3
-      obo: 15498
-      oboInOwl: 3233
-      owl: 447
-      prefix_unknown: 232766
-      rdfs: 113405
-      schema: 36
-      skos: 1897
-      xsd: 422
-    'Info: Which ontologies use it?':
-    - pcl
-  mirror_from: https://raw.githubusercontent.com/obophenotype/provisional_cell_ontology/master/pcl-base.owl
-  namespace: pcl
-  results:
-    FP01 Open:
-      status: PASS
-    FP02 Common Format:
-      status: PASS
-    FP03 URIs:
-      status: PASS
-    FP04 Versioning:
-      status: PASS
-    FP05 Scope:
-      status: PASS
-    FP06 Textual Definitions:
-      comment: 110905 missing definitions. See ROBOT Report for details.
-      status: WARN
-    FP07 Relations:
-      status: PASS
-    FP08 Documented:
-      status: PASS
-    FP09 Plurality of Users:
-      status: PASS
-    FP11 Locus of Authority:
-      status: PASS
-    FP12 Naming Conventions:
-      status: PASS
-    FP16 Maintenance:
-      status: PASS
-    FP20 Responsiveness:
-      status: PASS
-    ROBOT Report:
-      comment: 111863 warnings, 0 info messages.
-      file: robot_report
-      results:
-        ERROR: 0
-        INFO: 0
-        WARN: 111863
-      status: WARN
-  sha256_hash: 99e84baff8c99b5cb69e6ee1ab53003a9623cc1a6eeb76fe876130bafd422f49
-  summary:
-    comment: 2 warnings
-    status: WARN
-    summary_count:
-      ERROR: 0
-      INFO: 0
       WARN: 2
-  version: http://purl.obolibrary.org/obo/pcl/releases/2021-12-17/pcl-base.owl
+  version: null
 - base_generated: true
   base_prefixes:
   - PROCO
@@ -341,7 +395,7 @@ ontologies:
       ClassAssertion: 22
       DataPropertyDomain: 3
       DataPropertyRange: 2
-      Declaration: 1088
+      Declaration: 1089
       DisjointClasses: 1
       EquivalentClasses: 22
       EquivalentObjectProperties: 4
@@ -356,7 +410,7 @@ ontologies:
       SubObjectPropertyOf: 17
       SymmetricObjectProperty: 1
       TransitiveObjectProperty: 8
-    'Axioms: Number of axioms': 10802
+    'Axioms: Number of axioms': 10803
     'Entities: % of entities reused': 100.0
     'Entities: Number of annotation properties': 89
     'Entities: Number of classes': 922
@@ -391,18 +445,18 @@ ontologies:
       CHMO: 393
       FIX: 22
       GO: 20
-      IAO: 3070
+      IAO: 3069
       OBI: 322
       PATO: 40
       PR: 4
-      RO: 176
+      RO: 177
       dc: 27
       dc11: 163
       foaf: 8
       obo: 1333
       oboInOwl: 3386
       owl: 19
-      prefix_unknown: 430
+      prefix_unknown: 431
       rdfs: 1162
       schema: 1
       skos: 339
@@ -414,15 +468,7 @@ ontologies:
   namespace: proco
   results:
     FP01 Open:
-      comment: 'Ontology license ''this work is licensed under a creative commons
-        attribution 4.0 international license http://creativecommons.org/licenses/by/4.0/.
-
-
-        these materials are provided \as is\ and without any warranties, express,
-        implied or statutory, including, without limitation, the warranties of non-infringement,
-        title, merchantability and fitness for a particular purpose.'' does not match
-        regsitry license ''https://creativecommons.org/licenses/by/4.0/''.'
-      status: ERROR
+      status: PASS
     FP02 Common Format:
       status: PASS
     FP03 URIs:
@@ -445,7 +491,8 @@ ontologies:
     FP09 Plurality of Users:
       status: PASS
     FP11 Locus of Authority:
-      status: PASS
+      comment: Invalid contact information
+      status: ERROR
     FP12 Naming Conventions:
       status: PASS
     FP16 Maintenance:
@@ -461,7 +508,7 @@ ontologies:
         INFO: 15
         WARN: 1
       status: ERROR
-  sha256_hash: c0ec379ad7a8cdbe11f5392e4788fe30e1cbda1ba84fce70974f9938dc29c18c
+  sha256_hash: f2a02f3b0e3d4b612c10ac163c3dbc693884116fd051b42a4d3f3a377570e8b2
   summary:
     comment: 3 errors
     status: ERROR
@@ -500,12 +547,12 @@ ontologies:
       ObjectUnionOf: 2
     'Info: Does the ontology fall under OWL 2 DL?': true
     'Info: Experimental OBO score':
-      _dashboard: 0.852
+      _dashboard: 0.842
       _formula: (3*impact+2*dashboard)/5
       _impact: 0.0
       _impact_external: 0.5
       _reuse: 1.0
-      oboscore: 0.341
+      oboscore: 0.337
     'Info: How many externally documented uses?': 3
     'Info: How many ontologies use it?': 0
     'Info: Logical consistency': true
@@ -548,7 +595,8 @@ ontologies:
     FP09 Plurality of Users:
       status: PASS
     FP11 Locus of Authority:
-      status: PASS
+      comment: Invalid contact information
+      status: ERROR
     FP12 Naming Conventions:
       status: PASS
     FP16 Maintenance:
@@ -565,10 +613,10 @@ ontologies:
       status: ERROR
   sha256_hash: ec8f7b2011cb4d51ba712dd1ea00973ec8bd4fd415697c105df8738d6cba2029
   summary:
-    comment: 2 errors
+    comment: 3 errors
     status: ERROR
     summary_count:
-      ERROR: 2
+      ERROR: 3
       INFO: 1
       WARN: 0
   version: http://purl.obolibrary.org/obo/t4fs/releases/2021-05-25/t4fs.owl

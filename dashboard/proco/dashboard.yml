@@ -11,7 +11,7 @@ metrics:
     ClassAssertion: 22
     DataPropertyDomain: 3
     DataPropertyRange: 2
-    Declaration: 1088
+    Declaration: 1089
     DisjointClasses: 1
     EquivalentClasses: 22
     EquivalentObjectProperties: 4
@@ -26,7 +26,7 @@ metrics:
     SubObjectPropertyOf: 17
     SymmetricObjectProperty: 1
     TransitiveObjectProperty: 8
-  'Axioms: Number of axioms': 10802
+  'Axioms: Number of axioms': 10803
   'Entities: % of entities reused': 100.0
   'Entities: Number of annotation properties': 89
   'Entities: Number of classes': 922
@@ -61,18 +61,18 @@ metrics:
     CHMO: 393
     FIX: 22
     GO: 20
-    IAO: 3070
+    IAO: 3069
     OBI: 322
     PATO: 40
     PR: 4
-    RO: 176
+    RO: 177
     dc: 27
     dc11: 163
     foaf: 8
     obo: 1333
     oboInOwl: 3386
     owl: 19
-    prefix_unknown: 430
+    prefix_unknown: 431
     rdfs: 1162
     schema: 1
     skos: 339
@@ -84,15 +84,7 @@ mirror_from: https://raw.githubusercontent.com/proco-ontology/PROCO/main/src/ont
 namespace: proco
 results:
   FP01 Open:
-    comment: 'Ontology license ''this work is licensed under a creative commons attribution
-      4.0 international license http://creativecommons.org/licenses/by/4.0/.
-
-
-      these materials are provided \as is\ and without any warranties, express, implied
-      or statutory, including, without limitation, the warranties of non-infringement,
-      title, merchantability and fitness for a particular purpose.'' does not match
-      regsitry license ''https://creativecommons.org/licenses/by/4.0/''.'
-    status: ERROR
+    status: PASS
   FP02 Common Format:
     status: PASS
   FP03 URIs:
@@ -115,7 +107,8 @@ results:
   FP09 Plurality of Users:
     status: PASS
   FP11 Locus of Authority:
-    status: PASS
+    comment: Invalid contact information
+    status: ERROR
   FP12 Naming Conventions:
     status: PASS
   FP16 Maintenance:
@@ -131,7 +124,7 @@ results:
       INFO: 15
       WARN: 1
     status: ERROR
-sha256_hash: c0ec379ad7a8cdbe11f5392e4788fe30e1cbda1ba84fce70974f9938dc29c18c
+sha256_hash: f2a02f3b0e3d4b612c10ac163c3dbc693884116fd051b42a4d3f3a377570e8b2
 summary:
   comment: 3 errors
   status: ERROR
