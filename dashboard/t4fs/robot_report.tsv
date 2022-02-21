@@ -1,4 +1,6 @@
 Level	Rule Name	Subject	Property	Value
+ERROR	label_formatting	the use of FAIR and open research tools or services knowledge	rdfs:label	"the use of FAIR and open research tools or services
+ knowledge"
 ERROR	duplicate_definition	use of persistent, resolvable identifiers (PIDs)	IAO:0000115	[NH]
 ERROR	duplicate_definition	metadata creation and exposure	IAO:0000115	[NH]
 ERROR	duplicate_definition	confers/requires practical skill about	IAO:0000115	"A competence or capability acquired or applied in a specific context, e.g. producing a research output or deploying a service. A skill may be specified in a ‘skills user story’.
@@ -35,36 +37,6 @@ ERROR	duplicate_definition	policies (legal requirements, ethical & FAIR principl
 ERROR	duplicate_definition	software development	IAO:0000115	??
 ERROR	duplicate_definition	knowledge about data stewardship planning	IAO:0000115	??
 ERROR	duplicate_definition	has/wants competency in	IAO:0000115	??
-ERROR	multiple_definitions	software review and preservation	IAO:0000115	??Delete??
-ERROR	multiple_definitions	software review and preservation	IAO:0000115	VDA
-ERROR	multiple_definitions	willingness to help and understand researchers	IAO:0000115	??
-ERROR	multiple_definitions	willingness to help and understand researchers	IAO:0000115	?? Delete??
-ERROR	multiple_definitions	preservation costs management	IAO:0000115	??
-ERROR	multiple_definitions	preservation costs management	IAO:0000115	Planning for and controlling the present and future costs of the conservation of data, including technical storage, fixed costs, and staff resources. [LLC]
-ERROR	multiple_definitions	ability to solve fair implementation problems collaboratively	IAO:0000115	Demonstrate ability to involve others and share responsibility for applying FAIR principles
-ERROR	multiple_definitions	ability to solve fair implementation problems collaboratively	IAO:0000115	Demonstrate willingness to involve others and share responsibility for applying FAIR principles
-ERROR	multiple_definitions	metadata creation and exposure	IAO:0000115	[NH]
-ERROR	multiple_definitions	metadata creation and exposure	IAO:0000115	"data providing information about characteristics, aspects or context of other data entities such as a dataset or other digital or analog object.  Used to find, identify, select and acquire or obtain access to a data entity.  (See FRBR User Tasks at:
- https://sites.google.com/site/metadatastandards/chapter-6/6-3-frbr-user-tasks.)"
-ERROR	multiple_definitions	preservation skill	IAO:0000115	??Delete??
-ERROR	multiple_definitions	preservation skill	IAO:0000115	General definition: to keep something as it is, especially in order to prevent it from decaying or being damaged or destroyed (source: https://dictionary.cambridge.org/fr/dictionnaire/anglais/preserve). Specific definition: to keep data accessible, findable and in a state enabling reuse prevent it to decay, being damaged. In this definition we are considering the aspects of both short and long term preservation.
-ERROR	multiple_definitions	choosing the appropriate terminology for your data	IAO:0000115	To be able to research and identify the appropriate taxonomy for your project. This may involve using resources such as FAIRsharing, which captures metadata on taxonomies and provides an assessment of their FAIRness.[PMQ]
-ERROR	multiple_definitions	choosing the appropriate terminology for your data	IAO:0000115	To be able to research and identify the appropriate terminology for your project. This may involve using resources such as FAIRsharing, which captures metadata on taxonomies and provides an assessment of their FAIRness.[PMQ]
-ERROR	multiple_definitions	knowledge to relate FAIR data assessment to research community norms	IAO:0000115	Know how the acceptability of research data FAIRness depends on the research community norms e.g. concepts of data and methods for deriving valid knowledge
-ERROR	multiple_definitions	knowledge to relate FAIR data assessment to research community norms	IAO:0000115	Know how the acceptability of research evidence depends on the research community concept of data and its methods for deriving valid knowledge from it
-ERROR	multiple_definitions	resource management	IAO:0000115	??
-ERROR	multiple_definitions	resource management	IAO:0000115	Resource management is the efficient and effective development of an organization's resources when they are needed. Such resources may include the financial resources, inventory, human skills, production resources, or information technology (IT) and natural resources. [LLC]
-ERROR	multiple_definitions	Standard	IAO:0000115	A document that applies collectively to codes, specifications, recommended practices, classifications, test methods, and guides, which have been prepared by a standards developing organization or group, and published in accordance with established procedures. http://www.ses-standards.org/?58
-ERROR	multiple_definitions	Standard	IAO:0000115	A document that applies collectively to codes, specifications, recommended practices, classifications, test methods, and guides, which have been prepared by a standards developing organization or group, and published in accordance with established procedures.n/ahttp://www.ses-standards.org/?58
-ERROR	multiple_definitions	knowledge of theories underlying FAIR implementation	IAO:0000115	Understand the concepts underpinning FAIR criteria
-ERROR	multiple_definitions	knowledge of theories underlying FAIR implementation	IAO:0000115	Understand the concepts underpinning FAIR criteria and their application
-ERROR	multiple_definitions	Data profiling	IAO:0000115	The statistical analysis and assessment of the quality of data values within a dataset for consistency, uniqueness and logic. The data profiling process cannot identify inaccurate data; it can only identify business rules violations and anomalies.
-ERROR	multiple_definitions	Data profiling	IAO:0000115	The statistical analysis and assessment of the quality of data values within a dataset for consistency, uniqueness and logic. The data profiling process cannot identify inaccurate data; it can only identify business rules violations and anomalies. The insight gained by data profiling can be used to determine how difficult it will be to use existing...
-ERROR	multiple_definitions	has/wants competency in	IAO:0000115	??
-ERROR	multiple_definitions	has/wants competency in	IAO:0000115	"An element (topic) of theory or practice e.g. ‘workflow set-up and management’, combined with an expertise level to indicate
-whether someone has an awareness of the area, or an ability to do it, or expert knowledge of it."
-ERROR	label_formatting	the use of FAIR and open research tools or services knowledge	rdfs:label	"the use of FAIR and open research tools or services
- knowledge"
 ERROR	label_whitespace	Pipe separated values 	rdfs:label	Pipe separated values 
 ERROR	label_whitespace	Repository access 	rdfs:label	Repository access 
 ERROR	label_whitespace	Interoperability 	rdfs:label	Interoperability 
@@ -104,6 +76,34 @@ ERROR	label_whitespace	Golden record 	rdfs:label	Golden record
 ERROR	label_whitespace	Electronic health record 	rdfs:label	Electronic health record 
 ERROR	label_whitespace	Privacy governance 	rdfs:label	Privacy governance 
 ERROR	label_whitespace	Encoding schema 	rdfs:label	Encoding schema 
+ERROR	multiple_definitions	software review and preservation	IAO:0000115	??Delete??
+ERROR	multiple_definitions	software review and preservation	IAO:0000115	VDA
+ERROR	multiple_definitions	willingness to help and understand researchers	IAO:0000115	??
+ERROR	multiple_definitions	willingness to help and understand researchers	IAO:0000115	?? Delete??
+ERROR	multiple_definitions	preservation costs management	IAO:0000115	??
+ERROR	multiple_definitions	preservation costs management	IAO:0000115	Planning for and controlling the present and future costs of the conservation of data, including technical storage, fixed costs, and staff resources. [LLC]
+ERROR	multiple_definitions	ability to solve fair implementation problems collaboratively	IAO:0000115	Demonstrate ability to involve others and share responsibility for applying FAIR principles
+ERROR	multiple_definitions	ability to solve fair implementation problems collaboratively	IAO:0000115	Demonstrate willingness to involve others and share responsibility for applying FAIR principles
+ERROR	multiple_definitions	metadata creation and exposure	IAO:0000115	[NH]
+ERROR	multiple_definitions	metadata creation and exposure	IAO:0000115	"data providing information about characteristics, aspects or context of other data entities such as a dataset or other digital or analog object.  Used to find, identify, select and acquire or obtain access to a data entity.  (See FRBR User Tasks at:
+ https://sites.google.com/site/metadatastandards/chapter-6/6-3-frbr-user-tasks.)"
+ERROR	multiple_definitions	preservation skill	IAO:0000115	??Delete??
+ERROR	multiple_definitions	preservation skill	IAO:0000115	General definition: to keep something as it is, especially in order to prevent it from decaying or being damaged or destroyed (source: https://dictionary.cambridge.org/fr/dictionnaire/anglais/preserve). Specific definition: to keep data accessible, findable and in a state enabling reuse prevent it to decay, being damaged. In this definition we are considering the aspects of both short and long term preservation.
+ERROR	multiple_definitions	choosing the appropriate terminology for your data	IAO:0000115	To be able to research and identify the appropriate taxonomy for your project. This may involve using resources such as FAIRsharing, which captures metadata on taxonomies and provides an assessment of their FAIRness.[PMQ]
+ERROR	multiple_definitions	choosing the appropriate terminology for your data	IAO:0000115	To be able to research and identify the appropriate terminology for your project. This may involve using resources such as FAIRsharing, which captures metadata on taxonomies and provides an assessment of their FAIRness.[PMQ]
+ERROR	multiple_definitions	knowledge to relate FAIR data assessment to research community norms	IAO:0000115	Know how the acceptability of research data FAIRness depends on the research community norms e.g. concepts of data and methods for deriving valid knowledge
+ERROR	multiple_definitions	knowledge to relate FAIR data assessment to research community norms	IAO:0000115	Know how the acceptability of research evidence depends on the research community concept of data and its methods for deriving valid knowledge from it
+ERROR	multiple_definitions	resource management	IAO:0000115	??
+ERROR	multiple_definitions	resource management	IAO:0000115	Resource management is the efficient and effective development of an organization's resources when they are needed. Such resources may include the financial resources, inventory, human skills, production resources, or information technology (IT) and natural resources. [LLC]
+ERROR	multiple_definitions	Standard	IAO:0000115	A document that applies collectively to codes, specifications, recommended practices, classifications, test methods, and guides, which have been prepared by a standards developing organization or group, and published in accordance with established procedures. http://www.ses-standards.org/?58
+ERROR	multiple_definitions	Standard	IAO:0000115	A document that applies collectively to codes, specifications, recommended practices, classifications, test methods, and guides, which have been prepared by a standards developing organization or group, and published in accordance with established procedures.n/ahttp://www.ses-standards.org/?58
+ERROR	multiple_definitions	knowledge of theories underlying FAIR implementation	IAO:0000115	Understand the concepts underpinning FAIR criteria
+ERROR	multiple_definitions	knowledge of theories underlying FAIR implementation	IAO:0000115	Understand the concepts underpinning FAIR criteria and their application
+ERROR	multiple_definitions	Data profiling	IAO:0000115	The statistical analysis and assessment of the quality of data values within a dataset for consistency, uniqueness and logic. The data profiling process cannot identify inaccurate data; it can only identify business rules violations and anomalies.
+ERROR	multiple_definitions	Data profiling	IAO:0000115	The statistical analysis and assessment of the quality of data values within a dataset for consistency, uniqueness and logic. The data profiling process cannot identify inaccurate data; it can only identify business rules violations and anomalies. The insight gained by data profiling can be used to determine how difficult it will be to use existing...
+ERROR	multiple_definitions	has/wants competency in	IAO:0000115	??
+ERROR	multiple_definitions	has/wants competency in	IAO:0000115	"An element (topic) of theory or practice e.g. ‘workflow set-up and management’, combined with an expertise level to indicate
+whether someone has an awareness of the area, or an ability to do it, or expert knowledge of it."
 WARN	duplicate_exact_synonym	apply data imputation	IAO:0000118	??
 WARN	duplicate_exact_synonym	software review and preservation	IAO:0000118	??
 WARN	duplicate_exact_synonym	develop FAIR and open research vision	IAO:0000118	??

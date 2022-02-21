@@ -32,11 +32,12 @@ ontologies:
           description: pharmaceutical API development
         - user: Allotrope
           description: important domain in pharmaceutical industry
-    - id: ADO
+    - id: ado
       title: Alzheimer's Disease Ontology
-      contact: 
+      contact:
         email: alpha.tom.kodamullil@scai.fraunhofer.de
         label: Alpha Tom Kodamullil
+        github: akodamullil
       description: Alzheimer's Disease Ontology is a knowledge-based ontology that encompasses varieties of concepts related to Alzheimer'S Disease, foundamentally structured by upper level Basic Formal Ontology(BFO). This Ontology is enriched by the interrelational entities that demonstrate the nextwork of the understanding on Alzheimer's disease and can be readily applied for text mining.
       domain: Alzheimer's Disease 
       homepage: https://github.com/Fraunhofer-SCAI-Applied-Semantics/ADO
