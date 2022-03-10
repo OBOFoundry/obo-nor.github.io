@@ -1,0 +1,137 @@
+base_generated: true
+base_prefixes:
+- BPDO
+- BPDOALT
+changed: true
+metrics:
+  'Axioms: Breakdown of axiom types':
+    AnnotationAssertion: 15497
+    Declaration: 1220
+    DisjointClasses: 19
+    SubAnnotationPropertyOf: 7
+    SubClassOf: 1141
+  'Axioms: Number of axioms': 17884
+  'Entities: % of entities reused': 100.0
+  'Entities: Number of annotation properties': 136
+  'Entities: Number of classes': 1085
+  'Entities: Number of data properties': 0
+  'Entities: Number of individuals': 0
+  'Entities: Number of object properties': 0
+  'Entities: Number of unsatisfiable classes': 0
+  'Info: Breakdown of OWL class expressions used':
+    Class: 3405
+  'Info: Does the ontology fall under OWL 2 DL?': true
+  'Info: Experimental OBO score':
+    _dashboard: 0.923
+    _formula: (3*impact+2*dashboard)/5
+    _impact: 0.0
+    _impact_external: 0
+    _reuse: 1.0
+    oboscore: 0.369
+  'Info: How many externally documented uses?': 0
+  'Info: How many ontologies use it?': 0
+  'Info: Logical consistency': true
+  'Info: Syntax': RDF/XML Syntax
+  'Info: Usage of namespaces in axioms':
+    BCGO: 7
+    BFO: 240
+    BTO: 6
+    CHEBI: 2
+    CL: 14
+    CMO: 88
+    DOID: 571
+    ENVO: 8
+    FMA: 2
+    GO: 82
+    GSSO: 4
+    HP: 136
+    IAO: 2148
+    MF: 22
+    MFOEM: 56
+    MFOMD: 88
+    MI: 2
+    MMO: 2
+    MONDO: 44
+    MP: 46
+    NBO: 44
+    NCBITaxon: 39
+    NCIT: 1646
+    OAE: 22
+    OBI: 45
+    OBIB: 5
+    OGMS: 106
+    OMIABIS: 5
+    OMIT: 104
+    OMP: 2
+    ONTONEO: 9
+    OPMI: 7
+    PATO: 10
+    PCO: 2
+    PW: 18
+    RO: 14
+    SCDO: 44
+    SYMP: 103
+    UBERON: 347
+    ZP: 2
+    dc: 6
+    dc11: 44
+    foaf: 50
+    obo: 173
+    oboInOwl: 6504
+    owl: 1
+    prefix_unknown: 4370
+    rdf: 1
+    rdfs: 1871
+    skos: 66
+  'Info: Which ontologies use it?':
+  - bpdo
+mirror_from: https://raw.githubusercontent.com/SCAI-BIO/bipolar-disorder-ontology/main/releases/1.0.0/BPDO.owl
+namespace: bpdo
+results:
+  FP01 Open:
+    status: PASS
+  FP02 Common Format:
+    status: PASS
+  FP03 URIs:
+    status: PASS
+  FP04 Versioning:
+    comment: Version IRI 'https://bio.scai.fraunhofer.de/ontology/BPDO/1.0.0' is not
+      in recommended format
+    status: WARN
+  FP05 Scope:
+    status: PASS
+  FP06 Textual Definitions:
+    status: PASS
+  FP07 Relations:
+    status: PASS
+  FP08 Documented:
+    status: PASS
+  FP09 Plurality of Users:
+    comment: Missing usages
+    status: ERROR
+  FP11 Locus of Authority:
+    status: PASS
+  FP12 Naming Conventions:
+    status: PASS
+  FP16 Maintenance:
+    comment: Version IRI does not have date information
+    status: INFO
+  FP20 Responsiveness:
+    status: PASS
+  ROBOT Report:
+    comment: 1 errors, 0 warnings, 0 info messages.
+    file: robot_report
+    results:
+      ERROR: 1
+      INFO: 0
+      WARN: 0
+    status: ERROR
+sha256_hash: 551397ad2579f107b74d10a54f26855250654060a930a0a517c596f9731b855b
+summary:
+  comment: 2 errors
+  status: ERROR
+  summary_count:
+    ERROR: 2
+    INFO: 1
+    WARN: 1
+version: https://bio.scai.fraunhofer.de/ontology/BPDO/1.0.0

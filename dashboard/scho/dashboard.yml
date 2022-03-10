@@ -1,0 +1,136 @@
+base_generated: true
+base_prefixes:
+- SCHO
+- SCHOALT
+changed: true
+metrics:
+  'Axioms: Breakdown of axiom types':
+    AnnotationAssertion: 16287
+    Declaration: 1219
+    DisjointClasses: 19
+    SubAnnotationPropertyOf: 7
+    SubClassOf: 1099
+  'Axioms: Number of axioms': 18631
+  'Entities: % of entities reused': 100.0
+  'Entities: Number of annotation properties': 133
+  'Entities: Number of classes': 1087
+  'Entities: Number of data properties': 0
+  'Entities: Number of individuals': 0
+  'Entities: Number of object properties': 0
+  'Entities: Number of unsatisfiable classes': 0
+  'Info: Breakdown of OWL class expressions used':
+    Class: 3323
+  'Info: Does the ontology fall under OWL 2 DL?': true
+  'Info: Experimental OBO score':
+    _dashboard: 0.899
+    _formula: (3*impact+2*dashboard)/5
+    _impact: 0.0
+    _impact_external: 0
+    _reuse: 1.0
+    oboscore: 0.36
+  'Info: How many externally documented uses?': 0
+  'Info: How many ontologies use it?': 0
+  'Info: Logical consistency': true
+  'Info: Syntax': RDF/XML Syntax
+  'Info: Usage of namespaces in axioms':
+    BCGO: 7
+    BFO: 240
+    BTO: 6
+    CHEBI: 2
+    CL: 14
+    CMO: 85
+    DOID: 664
+    ENVO: 8
+    FMA: 4
+    GO: 85
+    GSSO: 4
+    HP: 142
+    IAO: 2258
+    MF: 23
+    MFOEM: 57
+    MFOMD: 104
+    MI: 2
+    MMO: 2
+    MONDO: 34
+    MP: 46
+    NBO: 44
+    NCBITaxon: 42
+    NCIT: 1753
+    OAE: 23
+    OBI: 48
+    OBIB: 5
+    OGMS: 109
+    OMIABIS: 6
+    OMIT: 109
+    OMP: 2
+    ONTONEO: 9
+    OPMI: 7
+    PATO: 10
+    PCO: 2
+    PW: 18
+    RO: 14
+    SCDO: 44
+    SYMP: 103
+    UBERON: 367
+    ZP: 2
+    dc: 5
+    dc11: 45
+    foaf: 52
+    obo: 174
+    oboInOwl: 6953
+    prefix_unknown: 4287
+    rdf: 1
+    rdfs: 1862
+    skos: 61
+  'Info: Which ontologies use it?':
+  - scho
+mirror_from: https://raw.githubusercontent.com/SCAI-BIO/schizophrenia-ontology/main/releases/1.0.0/SCHO.owl
+namespace: scho
+results:
+  FP01 Open:
+    comment: Missing ontology license.
+    status: ERROR
+  FP02 Common Format:
+    status: PASS
+  FP03 URIs:
+    status: PASS
+  FP04 Versioning:
+    comment: Missing version IRI
+    status: ERROR
+  FP05 Scope:
+    status: PASS
+  FP06 Textual Definitions:
+    status: PASS
+  FP07 Relations:
+    status: PASS
+  FP08 Documented:
+    status: PASS
+  FP09 Plurality of Users:
+    comment: Missing usages
+    status: ERROR
+  FP11 Locus of Authority:
+    status: PASS
+  FP12 Naming Conventions:
+    status: PASS
+  FP16 Maintenance:
+    comment: Missing version IRI to check date
+    status: ERROR
+  FP20 Responsiveness:
+    status: PASS
+  ROBOT Report:
+    comment: 2 errors, 0 warnings, 0 info messages.
+    file: robot_report
+    results:
+      ERROR: 2
+      INFO: 0
+      WARN: 0
+    status: ERROR
+sha256_hash: b3c243d57de89bac0e5f8403c4c0ef6da420f9fa4329a230692ab416b3eb6831
+summary:
+  comment: 5 errors
+  status: ERROR
+  summary_count:
+    ERROR: 5
+    INFO: 0
+    WARN: 0
+version: null

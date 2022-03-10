@@ -31,25 +31,25 @@ ontologies:
   changed: true
   metrics:
     'Axioms: Breakdown of axiom types':
-      AnnotationAssertion: 34244
-      Declaration: 2050
-      DisjointClasses: 19
+      AnnotationAssertion: 34764
+      Declaration: 2079
+      DisjointClasses: 18
       SubAnnotationPropertyOf: 15
-      SubClassOf: 2274
+      SubClassOf: 2370
       SubObjectPropertyOf: 1
       SymmetricObjectProperty: 1
-      TransitiveObjectProperty: 2
-    'Axioms: Number of axioms': 38606
+      TransitiveObjectProperty: 1
+    'Axioms: Number of axioms': 39249
     'Entities: % of entities reused': 100.0
-    'Entities: Number of annotation properties': 175
-    'Entities: Number of classes': 1860
+    'Entities: Number of annotation properties': 178
+    'Entities: Number of classes': 1887
     'Entities: Number of data properties': 0
     'Entities: Number of individuals': 2
-    'Entities: Number of object properties': 14
-    'Entities: Number of unsatisfiable classes': 0
+    'Entities: Number of object properties': 13
+    'Entities: Number of unsatisfiable classes': 36
     'Info: Breakdown of OWL class expressions used':
-      Class: 6445
-      ObjectSomeValuesFrom: 105
+      Class: 6662
+      ObjectSomeValuesFrom: 71
     'Info: Does the ontology fall under OWL 2 DL?': false
     'Info: Experimental OBO score':
       _dashboard: 0.934
@@ -63,19 +63,19 @@ ontologies:
     'Info: Logical consistency': true
     'Info: Syntax': RDF/XML Syntax
     'Info: Usage of namespaces in axioms':
-      BFO: 278
+      BFO: 268
       BTO: 15
       CHEBI: 2013
       CL: 103
-      CLO: 6
+      CLO: 5
       CMO: 39
       CTO: 21
-      DOID: 200
+      DOID: 202
       DRON: 32
       EMAPA: 3
-      ERO: 44
+      ERO: 45
       ExO: 2
-      FMA: 118
+      FMA: 120
       FOODON: 2
       FYPO: 2
       GECKO: 32
@@ -84,7 +84,7 @@ ontologies:
       GO: 435
       GSSO: 14
       HP: 54
-      IAO: 7029
+      IAO: 7108
       ICO: 4
       IDOMAL: 14
       INO: 26
@@ -103,38 +103,38 @@ ontologies:
       NCIT: 1255
       OAE: 12
       OBA: 2
-      OBCS: 30
+      OBCS: 32
       OBI: 78
       OGG: 7365
-      OGMS: 83
+      OGMS: 85
       OMIABIS: 2
       OMIT: 117
       ONS: 4
-      OPMI: 21
-      PATO: 31
+      OPMI: 22
+      PATO: 34
       PLANA: 2
       PR: 33
       PW: 16
       REX: 2
-      RO: 42
+      RO: 45
       SCDO: 41
       SO: 4
       STATO: 20
       SYMP: 100
       TXPO: 62
-      UBERON: 196
+      UBERON: 409
       VO: 2
       XCO: 2
-      dc: 21
+      dc: 23
       dc11: 571
-      foaf: 24
-      obo: 1838
-      oboInOwl: 15705
+      foaf: 29
+      obo: 1847
+      oboInOwl: 16091
       owl: 4
       prefix_unknown: 168
       rdf: 1
-      rdfs: 2325
-      skos: 181
+      rdfs: 2328
+      skos: 182
     'Info: Which ontologies use it?':
     - ado
   mirror_from: https://raw.githubusercontent.com/Fraunhofer-SCAI-Applied-Semantics/ADO/main/Releases/1.0.0/ADO.owl
@@ -172,7 +172,7 @@ ontologies:
       status: PASS
     ROBOT Report:
       status: PASS
-  sha256_hash: 15cd8143e3b128d11ee347eaa5d558b71204474aab94d2685d64c5e4e0856edd
+  sha256_hash: 5086118dabf3d4cd5eadff2638a41ba5273daa0a2be55ff784d9ac5266823d9a
   summary:
     comment: 1 errors
     status: ERROR
@@ -181,6 +181,143 @@ ontologies:
       INFO: 1
       WARN: 1
   version: https://bio.scai.fraunhofer.de/ontology/ADO/1.0.0
+- base_generated: true
+  base_prefixes:
+  - BPDO
+  - BPDOALT
+  changed: true
+  metrics:
+    'Axioms: Breakdown of axiom types':
+      AnnotationAssertion: 15497
+      Declaration: 1220
+      DisjointClasses: 19
+      SubAnnotationPropertyOf: 7
+      SubClassOf: 1141
+    'Axioms: Number of axioms': 17884
+    'Entities: % of entities reused': 100.0
+    'Entities: Number of annotation properties': 136
+    'Entities: Number of classes': 1085
+    'Entities: Number of data properties': 0
+    'Entities: Number of individuals': 0
+    'Entities: Number of object properties': 0
+    'Entities: Number of unsatisfiable classes': 0
+    'Info: Breakdown of OWL class expressions used':
+      Class: 3405
+    'Info: Does the ontology fall under OWL 2 DL?': true
+    'Info: Experimental OBO score':
+      _dashboard: 0.923
+      _formula: (3*impact+2*dashboard)/5
+      _impact: 0.0
+      _impact_external: 0
+      _reuse: 1.0
+      oboscore: 0.369
+    'Info: How many externally documented uses?': 0
+    'Info: How many ontologies use it?': 0
+    'Info: Logical consistency': true
+    'Info: Syntax': RDF/XML Syntax
+    'Info: Usage of namespaces in axioms':
+      BCGO: 7
+      BFO: 240
+      BTO: 6
+      CHEBI: 2
+      CL: 14
+      CMO: 88
+      DOID: 571
+      ENVO: 8
+      FMA: 2
+      GO: 82
+      GSSO: 4
+      HP: 136
+      IAO: 2148
+      MF: 22
+      MFOEM: 56
+      MFOMD: 88
+      MI: 2
+      MMO: 2
+      MONDO: 44
+      MP: 46
+      NBO: 44
+      NCBITaxon: 39
+      NCIT: 1646
+      OAE: 22
+      OBI: 45
+      OBIB: 5
+      OGMS: 106
+      OMIABIS: 5
+      OMIT: 104
+      OMP: 2
+      ONTONEO: 9
+      OPMI: 7
+      PATO: 10
+      PCO: 2
+      PW: 18
+      RO: 14
+      SCDO: 44
+      SYMP: 103
+      UBERON: 347
+      ZP: 2
+      dc: 6
+      dc11: 44
+      foaf: 50
+      obo: 173
+      oboInOwl: 6504
+      owl: 1
+      prefix_unknown: 4370
+      rdf: 1
+      rdfs: 1871
+      skos: 66
+    'Info: Which ontologies use it?':
+    - bpdo
+  mirror_from: https://raw.githubusercontent.com/SCAI-BIO/bipolar-disorder-ontology/main/releases/1.0.0/BPDO.owl
+  namespace: bpdo
+  results:
+    FP01 Open:
+      status: PASS
+    FP02 Common Format:
+      status: PASS
+    FP03 URIs:
+      status: PASS
+    FP04 Versioning:
+      comment: Version IRI 'https://bio.scai.fraunhofer.de/ontology/BPDO/1.0.0' is
+        not in recommended format
+      status: WARN
+    FP05 Scope:
+      status: PASS
+    FP06 Textual Definitions:
+      status: PASS
+    FP07 Relations:
+      status: PASS
+    FP08 Documented:
+      status: PASS
+    FP09 Plurality of Users:
+      comment: Missing usages
+      status: ERROR
+    FP11 Locus of Authority:
+      status: PASS
+    FP12 Naming Conventions:
+      status: PASS
+    FP16 Maintenance:
+      comment: Version IRI does not have date information
+      status: INFO
+    FP20 Responsiveness:
+      status: PASS
+    ROBOT Report:
+      comment: 1 errors, 0 warnings, 0 info messages.
+      file: robot_report
+      results:
+        ERROR: 1
+        INFO: 0
+        WARN: 0
+      status: ERROR
+  sha256_hash: 551397ad2579f107b74d10a54f26855250654060a930a0a517c596f9731b855b
+  summary:
+    comment: 2 errors
+    status: ERROR
+    summary_count:
+      ERROR: 2
+      INFO: 1
+      WARN: 1
+  version: https://bio.scai.fraunhofer.de/ontology/BPDO/1.0.0
 - base_generated: true
   base_prefixes:
   - CBO
@@ -516,6 +653,142 @@ ontologies:
       INFO: 2
       WARN: 1
   version: http://purl.obolibrary.org/obo/proco/proco.owl
+- base_generated: true
+  base_prefixes:
+  - SCHO
+  - SCHOALT
+  changed: true
+  metrics:
+    'Axioms: Breakdown of axiom types':
+      AnnotationAssertion: 16287
+      Declaration: 1219
+      DisjointClasses: 19
+      SubAnnotationPropertyOf: 7
+      SubClassOf: 1099
+    'Axioms: Number of axioms': 18631
+    'Entities: % of entities reused': 100.0
+    'Entities: Number of annotation properties': 133
+    'Entities: Number of classes': 1087
+    'Entities: Number of data properties': 0
+    'Entities: Number of individuals': 0
+    'Entities: Number of object properties': 0
+    'Entities: Number of unsatisfiable classes': 0
+    'Info: Breakdown of OWL class expressions used':
+      Class: 3323
+    'Info: Does the ontology fall under OWL 2 DL?': true
+    'Info: Experimental OBO score':
+      _dashboard: 0.899
+      _formula: (3*impact+2*dashboard)/5
+      _impact: 0.0
+      _impact_external: 0
+      _reuse: 1.0
+      oboscore: 0.36
+    'Info: How many externally documented uses?': 0
+    'Info: How many ontologies use it?': 0
+    'Info: Logical consistency': true
+    'Info: Syntax': RDF/XML Syntax
+    'Info: Usage of namespaces in axioms':
+      BCGO: 7
+      BFO: 240
+      BTO: 6
+      CHEBI: 2
+      CL: 14
+      CMO: 85
+      DOID: 664
+      ENVO: 8
+      FMA: 4
+      GO: 85
+      GSSO: 4
+      HP: 142
+      IAO: 2258
+      MF: 23
+      MFOEM: 57
+      MFOMD: 104
+      MI: 2
+      MMO: 2
+      MONDO: 34
+      MP: 46
+      NBO: 44
+      NCBITaxon: 42
+      NCIT: 1753
+      OAE: 23
+      OBI: 48
+      OBIB: 5
+      OGMS: 109
+      OMIABIS: 6
+      OMIT: 109
+      OMP: 2
+      ONTONEO: 9
+      OPMI: 7
+      PATO: 10
+      PCO: 2
+      PW: 18
+      RO: 14
+      SCDO: 44
+      SYMP: 103
+      UBERON: 367
+      ZP: 2
+      dc: 5
+      dc11: 45
+      foaf: 52
+      obo: 174
+      oboInOwl: 6953
+      prefix_unknown: 4287
+      rdf: 1
+      rdfs: 1862
+      skos: 61
+    'Info: Which ontologies use it?':
+    - scho
+  mirror_from: https://raw.githubusercontent.com/SCAI-BIO/schizophrenia-ontology/main/releases/1.0.0/SCHO.owl
+  namespace: scho
+  results:
+    FP01 Open:
+      comment: Missing ontology license.
+      status: ERROR
+    FP02 Common Format:
+      status: PASS
+    FP03 URIs:
+      status: PASS
+    FP04 Versioning:
+      comment: Missing version IRI
+      status: ERROR
+    FP05 Scope:
+      status: PASS
+    FP06 Textual Definitions:
+      status: PASS
+    FP07 Relations:
+      status: PASS
+    FP08 Documented:
+      status: PASS
+    FP09 Plurality of Users:
+      comment: Missing usages
+      status: ERROR
+    FP11 Locus of Authority:
+      status: PASS
+    FP12 Naming Conventions:
+      status: PASS
+    FP16 Maintenance:
+      comment: Missing version IRI to check date
+      status: ERROR
+    FP20 Responsiveness:
+      status: PASS
+    ROBOT Report:
+      comment: 2 errors, 0 warnings, 0 info messages.
+      file: robot_report
+      results:
+        ERROR: 2
+        INFO: 0
+        WARN: 0
+      status: ERROR
+  sha256_hash: b3c243d57de89bac0e5f8403c4c0ef6da420f9fa4329a230692ab416b3eb6831
+  summary:
+    comment: 5 errors
+    status: ERROR
+    summary_count:
+      ERROR: 5
+      INFO: 0
+      WARN: 0
+  version: null
 - base_generated: true
   base_prefixes:
   - T4FS

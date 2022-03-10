@@ -38,8 +38,9 @@ ontologies:
         email: alpha.tom.kodamullil@scai.fraunhofer.de
         label: Alpha Tom Kodamullil
         github: akodamullil
+        orcid: 0000-0001-9896-3531
       description: Alzheimer's Disease Ontology is a knowledge-based ontology that encompasses varieties of concepts related to Alzheimer'S Disease, foundamentally structured by upper level Basic Formal Ontology(BFO). This Ontology is enriched by the interrelational entities that demonstrate the nextwork of the understanding on Alzheimer's disease and can be readily applied for text mining.
-      domain: Alzheimer's Disease 
+      domain: health
       homepage: https://github.com/Fraunhofer-SCAI-Applied-Semantics/ADO
       products:
         - id: ado.owl
@@ -52,6 +53,48 @@ ontologies:
       repository: https://github.com/Fraunhofer-SCAI-Applied-Semantics/ADO
       preferredPrefix: ADO
       mirror_from: https://raw.githubusercontent.com/Fraunhofer-SCAI-Applied-Semantics/ADO/main/Releases/1.0.0/ADO.owl
+    - id: bpdo
+      title: Bipolar Disorder Ontology
+      contact:
+        email: alpha.tom.kodamullil@scai.fraunhofer.de
+        label: Alpha Tom Kodamullil
+        github: akodamullil
+        orcid: 0000-0001-9896-3531
+      description: The Bipolar Disorder ontology includes bipolar disorder-related concepts, terms and related synonyms, collected from wide variety of sources such us publications and websites.
+      domain: health
+      homepage: https://github.com/SCAI-BIO/bipolar-disorder-ontology
+      products:
+        - id: bpdo.owl
+      dependencies:
+        - id: bfo
+      tracker: https://github.com/SCAI-BIO/bipolar-disorder-ontology/issues
+      license:
+        url: https://creativecommons.org/licenses/by/4.0/
+        label: CC BY 4.0
+      repository: https://github.com/SCAI-BIO/bipolar-disorder-ontology
+      preferredPrefix: BPDO
+      mirror_from: https://raw.githubusercontent.com/SCAI-BIO/bipolar-disorder-ontology/main/releases/1.0.0/BPDO.owl
+    - id: scho
+      title: Schizophrenia Ontology
+      contact:
+        email: alpha.tom.kodamullil@scai.fraunhofer.de
+        label: Alpha Tom Kodamullil
+        github: akodamullil
+        orcid: 0000-0001-9896-3531
+      description: A disease ontology for the mental disorder Schizophrenia
+      domain: health
+      homepage: https://github.com/SCAI-BIO/schizophrenia-ontology
+      products:
+        - id: bfo.owl
+      dependencies:
+        - id: bfo
+      tracker: https://github.com/SCAI-BIO/schizophrenia-ontology/issues
+      license:
+        url: https://creativecommons.org/licenses/by/4.0/
+        label: CC BY 4.0
+      repository: https://github.com/SCAI-BIO/schizophrenia-ontology
+      preferredPrefix: SCHO
+      mirror_from: https://raw.githubusercontent.com/SCAI-BIO/schizophrenia-ontology/main/releases/1.0.0/SCHO.owl
     - id: gombo
       mirror_from: "https://raw.githubusercontent.com/BridgetSquidget/gombo/main/gombo_v1.owx"
       title: General Ontology for Marine Bioluminescent Organs
