@@ -52,7 +52,7 @@ ontologies:
         label: CC BY 4.0
       repository: https://github.com/Fraunhofer-SCAI-Applied-Semantics/ADO
       preferredPrefix: ADO
-      mirror_from: https://raw.githubusercontent.com/Fraunhofer-SCAI-Applied-Semantics/ADO/main/Releases/1.0.0/ADO.owl
+      mirror_from: https://raw.githubusercontent.com/Fraunhofer-SCAI-Applied-Semantics/ADO/main/Releases/2.0.0/ADO.owl
     - id: bpdo
       title: Bipolar Disorder Ontology
       contact:

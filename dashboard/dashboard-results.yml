@@ -31,24 +31,24 @@ ontologies:
   changed: true
   metrics:
     'Axioms: Breakdown of axiom types':
-      AnnotationAssertion: 34764
-      Declaration: 2079
+      AnnotationAssertion: 34758
+      Declaration: 2078
       DisjointClasses: 18
       SubAnnotationPropertyOf: 15
-      SubClassOf: 2370
+      SubClassOf: 2369
       SubObjectPropertyOf: 1
       SymmetricObjectProperty: 1
       TransitiveObjectProperty: 1
-    'Axioms: Number of axioms': 39249
+    'Axioms: Number of axioms': 39241
     'Entities: % of entities reused': 100.0
     'Entities: Number of annotation properties': 178
-    'Entities: Number of classes': 1887
+    'Entities: Number of classes': 1886
     'Entities: Number of data properties': 0
     'Entities: Number of individuals': 2
     'Entities: Number of object properties': 13
     'Entities: Number of unsatisfiable classes': 36
     'Info: Breakdown of OWL class expressions used':
-      Class: 6662
+      Class: 6659
       ObjectSomeValuesFrom: 71
     'Info: Does the ontology fall under OWL 2 DL?': false
     'Info: Experimental OBO score':
@@ -65,7 +65,7 @@ ontologies:
     'Info: Usage of namespaces in axioms':
       BFO: 268
       BTO: 15
-      CHEBI: 2013
+      CHEBI: 2010
       CL: 103
       CLO: 5
       CMO: 39
@@ -84,7 +84,7 @@ ontologies:
       GO: 435
       GSSO: 14
       HP: 54
-      IAO: 7108
+      IAO: 7106
       ICO: 4
       IDOMAL: 14
       INO: 26
@@ -129,15 +129,15 @@ ontologies:
       dc11: 571
       foaf: 29
       obo: 1847
-      oboInOwl: 16091
+      oboInOwl: 16088
       owl: 4
       prefix_unknown: 168
       rdf: 1
-      rdfs: 2328
+      rdfs: 2327
       skos: 182
     'Info: Which ontologies use it?':
     - ado
-  mirror_from: https://raw.githubusercontent.com/Fraunhofer-SCAI-Applied-Semantics/ADO/main/Releases/1.0.0/ADO.owl
+  mirror_from: https://raw.githubusercontent.com/Fraunhofer-SCAI-Applied-Semantics/ADO/main/Releases/2.0.0/ADO.owl
   namespace: ado
   results:
     FP01 Open:
@@ -147,7 +147,7 @@ ontologies:
     FP03 URIs:
       status: PASS
     FP04 Versioning:
-      comment: Version IRI 'https://bio.scai.fraunhofer.de/ontology/ADO/1.0.0' is
+      comment: Version IRI 'https://bio.scai.fraunhofer.de/ontology/ADO/2.0.0' is
         not in recommended format
       status: WARN
     FP05 Scope:
@@ -172,7 +172,7 @@ ontologies:
       status: PASS
     ROBOT Report:
       status: PASS
-  sha256_hash: 5086118dabf3d4cd5eadff2638a41ba5273daa0a2be55ff784d9ac5266823d9a
+  sha256_hash: 11d3dff5e723b58e4cc5805f2a57f627bfbb8bac8ae128ea0fee8d345fe9c72e
   summary:
     comment: 1 errors
     status: ERROR
@@ -180,7 +180,7 @@ ontologies:
       ERROR: 1
       INFO: 1
       WARN: 1
-  version: https://bio.scai.fraunhofer.de/ontology/ADO/1.0.0
+  version: https://bio.scai.fraunhofer.de/ontology/ADO/2.0.0
 - base_generated: true
   base_prefixes:
   - BPDO
