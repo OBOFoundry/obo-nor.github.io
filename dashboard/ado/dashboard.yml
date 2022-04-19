@@ -5,24 +5,24 @@ base_prefixes:
 changed: true
 metrics:
   'Axioms: Breakdown of axiom types':
-    AnnotationAssertion: 34758
-    Declaration: 2078
+    AnnotationAssertion: 34974
+    Declaration: 2101
     DisjointClasses: 18
     SubAnnotationPropertyOf: 15
-    SubClassOf: 2369
+    SubClassOf: 2392
     SubObjectPropertyOf: 1
     SymmetricObjectProperty: 1
     TransitiveObjectProperty: 1
-  'Axioms: Number of axioms': 39241
+  'Axioms: Number of axioms': 39503
   'Entities: % of entities reused': 100.0
   'Entities: Number of annotation properties': 178
-  'Entities: Number of classes': 1886
+  'Entities: Number of classes': 1909
   'Entities: Number of data properties': 0
   'Entities: Number of individuals': 2
   'Entities: Number of object properties': 13
   'Entities: Number of unsatisfiable classes': 36
   'Info: Breakdown of OWL class expressions used':
-    Class: 6659
+    Class: 6728
     ObjectSomeValuesFrom: 71
   'Info: Does the ontology fall under OWL 2 DL?': false
   'Info: Experimental OBO score':
@@ -37,7 +37,7 @@ metrics:
   'Info: Logical consistency': true
   'Info: Syntax': RDF/XML Syntax
   'Info: Usage of namespaces in axioms':
-    BFO: 268
+    BFO: 267
     BTO: 15
     CHEBI: 2010
     CL: 103
@@ -48,7 +48,7 @@ metrics:
     DRON: 32
     EMAPA: 3
     ERO: 45
-    ExO: 2
+    ExO: 85
     FMA: 120
     FOODON: 2
     FYPO: 2
@@ -56,9 +56,9 @@ metrics:
     GENEPIO: 4
     GENO: 4
     GO: 435
-    GSSO: 14
+    GSSO: 8
     HP: 54
-    IAO: 7106
+    IAO: 7154
     ICO: 4
     IDOMAL: 14
     INO: 26
@@ -74,7 +74,7 @@ metrics:
     MPATH: 11
     NBO: 16
     NCBITaxon: 54
-    NCIT: 1255
+    NCIT: 1256
     OAE: 12
     OBA: 2
     OBCS: 32
@@ -85,7 +85,7 @@ metrics:
     OMIT: 117
     ONS: 4
     OPMI: 22
-    PATO: 34
+    PATO: 26
     PLANA: 2
     PR: 33
     PW: 16
@@ -99,15 +99,15 @@ metrics:
     UBERON: 409
     VO: 2
     XCO: 2
-    dc: 23
+    dc: 21
     dc11: 571
     foaf: 29
     obo: 1847
-    oboInOwl: 16088
+    oboInOwl: 16241
     owl: 4
-    prefix_unknown: 168
+    prefix_unknown: 164
     rdf: 1
-    rdfs: 2327
+    rdfs: 2348
     skos: 182
   'Info: Which ontologies use it?':
   - ado
@@ -146,7 +146,7 @@ results:
     status: PASS
   ROBOT Report:
     status: PASS
-sha256_hash: 11d3dff5e723b58e4cc5805f2a57f627bfbb8bac8ae128ea0fee8d345fe9c72e
+sha256_hash: 6eb99a0a87961c8cdb80f21cb92b6af720a043160f2f839429b707ec317d7f7c
 summary:
   comment: 1 errors
   status: ERROR
