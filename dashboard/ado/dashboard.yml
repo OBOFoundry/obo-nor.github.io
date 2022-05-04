@@ -5,25 +5,25 @@ base_prefixes:
 changed: true
 metrics:
   'Axioms: Breakdown of axiom types':
-    AnnotationAssertion: 34974
-    Declaration: 2101
+    AnnotationAssertion: 35045
+    Declaration: 2107
     DisjointClasses: 18
     SubAnnotationPropertyOf: 15
-    SubClassOf: 2392
+    SubClassOf: 2410
     SubObjectPropertyOf: 1
     SymmetricObjectProperty: 1
     TransitiveObjectProperty: 1
-  'Axioms: Number of axioms': 39503
+  'Axioms: Number of axioms': 39598
   'Entities: % of entities reused': 100.0
-  'Entities: Number of annotation properties': 178
-  'Entities: Number of classes': 1909
+  'Entities: Number of annotation properties': 179
+  'Entities: Number of classes': 1913
   'Entities: Number of data properties': 0
   'Entities: Number of individuals': 2
-  'Entities: Number of object properties': 13
+  'Entities: Number of object properties': 14
   'Entities: Number of unsatisfiable classes': 36
   'Info: Breakdown of OWL class expressions used':
-    Class: 6728
-    ObjectSomeValuesFrom: 71
+    Class: 6769
+    ObjectSomeValuesFrom: 86
   'Info: Does the ontology fall under OWL 2 DL?': false
   'Info: Experimental OBO score':
     _dashboard: 0.934
@@ -38,13 +38,13 @@ metrics:
   'Info: Syntax': RDF/XML Syntax
   'Info: Usage of namespaces in axioms':
     BFO: 267
-    BTO: 15
+    BTO: 18
     CHEBI: 2010
     CL: 103
     CLO: 5
     CMO: 39
     CTO: 21
-    DOID: 202
+    DOID: 216
     DRON: 32
     EMAPA: 3
     ERO: 45
@@ -52,13 +52,13 @@ metrics:
     FMA: 120
     FOODON: 2
     FYPO: 2
-    GECKO: 32
+    GECKO: 34
     GENEPIO: 4
     GENO: 4
     GO: 435
     GSSO: 8
-    HP: 54
-    IAO: 7154
+    HP: 58
+    IAO: 7164
     ICO: 4
     IDOMAL: 14
     INO: 26
@@ -66,15 +66,15 @@ metrics:
     MF: 11
     MFOMD: 2
     MI: 25
-    MMO: 11
+    MMO: 14
     MOD: 2
-    MONDO: 94
+    MONDO: 102
     MOP: 21
     MP: 10
     MPATH: 11
     NBO: 16
     NCBITaxon: 54
-    NCIT: 1256
+    NCIT: 1285
     OAE: 12
     OBA: 2
     OBCS: 32
@@ -85,7 +85,7 @@ metrics:
     OMIT: 117
     ONS: 4
     OPMI: 22
-    PATO: 26
+    PATO: 27
     PLANA: 2
     PR: 33
     PW: 16
@@ -94,7 +94,7 @@ metrics:
     SCDO: 41
     SO: 4
     STATO: 20
-    SYMP: 100
+    SYMP: 101
     TXPO: 62
     UBERON: 409
     VO: 2
@@ -103,11 +103,11 @@ metrics:
     dc11: 571
     foaf: 29
     obo: 1847
-    oboInOwl: 16241
+    oboInOwl: 16273
     owl: 4
-    prefix_unknown: 164
+    prefix_unknown: 180
     rdf: 1
-    rdfs: 2348
+    rdfs: 2354
     skos: 182
   'Info: Which ontologies use it?':
   - ado
@@ -146,7 +146,7 @@ results:
     status: PASS
   ROBOT Report:
     status: PASS
-sha256_hash: 6eb99a0a87961c8cdb80f21cb92b6af720a043160f2f839429b707ec317d7f7c
+sha256_hash: 3bc704ccc79889f5e9cf2600978faca91588d1f14df4753657604dc6bab893f1
 summary:
   comment: 1 errors
   status: ERROR

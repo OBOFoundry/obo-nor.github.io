@@ -1,0 +1,200 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_label	obo:VBO_0000119	rdfs:label	
+ERROR	missing_label	obo:VBO_0000663	rdfs:label	
+ERROR	missing_label	obo:vbo#transboundary	rdfs:label	
+WARN	missing_definition	root node	IAO:0000115	
+WARN	missing_definition	Dromedary Bactrian Camel	IAO:0000115	
+WARN	missing_definition	Alpaca; Alpaca	IAO:0000115	
+WARN	missing_definition	Huacaya; Alpaca	IAO:0000115	
+WARN	missing_definition	Suri; Alpaca	IAO:0000115	
+WARN	missing_definition	American Bison; American Bison	IAO:0000115	
+WARN	missing_definition	Andaluza; Ass	IAO:0000115	
+WARN	missing_definition	Balearic donkey breed; Ass	IAO:0000115	
+WARN	missing_definition	Burro Criollo; Ass	IAO:0000115	
+WARN	missing_definition	Burro Kentucky; Ass	IAO:0000115	
+WARN	missing_definition	Cyprus; Ass	IAO:0000115	
+WARN	missing_definition	Damascus; Ass	IAO:0000115	
+WARN	missing_definition	Dongolawi; Ass	IAO:0000115	
+WARN	missing_definition	Hamadan; Ass	IAO:0000115	
+WARN	missing_definition	Khulan; Ass	IAO:0000115	
+WARN	missing_definition	l’Ane Africain; Ass	IAO:0000115	
+WARN	missing_definition	Majorero; Ass	IAO:0000115	
+WARN	missing_definition	Mammoth Jack Stock; Ass	IAO:0000115	
+WARN	missing_definition	Masai; Ass	IAO:0000115	
+WARN	missing_definition	Meskhet-Javakhet; Ass	IAO:0000115	
+WARN	missing_definition	Native of North Africa; Ass	IAO:0000115	
+WARN	missing_definition	Pega; Ass	IAO:0000115	
+WARN	missing_definition	Poitou; Ass	IAO:0000115	
+WARN	missing_definition	Somali; Ass	IAO:0000115	
+WARN	missing_definition	Somali Wild Ass; Ass	IAO:0000115	
+WARN	missing_definition	Syrian; Ass	IAO:0000115	
+WARN	missing_definition	Tibetan; Ass	IAO:0000115	
+WARN	missing_definition	Kazakh Bactrian; Bactrian camel	IAO:0000115	
+WARN	missing_definition	Mongolian Bactrian; Bactrian camel	IAO:0000115	
+WARN	missing_definition	Anatolian Water Buffalo; Buffalo	IAO:0000115	
+WARN	missing_definition	Arni; Buffalo	IAO:0000115	
+WARN	missing_definition	Borneo Buffalo; Buffalo	IAO:0000115	
+WARN	missing_definition	buffalo; Buffalo	IAO:0000115	
+WARN	missing_definition	Buffalypso; Buffalo	IAO:0000115	
+WARN	missing_definition	Caucasian; Buffalo	IAO:0000115	
+WARN	missing_definition	Egyptian; Buffalo	IAO:0000115	
+WARN	missing_definition	Georgian buffalo; Buffalo	IAO:0000115	
+WARN	missing_definition	Jafarabadi; Buffalo	IAO:0000115	
+WARN	missing_definition	Mediterranean; Buffalo	IAO:0000115	
+WARN	missing_definition	Mehsana; Buffalo	IAO:0000115	
+WARN	missing_definition	Murrah; Buffalo	IAO:0000115	
+WARN	missing_definition	Nili; Buffalo	IAO:0000115	
+WARN	missing_definition	Nili-Ravi; Buffalo	IAO:0000115	
+WARN	missing_definition	None; Buffalo	IAO:0000115	
+WARN	missing_definition	Philippine Carabao; Buffalo	IAO:0000115	
+WARN	missing_definition	riverine buffalo; Buffalo	IAO:0000115	
+WARN	missing_definition	Surti; Buffalo	IAO:0000115	
+WARN	missing_definition	Swamp buffalo; Buffalo	IAO:0000115	
+WARN	missing_definition	Tarai; Buffalo	IAO:0000115	
+WARN	missing_definition	water buffalo; Buffalo	IAO:0000115	
+WARN	missing_definition	Wild Water Buffalo; Buffalo	IAO:0000115	
+WARN	missing_definition	Cassowary; Cassowary	IAO:0000115	
+WARN	missing_definition	Zavot; Cattle	IAO:0000115	
+WARN	missing_definition	Aberdeen-Angus; Cattle	IAO:0000115	
+WARN	missing_definition	Abondance; Cattle	IAO:0000115	
+WARN	missing_definition	Adamawa; Cattle	IAO:0000115	
+WARN	missing_definition	African Aurochs; Cattle	IAO:0000115	
+WARN	missing_definition	Africander; Cattle	IAO:0000115	
+WARN	missing_definition	AFS; Cattle	IAO:0000115	
+WARN	missing_definition	Ala-Tau; Cattle	IAO:0000115	
+WARN	missing_definition	Alistana-Sanabresa; Cattle	IAO:0000115	
+WARN	missing_definition	Alpha 16; Cattle	IAO:0000115	
+WARN	missing_definition	American Dutch Belted; Cattle	IAO:0000115	
+WARN	missing_definition	Anatolian Grey; Cattle	IAO:0000115	
+WARN	missing_definition	Andalusian Grey; Cattle	IAO:0000115	
+WARN	missing_definition	Angeln; Cattle	IAO:0000115	
+WARN	missing_definition	Angoni; Cattle	IAO:0000115	
+WARN	missing_definition	Angus; Cattle	IAO:0000115	
+WARN	missing_definition	Ankole; Cattle	IAO:0000115	
+WARN	missing_definition	Ansbach-Triesdorfer; Cattle	IAO:0000115	
+WARN	missing_definition	Arado; Cattle	IAO:0000115	
+WARN	missing_definition	Argentine Criollo; Cattle	IAO:0000115	
+WARN	missing_definition	Armorican; Cattle	IAO:0000115	
+WARN	missing_definition	Arunachalee; Cattle	IAO:0000115	
+WARN	missing_definition	Asturian Valley; Cattle	IAO:0000115	
+WARN	missing_definition	Aubrac; Cattle	IAO:0000115	
+WARN	missing_definition	Aulie-Ata; Cattle	IAO:0000115	
+WARN	missing_definition	Australian Bazadais; Cattle	IAO:0000115	
+WARN	missing_definition	Australian Friesian Sahiwal; Cattle	IAO:0000115	
+WARN	missing_definition	Australian Lowline; Cattle	IAO:0000115	
+WARN	missing_definition	Australian Milking Zebu; Cattle	IAO:0000115	
+WARN	missing_definition	obo:VBO_0000119	IAO:0000115	
+WARN	missing_definition	Ayrshire; Cattle	IAO:0000115	
+WARN	missing_definition	Azaouak; Cattle	IAO:0000115	
+WARN	missing_definition	Azerbaijan Zebu; Cattle	IAO:0000115	
+WARN	missing_definition	Bahima; Cattle	IAO:0000115	
+WARN	missing_definition	Balancer; Cattle	IAO:0000115	
+WARN	missing_definition	Bali; Cattle	IAO:0000115	
+WARN	missing_definition	Bambara; Cattle	IAO:0000115	
+WARN	missing_definition	Bambawa; Cattle	IAO:0000115	
+WARN	missing_definition	Banteng; Cattle	IAO:0000115	
+WARN	missing_definition	Baoulé; Cattle	IAO:0000115	
+WARN	missing_definition	Barka; Cattle	IAO:0000115	
+WARN	missing_definition	Barotse; Cattle	IAO:0000115	
+WARN	missing_definition	Bazadais; Cattle	IAO:0000115	
+WARN	missing_definition	Bearnais; Cattle	IAO:0000115	
+WARN	missing_definition	Beef Fleckvieh; Cattle	IAO:0000115	
+WARN	missing_definition	Beef Pinzgau; Cattle	IAO:0000115	
+WARN	missing_definition	Beef Shorthorn; Cattle	IAO:0000115	
+WARN	missing_definition	Beefalo; Cattle	IAO:0000115	
+WARN	missing_definition	Beefmaster; Cattle	IAO:0000115	
+WARN	missing_definition	Belgian Blue; Cattle	IAO:0000115	
+WARN	missing_definition	Belgian Blue mixte; Cattle	IAO:0000115	
+WARN	missing_definition	Belmont Red; Cattle	IAO:0000115	
+WARN	missing_definition	Belted Galloway; Cattle	IAO:0000115	
+WARN	missing_definition	Bengali; Cattle	IAO:0000115	
+WARN	missing_definition	Betizuak; Cattle	IAO:0000115	
+WARN	missing_definition	Bhagnari; Cattle	IAO:0000115	
+WARN	missing_definition	Blaarkop; Cattle	IAO:0000115	
+WARN	missing_definition	Black-Motley; Cattle	IAO:0000115	
+WARN	missing_definition	Blended Milking Shorthorn; Cattle	IAO:0000115	
+WARN	missing_definition	Bleue du Nord; Cattle	IAO:0000115	
+WARN	missing_definition	Blonde d'Aquitaine; Cattle	IAO:0000115	
+WARN	missing_definition	Blondes; Cattle	IAO:0000115	
+WARN	missing_definition	Bokolodji; Cattle	IAO:0000115	
+WARN	missing_definition	Bonsmara; Cattle	IAO:0000115	
+WARN	missing_definition	Boran; Cattle	IAO:0000115	
+WARN	missing_definition	Borgou; Cattle	IAO:0000115	
+WARN	missing_definition	Braford; Cattle	IAO:0000115	
+WARN	missing_definition	Brahman; Cattle	IAO:0000115	
+WARN	missing_definition	brand name Carinthian Blond; Cattle	IAO:0000115	
+WARN	missing_definition	Brangus; Cattle	IAO:0000115	
+WARN	missing_definition	Breton Black Pied; Cattle	IAO:0000115	
+WARN	missing_definition	British White; Cattle	IAO:0000115	
+WARN	missing_definition	Brown Atlas; Cattle	IAO:0000115	
+WARN	missing_definition	Brown cattle; Cattle	IAO:0000115	
+WARN	missing_definition	Brown Swiss; Cattle	IAO:0000115	
+WARN	missing_definition	Buša; Cattle	IAO:0000115	
+WARN	missing_definition	Burmese Gaur; Cattle	IAO:0000115	
+WARN	missing_definition	Busha; Cattle	IAO:0000115	
+WARN	missing_definition	Bushuev; Cattle	IAO:0000115	
+WARN	missing_definition	Caldelana; Cattle	IAO:0000115	
+WARN	missing_definition	Caucasian; Cattle	IAO:0000115	
+WARN	missing_definition	Caucasian Brown; Cattle	IAO:0000115	
+WARN	missing_definition	Central Asian Zebu; Cattle	IAO:0000115	
+WARN	missing_definition	Chaqueno; Cattle	IAO:0000115	
+WARN	missing_definition	Charbray; Cattle	IAO:0000115	
+WARN	missing_definition	Charolais; Cattle	IAO:0000115	
+WARN	missing_definition	Chianina; Cattle	IAO:0000115	
+WARN	missing_definition	Chillingham; Cattle	IAO:0000115	
+WARN	missing_definition	Chusco; Cattle	IAO:0000115	
+WARN	missing_definition	Creole; Cattle	IAO:0000115	
+WARN	missing_definition	Czech Red; Cattle	IAO:0000115	
+WARN	missing_definition	Dahomey; Cattle	IAO:0000115	
+WARN	missing_definition	Dairy Gir; Cattle	IAO:0000115	
+WARN	missing_definition	Dairy Shorthorn; Cattle	IAO:0000115	
+WARN	missing_definition	Dairy Shorthorn (Original Population); Cattle	IAO:0000115	
+WARN	missing_definition	Damara; Cattle	IAO:0000115	
+WARN	missing_definition	Danakil; Cattle	IAO:0000115	
+WARN	missing_definition	Danish Holstein; Cattle	IAO:0000115	
+WARN	missing_definition	Danish Red; Cattle	IAO:0000115	
+WARN	missing_definition	Devon; Cattle	IAO:0000115	
+WARN	missing_definition	Dexter; Cattle	IAO:0000115	
+WARN	missing_definition	Doñana Cattle; Cattle	IAO:0000115	
+WARN	missing_definition	Drakensberger; Cattle	IAO:0000115	
+WARN	missing_definition	Droughtmaster; Cattle	IAO:0000115	
+WARN	missing_definition	Dutch Belted; Cattle	IAO:0000115	
+WARN	missing_definition	Dutch Friesian; Cattle	IAO:0000115	
+WARN	missing_definition	Estonian Native Cattle; Cattle	IAO:0000115	
+WARN	missing_definition	Estonian Red; Cattle	IAO:0000115	
+WARN	missing_definition	Ethiopian Boran; Cattle	IAO:0000115	
+WARN	missing_definition	Ferrandais; Cattle	IAO:0000115	
+WARN	missing_definition	Fighting Bull; Cattle	IAO:0000115	
+WARN	missing_definition	Frieiresa; Cattle	IAO:0000115	
+WARN	missing_definition	Fries Hollands; Cattle	IAO:0000115	
+WARN	missing_definition	Galician Blond; Cattle	IAO:0000115	
+WARN	missing_definition	Galloway; Cattle	IAO:0000115	
+WARN	missing_definition	Gambian N'dama; Cattle	IAO:0000115	
+WARN	missing_definition	Gascon; Cattle	IAO:0000115	
+WARN	missing_definition	Gaur; Cattle	IAO:0000115	
+WARN	missing_definition	Gelbrah; Cattle	IAO:0000115	
+WARN	missing_definition	Gelbvieh; Cattle	IAO:0000115	
+WARN	missing_definition	Georgian Mountain; Cattle	IAO:0000115	
+WARN	missing_definition	German Shorthorn; Cattle	IAO:0000115	
+WARN	missing_definition	Gir; Cattle	IAO:0000115	
+WARN	missing_definition	Girolando; Cattle	IAO:0000115	
+WARN	missing_definition	Glan; Cattle	IAO:0000115	
+WARN	missing_definition	Glan Donnersberg; Cattle	IAO:0000115	
+WARN	missing_definition	Gloucester; Cattle	IAO:0000115	
+WARN	missing_definition	Gorbatov Red; Cattle	IAO:0000115	
+WARN	missing_definition	Goudali; Cattle	IAO:0000115	
+WARN	missing_definition	Grauvieh; Cattle	IAO:0000115	
+WARN	missing_definition	Greater Caucasus; Cattle	IAO:0000115	
+WARN	missing_definition	Greek Shorthorn; Cattle	IAO:0000115	
+WARN	missing_definition	Groningen White-Headed; Cattle	IAO:0000115	
+WARN	missing_definition	Guabala; Cattle	IAO:0000115	
+WARN	missing_definition	Guernsey; Cattle	IAO:0000115	
+WARN	missing_definition	Guzerat; Cattle	IAO:0000115	
+WARN	missing_definition	Hanwoo; Cattle	IAO:0000115	
+WARN	missing_definition	Hariana; Cattle	IAO:0000115	
+WARN	missing_definition	Heck Cattle; Cattle	IAO:0000115	
+WARN	missing_definition	Hereford; Cattle	IAO:0000115	
+WARN	missing_definition	Herens; Cattle	IAO:0000115	
+WARN	missing_definition	Highland; Cattle	IAO:0000115	
+WARN	missing_definition	Hinterwald; Cattle	IAO:0000115	
+WARN	missing_definition	Hissar; Cattle	IAO:0000115	
