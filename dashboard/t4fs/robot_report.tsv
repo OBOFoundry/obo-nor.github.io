@@ -1,200 +1,95 @@
 Level	Rule Name	Subject	Property	Value
-ERROR	multiple_definitions	software review and preservation	IAO:0000115	??Delete??
-ERROR	multiple_definitions	software review and preservation	IAO:0000115	VDA
-ERROR	multiple_definitions	willingness to help and understand researchers	IAO:0000115	??
-ERROR	multiple_definitions	willingness to help and understand researchers	IAO:0000115	?? Delete??
-ERROR	multiple_definitions	preservation costs management	IAO:0000115	??
-ERROR	multiple_definitions	preservation costs management	IAO:0000115	Planning for and controlling the present and future costs of the conservation of data, including technical storage, fixed costs, and staff resources. [LLC]
-ERROR	multiple_definitions	ability to solve fair implementation problems collaboratively	IAO:0000115	Demonstrate ability to involve others and share responsibility for applying FAIR principles
-ERROR	multiple_definitions	ability to solve fair implementation problems collaboratively	IAO:0000115	Demonstrate willingness to involve others and share responsibility for applying FAIR principles
-ERROR	multiple_definitions	metadata creation and exposure	IAO:0000115	[NH]
-ERROR	multiple_definitions	metadata creation and exposure	IAO:0000115	"data providing information about characteristics, aspects or context of other data entities such as a dataset or other digital or analog object.  Used to find, identify, select and acquire or obtain access to a data entity.  (See FRBR User Tasks at:
- https://sites.google.com/site/metadatastandards/chapter-6/6-3-frbr-user-tasks.)"
-ERROR	multiple_definitions	preservation skill	IAO:0000115	??Delete??
-ERROR	multiple_definitions	preservation skill	IAO:0000115	General definition: to keep something as it is, especially in order to prevent it from decaying or being damaged or destroyed (source: https://dictionary.cambridge.org/fr/dictionnaire/anglais/preserve). Specific definition: to keep data accessible, findable and in a state enabling reuse prevent it to decay, being damaged. In this definition we are considering the aspects of both short and long term preservation.
-ERROR	multiple_definitions	choosing the appropriate terminology for your data	IAO:0000115	To be able to research and identify the appropriate taxonomy for your project. This may involve using resources such as FAIRsharing, which captures metadata on taxonomies and provides an assessment of their FAIRness.[PMQ]
-ERROR	multiple_definitions	choosing the appropriate terminology for your data	IAO:0000115	To be able to research and identify the appropriate terminology for your project. This may involve using resources such as FAIRsharing, which captures metadata on taxonomies and provides an assessment of their FAIRness.[PMQ]
-ERROR	multiple_definitions	knowledge to relate FAIR data assessment to research community norms	IAO:0000115	Know how the acceptability of research data FAIRness depends on the research community norms e.g. concepts of data and methods for deriving valid knowledge
-ERROR	multiple_definitions	knowledge to relate FAIR data assessment to research community norms	IAO:0000115	Know how the acceptability of research evidence depends on the research community concept of data and its methods for deriving valid knowledge from it
-ERROR	multiple_definitions	resource management	IAO:0000115	??
-ERROR	multiple_definitions	resource management	IAO:0000115	Resource management is the efficient and effective development of an organization's resources when they are needed. Such resources may include the financial resources, inventory, human skills, production resources, or information technology (IT) and natural resources. [LLC]
-ERROR	multiple_definitions	Standard	IAO:0000115	A document that applies collectively to codes, specifications, recommended practices, classifications, test methods, and guides, which have been prepared by a standards developing organization or group, and published in accordance with established procedures. http://www.ses-standards.org/?58
-ERROR	multiple_definitions	Standard	IAO:0000115	A document that applies collectively to codes, specifications, recommended practices, classifications, test methods, and guides, which have been prepared by a standards developing organization or group, and published in accordance with established procedures.n/ahttp://www.ses-standards.org/?58
-ERROR	multiple_definitions	knowledge of theories underlying FAIR implementation	IAO:0000115	Understand the concepts underpinning FAIR criteria
-ERROR	multiple_definitions	knowledge of theories underlying FAIR implementation	IAO:0000115	Understand the concepts underpinning FAIR criteria and their application
-ERROR	multiple_definitions	Data profiling	IAO:0000115	The statistical analysis and assessment of the quality of data values within a dataset for consistency, uniqueness and logic. The data profiling process cannot identify inaccurate data; it can only identify business rules violations and anomalies.
-ERROR	multiple_definitions	Data profiling	IAO:0000115	The statistical analysis and assessment of the quality of data values within a dataset for consistency, uniqueness and logic. The data profiling process cannot identify inaccurate data; it can only identify business rules violations and anomalies. The insight gained by data profiling can be used to determine how difficult it will be to use existing...
-ERROR	multiple_definitions	has/wants competency in	IAO:0000115	??
-ERROR	multiple_definitions	has/wants competency in	IAO:0000115	"An element (topic) of theory or practice e.g. ‘workflow set-up and management’, combined with an expertise level to indicate
-whether someone has an awareness of the area, or an ability to do it, or expert knowledge of it."
-ERROR	duplicate_definition	use of persistent, resolvable identifiers (PIDs)	IAO:0000115	[NH]
-ERROR	duplicate_definition	metadata creation and exposure	IAO:0000115	[NH]
-ERROR	duplicate_definition	confers/requires practical skill about	IAO:0000115	"A competence or capability acquired or applied in a specific context, e.g. producing a research output or deploying a service. A skill may be specified in a ‘skills user story’.
-A badge or certificate may provide evidence that a skill has been acquired, and a publication, personal profile, portfolio or CV may provide evidence that a skill has been applied."
-ERROR	duplicate_definition	has/wants practical skill about	IAO:0000115	"A competence or capability acquired or applied in a specific context, e.g. producing a research output or deploying a service. A skill may be specified in a ‘skills user story’.
-A badge or certificate may provide evidence that a skill has been acquired, and a publication, personal profile, portfolio or CV may provide evidence that a skill has been applied."
-ERROR	duplicate_definition	software review and preservation	IAO:0000115	??Delete??
-ERROR	duplicate_definition	preservation skill	IAO:0000115	??Delete??
-ERROR	duplicate_definition	plan stewardship and sharing of FAIR outputs	IAO:0000115	??
-ERROR	duplicate_definition	develop open research strategy and vision	IAO:0000115	??
-ERROR	duplicate_definition	expose your data	IAO:0000115	??
-ERROR	duplicate_definition	understanding the requirements of the analysis/research question	IAO:0000115	??
-ERROR	duplicate_definition	tactical/short-term planning	IAO:0000115	??
-ERROR	duplicate_definition	versioning	IAO:0000115	??
-ERROR	duplicate_definition	knowledge about data modeling	IAO:0000115	??
-ERROR	duplicate_definition	willingness to help and understand researchers	IAO:0000115	??
-ERROR	duplicate_definition	preservation costs management	IAO:0000115	??
-ERROR	duplicate_definition	publish and release	IAO:0000115	??
-ERROR	duplicate_definition	govern and assess	IAO:0000115	??
-ERROR	duplicate_definition	quality assessment	IAO:0000115	??
-ERROR	duplicate_definition	open access publishing and self-archiving	IAO:0000115	??
-ERROR	duplicate_definition	logistical support	IAO:0000115	??
-ERROR	duplicate_definition	influencing/community building	IAO:0000115	??
-ERROR	duplicate_definition	prototyping	IAO:0000115	??
-ERROR	duplicate_definition	plan for data normalisation	IAO:0000115	??
-ERROR	duplicate_definition	integrate and analyse	IAO:0000115	??
-ERROR	duplicate_definition	expose and discover	IAO:0000115	??
-ERROR	duplicate_definition	resource management	IAO:0000115	??
-ERROR	duplicate_definition	documenting the cleaning steps	IAO:0000115	??
-ERROR	duplicate_definition	plan	IAO:0000115	??
-ERROR	duplicate_definition	meeting/conference organisation	IAO:0000115	??
-ERROR	duplicate_definition	storage security management	IAO:0000115	??
-ERROR	duplicate_definition	policies (legal requirements, ethical & FAIR principles)	IAO:0000115	??
-ERROR	duplicate_definition	software development	IAO:0000115	??
-ERROR	duplicate_definition	knowledge about data stewardship planning	IAO:0000115	??
-ERROR	duplicate_definition	has/wants competency in	IAO:0000115	??
-ERROR	label_whitespace	Pipe separated values 	rdfs:label	Pipe separated values 
-ERROR	label_whitespace	Repository access 	rdfs:label	Repository access 
-ERROR	label_whitespace	Interoperability 	rdfs:label	Interoperability 
-ERROR	label_whitespace	Relational database 	rdfs:label	Relational database 
-ERROR	label_whitespace	Electronic medical record 	rdfs:label	Electronic medical record 
-ERROR	label_whitespace	Manage metadata catalog 	rdfs:label	Manage metadata catalog 
-ERROR	label_whitespace	Documented data 	rdfs:label	Documented data 
-ERROR	label_whitespace	Dynamic data 	rdfs:label	Dynamic data 
-ERROR	label_whitespace	Registered data 	rdfs:label	Registered data 
-ERROR	label_whitespace	Digital scholarship 	rdfs:label	Digital scholarship 
-ERROR	label_whitespace	Digital materials 	rdfs:label	Digital materials 
-ERROR	label_whitespace	Dissambuation 	rdfs:label	Dissambuation 
-ERROR	label_whitespace	cite contributions 	rdfs:label	cite contributions 
-ERROR	label_whitespace	High quality data 	rdfs:label	High quality data 
-ERROR	label_whitespace	Foundational interoperability 	rdfs:label	Foundational interoperability 
-ERROR	label_whitespace	Information technology specialist 	rdfs:label	Information technology specialist 
-ERROR	label_whitespace	Regional standard 	rdfs:label	Regional standard 
-ERROR	label_whitespace	International chemical identifier 	rdfs:label	International chemical identifier 
-ERROR	label_whitespace	self-archive 	rdfs:label	self-archive 
-ERROR	label_whitespace	Normalization 	rdfs:label	Normalization 
-ERROR	label_whitespace	Evaluation 	rdfs:label	Evaluation 
-ERROR	label_whitespace	know services/conditions of repositories 	rdfs:label	know services/conditions of repositories 
-ERROR	label_whitespace	Non personally identifiable information 	rdfs:label	Non personally identifiable information 
-ERROR	label_whitespace	Machine readable 	rdfs:label	Machine readable 
-ERROR	label_whitespace	International standard 	rdfs:label	International standard 
-ERROR	label_whitespace	Data ingestion 	rdfs:label	Data ingestion 
-ERROR	label_whitespace	Innovation 	rdfs:label	Innovation 
-ERROR	label_whitespace	Digital research data 	rdfs:label	Digital research data 
-ERROR	label_whitespace	Extensible Markup Language 	rdfs:label	Extensible Markup Language 
-ERROR	label_whitespace	Digital infrastructure 	rdfs:label	Digital infrastructure 
-ERROR	label_whitespace	appreciation of FAIR and open research 	rdfs:label	appreciation of FAIR and open research 
-ERROR	label_whitespace	Dublin Core 	rdfs:label	Dublin Core 
-ERROR	label_whitespace	Document type definition 	rdfs:label	Document type definition 
-ERROR	label_whitespace	Governance 	rdfs:label	Governance 
-ERROR	label_whitespace	De-anonymization 	rdfs:label	De-anonymization 
-ERROR	label_whitespace	Golden record 	rdfs:label	Golden record 
-ERROR	label_whitespace	Electronic health record 	rdfs:label	Electronic health record 
-ERROR	label_whitespace	Privacy governance 	rdfs:label	Privacy governance 
-ERROR	label_whitespace	Encoding schema 	rdfs:label	Encoding schema 
-ERROR	label_formatting	the use of FAIR and open research tools or services knowledge	rdfs:label	"the use of FAIR and open research tools or services
- knowledge"
-WARN	missing_definition	knowledge of the documenting of the cleaning steps	IAO:0000115	
-WARN	missing_definition	interoperability of digital assets	IAO:0000115	
-WARN	missing_definition	knowledge of software development	IAO:0000115	
-WARN	missing_definition	data categorisation	IAO:0000115	
-WARN	missing_definition	database developer	IAO:0000115	
-WARN	missing_definition	design	IAO:0000115	
-WARN	missing_definition	knowledge of applying software	IAO:0000115	
+ERROR	duplicate_definition	Non identifiable data	IAO:0000115	Data that could not lead to the identification of a specific individual, to distinguishing one person from another, or to personally identifiable information. These may be data that have been de-identified, or that could not lead to personally identifiable information in the first place.
+ERROR	duplicate_definition	Non personally identifiable information	IAO:0000115	Data that could not lead to the identification of a specific individual, to distinguishing one person from another, or to personally identifiable information. These may be data that have been de-identified, or that could not lead to personally identifiable information in the first place.
+ERROR	duplicate_definition	Digital materials	IAO:0000115	A broad term encompassing: (a) digital surrogates created as a result of converting analogue materials to digital form (digitisation); (b) born digital for which there has never been and is never intended to be an analogue equivalent; and, (c) digital records.
+ERROR	duplicate_definition	Machine-readable format	IAO:0000115	A broad term encompassing: (a) digital surrogates created as a result of converting analogue materials to digital form (digitisation); (b) born digital for which there has never been and is never intended to be an analogue equivalent; and, (c) digital records.
+WARN	annotation_whitespace	Searching via algorithms and software	IAO:0000118	 Programmatic search'
+WARN	annotation_whitespace	Searching via algorithms and software	IAO:0000118	 batch search
+WARN	annotation_whitespace	Search repositories and knowledge-bases	IAO:0000118	 database search
+WARN	annotation_whitespace	Search repositories and knowledge-bases	IAO:0000118	 searching databases
+WARN	annotation_whitespace	Search repositories and knowledge-bases	IAO:0000118	 searching repositories
+WARN	annotation_whitespace	Identity management	IAO:0000118	 IAM
+WARN	annotation_whitespace	Identity management	IAO:0000118	 Identity and Access Management
+WARN	annotation_whitespace	Evaluation of repositories for data deposition	IAO:0000118	 FAIR data submission
+WARN	annotation_whitespace	Recognise and acknowledge contributions	IAO:0000118	 credit
+WARN	annotation_whitespace	Personally identifiable information	IAO:0000115	1. Data which relate to a living individual who can be identified (a) from those data, or (b) from those data and other information which is in the possession of, or is likely to come into the possession of, the data controller, and includes any expression of opinion about the individual and any indication of the intentions of the data controller or any other person in respect of the individual. 2. Any data that could potentially identify a specific individual. Any information that can be used to distinguish one person from another and can be used for de-anonymizing anonymous data can be considered personally identifiable data. 3. Data are identifiable if the information contains the name of an individual, or other identifying items such as birth date, address or geocoding. Data will be identifiable if the information contains a unique personal identifier and the holder of the information also has the master list linking the identifiers to individuals. Data may also be identifiable because of the number of different pieces of information known about a particular individual. It may also be possible to ascertain the identity of individuals from aggregated data where there are very few individuals in a particular category. Identifiability is dependent on the amount of information held and also on the skills and technology of the holder. 
+WARN	annotation_whitespace	Choosing the appropriate terminology for your data	IAO:0000118	 Controlled Vocabulary identification
+WARN	annotation_whitespace	Choosing the appropriate terminology for your data	IAO:0000118	 Ontology identification
+WARN	annotation_whitespace	Choosing the appropriate terminology for your data	IAO:0000118	 Thesaurus identification
+WARN	annotation_whitespace	Metadata search via metadata providers	IAO:0000118	 Metadata processing
+WARN	annotation_whitespace	Choosing the appropriate model or format for your data	IAO:0000118	 Which data model to use
+WARN	annotation_whitespace	Machine access via API	IAO:0000118	 Machine actionable search
+WARN	duplicate_label_synonym	Data discovery	IAO:0000118	Data discovery
+WARN	duplicate_label_synonym	Data capture	IAO:0000118	Data capture
+WARN	missing_definition	Interoperability of digital assets	IAO:0000115	
+WARN	missing_definition	Data categorisation	IAO:0000115	
+WARN	missing_definition	Database developer	IAO:0000115	
 WARN	missing_definition	A1. (Meta)data are retrievable by their identifier using a standardised communications protocol	IAO:0000115	
-WARN	missing_definition	creating and updating a DMP	IAO:0000115	
-WARN	missing_definition	ethical application of patents, licenses	IAO:0000115	
-WARN	missing_definition	wiki site	IAO:0000115	
-WARN	missing_definition	aptitudes surrounding the requirements of the analysis/research question	IAO:0000115	
-WARN	missing_definition	conducting operations	IAO:0000115	
-WARN	missing_definition	online workbook	IAO:0000115	
-WARN	missing_definition	engaging in open innovation beyond academia	IAO:0000115	
-WARN	missing_definition	online documentation	IAO:0000115	
-WARN	missing_definition	skills surrounding the processing of information retrieved from existing sources	IAO:0000115	
+WARN	missing_definition	Ethical application of patents, licenses	IAO:0000115	
+WARN	missing_definition	Wiki site	IAO:0000115	
+WARN	missing_definition	Tactical/short-term planning	IAO:0000115	
+WARN	missing_definition	Conducting operations	IAO:0000115	
+WARN	missing_definition	Online workbook	IAO:0000115	
+WARN	missing_definition	Engaging in open innovation beyond academia	IAO:0000115	
+WARN	missing_definition	Online documentation	IAO:0000115	
 WARN	missing_definition	A1.1 The protocol is open, free, and universally implementable	IAO:0000115	
-WARN	missing_definition	information security and access management	IAO:0000115	
-WARN	missing_definition	skills surrounding applying of tools	IAO:0000115	
-WARN	missing_definition	trainer/teacher	IAO:0000115	
-WARN	missing_definition	knowledge of applying of tools	IAO:0000115	
-WARN	missing_definition	model data structure and define database needs	IAO:0000115	
+WARN	missing_definition	Publish data	IAO:0000115	
+WARN	missing_definition	Information security	IAO:0000115	
+WARN	missing_definition	Trainer/teacher	IAO:0000115	
+WARN	missing_definition	Assessment	IAO:0000115	
 WARN	missing_definition	I1. (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation	IAO:0000115	
-WARN	missing_definition	critical thinking and theory building	IAO:0000115	
-WARN	missing_definition	reuse of digital assets	IAO:0000115	
+WARN	missing_definition	Quality assessment	IAO:0000115	
+WARN	missing_definition	Reuse of digital assets	IAO:0000115	
 WARN	missing_definition	R1. (Meta)data are richly described with a plurality of accurate and relevant attributes	IAO:0000115	
-WARN	missing_definition	repository certification schemes	IAO:0000115	
+WARN	missing_definition	Repository certification schemes	IAO:0000115	
+WARN	missing_definition	Open access publishing	IAO:0000115	
 WARN	missing_definition	F2. Data are described with rich metadata	IAO:0000115	
 WARN	missing_definition	R1.1 (Meta)data are released with a clear and accessible data usage license	IAO:0000115	
-WARN	missing_definition	aptitudes surrounding data cleaning	IAO:0000115	
-WARN	missing_definition	presentation slides	IAO:0000115	
+WARN	missing_definition	Presentation slides	IAO:0000115	
 WARN	missing_definition	Format and media migration	IAO:0000115	
-WARN	missing_definition	researcher	IAO:0000115	
-WARN	missing_definition	findability of digital assets	IAO:0000115	
-WARN	missing_definition	knowledge of the requirements of the analysis/research question	IAO:0000115	
-WARN	missing_definition	skills surrounding the documenting of the cleaning steps	IAO:0000115	
-WARN	missing_definition	skills surrounding software development	IAO:0000115	
-WARN	missing_definition	knowledge of data cleaning	IAO:0000115	
-WARN	missing_definition	book	IAO:0000115	
-WARN	missing_definition	aptitudes surrounding applying of tools	IAO:0000115	
-WARN	missing_definition	aptitudes surrounding applying of software	IAO:0000115	
-WARN	missing_definition	maintaining persistent identifiers	IAO:0000115	
+WARN	missing_definition	Researcher	IAO:0000115	
+WARN	missing_definition	Logistical support	IAO:0000115	
+WARN	missing_definition	Findability of digital assets	IAO:0000115	
+WARN	missing_definition	Community building	IAO:0000115	
+WARN	missing_definition	Book	IAO:0000115	
+WARN	missing_definition	Maintaining persistent identifiers	IAO:0000115	
 WARN	missing_definition	I2. (Meta)data use vocabularies that follow FAIR principles	IAO:0000115	
-WARN	missing_definition	data and metadata capture	IAO:0000115	
-WARN	missing_definition	skills surrounding applying of software	IAO:0000115	
 WARN	missing_definition	A1.2 The protocol allows for an authentication and authorisation procedure, where necessary	IAO:0000115	
-WARN	missing_definition	data stewardship technical concept	IAO:0000115	
+WARN	missing_definition	Data stewardship technical concept	IAO:0000115	
 WARN	missing_definition	R1.2 (Meta)data are associated with detailed provenance	IAO:0000115	
-WARN	missing_definition	using persistent identifiers	IAO:0000115	
-WARN	missing_definition	database curator	IAO:0000115	
+WARN	missing_definition	Using persistent identifiers	IAO:0000115	
+WARN	missing_definition	Data curator	IAO:0000115	
 WARN	missing_definition	R1.3 (Meta)data meet domain-relevant community standards	IAO:0000115	
 WARN	missing_definition	F4. (Meta)data are registered or indexed in a searchable resource	IAO:0000115	
-WARN	missing_definition	aptitudes surrounding the documenting of cleaning steps	IAO:0000115	
-WARN	missing_definition	aptitudes surrounding the processing of information retrieved from existing sources	IAO:0000115	
-WARN	missing_definition	willingness to put extra effort into preparing data for long term preservation	IAO:0000115	
-WARN	missing_definition	appraise and preserve	IAO:0000115	
-WARN	missing_definition	aptitudes associated with using fair tools and services	IAO:0000115	
-WARN	missing_definition	knowledge of the processing of information retrieved from existing sources	IAO:0000115	
-WARN	missing_definition	skills surrounding the requirements of the analysis/research question	IAO:0000115	
-WARN	missing_definition	presentation slides with interactive exercises	IAO:0000115	
-WARN	missing_definition	creating persistent identifiers	IAO:0000115	
-WARN	missing_definition	skills surrounding data cleaning	IAO:0000115	
-WARN	missing_definition	book chapter	IAO:0000115	
+WARN	missing_definition	Aptitudes associated with using fair tools and services	IAO:0000115	
+WARN	missing_definition	Presentation slides with interactive exercises	IAO:0000115	
+WARN	missing_definition	Creating persistent identifiers	IAO:0000115	
+WARN	missing_definition	Book chapter	IAO:0000115	
 WARN	missing_definition	F3. Metadata clearly and explicitly include the identifier of the data they describe	IAO:0000115	
-WARN	missing_definition	analyse requirements for services or software	IAO:0000115	
 WARN	missing_definition	A2. Metadata are accessible, even when the data are no longer available	IAO:0000115	
-WARN	missing_definition	data stewardship guideline	IAO:0000115	
-WARN	missing_definition	Repurposed data	IAO:0000115	
-WARN	missing_definition	specify metadata and persistent id. standards	IAO:0000115	
+WARN	missing_definition	Data stewardship guideline	IAO:0000115	
 WARN	missing_definition	I3. (Meta)data include qualified references to other (meta)data	IAO:0000115	
-WARN	missing_definition	access control and management	IAO:0000115	
-WARN	missing_definition	accessibility of digital assets	IAO:0000115	
-WARN	missing_definition	FAIR4S defined activity	IAO:0000115	
-WARN	missing_definition	understanding persistent identifiers	IAO:0000115	
-WARN	missing_definition	appraise and select repositories for FAIR sharing	IAO:0000115	
-WARN	missing_definition	application of fair tools and services	IAO:0000115	
-WARN	missing_definition	using FAIR and open research tools or services	IAO:0000115	
-WARN	missing_definition	webinar	IAO:0000115	
+WARN	missing_definition	Access control and management	IAO:0000115	
+WARN	missing_definition	Accessibility of digital assets	IAO:0000115	
+WARN	missing_definition	Understanding persistent identifiers	IAO:0000115	
+WARN	missing_definition	Application of fair tools and services	IAO:0000115	
+WARN	missing_definition	Using FAIR and open research tools or services	IAO:0000115	
+WARN	missing_definition	Webinar	IAO:0000115	
 WARN	missing_definition	F1. (Meta)data are assigned a globally unique and persistent identifier	IAO:0000115	
-WARN	missing_definition	role	IAO:0000115	
-WARN	missing_definition	data manager	IAO:0000115	
-WARN	missing_definition	research integrity, attribution, impact awareness	IAO:0000115	
-WARN	missing_definition	identifier	IAO:0000115	
-WARN	missing_definition	github repository	IAO:0000115	
-WARN	missing_definition	data archiving	IAO:0000115	
-WARN	missing_definition	aptitudes surrounding software development	IAO:0000115	
+WARN	missing_definition	Role	IAO:0000115	
+WARN	missing_definition	Data manager	IAO:0000115	
+WARN	missing_definition	Research integrity, attribution, impact awareness	IAO:0000115	
+WARN	missing_definition	Identifier	IAO:0000115	
+WARN	missing_definition	Github repository	IAO:0000115	
+WARN	missing_definition	Data archiving	IAO:0000115	
 WARN	missing_definition	Reference URL	IAO:0000115	
-WARN	missing_definition	confers/requires competency about	IAO:0000115	
 WARN	missing_definition	confers/requires knowledge about	IAO:0000115	
 WARN	missing_definition	requires/improves personal attribute	IAO:0000115	
 WARN	missing_definition	has/wants knowledge about	IAO:0000115	
 WARN	missing_definition	supports implementation of	IAO:0000115	
 WARN	missing_definition	has aptitude for	IAO:0000115	
+WARN	missing_definition	contributes to the implementation of	IAO:0000115	
+WARN	missing_definition	alternative definition	IAO:0000115	
+WARN	missing_definition	alternative definition source	IAO:0000115	
+INFO	missing_superclass	Data stewardship guideline	rdfs:subClassOf	
+INFO	missing_superclass	Data stewardship soft skill	rdfs:subClassOf	

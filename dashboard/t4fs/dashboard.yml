@@ -5,52 +5,52 @@ base_prefixes:
 changed: true
 metrics:
   'Axioms: Breakdown of axiom types':
-    AnnotationAssertion: 2458
+    AnnotationAssertion: 1912
     DataPropertyRange: 1
-    Declaration: 578
+    Declaration: 493
     ObjectPropertyDomain: 10
     ObjectPropertyRange: 10
-    SubClassOf: 740
+    SubClassOf: 625
     SubObjectPropertyOf: 7
-  'Axioms: Number of axioms': 3804
+  'Axioms: Number of axioms': 3058
   'Entities: % of entities reused': 100.0
   'Entities: Number of annotation properties': 18
-  'Entities: Number of classes': 552
+  'Entities: Number of classes': 467
   'Entities: Number of data properties': 1
   'Entities: Number of individuals': 0
   'Entities: Number of object properties': 11
   'Entities: Number of unsatisfiable classes': 0
   'Info: Breakdown of OWL class expressions used':
-    Class: 2053
+    Class: 1738
     DataSomeValuesFrom: 1
-    ObjectAllValuesFrom: 11
-    ObjectSomeValuesFrom: 177
+    ObjectAllValuesFrom: 7
+    ObjectSomeValuesFrom: 156
     ObjectUnionOf: 2
   'Info: Does the ontology fall under OWL 2 DL?': true
   'Info: Experimental OBO score':
-    _dashboard: 0.842
+    _dashboard: 0.908
     _formula: (3*impact+2*dashboard)/5
     _impact: 0.0
     _impact_external: 0.5
     _reuse: 1.0
-    oboscore: 0.337
+    oboscore: 0.363
   'Info: How many externally documented uses?': 3
   'Info: How many ontologies use it?': 0
   'Info: Logical consistency': true
   'Info: Syntax': RDF/XML Syntax
   'Info: Usage of namespaces in axioms':
-    IAO: 1858
+    IAO: 1589
     dc: 1
-    dc11: 38
-    obo: 2286
-    oboInOwl: 149
+    dc11: 37
+    obo: 1945
+    oboInOwl: 96
     owl: 7
-    rdfs: 836
+    rdfs: 515
     skos: 1
     xsd: 2
   'Info: Which ontologies use it?':
   - t4fs
-mirror_from: https://github.com/terms4fairskills/FAIRterminology/raw/obo-foundry-updates/t4fs.owl
+mirror_from: https://github.com/terms4fairskills/FAIRterminology/raw/obo-foundry-updates/development/t4fs.owl
 namespace: t4fs
 results:
   FP01 Open:
@@ -64,8 +64,8 @@ results:
   FP05 Scope:
     status: PASS
   FP06 Textual Definitions:
-    comment: 34 duplicate definitions. 26 multiple definitions. 97 missing definitions.
-      See ROBOT Report for details.
+    comment: 4 duplicate definitions. 70 missing definitions. See ROBOT Report for
+      details.
     status: ERROR
   FP07 Relations:
     comment: 11 non-RO properties used.
@@ -85,14 +85,14 @@ results:
   FP20 Responsiveness:
     status: PASS
   ROBOT Report:
-    comment: 100 errors, 250 warnings, 39 info messages.
+    comment: 4 errors, 88 warnings, 2 info messages.
     file: robot_report
     results:
-      ERROR: 100
-      INFO: 39
-      WARN: 250
+      ERROR: 4
+      INFO: 2
+      WARN: 88
     status: ERROR
-sha256_hash: ec8f7b2011cb4d51ba712dd1ea00973ec8bd4fd415697c105df8738d6cba2029
+sha256_hash: 4e3d8d857166425035125a805851cc09fbf1547e24e4e6a1831ab44cd53a2862
 summary:
   comment: 3 errors
   status: ERROR

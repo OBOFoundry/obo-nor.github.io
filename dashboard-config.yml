@@ -189,7 +189,7 @@ ontologies:
         url: https://creativecommons.org/licenses/by/3.0/
         label: CC BY 4.0
     - id: t4fs
-      mirror_from: "https://github.com/terms4fairskills/FAIRterminology/raw/obo-foundry-updates/t4fs.owl"
+      mirror_from: "https://github.com/terms4fairskills/FAIRterminology/raw/obo-foundry-updates/development/t4fs.owl"
       title: terms4FAIRskills
       contact:
         email: pete_mcq@protonmail.com
