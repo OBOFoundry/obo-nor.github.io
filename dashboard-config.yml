@@ -194,6 +194,8 @@ ontologies:
       contact:
         email: pete_mcq@protonmail.com
         label: Peter McQuilton
+        orcid: 0000-0003-2687-1982
+        github: drosophilic
       description: A terminology for the skills necessary to make data FAIR and to keep it FAIR.
       domain: skills for enabling FAIR data, applicable across all research areas including the life sciences
       homepage: https://github.com/terms4fairskills/FAIRterminology
