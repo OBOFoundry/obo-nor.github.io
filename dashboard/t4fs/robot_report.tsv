@@ -1,7 +1,4 @@
 Level	Rule Name	Subject	Property	Value
-ERROR	missing_ontology_title	http://purl.obolibrary.org/obo/t4fs.owl	dc:title	
-ERROR	missing_ontology_license	http://purl.obolibrary.org/obo/t4fs.owl	dc:license	
-ERROR	missing_ontology_description	http://purl.obolibrary.org/obo/t4fs.owl	dc:description	
 WARN	missing_definition	Interoperability of digital assets	IAO:0000115	
 WARN	missing_definition	Data categorisation	IAO:0000115	
 WARN	missing_definition	Database developer	IAO:0000115	
