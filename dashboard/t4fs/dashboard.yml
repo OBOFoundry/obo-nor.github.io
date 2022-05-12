@@ -5,14 +5,14 @@ base_prefixes:
 changed: true
 metrics:
   'Axioms: Breakdown of axiom types':
-    AnnotationAssertion: 1878
+    AnnotationAssertion: 1879
     DataPropertyRange: 1
     Declaration: 489
     ObjectPropertyDomain: 10
     ObjectPropertyRange: 10
     SubClassOf: 623
     SubObjectPropertyOf: 7
-  'Axioms: Number of axioms': 3018
+  'Axioms: Number of axioms': 3019
   'Entities: % of entities reused': 100.0
   'Entities: Number of annotation properties': 15
   'Entities: Number of classes': 466
@@ -39,13 +39,13 @@ metrics:
   'Info: Logical consistency': true
   'Info: Syntax': RDF/XML Syntax
   'Info: Usage of namespaces in axioms':
-    IAO: 1585
+    IAO: 1586
     dc: 1
     dc11: 2
     obo: 1939
     oboInOwl: 96
     owl: 7
-    rdfs: 516
+    rdfs: 517
     skos: 1
     xsd: 2
   'Info: Which ontologies use it?':
@@ -90,7 +90,7 @@ results:
       INFO: 2
       WARN: 70
     status: WARN
-sha256_hash: 8abdf558a9bb2b54dc8624657096c1a59b3e309f73667ecde0efb164cc62339a
+sha256_hash: 9af242124d3306542a1c26927d6109d15e89b2abaa4ddd20e1be92d90132e689
 summary:
   comment: 2 warnings
   status: WARN

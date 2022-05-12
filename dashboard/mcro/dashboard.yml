@@ -1,0 +1,133 @@
+base_generated: true
+base_prefixes:
+- MCRO
+- MCROALT
+changed: true
+metrics:
+  'Axioms: Breakdown of axiom types':
+    AnnotationAssertion: 5304
+    AnnotationPropertyDomain: 1
+    AnnotationPropertyRangeOf: 3
+    ClassAssertion: 19
+    DataPropertyDomain: 11
+    DataPropertyRange: 19
+    Declaration: 1235
+    DifferentIndividuals: 2
+    DisjointClasses: 42
+    EquivalentClasses: 21
+    EquivalentObjectProperties: 3
+    FunctionalDataProperty: 7
+    FunctionalObjectProperty: 4
+    InverseObjectProperties: 34
+    IrrefexiveObjectProperty: 1
+    ObjectPropertyAssertion: 2
+    ObjectPropertyDomain: 91
+    ObjectPropertyRange: 87
+    SubAnnotationPropertyOf: 19
+    SubClassOf: 1680
+    SubDataPropertyOf: 12
+    SubObjectPropertyOf: 90
+    SubPropertyChainOf: 15
+    SymmetricObjectProperty: 6
+    TransitiveObjectProperty: 9
+  'Axioms: Number of axioms': 8717
+  'Entities: % of entities reused': 100.0
+  'Entities: Number of annotation properties': 105
+  'Entities: Number of classes': 936
+  'Entities: Number of data properties': 27
+  'Entities: Number of individuals': 26
+  'Entities: Number of object properties': 142
+  'Entities: Number of unsatisfiable classes': 2
+  'Info: Breakdown of OWL class expressions used':
+    Class: 4704
+    DataExactCardinality: 6
+    DataMinCardinality: 1
+    DataSomeValuesFrom: 20
+    ObjectAllValuesFrom: 29
+    ObjectComplementOf: 30
+    ObjectExactCardinality: 1
+    ObjectIntersectionOf: 32
+    ObjectMaxCardinality: 1
+    ObjectMinCardinality: 1
+    ObjectOneOf: 3
+    ObjectSomeValuesFrom: 656
+    ObjectUnionOf: 42
+  'Info: Does the ontology fall under OWL 2 DL?': false
+  'Info: Experimental OBO score':
+    _dashboard: 0.915
+    _formula: (3*impact+2*dashboard)/5
+    _impact: 0.0
+    _impact_external: 0
+    _reuse: 1.0
+    oboscore: 0.366
+  'Info: How many externally documented uses?': 0
+  'Info: How many ontologies use it?': 0
+  'Info: Logical consistency': true
+  'Info: Syntax': OWL/XML Syntax
+  'Info: Usage of namespaces in axioms':
+    APOLLO_SV: 22
+    BFO: 372
+    GAZ: 4
+    IAO: 4488
+    OBI: 123
+    PATO: 16
+    RO: 128
+    UO: 10
+    dc: 5
+    dc11: 214
+    foaf: 5
+    obo: 2
+    oboInOwl: 25
+    owl: 35
+    prefix_unknown: 3762
+    prov: 911
+    rdf: 16
+    rdfs: 1537
+    skos: 178
+    xsd: 17
+  'Info: Which ontologies use it?':
+  - mcro
+mirror_from: https://raw.githubusercontent.com/UTHealth-Ontology/MCRO/main/mcro.owl
+namespace: mcro
+results:
+  FP01 Open:
+    status: PASS
+  FP02 Common Format:
+    comment: OWL syntax (OWL/XML Syntax), but should be RDF/XML
+    status: WARN
+  FP03 URIs:
+    status: PASS
+  FP04 Versioning:
+    comment: Missing version IRI
+    status: ERROR
+  FP05 Scope:
+    status: PASS
+  FP06 Textual Definitions:
+    status: PASS
+  FP07 Relations:
+    status: PASS
+  FP08 Documented:
+    status: PASS
+  FP09 Plurality of Users:
+    comment: Missing usages
+    status: ERROR
+  FP11 Locus of Authority:
+    status: PASS
+  FP12 Naming Conventions:
+    status: PASS
+  FP16 Maintenance:
+    comment: Missing version IRI to check date
+    status: ERROR
+  FP20 Responsiveness:
+    status: PASS
+  ROBOT Report:
+    status: PASS
+sha256_hash: 2dc4215a32b4a654c0ee3727ed16d1b3ffe49d60c314d1d517da580daabba096
+summary:
+  comment: 3 errors
+  status: ERROR
+  summary_count:
+    ERROR: 3
+    INFO: 0
+    WARN: 1
+version: null
