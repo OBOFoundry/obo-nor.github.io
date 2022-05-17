@@ -9,11 +9,11 @@ metrics:
     Declaration: 2107
     DisjointClasses: 18
     SubAnnotationPropertyOf: 15
-    SubClassOf: 2410
+    SubClassOf: 2411
     SubObjectPropertyOf: 1
     SymmetricObjectProperty: 1
     TransitiveObjectProperty: 1
-  'Axioms: Number of axioms': 39598
+  'Axioms: Number of axioms': 39599
   'Entities: % of entities reused': 100.0
   'Entities: Number of annotation properties': 179
   'Entities: Number of classes': 1913
@@ -22,7 +22,7 @@ metrics:
   'Entities: Number of object properties': 14
   'Entities: Number of unsatisfiable classes': 36
   'Info: Breakdown of OWL class expressions used':
-    Class: 6769
+    Class: 6771
     ObjectSomeValuesFrom: 86
   'Info: Does the ontology fall under OWL 2 DL?': false
   'Info: Experimental OBO score':
@@ -44,7 +44,7 @@ metrics:
     CLO: 5
     CMO: 39
     CTO: 21
-    DOID: 216
+    DOID: 218
     DRON: 32
     EMAPA: 3
     ERO: 45
@@ -146,7 +146,7 @@ results:
     status: PASS
   ROBOT Report:
     status: PASS
-sha256_hash: 3bc704ccc79889f5e9cf2600978faca91588d1f14df4753657604dc6bab893f1
+sha256_hash: a8fad83eccca39f3c955f69554e63eabd0478a0d2a7f6f0d364368520906b5d0
 summary:
   comment: 1 errors
   status: ERROR
