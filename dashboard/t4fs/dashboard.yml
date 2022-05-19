@@ -48,8 +48,7 @@ metrics:
     rdfs: 517
     skos: 1
     xsd: 2
-  'Info: Which ontologies use it?':
-  - t4fs
+  'Info: Which ontologies use it?': []
 mirror_from: https://raw.githubusercontent.com/terms4fairskills/FAIRterminology/obo-foundry-updates/development/t4fs.owl
 namespace: t4fs
 results:

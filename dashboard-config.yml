@@ -145,7 +145,6 @@ ontologies:
       license:
         url: http://creativecommons.org/licenses/by/3.0/
         label: CC-BY
-      usages:
     - id: scho
       title: Schizophrenia Ontology
       contact:

@@ -1,200 +1,200 @@
 Level	Rule Name	Subject	Property	Value
+WARN	annotation_whitespace	Swedish Red and White; Cattle	oboInOwl:hasExactSynonym	Swedish Red and White 
+WARN	annotation_whitespace	Dharwadi, India; Buffalo	oboInOwl:hasExactSynonym	Jawari 
+WARN	annotation_whitespace	Brown Swiss, Montenegro; Cattle	oboInOwl:hasExactSynonym	Smedja rasa 
+WARN	annotation_whitespace	Milking Shorthorn, Canada; Cattle	oboInOwl:hasExactSynonym	Dual Puporse Shorthorns 
+WARN	annotation_whitespace	Guelmoise, Algeria; Cattle	oboInOwl:hasExactSynonym	El Guelmia 
+WARN	annotation_whitespace	Guelmoise, Algeria; Cattle	oboInOwl:hasExactSynonym	Ezzarga 
+WARN	annotation_whitespace	Ambo, Ethiopia; Cattle	oboInOwl:hasExactSynonym	Ethiopian Highland Zebu 
+WARN	annotation_whitespace	Malnad Gidda, India; Cattle	oboInOwl:hasExactSynonym	Varshagandhi 
+WARN	annotation_whitespace	Albatinah, Oman; Cattle	oboInOwl:hasExactSynonym	North of Oman 
+WARN	annotation_whitespace	ALGHARBIA, Libya; Dromedary	oboInOwl:hasExactSynonym	 MAGHREBIA
+WARN	annotation_whitespace	Nicobari, India; Pig	oboInOwl:hasExactSynonym	Ha-un/Naut 
+WARN	annotation_whitespace	Apulo-Calabrese, Italy; Pig	oboInOwl:hasExactSynonym	Calabrese 
+WARN	annotation_whitespace	Apulo-Calabrese, Italy; Pig	oboInOwl:hasExactSynonym	Nero abruzzese 
+WARN	annotation_whitespace	Apulo-Calabrese, Italy; Pig	oboInOwl:hasExactSynonym	Nero calabrese 
+WARN	annotation_whitespace	Apulo-Calabrese, Italy; Pig	oboInOwl:hasExactSynonym	Nero dei Monti Dauni meridionali 
+WARN	annotation_whitespace	Apulo-Calabrese, Italy; Pig	oboInOwl:hasExactSynonym	Nero dei Monti Lepini 
+WARN	annotation_whitespace	Apulo-Calabrese, Italy; Pig	oboInOwl:hasExactSynonym	Nero lucano 
+WARN	annotation_whitespace	Apulo-Calabrese, Italy; Pig	oboInOwl:hasExactSynonym	Nero pugliese 
+WARN	annotation_whitespace	Apulo-Calabrese, Italy; Pig	oboInOwl:hasExactSynonym	Nero reatino 
+WARN	annotation_whitespace	Apulo-Calabrese, Italy; Pig	oboInOwl:hasExactSynonym	Pugliese 
+WARN	annotation_whitespace	Cinta Senese, Italy; Pig	oboInOwl:hasExactSynonym	Cinta 
+WARN	annotation_whitespace	Cinta Senese, Italy; Pig	oboInOwl:hasExactSynonym	Cinto 
+WARN	annotation_whitespace	Cinta Senese, Italy; Pig	oboInOwl:hasExactSynonym	Cinto toscano 
+WARN	annotation_whitespace	Cinta Senese, Italy; Pig	oboInOwl:hasExactSynonym	Cinturello umbro 
+WARN	annotation_whitespace	Mora Romagnola, Italy; Pig	oboInOwl:hasExactSynonym	Bolognese 
+WARN	annotation_whitespace	Mora Romagnola, Italy; Pig	oboInOwl:hasExactSynonym	Mora 
+WARN	annotation_whitespace	slovenian landrace (line 11), Slovenia; Pig	oboInOwl:hasExactSynonym	Slovenian Landrace 
+WARN	annotation_whitespace	Afar, Ethiopia; Sheep	oboInOwl:hasExactSynonym	Adal 
+WARN	annotation_whitespace	Washera, Ethiopia; Sheep	oboInOwl:hasExactSynonym	Agew 
+WARN	annotation_whitespace	Washera, Ethiopia; Sheep	oboInOwl:hasExactSynonym	Dangilla 
+WARN	annotation_whitespace	White Boni, Yemen; Sheep	oboInOwl:hasExactSynonym	Yemeni White 
 WARN	missing_subset_declaration	transboundary	rdfs:subPropertyOf	
-WARN	duplicate_exact_synonym	Charolaise, Croatia; Cattle	oboInOwl:hasExactSynonym	Å arole
-WARN	duplicate_exact_synonym	Charolais, Serbia; Cattle	oboInOwl:hasExactSynonym	Å arole
-WARN	duplicate_exact_synonym	Sul Do Save, Mozambique; Cattle	oboInOwl:hasExactSynonym	Zulu
-WARN	duplicate_exact_synonym	Nguni, Eswatini; Cattle	oboInOwl:hasExactSynonym	Zulu
-WARN	duplicate_exact_synonym	Nguni, South Africa; Cattle	oboInOwl:hasExactSynonym	Zulu
-WARN	duplicate_exact_synonym	Nguni, Mozambique; Sheep	oboInOwl:hasExactSynonym	Zulu
-WARN	duplicate_exact_synonym	Nguni, Eswatini; Sheep	oboInOwl:hasExactSynonym	Zulu
-WARN	duplicate_exact_synonym	Nguni, South Africa; Sheep	oboInOwl:hasExactSynonym	Zulu
-WARN	duplicate_exact_synonym	Javanese Zebu, Papua New Guinea; Cattle	oboInOwl:hasExactSynonym	Zebu
-WARN	duplicate_exact_synonym	Mambrina, Brazil; Goat	oboInOwl:hasExactSynonym	Zebu
-WARN	duplicate_exact_synonym	Zamorano-Leonés-Spain, Spain; Ass	oboInOwl:hasExactSynonym	Zamorana
-WARN	duplicate_exact_synonym	Sayaguesa, Spain; Cattle	oboInOwl:hasExactSynonym	Zamorana
-WARN	duplicate_exact_synonym	Bardoka, Serbia; Sheep	oboInOwl:hasExactSynonym	Yugoslav Zackel
-WARN	duplicate_exact_synonym	Krivovirska, Serbia; Sheep	oboInOwl:hasExactSynonym	Yugoslav Zackel
-WARN	duplicate_exact_synonym	Sharmountain, Serbia; Sheep	oboInOwl:hasExactSynonym	Yugoslav Zackel
-WARN	duplicate_exact_synonym	Svrljig, Serbia; Sheep	oboInOwl:hasExactSynonym	Yugoslav Zackel
-WARN	duplicate_exact_synonym	Sjenica, Serbia; Sheep	oboInOwl:hasExactSynonym	Yugoslav Zackel
-WARN	duplicate_exact_synonym	Yorkshire; Pig	oboInOwl:hasExactSynonym	Yorkshire
-WARN	duplicate_exact_synonym	Holderness, United Kingdom of Great Britain and Northern Ireland; Cattle	oboInOwl:hasExactSynonym	Yorkshire
-WARN	duplicate_exact_synonym	Large White, Finland; Pig	oboInOwl:hasExactSynonym	Yorkshire
-WARN	duplicate_exact_synonym	Large White, Madagascar; Pig	oboInOwl:hasExactSynonym	Yorkshire
-WARN	duplicate_exact_synonym	Large White, Uruguay; Pig	oboInOwl:hasExactSynonym	Yorkshire
-WARN	duplicate_exact_synonym	Japanese Long-Tailed Fowl, Japan; Chicken	oboInOwl:hasExactSynonym	Yokohama
-WARN	duplicate_exact_synonym	yokohama, Slovenia; Chicken	oboInOwl:hasExactSynonym	Yokohama
-WARN	duplicate_exact_synonym	Baluchi, Afghanistan; Sheep	oboInOwl:hasExactSynonym	Yazda
-WARN	duplicate_exact_synonym	Baluchi, Iran (Islamic Republic of); Sheep	oboInOwl:hasExactSynonym	Yazda
-WARN	duplicate_exact_synonym	Baluchi, Pakistan; Sheep	oboInOwl:hasExactSynonym	Yazda
-WARN	duplicate_exact_synonym	Yakutskii Skot, Russian Federation; Cattle	oboInOwl:hasExactSynonym	Yakut
-WARN	duplicate_exact_synonym	Yakutskaya, Russian Federation; Horse	oboInOwl:hasExactSynonym	Yakut
-WARN	duplicate_exact_synonym	Mbororo Ã  robe blanche, Cameroon; Cattle	oboInOwl:hasExactSynonym	Yakanaji
-WARN	duplicate_exact_synonym	White Fulani, Ghana; Cattle	oboInOwl:hasExactSynonym	Yakanaji
-WARN	duplicate_exact_synonym	White Fulani, Nigeria; Cattle	oboInOwl:hasExactSynonym	Yakanaji
-WARN	duplicate_exact_synonym	Mongolian Yak, Mongolia; Yak (domestic)	oboInOwl:hasExactSynonym	Yak
-WARN	duplicate_exact_synonym	Chour-gau, India; Yak (domestic)	oboInOwl:hasExactSynonym	Yak
-WARN	duplicate_exact_synonym	Wyandotte; Chicken	oboInOwl:hasExactSynonym	Wyandotte
-WARN	duplicate_exact_synonym	Vyandotka, Slovakia; Chicken	oboInOwl:hasExactSynonym	Wyandotte
-WARN	duplicate_exact_synonym	viandotska pritlikava kokoš, Slovenia; Chicken	oboInOwl:hasExactSynonym	Wyandotte
-WARN	duplicate_exact_synonym	Steppe Voloshian, Georgia; Sheep	oboInOwl:hasExactSynonym	Woloschian
-WARN	duplicate_exact_synonym	Valakhskaya, Russian Federation; Sheep	oboInOwl:hasExactSynonym	Woloschian
-WARN	duplicate_exact_synonym	Hampshire, United States of America; Pig	oboInOwl:hasExactSynonym	Woburn
-WARN	duplicate_exact_synonym	American Hampshire, South Africa; Pig	oboInOwl:hasExactSynonym	Woburn
-WARN	duplicate_exact_synonym	Virgin Island White, British Virgin Islands; Sheep	oboInOwl:hasExactSynonym	White Virgin Islander
-WARN	duplicate_exact_synonym	Virgin Island White, United States Virgin Islands; Sheep	oboInOwl:hasExactSynonym	White Virgin Islander
-WARN	duplicate_exact_synonym	Hototský biely, Slovakia; Rabbit	oboInOwl:hasExactSynonym	White of Hotot
-WARN	duplicate_exact_synonym	Blanc de Hotot, United States of America; Rabbit	oboInOwl:hasExactSynonym	White of Hotot
-WARN	duplicate_exact_synonym	Touabire, Mali; Sheep	oboInOwl:hasExactSynonym	White Maure
-WARN	duplicate_exact_synonym	Touabire, Mauritania; Sheep	oboInOwl:hasExactSynonym	White Maure
-WARN	duplicate_exact_synonym	Touabire, Senegal; Sheep	oboInOwl:hasExactSynonym	White Maure
-WARN	duplicate_exact_synonym	White Leghorn; Chicken	oboInOwl:hasExactSynonym	White Leghorn
-WARN	duplicate_exact_synonym	Gjermundues 1, Norway; Chicken	oboInOwl:hasExactSynonym	White Leghorn
-WARN	duplicate_exact_synonym	Gjermundues 2, Norway; Chicken	oboInOwl:hasExactSynonym	White Leghorn
-WARN	duplicate_exact_synonym	Gjermundues 3, Norway; Chicken	oboInOwl:hasExactSynonym	White Leghorn
-WARN	duplicate_exact_synonym	Norbrid 1, Norway; Chicken	oboInOwl:hasExactSynonym	White Leghorn
-WARN	duplicate_exact_synonym	Norbrid 3, Norway; Chicken	oboInOwl:hasExactSynonym	White Leghorn
-WARN	duplicate_exact_synonym	Norbrid 4, Norway; Chicken	oboInOwl:hasExactSynonym	White Leghorn
-WARN	duplicate_exact_synonym	Roko hÃ³ns 1, Norway; Chicken	oboInOwl:hasExactSynonym	White Leghorn
-WARN	duplicate_exact_synonym	Roko hÃ³ns 2, Norway; Chicken	oboInOwl:hasExactSynonym	White Leghorn
-WARN	duplicate_exact_synonym	Roko hÃ³ns 4, Norway; Chicken	oboInOwl:hasExactSynonym	White Leghorn
-WARN	duplicate_exact_synonym	Sove 1, Norway; Chicken	oboInOwl:hasExactSynonym	White Leghorn
-WARN	duplicate_exact_synonym	Kuri, Cameroon; Cattle	oboInOwl:hasExactSynonym	White Lake Chad
-WARN	duplicate_exact_synonym	Kuri, Nigeria; Cattle	oboInOwl:hasExactSynonym	White Lake Chad
-WARN	duplicate_exact_synonym	Kouri, Chad; Cattle	oboInOwl:hasExactSynonym	White Lake Chad
-WARN	duplicate_exact_synonym	Kuri, Niger; Cattle	oboInOwl:hasExactSynonym	White Lake Chad
-WARN	duplicate_exact_synonym	White Karaman; Sheep	oboInOwl:hasExactSynonym	White Karaman
-WARN	duplicate_exact_synonym	Akkaraman, Turkey; Sheep	oboInOwl:hasExactSynonym	White Karaman
-WARN	duplicate_exact_synonym	Mbororo Ã  robe blanche, Cameroon; Cattle	oboInOwl:hasExactSynonym	White Kano
-WARN	duplicate_exact_synonym	White Fulani, Ghana; Cattle	oboInOwl:hasExactSynonym	White Kano
-WARN	duplicate_exact_synonym	White Fulani, Nigeria; Cattle	oboInOwl:hasExactSynonym	White Kano
-WARN	duplicate_exact_synonym	White Fulani; Cattle	oboInOwl:hasExactSynonym	White Fulani
-WARN	duplicate_exact_synonym	Mbororo Ã  robe blanche, Cameroon; Cattle	oboInOwl:hasExactSynonym	White Fulani
-WARN	duplicate_exact_synonym	Yakanaye, Niger; Cattle	oboInOwl:hasExactSynonym	White Fulani
-WARN	duplicate_exact_synonym	FoulbÃ©, Chad; Cattle	oboInOwl:hasExactSynonym	White Fulani
-WARN	duplicate_exact_synonym	Yankasa, Nigeria; Sheep	oboInOwl:hasExactSynonym	White Fulani
-WARN	duplicate_exact_synonym	Dorper; Sheep	oboInOwl:hasExactSynonym	White Dorper
-WARN	duplicate_exact_synonym	Dorper, Namibia; Sheep	oboInOwl:hasExactSynonym	White Dorper
-WARN	duplicate_exact_synonym	Mbororo Ã  robe blanche, Cameroon; Cattle	oboInOwl:hasExactSynonym	White Bororo
-WARN	duplicate_exact_synonym	Bornu, Cameroon; Sheep	oboInOwl:hasExactSynonym	White Bororo
-WARN	duplicate_exact_synonym	Bornu, Nigeria; Sheep	oboInOwl:hasExactSynonym	White Bororo
-WARN	duplicate_exact_synonym	Bornu, Chad; Sheep	oboInOwl:hasExactSynonym	White Bororo
-WARN	duplicate_exact_synonym	Touabire, Mali; Sheep	oboInOwl:hasExactSynonym	White Arab
-WARN	duplicate_exact_synonym	Touabire, Mauritania; Sheep	oboInOwl:hasExactSynonym	White Arab
-WARN	duplicate_exact_synonym	Touabire, Senegal; Sheep	oboInOwl:hasExactSynonym	White Arab
-WARN	duplicate_exact_synonym	Large White; Pig	oboInOwl:hasExactSynonym	White
-WARN	duplicate_exact_synonym	Local Omani, Oman; Chicken	oboInOwl:hasExactSynonym	White
-WARN	duplicate_exact_synonym	Creole, Anguilla; Goat	oboInOwl:hasExactSynonym	West Indian
-WARN	duplicate_exact_synonym	Creole, Antigua and Barbuda; Goat	oboInOwl:hasExactSynonym	West Indian
-WARN	duplicate_exact_synonym	Creole, Barbados; Goat	oboInOwl:hasExactSynonym	West Indian
-WARN	duplicate_exact_synonym	Criolla, Cuba; Goat	oboInOwl:hasExactSynonym	West Indian
-WARN	duplicate_exact_synonym	Creole, Dominica; Goat	oboInOwl:hasExactSynonym	West Indian
-WARN	duplicate_exact_synonym	Creole, Dominican Republic; Goat	oboInOwl:hasExactSynonym	West Indian
-WARN	duplicate_exact_synonym	CrÃ©ole, Guadeloupe; Goat	oboInOwl:hasExactSynonym	West Indian
-WARN	duplicate_exact_synonym	Creole, Grenada; Goat	oboInOwl:hasExactSynonym	West Indian
-WARN	duplicate_exact_synonym	Creole, Haiti; Goat	oboInOwl:hasExactSynonym	West Indian
-WARN	duplicate_exact_synonym	Creole, Saint Kitts and Nevis; Goat	oboInOwl:hasExactSynonym	West Indian
-WARN	duplicate_exact_synonym	Creole, Saint Lucia; Goat	oboInOwl:hasExactSynonym	West Indian
-WARN	duplicate_exact_synonym	Creole, Montserrat; Goat	oboInOwl:hasExactSynonym	West Indian
-WARN	duplicate_exact_synonym	CrÃ©ole, Martinique; Goat	oboInOwl:hasExactSynonym	West Indian
-WARN	duplicate_exact_synonym	Creole, Netherlands; Goat	oboInOwl:hasExactSynonym	West Indian
-WARN	duplicate_exact_synonym	Creole, Puerto Rico; Goat	oboInOwl:hasExactSynonym	West Indian
-WARN	duplicate_exact_synonym	CrÃ©ole, RÃ©union; Goat	oboInOwl:hasExactSynonym	West Indian
-WARN	duplicate_exact_synonym	Criollo, Trinidad and Tobago; Goat	oboInOwl:hasExactSynonym	West Indian
-WARN	duplicate_exact_synonym	Creole, Saint Vincent and the Grenadines; Goat	oboInOwl:hasExactSynonym	West Indian
-WARN	duplicate_exact_synonym	West African Dwarf, Benin; Sheep	oboInOwl:hasExactSynonym	West African Maned
-WARN	duplicate_exact_synonym	Djallonké, Côte d'Ivoire; Sheep	oboInOwl:hasExactSynonym	West African Maned
-WARN	duplicate_exact_synonym	Djallonké, Congo; Sheep	oboInOwl:hasExactSynonym	West African Maned
-WARN	duplicate_exact_synonym	Djallonké, Ghana; Sheep	oboInOwl:hasExactSynonym	West African Maned
-WARN	duplicate_exact_synonym	Djallonké, Guinea; Sheep	oboInOwl:hasExactSynonym	West African Maned
-WARN	duplicate_exact_synonym	West African Dwarf, Gambia; Sheep	oboInOwl:hasExactSynonym	West African Maned
-WARN	duplicate_exact_synonym	Djallonké, Mali; Sheep	oboInOwl:hasExactSynonym	West African Maned
-WARN	duplicate_exact_synonym	Nigerian Dwarf, Nigeria; Sheep	oboInOwl:hasExactSynonym	West African Maned
-WARN	duplicate_exact_synonym	Djalonké, Senegal; Sheep	oboInOwl:hasExactSynonym	West African Maned
-WARN	duplicate_exact_synonym	Kirdimi, Chad; Sheep	oboInOwl:hasExactSynonym	West African Maned
-WARN	duplicate_exact_synonym	Djallonké, Togo; Sheep	oboInOwl:hasExactSynonym	West African Maned
-WARN	duplicate_exact_synonym	Le nain de l'Ouest africain, Cameroon; Sheep	oboInOwl:hasExactSynonym	West African Maned
-WARN	duplicate_exact_synonym	ChÃ¨vre du Sahel, Niger; Goat	oboInOwl:hasExactSynonym	West African Longlegged
-WARN	duplicate_exact_synonym	Sahelian, Benin; Goat	oboInOwl:hasExactSynonym	West African Longlegged
-WARN	duplicate_exact_synonym	Sahelian, Burkina Faso; Goat	oboInOwl:hasExactSynonym	West African Longlegged
-WARN	duplicate_exact_synonym	Sahelian, Algeria; Goat	oboInOwl:hasExactSynonym	West African Longlegged
-WARN	duplicate_exact_synonym	Sahelian, Mali; Goat	oboInOwl:hasExactSynonym	West African Longlegged
-WARN	duplicate_exact_synonym	ChÃ¨vre du Sahel, Chad; Goat	oboInOwl:hasExactSynonym	West African Longlegged
-WARN	duplicate_exact_synonym	Sahelian, Togo; Goat	oboInOwl:hasExactSynonym	West African Longlegged
-WARN	duplicate_exact_synonym	Tuareg, Mauritania; Goat	oboInOwl:hasExactSynonym	West African Longlegged
-WARN	duplicate_exact_synonym	ChÃ¨vre DjallonkÃ©, Togo; Goat	oboInOwl:hasExactSynonym	West African Dwarf
-WARN	duplicate_exact_synonym	DjallonkÃ©, Central African Republic; Goat	oboInOwl:hasExactSynonym	West African Dwarf
-WARN	duplicate_exact_synonym	ChÃ¨vre guinÃ©enne, Congo; Goat	oboInOwl:hasExactSynonym	West African Dwarf
-WARN	duplicate_exact_synonym	Naine de GuinÃ©e, Guinea-Bissau; Goat	oboInOwl:hasExactSynonym	West African Dwarf
-WARN	duplicate_exact_synonym	Diougry, Mauritania; Goat	oboInOwl:hasExactSynonym	West African Dwarf
-WARN	duplicate_exact_synonym	DjallonkÃ©, Senegal; Goat	oboInOwl:hasExactSynonym	West African Dwarf
-WARN	duplicate_exact_synonym	Kirdimi, Chad; Goat	oboInOwl:hasExactSynonym	West African Dwarf
-WARN	duplicate_exact_synonym	Nain de l'Ouest africain, Cameroon; Goat	oboInOwl:hasExactSynonym	West African Dwarf
-WARN	duplicate_exact_synonym	Djallonké, Côte d'Ivoire; Sheep	oboInOwl:hasExactSynonym	West African Dwarf
-WARN	duplicate_exact_synonym	Djallonké, Congo; Sheep	oboInOwl:hasExactSynonym	West African Dwarf
-WARN	duplicate_exact_synonym	Djallonké, Ghana; Sheep	oboInOwl:hasExactSynonym	West African Dwarf
-WARN	duplicate_exact_synonym	Djallonké, Guinea; Sheep	oboInOwl:hasExactSynonym	West African Dwarf
-WARN	duplicate_exact_synonym	Djallonké, Mali; Sheep	oboInOwl:hasExactSynonym	West African Dwarf
-WARN	duplicate_exact_synonym	Nigerian Dwarf, Nigeria; Sheep	oboInOwl:hasExactSynonym	West African Dwarf
-WARN	duplicate_exact_synonym	Djalonké, Senegal; Sheep	oboInOwl:hasExactSynonym	West African Dwarf
-WARN	duplicate_exact_synonym	Kirdimi, Chad; Sheep	oboInOwl:hasExactSynonym	West African Dwarf
-WARN	duplicate_exact_synonym	Djallonké, Togo; Sheep	oboInOwl:hasExactSynonym	West African Dwarf
-WARN	duplicate_exact_synonym	Le nain de l'Ouest africain, Cameroon; Sheep	oboInOwl:hasExactSynonym	West African Dwarf
-WARN	duplicate_exact_synonym	Arabe Barbe, Algeria; Horse	oboInOwl:hasExactSynonym	West African Barb
-WARN	duplicate_exact_synonym	Arab-Barb, Mauritania; Horse	oboInOwl:hasExactSynonym	West African Barb
-WARN	duplicate_exact_synonym	Arabe Barbe, Tunisia; Horse	oboInOwl:hasExactSynonym	West African Barb
-WARN	duplicate_exact_synonym	Oveja Africana, Colombia; Sheep	oboInOwl:hasExactSynonym	West African
-WARN	duplicate_exact_synonym	Roja Africana, Venezuela (Bolivarian Republic of); Sheep	oboInOwl:hasExactSynonym	West African
-WARN	duplicate_exact_synonym	Welsumer (roodpatrijs) groot, Netherlands; Chicken	oboInOwl:hasExactSynonym	Welsummer
-WARN	duplicate_exact_synonym	Welsummer Maron, Romania; Chicken	oboInOwl:hasExactSynonym	Welsummer
-WARN	duplicate_exact_synonym	velsumerška kokoš, Slovenia; Chicken	oboInOwl:hasExactSynonym	Welsummer
-WARN	duplicate_exact_synonym	Welsh Pony; Horse	oboInOwl:hasExactSynonym	Welsh Pony
-WARN	duplicate_exact_synonym	Welsh Pony, Belgium; Horse	oboInOwl:hasExactSynonym	Welsh Pony
-WARN	duplicate_exact_synonym	Welsh, France; Horse	oboInOwl:hasExactSynonym	Welsh Pony
-WARN	duplicate_exact_synonym	Welsh (Feral Section), United Kingdom of Great Britain and Northern Ireland; Horse	oboInOwl:hasExactSynonym	Welsh Mountain Pony (Section A)
-WARN	duplicate_exact_synonym	Welsh Mountain (Semi-Feral), United Kingdom of Great Britain and Northern Ireland; Horse	oboInOwl:hasExactSynonym	Welsh Mountain Pony (Section A)
-WARN	duplicate_exact_synonym	Welsh Mountain Pony, United Kingdom of Great Britain and Northern Ireland; Horse	oboInOwl:hasExactSynonym	Welsh Mountain Pony (Section A)
-WARN	duplicate_exact_synonym	Welsh (Feral Section), United Kingdom of Great Britain and Northern Ireland; Horse	oboInOwl:hasExactSynonym	Welsh Mountain Pony
-WARN	duplicate_exact_synonym	Welsh Mountain (Semi-Feral), United Kingdom of Great Britain and Northern Ireland; Horse	oboInOwl:hasExactSynonym	Welsh Mountain Pony
-WARN	duplicate_exact_synonym	Welsh (Feral Section), United Kingdom of Great Britain and Northern Ireland; Horse	oboInOwl:hasExactSynonym	Welsh Mountain (Semi-Feral)
-WARN	duplicate_exact_synonym	Welsh Mountain Pony, United Kingdom of Great Britain and Northern Ireland; Horse	oboInOwl:hasExactSynonym	Welsh Mountain (Semi-Feral)
-WARN	duplicate_exact_synonym	Welsh (Feral Section), United Kingdom of Great Britain and Northern Ireland; Horse	oboInOwl:hasExactSynonym	Welsh Mountain (Section A semi-feral)
-WARN	duplicate_exact_synonym	Welsh Mountain (Semi-Feral), United Kingdom of Great Britain and Northern Ireland; Horse	oboInOwl:hasExactSynonym	Welsh Mountain (Section A semi-feral)
-WARN	duplicate_exact_synonym	Welsh Mountain Pony, United Kingdom of Great Britain and Northern Ireland; Horse	oboInOwl:hasExactSynonym	Welsh Mountain (Section A semi-feral)
-WARN	duplicate_exact_synonym	Welsh Mountain (Semi-Feral), United Kingdom of Great Britain and Northern Ireland; Horse	oboInOwl:hasExactSynonym	Welsh (Feral Section)
-WARN	duplicate_exact_synonym	Welsh Mountain Pony, United Kingdom of Great Britain and Northern Ireland; Horse	oboInOwl:hasExactSynonym	Welsh (Feral Section)
-WARN	duplicate_exact_synonym	Bornu, Cameroon; Sheep	oboInOwl:hasExactSynonym	Weiladjo
-WARN	duplicate_exact_synonym	Bornu, Nigeria; Sheep	oboInOwl:hasExactSynonym	Weiladjo
-WARN	duplicate_exact_synonym	Bornu, Chad; Sheep	oboInOwl:hasExactSynonym	Weiladjo
-WARN	duplicate_exact_synonym	Steppe Voloshian, Georgia; Sheep	oboInOwl:hasExactSynonym	Walachian
-WARN	duplicate_exact_synonym	Valakhskaya, Russian Federation; Sheep	oboInOwl:hasExactSynonym	Walachian
-WARN	duplicate_exact_synonym	Wagyu; Cattle	oboInOwl:hasExactSynonym	Wagyu
-WARN	duplicate_exact_synonym	Negro japonÃ©s, Chile; Cattle	oboInOwl:hasExactSynonym	Wagyu
-WARN	duplicate_exact_synonym	Barbari, India; Goat	oboInOwl:hasExactSynonym	Wadi Bari
-WARN	duplicate_exact_synonym	Barbari, Pakistan; Goat	oboInOwl:hasExactSynonym	Wadi Bari
-WARN	duplicate_exact_synonym	Choa, Cameroon; Cattle	oboInOwl:hasExactSynonym	Wadara
-WARN	duplicate_exact_synonym	Shuwa, Nigeria; Cattle	oboInOwl:hasExactSynonym	Wadara
-WARN	duplicate_exact_synonym	Arab, Chad; Cattle	oboInOwl:hasExactSynonym	Wadara
-WARN	duplicate_exact_synonym	Vyatskaya, Russian Federation; Horse	oboInOwl:hasExactSynonym	Vyatka
-WARN	duplicate_exact_synonym	Vyatskaya, Russian Federation; Sheep	oboInOwl:hasExactSynonym	Vyatka
-WARN	duplicate_exact_synonym	Steppe Voloshian, Georgia; Sheep	oboInOwl:hasExactSynonym	Voloshskaya
-WARN	duplicate_exact_synonym	Valakhskaya, Russian Federation; Sheep	oboInOwl:hasExactSynonym	Voloshskaya
-WARN	duplicate_exact_synonym	Steppe Voloshian, Georgia; Sheep	oboInOwl:hasExactSynonym	Volosh
-WARN	duplicate_exact_synonym	Valakhskaya, Russian Federation; Sheep	oboInOwl:hasExactSynonym	Volosh
-WARN	duplicate_exact_synonym	Urial, Afghanistan; Sheep	oboInOwl:hasExactSynonym	Vignei Section
-WARN	duplicate_exact_synonym	Urial, India; Sheep	oboInOwl:hasExactSynonym	Vignei Section
-WARN	duplicate_exact_synonym	Urial, Kyrgyzstan; Sheep	oboInOwl:hasExactSynonym	Vignei Section
-WARN	duplicate_exact_synonym	Urial, Tajikistan; Sheep	oboInOwl:hasExactSynonym	Vignei Section
-WARN	duplicate_exact_synonym	Tipo Baio, Brazil; Buffalo	oboInOwl:hasExactSynonym	Vermelho
-WARN	duplicate_exact_synonym	CanastrÃ£o, Brazil; Pig	oboInOwl:hasExactSynonym	Vermelho
-WARN	duplicate_exact_synonym	Valais Red; Sheep	oboInOwl:hasExactSynonym	Valais Red
-WARN	duplicate_exact_synonym	Walliser Landschaf, Switzerland; Sheep	oboInOwl:hasExactSynonym	Valais Red
-WARN	duplicate_exact_synonym	Valais Blackneck; Goat	oboInOwl:hasExactSynonym	Valais Blackneck
-WARN	duplicate_exact_synonym	Walliser Schwarzhalsziege, Switzerland; Goat	oboInOwl:hasExactSynonym	Valais Blackneck
-WARN	duplicate_exact_synonym	Steppe Voloshian, Georgia; Sheep	oboInOwl:hasExactSynonym	Valachian
-WARN	duplicate_exact_synonym	Valakhskaya, Russian Federation; Sheep	oboInOwl:hasExactSynonym	Valachian
-WARN	duplicate_exact_synonym	Steppe Voloshian, Georgia; Sheep	oboInOwl:hasExactSynonym	Vala
-WARN	duplicate_exact_synonym	Valakhskaya, Russian Federation; Sheep	oboInOwl:hasExactSynonym	Vala
-WARN	duplicate_exact_synonym	Steppe Voloshian, Georgia; Sheep	oboInOwl:hasExactSynonym	Vagas
-WARN	duplicate_exact_synonym	Valakhskaya, Russian Federation; Sheep	oboInOwl:hasExactSynonym	Vagas
-WARN	duplicate_exact_synonym	Uzbekskaya, Uzbekistan; Ass	oboInOwl:hasExactSynonym	Uzbek
+WARN	missing_definition	root node	IAO:0000115	
+WARN	missing_definition	Dromedary Bactrian Camel	IAO:0000115	
+WARN	missing_definition	Alpaca; Alpaca	IAO:0000115	
+WARN	missing_definition	Huacaya; Alpaca	IAO:0000115	
+WARN	missing_definition	Suri; Alpaca	IAO:0000115	
+WARN	missing_definition	American Bison; American Bison	IAO:0000115	
+WARN	missing_definition	Andaluza; Ass	IAO:0000115	
+WARN	missing_definition	Balearic donkey breed; Ass	IAO:0000115	
+WARN	missing_definition	Burro Criollo; Ass	IAO:0000115	
+WARN	missing_definition	Burro Kentucky; Ass	IAO:0000115	
+WARN	missing_definition	Cyprus; Ass	IAO:0000115	
+WARN	missing_definition	Damascus; Ass	IAO:0000115	
+WARN	missing_definition	Dongolawi; Ass	IAO:0000115	
+WARN	missing_definition	Hamadan; Ass	IAO:0000115	
+WARN	missing_definition	Khulan; Ass	IAO:0000115	
+WARN	missing_definition	l’Ane Africain; Ass	IAO:0000115	
+WARN	missing_definition	Majorero; Ass	IAO:0000115	
+WARN	missing_definition	Mammoth Jack Stock; Ass	IAO:0000115	
+WARN	missing_definition	Masai; Ass	IAO:0000115	
+WARN	missing_definition	Meskhet-Javakhet; Ass	IAO:0000115	
+WARN	missing_definition	Native of North Africa; Ass	IAO:0000115	
+WARN	missing_definition	Pega; Ass	IAO:0000115	
+WARN	missing_definition	Poitou; Ass	IAO:0000115	
+WARN	missing_definition	Somali; Ass	IAO:0000115	
+WARN	missing_definition	Somali Wild Ass; Ass	IAO:0000115	
+WARN	missing_definition	Syrian; Ass	IAO:0000115	
+WARN	missing_definition	Tibetan; Ass	IAO:0000115	
+WARN	missing_definition	Kazakh Bactrian; Bactrian camel	IAO:0000115	
+WARN	missing_definition	Mongolian Bactrian; Bactrian camel	IAO:0000115	
+WARN	missing_definition	Anatolian Water Buffalo; Buffalo	IAO:0000115	
+WARN	missing_definition	Arni; Buffalo	IAO:0000115	
+WARN	missing_definition	Borneo Buffalo; Buffalo	IAO:0000115	
+WARN	missing_definition	buffalo; Buffalo	IAO:0000115	
+WARN	missing_definition	Buffalypso; Buffalo	IAO:0000115	
+WARN	missing_definition	Caucasian; Buffalo	IAO:0000115	
+WARN	missing_definition	Egyptian; Buffalo	IAO:0000115	
+WARN	missing_definition	Georgian buffalo; Buffalo	IAO:0000115	
+WARN	missing_definition	Jafarabadi; Buffalo	IAO:0000115	
+WARN	missing_definition	Mediterranean; Buffalo	IAO:0000115	
+WARN	missing_definition	Mehsana; Buffalo	IAO:0000115	
+WARN	missing_definition	Murrah; Buffalo	IAO:0000115	
+WARN	missing_definition	Nili; Buffalo	IAO:0000115	
+WARN	missing_definition	Nili-Ravi; Buffalo	IAO:0000115	
+WARN	missing_definition	None; Buffalo	IAO:0000115	
+WARN	missing_definition	Philippine Carabao; Buffalo	IAO:0000115	
+WARN	missing_definition	riverine buffalo; Buffalo	IAO:0000115	
+WARN	missing_definition	Surti; Buffalo	IAO:0000115	
+WARN	missing_definition	Swamp buffalo; Buffalo	IAO:0000115	
+WARN	missing_definition	Tarai; Buffalo	IAO:0000115	
+WARN	missing_definition	water buffalo; Buffalo	IAO:0000115	
+WARN	missing_definition	Wild Water Buffalo; Buffalo	IAO:0000115	
+WARN	missing_definition	Cassowary; Cassowary	IAO:0000115	
+WARN	missing_definition	Zavot; Cattle	IAO:0000115	
+WARN	missing_definition	Aberdeen-Angus; Cattle	IAO:0000115	
+WARN	missing_definition	Abondance; Cattle	IAO:0000115	
+WARN	missing_definition	Adamawa; Cattle	IAO:0000115	
+WARN	missing_definition	African Aurochs; Cattle	IAO:0000115	
+WARN	missing_definition	Africander; Cattle	IAO:0000115	
+WARN	missing_definition	AFS; Cattle	IAO:0000115	
+WARN	missing_definition	Ala-Tau; Cattle	IAO:0000115	
+WARN	missing_definition	Alistana-Sanabresa; Cattle	IAO:0000115	
+WARN	missing_definition	Alpha 16; Cattle	IAO:0000115	
+WARN	missing_definition	American Dutch Belted; Cattle	IAO:0000115	
+WARN	missing_definition	Anatolian Grey; Cattle	IAO:0000115	
+WARN	missing_definition	Andalusian Grey; Cattle	IAO:0000115	
+WARN	missing_definition	Angeln; Cattle	IAO:0000115	
+WARN	missing_definition	Angoni; Cattle	IAO:0000115	
+WARN	missing_definition	Angus; Cattle	IAO:0000115	
+WARN	missing_definition	Ankole; Cattle	IAO:0000115	
+WARN	missing_definition	Ansbach-Triesdorfer; Cattle	IAO:0000115	
+WARN	missing_definition	Arado; Cattle	IAO:0000115	
+WARN	missing_definition	Argentine Criollo; Cattle	IAO:0000115	
+WARN	missing_definition	Armorican; Cattle	IAO:0000115	
+WARN	missing_definition	Arunachalee; Cattle	IAO:0000115	
+WARN	missing_definition	Asturian Valley; Cattle	IAO:0000115	
+WARN	missing_definition	Aubrac; Cattle	IAO:0000115	
+WARN	missing_definition	Aulie-Ata; Cattle	IAO:0000115	
+WARN	missing_definition	Australian Bazadais; Cattle	IAO:0000115	
+WARN	missing_definition	Australian Friesian Sahiwal; Cattle	IAO:0000115	
+WARN	missing_definition	Australian Lowline; Cattle	IAO:0000115	
+WARN	missing_definition	Australian Milking Zebu; Cattle	IAO:0000115	
+WARN	missing_definition	AVILEÃ‘A-NEGRA IBÃ‰RICA; Cattle	IAO:0000115	
+WARN	missing_definition	Ayrshire; Cattle	IAO:0000115	
+WARN	missing_definition	Azaouak; Cattle	IAO:0000115	
+WARN	missing_definition	Azerbaijan Zebu; Cattle	IAO:0000115	
+WARN	missing_definition	Bahima; Cattle	IAO:0000115	
+WARN	missing_definition	Balancer; Cattle	IAO:0000115	
+WARN	missing_definition	Bali; Cattle	IAO:0000115	
+WARN	missing_definition	Bambara; Cattle	IAO:0000115	
+WARN	missing_definition	Bambawa; Cattle	IAO:0000115	
+WARN	missing_definition	Banteng; Cattle	IAO:0000115	
+WARN	missing_definition	Baoulé; Cattle	IAO:0000115	
+WARN	missing_definition	Barka; Cattle	IAO:0000115	
+WARN	missing_definition	Barotse; Cattle	IAO:0000115	
+WARN	missing_definition	Bazadais; Cattle	IAO:0000115	
+WARN	missing_definition	Bearnais; Cattle	IAO:0000115	
+WARN	missing_definition	Beef Fleckvieh; Cattle	IAO:0000115	
+WARN	missing_definition	Beef Pinzgau; Cattle	IAO:0000115	
+WARN	missing_definition	Beef Shorthorn; Cattle	IAO:0000115	
+WARN	missing_definition	Beefalo; Cattle	IAO:0000115	
+WARN	missing_definition	Beefmaster; Cattle	IAO:0000115	
+WARN	missing_definition	Belgian Blue; Cattle	IAO:0000115	
+WARN	missing_definition	Belgian Blue mixte; Cattle	IAO:0000115	
+WARN	missing_definition	Belmont Red; Cattle	IAO:0000115	
+WARN	missing_definition	Belted Galloway; Cattle	IAO:0000115	
+WARN	missing_definition	Bengali; Cattle	IAO:0000115	
+WARN	missing_definition	Betizuak; Cattle	IAO:0000115	
+WARN	missing_definition	Bhagnari; Cattle	IAO:0000115	
+WARN	missing_definition	Blaarkop; Cattle	IAO:0000115	
+WARN	missing_definition	Black-Motley; Cattle	IAO:0000115	
+WARN	missing_definition	Blended Milking Shorthorn; Cattle	IAO:0000115	
+WARN	missing_definition	Bleue du Nord; Cattle	IAO:0000115	
+WARN	missing_definition	Blonde d'Aquitaine; Cattle	IAO:0000115	
+WARN	missing_definition	Blondes; Cattle	IAO:0000115	
+WARN	missing_definition	Bokolodji; Cattle	IAO:0000115	
+WARN	missing_definition	Bonsmara; Cattle	IAO:0000115	
+WARN	missing_definition	Boran; Cattle	IAO:0000115	
+WARN	missing_definition	Borgou; Cattle	IAO:0000115	
+WARN	missing_definition	Braford; Cattle	IAO:0000115	
+WARN	missing_definition	Brahman; Cattle	IAO:0000115	
+WARN	missing_definition	brand name Carinthian Blond; Cattle	IAO:0000115	
+WARN	missing_definition	Brangus; Cattle	IAO:0000115	
+WARN	missing_definition	Breton Black Pied; Cattle	IAO:0000115	
+WARN	missing_definition	British White; Cattle	IAO:0000115	
+WARN	missing_definition	Brown Atlas; Cattle	IAO:0000115	
+WARN	missing_definition	Brown cattle; Cattle	IAO:0000115	
+WARN	missing_definition	Brown Swiss; Cattle	IAO:0000115	
+WARN	missing_definition	Buša; Cattle	IAO:0000115	
+WARN	missing_definition	Burmese Gaur; Cattle	IAO:0000115	
+WARN	missing_definition	Busha; Cattle	IAO:0000115	
+WARN	missing_definition	Bushuev; Cattle	IAO:0000115	
+WARN	missing_definition	Caldelana; Cattle	IAO:0000115	
+WARN	missing_definition	Caucasian; Cattle	IAO:0000115	
+WARN	missing_definition	Caucasian Brown; Cattle	IAO:0000115	
+WARN	missing_definition	Central Asian Zebu; Cattle	IAO:0000115	
+WARN	missing_definition	Chaqueno; Cattle	IAO:0000115	
+WARN	missing_definition	Charbray; Cattle	IAO:0000115	
+WARN	missing_definition	Charolais; Cattle	IAO:0000115	
+WARN	missing_definition	Chianina; Cattle	IAO:0000115	
+WARN	missing_definition	Chillingham; Cattle	IAO:0000115	
+WARN	missing_definition	Chusco; Cattle	IAO:0000115	
+WARN	missing_definition	Creole; Cattle	IAO:0000115	
+WARN	missing_definition	Czech Red; Cattle	IAO:0000115	
+WARN	missing_definition	Dahomey; Cattle	IAO:0000115	
+WARN	missing_definition	Dairy Gir; Cattle	IAO:0000115	
+WARN	missing_definition	Dairy Shorthorn; Cattle	IAO:0000115	
+WARN	missing_definition	Dairy Shorthorn (Original Population); Cattle	IAO:0000115	
+WARN	missing_definition	Damara; Cattle	IAO:0000115	
+WARN	missing_definition	Danakil; Cattle	IAO:0000115	
+WARN	missing_definition	Danish Holstein; Cattle	IAO:0000115	
+WARN	missing_definition	Danish Red; Cattle	IAO:0000115	
+WARN	missing_definition	Devon; Cattle	IAO:0000115	
+WARN	missing_definition	Dexter; Cattle	IAO:0000115	
+WARN	missing_definition	Doñana Cattle; Cattle	IAO:0000115	
+WARN	missing_definition	Drakensberger; Cattle	IAO:0000115	
+WARN	missing_definition	Droughtmaster; Cattle	IAO:0000115	
+WARN	missing_definition	Dutch Belted; Cattle	IAO:0000115	
+WARN	missing_definition	Dutch Friesian; Cattle	IAO:0000115	
+WARN	missing_definition	Estonian Native Cattle; Cattle	IAO:0000115	
+WARN	missing_definition	Estonian Red; Cattle	IAO:0000115	
+WARN	missing_definition	Ethiopian Boran; Cattle	IAO:0000115	
+WARN	missing_definition	Ferrandais; Cattle	IAO:0000115	
+WARN	missing_definition	Fighting Bull; Cattle	IAO:0000115	
+WARN	missing_definition	Frieiresa; Cattle	IAO:0000115	
+WARN	missing_definition	Fries Hollands; Cattle	IAO:0000115	
+WARN	missing_definition	Galician Blond; Cattle	IAO:0000115	
+WARN	missing_definition	Galloway; Cattle	IAO:0000115	

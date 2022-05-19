@@ -82,8 +82,7 @@ metrics:
     rdf: 1
     rdfs: 1862
     skos: 61
-  'Info: Which ontologies use it?':
-  - scho
+  'Info: Which ontologies use it?': []
 mirror_from: https://raw.githubusercontent.com/SCAI-BIO/schizophrenia-ontology/main/releases/1.0.0/SCHO.owl
 namespace: scho
 results:

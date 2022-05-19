@@ -85,8 +85,7 @@ metrics:
     rdfs: 1537
     skos: 178
     xsd: 17
-  'Info: Which ontologies use it?':
-  - mcro
+  'Info: Which ontologies use it?': []
 mirror_from: https://raw.githubusercontent.com/UTHealth-Ontology/MCRO/main/mcro.owl
 namespace: mcro
 results:

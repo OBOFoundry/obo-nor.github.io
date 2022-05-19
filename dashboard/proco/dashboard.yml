@@ -78,8 +78,7 @@ metrics:
     skos: 339
     void: 1
     xsd: 2
-  'Info: Which ontologies use it?':
-  - proco
+  'Info: Which ontologies use it?': []
 mirror_from: https://raw.githubusercontent.com/proco-ontology/PROCO/main/src/ontology/proco.owl
 namespace: proco
 results:

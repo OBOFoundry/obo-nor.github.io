@@ -37,8 +37,7 @@ metrics:
     owl: 3
     prefix_unknown: 305
     rdfs: 111
-  'Info: Which ontologies use it?':
-  - gombo
+  'Info: Which ontologies use it?': []
 mirror_from: https://raw.githubusercontent.com/BridgetSquidget/gombo/main/gombo_v1.owx
 namespace: gombo
 results:

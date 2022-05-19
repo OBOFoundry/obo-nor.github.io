@@ -39,8 +39,7 @@ metrics:
     oboInOwl: 89882
     rdfs: 16974
     xsd: 16825
-  'Info: Which ontologies use it?':
-  - vbo
+  'Info: Which ontologies use it?': []
 mirror_from: https://raw.githubusercontent.com/monarch-initiative/vertebrate-breed-ontology/master/vbo.owl
 namespace: vbo
 results:

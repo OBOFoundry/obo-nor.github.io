@@ -83,8 +83,7 @@ metrics:
     rdf: 1
     rdfs: 1871
     skos: 66
-  'Info: Which ontologies use it?':
-  - bpdo
+  'Info: Which ontologies use it?': []
 mirror_from: https://raw.githubusercontent.com/SCAI-BIO/bipolar-disorder-ontology/main/releases/1.0.0/BPDO.owl
 namespace: bpdo
 results:

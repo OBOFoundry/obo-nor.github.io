@@ -109,8 +109,7 @@ metrics:
     rdf: 1
     rdfs: 2354
     skos: 182
-  'Info: Which ontologies use it?':
-  - ado
+  'Info: Which ontologies use it?': []
 mirror_from: https://raw.githubusercontent.com/Fraunhofer-SCAI-Applied-Semantics/ADO/main/Releases/2.0.0/ADO.owl
 namespace: ado
 results:
