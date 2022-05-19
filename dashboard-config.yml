@@ -143,8 +143,8 @@ ontologies:
         - id: ro
       tracker: https://github.com/Dalalghamdi/NGBO/issues
       license:
-        url: http://creativecommons.org/licenses/by/3.0/
-        label: CC-BY
+        url: https://creativecommons.org/licenses/by/3.0/
+        label: CC-BY 3.0
     - id: scho
       title: Schizophrenia Ontology
       contact:

@@ -96,7 +96,7 @@ mirror_from: https://raw.githubusercontent.com/Dalalghamdi/NGBO/master/src/ontol
 namespace: ngbo
 results:
   FP01 Open:
-    comment: Registry license 'http://creativecommons.org/licenses/by/3.0/' is not
+    comment: Registry license 'https://creativecommons.org/licenses/by/3.0/' is not
       a valid open license. Missing ontology license.
     status: ERROR
   FP02 Common Format:

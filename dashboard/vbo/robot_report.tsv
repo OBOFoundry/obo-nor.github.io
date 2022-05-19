@@ -30,7 +30,6 @@ WARN	annotation_whitespace	Afar, Ethiopia; Sheep	oboInOwl:hasExactSynonym	Adal
 WARN	annotation_whitespace	Washera, Ethiopia; Sheep	oboInOwl:hasExactSynonym	Agew 
 WARN	annotation_whitespace	Washera, Ethiopia; Sheep	oboInOwl:hasExactSynonym	Dangilla 
 WARN	annotation_whitespace	White Boni, Yemen; Sheep	oboInOwl:hasExactSynonym	Yemeni White 
-WARN	missing_subset_declaration	transboundary	rdfs:subPropertyOf	
 WARN	missing_definition	root node	IAO:0000115	
 WARN	missing_definition	Dromedary Bactrian Camel	IAO:0000115	
 WARN	missing_definition	Alpaca; Alpaca	IAO:0000115	
@@ -198,3 +197,4 @@ WARN	missing_definition	Frieiresa; Cattle	IAO:0000115
 WARN	missing_definition	Fries Hollands; Cattle	IAO:0000115	
 WARN	missing_definition	Galician Blond; Cattle	IAO:0000115	
 WARN	missing_definition	Galloway; Cattle	IAO:0000115	
+WARN	missing_definition	Gambian N'dama; Cattle	IAO:0000115	

@@ -1,9 +1,9 @@
 Level	Rule Name	Subject	Property	Value
 ERROR	missing_ontology_title	http://purl.obolibrary.org/obo/license.owl	dc:title	
-ERROR	duplicate_label	has_alternative_id	rdfs:label	has_alternative_id@en
-ERROR	duplicate_label	has_alternative_id	rdfs:label	has_alternative_id@en
 ERROR	missing_ontology_license	http://purl.obolibrary.org/obo/license.owl	dc:license	
 ERROR	missing_ontology_description	http://purl.obolibrary.org/obo/license.owl	dc:description	
+ERROR	duplicate_label	has_alternative_id	rdfs:label	has_alternative_id@en
+ERROR	duplicate_label	has_alternative_id	rdfs:label	has_alternative_id@en
 WARN	missing_definition	cell	IAO:0000115	
 WARN	missing_definition	accessory cell	IAO:0000115	
 WARN	missing_definition	axial stack cell	IAO:0000115	

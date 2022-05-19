@@ -742,8 +742,8 @@ ontologies:
   namespace: ngbo
   results:
     FP01 Open:
-      comment: Registry license 'http://creativecommons.org/licenses/by/3.0/' is not
-        a valid open license. Missing ontology license.
+      comment: Registry license 'https://creativecommons.org/licenses/by/3.0/' is
+        not a valid open license. Missing ontology license.
       status: ERROR
     FP02 Common Format:
       comment: OWL syntax (OWL Functional Syntax), but should be RDF/XML
