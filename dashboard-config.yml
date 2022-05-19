@@ -127,6 +127,7 @@ ontologies:
       preferredPrefix: BPDO
       mirror_from: https://raw.githubusercontent.com/SCAI-BIO/bipolar-disorder-ontology/main/releases/1.0.0/BPDO.owl
     - id: ngbo
+      mirror_from: https://raw.githubusercontent.com/Dalalghamdi/NGBO/master/src/ontology/ngbo.owl
       title: Next generation biobanking ontology
       contact:
         email: dal.alghamdi92@gmail.com

@@ -90,7 +90,7 @@ results:
       INFO: 2
       WARN: 70
     status: WARN
-sha256_hash: 9af242124d3306542a1c26927d6109d15e89b2abaa4ddd20e1be92d90132e689
+sha256_hash: 5f6275a68bb4bc4d502f39fd20cc03cb146b9d8becefcc276f5e8358b3e9f79c
 summary:
   comment: 2 warnings
   status: WARN

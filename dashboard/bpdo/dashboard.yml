@@ -22,12 +22,12 @@ metrics:
     Class: 3405
   'Info: Does the ontology fall under OWL 2 DL?': true
   'Info: Experimental OBO score':
-    _dashboard: 0.923
+    _dashboard: 0.918
     _formula: (3*impact+2*dashboard)/5
     _impact: 0.0
     _impact_external: 0
     _reuse: 1.0
-    oboscore: 0.369
+    oboscore: 0.367
   'Info: How many externally documented uses?': 0
   'Info: How many ontologies use it?': 0
   'Info: Logical consistency': true
@@ -95,9 +95,8 @@ results:
   FP03 URIs:
     status: PASS
   FP04 Versioning:
-    comment: Version IRI 'https://bio.scai.fraunhofer.de/ontology/BPDO/1.0.0' is not
-      in recommended format
-    status: WARN
+    comment: Version IRI does not resolve
+    status: ERROR
   FP05 Scope:
     status: PASS
   FP06 Textual Definitions:
@@ -128,10 +127,10 @@ results:
     status: ERROR
 sha256_hash: 551397ad2579f107b74d10a54f26855250654060a930a0a517c596f9731b855b
 summary:
-  comment: 2 errors
+  comment: 3 errors
   status: ERROR
   summary_count:
-    ERROR: 2
+    ERROR: 3
     INFO: 1
-    WARN: 1
+    WARN: 0
 version: https://bio.scai.fraunhofer.de/ontology/BPDO/1.0.0

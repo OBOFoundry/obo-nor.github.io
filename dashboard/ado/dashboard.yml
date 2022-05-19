@@ -26,12 +26,12 @@ metrics:
     ObjectSomeValuesFrom: 86
   'Info: Does the ontology fall under OWL 2 DL?': false
   'Info: Experimental OBO score':
-    _dashboard: 0.934
+    _dashboard: 0.929
     _formula: (3*impact+2*dashboard)/5
     _impact: 0.0
     _impact_external: 0
     _reuse: 1.0
-    oboscore: 0.374
+    oboscore: 0.372
   'Info: How many externally documented uses?': 0
   'Info: How many ontologies use it?': 0
   'Info: Logical consistency': true
@@ -121,9 +121,8 @@ results:
   FP03 URIs:
     status: PASS
   FP04 Versioning:
-    comment: Version IRI 'https://bio.scai.fraunhofer.de/ontology/ADO/2.0.0' is not
-      in recommended format
-    status: WARN
+    comment: Version IRI does not resolve
+    status: ERROR
   FP05 Scope:
     status: PASS
   FP06 Textual Definitions:
@@ -148,10 +147,10 @@ results:
     status: PASS
 sha256_hash: a8fad83eccca39f3c955f69554e63eabd0478a0d2a7f6f0d364368520906b5d0
 summary:
-  comment: 1 errors
+  comment: 2 errors
   status: ERROR
   summary_count:
-    ERROR: 1
+    ERROR: 2
     INFO: 1
-    WARN: 1
+    WARN: 0
 version: https://bio.scai.fraunhofer.de/ontology/ADO/2.0.0

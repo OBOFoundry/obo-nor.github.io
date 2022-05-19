@@ -1,4 +1,5 @@
 Level	Rule Name	Subject	Property	Value
+WARN	missing_subset_declaration	transboundary	rdfs:subPropertyOf	
 WARN	duplicate_exact_synonym	Charolaise, Croatia; Cattle	oboInOwl:hasExactSynonym	Å arole
 WARN	duplicate_exact_synonym	Charolais, Serbia; Cattle	oboInOwl:hasExactSynonym	Å arole
 WARN	duplicate_exact_synonym	Sul Do Save, Mozambique; Cattle	oboInOwl:hasExactSynonym	Zulu
@@ -197,4 +198,3 @@ WARN	duplicate_exact_synonym	Valakhskaya, Russian Federation; Sheep	oboInOwl:has
 WARN	duplicate_exact_synonym	Steppe Voloshian, Georgia; Sheep	oboInOwl:hasExactSynonym	Vagas
 WARN	duplicate_exact_synonym	Valakhskaya, Russian Federation; Sheep	oboInOwl:hasExactSynonym	Vagas
 WARN	duplicate_exact_synonym	Uzbekskaya, Uzbekistan; Ass	oboInOwl:hasExactSynonym	Uzbek
-WARN	duplicate_exact_synonym	Gissarskaya, Tajikistan; Sheep	oboInOwl:hasExactSynonym	Uzbek

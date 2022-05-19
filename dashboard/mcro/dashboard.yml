@@ -97,8 +97,8 @@ results:
   FP03 URIs:
     status: PASS
   FP04 Versioning:
-    comment: Version IRI 'http://sbmi.uth.edu/ontology/mcro/1.0.0' is not in recommended
-      format
+    comment: Version IRI 'https://raw.githubusercontent.com/UTHealth-Ontology/MCRO/main/mcro.owl'
+      is not in recommended format
     status: WARN
   FP05 Scope:
     status: PASS
@@ -122,7 +122,7 @@ results:
     status: PASS
   ROBOT Report:
     status: PASS
-sha256_hash: 02bd9c571df91715cbe46353f64403bcd594594a9f5a927512b6dd01651455bd
+sha256_hash: 4feb36698994f100bb9ecb04e78a76fd9c8ad6bfd856fc6ebeae29e9dceb02f6
 summary:
   comment: 1 errors
   status: ERROR
@@ -130,4 +130,4 @@ summary:
     ERROR: 1
     INFO: 1
     WARN: 1
-version: http://sbmi.uth.edu/ontology/mcro/1.0.0
+version: https://raw.githubusercontent.com/UTHealth-Ontology/MCRO/main/mcro.owl

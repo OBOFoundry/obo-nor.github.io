@@ -1,6 +1,87 @@
 base_generated: true
+base_prefixes:
+- NGBO
+- NGBOALT
 changed: true
-failure: not_an_ontology
-mirror_from: http://purl.obolibrary.org/obo/ngbo.owl
+failure: broken_metrics_file
+metrics:
+  'Axioms: Breakdown of axiom types':
+    AnnotationAssertion: 8066
+    AsymmetricObjectProperty: 6
+    ClassAssertion: 2
+    Declaration: 1742
+    DisjointClasses: 25
+    EquivalentClasses: 7
+    EquivalentObjectProperties: 17
+    FunctionalObjectProperty: 6
+    InverseFunctionalObjectProperty: 2
+    InverseObjectProperties: 26
+    IrrefexiveObjectProperty: 4
+    ObjectPropertyDomain: 53
+    ObjectPropertyRange: 45
+    SubClassOf: 1648
+    SubObjectPropertyOf: 90
+    SymmetricObjectProperty: 1
+    TransitiveObjectProperty: 7
+  'Axioms: Number of axioms': 11747
+  'Entities: % of entities reused': 100.0
+  'Entities: Number of annotation properties': 104
+  'Entities: Number of classes': 1503
+  'Entities: Number of data properties': 4
+  'Entities: Number of individuals': 2
+  'Entities: Number of object properties': 131
+  'Entities: Number of unsatisfiable classes': 0
+  'Info: Breakdown of OWL class expressions used':
+    Class: 4991
+    ObjectAllValuesFrom: 6
+    ObjectComplementOf: 4
+    ObjectExactCardinality: 2
+    ObjectIntersectionOf: 20
+    ObjectMinCardinality: 6
+    ObjectSomeValuesFrom: 79
+    ObjectUnionOf: 9
+  'Info: Does the ontology fall under OWL 2 DL?': true
+  'Info: Logical consistency': true
+  'Info: Usage of namespaces in axioms':
+    BFO: 359
+    BTO: 27
+    CARO: 2
+    CHEBI: 2
+    CL: 1344
+    DOID: 2
+    FLU: 7
+    GAZ: 2
+    GENEPIO: 54
+    GENO: 6
+    GEO: 1
+    IAO: 5956
+    ICO: 22
+    IDO: 2
+    NCBITaxon: 33
+    NCIT: 30
+    OBI: 1599
+    OBIB: 354
+    OGMS: 85
+    OMIABIS: 97
+    OMIT: 2
+    OMRSE: 14
+    PATO: 70
+    PO: 26
+    RO: 293
+    SO: 22
+    STATO: 7
+    UBERON: 3
+    dc11: 116
+    foaf: 2
+    obo: 465
+    oboInOwl: 246
+    owl: 9
+    prefix_unknown: 755
+    rdf: 7
+    rdfs: 1888
+    schema: 2
+    skos: 10
+    xsd: 8
+mirror_from: https://raw.githubusercontent.com/Dalalghamdi/NGBO/master/src/ontology/ngbo.owl
 namespace: ngbo
-sha256_hash: c4f74c287fea0bedbbb8074a738700d2e26309b50f528aefc7d93c1189f909b2
+sha256_hash: bed03a4e8f02162448ee0c486252c9d7bd81235362192bb36a6ee433510b7168
