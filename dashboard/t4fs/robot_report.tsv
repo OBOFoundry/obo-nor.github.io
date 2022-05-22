@@ -1,8 +1,9 @@
 Level	Rule Name	Subject	Property	Value
+ERROR	missing_ontology_description	http://purl.obolibrary.org/obo/t4fs.owl	dc:description	
 WARN	missing_definition	interoperability of digital assets	IAO:0000115	
 WARN	missing_definition	data categorisation	IAO:0000115	
 WARN	missing_definition	database developer	IAO:0000115	
-WARN	missing_definition	A1. (Meta)data are retrievable by their identifier using a standardised communications protocol	IAO:0000115	
+WARN	missing_definition	A1. (meta)data are retrievable by their identifier using a standardised communications protocol	IAO:0000115	
 WARN	missing_definition	ethical application of patents, licenses	IAO:0000115	
 WARN	missing_definition	wiki site	IAO:0000115	
 WARN	missing_definition	tactical/short-term planning	IAO:0000115	
@@ -10,19 +11,19 @@ WARN	missing_definition	conducting operations	IAO:0000115
 WARN	missing_definition	online workbook	IAO:0000115	
 WARN	missing_definition	engaging in open innovation beyond academia	IAO:0000115	
 WARN	missing_definition	online documentation	IAO:0000115	
-WARN	missing_definition	a1.1 the protocol is open, free, and universally implementable	IAO:0000115	
+WARN	missing_definition	A1.1 the protocol is open, free, and universally implementable	IAO:0000115	
 WARN	missing_definition	publish data	IAO:0000115	
 WARN	missing_definition	information security	IAO:0000115	
 WARN	missing_definition	trainer/teacher	IAO:0000115	
 WARN	missing_definition	assessment	IAO:0000115	
-WARN	missing_definition	I1. (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation	IAO:0000115	
+WARN	missing_definition	I1. (meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation	IAO:0000115	
 WARN	missing_definition	quality assessment	IAO:0000115	
 WARN	missing_definition	reuse of digital assets	IAO:0000115	
-WARN	missing_definition	R1. (Meta)data are richly described with a plurality of accurate and relevant attributes	IAO:0000115	
+WARN	missing_definition	R1. (meta)data are richly described with a plurality of accurate and relevant attributes	IAO:0000115	
 WARN	missing_definition	repository certification schemes	IAO:0000115	
 WARN	missing_definition	open access publishing	IAO:0000115	
-WARN	missing_definition	f2. data are described with rich metadata	IAO:0000115	
-WARN	missing_definition	R1.1 (Meta)data are released with a clear and accessible data usage license	IAO:0000115	
+WARN	missing_definition	F2. data are described with rich metadata	IAO:0000115	
+WARN	missing_definition	R1.1 (meta)data are released with a clear and accessible data usage license	IAO:0000115	
 WARN	missing_definition	presentation slides	IAO:0000115	
 WARN	missing_definition	format and media migration	IAO:0000115	
 WARN	missing_definition	researcher	IAO:0000115	
@@ -31,36 +32,36 @@ WARN	missing_definition	findability of digital assets	IAO:0000115
 WARN	missing_definition	community building	IAO:0000115	
 WARN	missing_definition	book	IAO:0000115	
 WARN	missing_definition	maintaining persistent identifiers	IAO:0000115	
-WARN	missing_definition	I2. (Meta)data use vocabularies that follow FAIR principles	IAO:0000115	
-WARN	missing_definition	a1.2 the protocol allows for an authentication and authorisation procedure, where necessary	IAO:0000115	
+WARN	missing_definition	I2. (meta)data use vocabularies that follow fair principles	IAO:0000115	
+WARN	missing_definition	A1.2 the protocol allows for an authentication and authorisation procedure, where necessary	IAO:0000115	
 WARN	missing_definition	data stewardship technical concept	IAO:0000115	
-WARN	missing_definition	R1.2 (Meta)data are associated with detailed provenance	IAO:0000115	
+WARN	missing_definition	R1.2 (meta)data are associated with detailed provenance	IAO:0000115	
 WARN	missing_definition	using persistent identifiers	IAO:0000115	
 WARN	missing_definition	data curator	IAO:0000115	
-WARN	missing_definition	R1.3 (Meta)data meet domain-relevant community standards	IAO:0000115	
-WARN	missing_definition	F4. (Meta)data are registered or indexed in a searchable resource	IAO:0000115	
+WARN	missing_definition	R1.3 (meta)data meet domain-relevant community standards	IAO:0000115	
+WARN	missing_definition	F4. (meta)data are registered or indexed in a searchable resource	IAO:0000115	
 WARN	missing_definition	aptitudes associated with using fair tools and services	IAO:0000115	
 WARN	missing_definition	presentation slides with interactive exercises	IAO:0000115	
 WARN	missing_definition	creating persistent identifiers	IAO:0000115	
 WARN	missing_definition	book chapter	IAO:0000115	
-WARN	missing_definition	f3. metadata clearly and explicitly include the identifier of the data they describe	IAO:0000115	
-WARN	missing_definition	a2. metadata are accessible, even when the data are no longer available	IAO:0000115	
+WARN	missing_definition	F3. metadata clearly and explicitly include the identifier of the data they describe	IAO:0000115	
+WARN	missing_definition	A2. metadata are accessible, even when the data are no longer available	IAO:0000115	
 WARN	missing_definition	data stewardship guideline	IAO:0000115	
-WARN	missing_definition	I3. (Meta)data include qualified references to other (meta)data	IAO:0000115	
+WARN	missing_definition	I3. (meta)data include qualified references to other (meta)data	IAO:0000115	
 WARN	missing_definition	access control and management	IAO:0000115	
 WARN	missing_definition	accessibility of digital assets	IAO:0000115	
 WARN	missing_definition	understanding persistent identifiers	IAO:0000115	
 WARN	missing_definition	application of fair tools and services	IAO:0000115	
 WARN	missing_definition	using fair and open research tools or services	IAO:0000115	
 WARN	missing_definition	webinar	IAO:0000115	
-WARN	missing_definition	F1. (Meta)data are assigned a globally unique and persistent identifier	IAO:0000115	
+WARN	missing_definition	F1. (meta)data are assigned a globally unique and persistent identifier	IAO:0000115	
 WARN	missing_definition	role	IAO:0000115	
 WARN	missing_definition	data manager	IAO:0000115	
 WARN	missing_definition	research integrity, attribution, impact awareness	IAO:0000115	
 WARN	missing_definition	identifier	IAO:0000115	
 WARN	missing_definition	github repository	IAO:0000115	
 WARN	missing_definition	data archiving	IAO:0000115	
-WARN	missing_definition	reference url	IAO:0000115	
+WARN	missing_definition	reference URL	IAO:0000115	
 WARN	missing_definition	confers/requires knowledge about	IAO:0000115	
 WARN	missing_definition	requires/improves personal attribute	IAO:0000115	
 WARN	missing_definition	has/wants knowledge about	IAO:0000115	

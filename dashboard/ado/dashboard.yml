@@ -5,24 +5,24 @@ base_prefixes:
 changed: true
 metrics:
   'Axioms: Breakdown of axiom types':
-    AnnotationAssertion: 35045
-    Declaration: 2107
+    AnnotationAssertion: 35030
+    Declaration: 2105
     DisjointClasses: 18
     SubAnnotationPropertyOf: 15
-    SubClassOf: 2411
+    SubClassOf: 2377
     SubObjectPropertyOf: 1
     SymmetricObjectProperty: 1
     TransitiveObjectProperty: 1
-  'Axioms: Number of axioms': 39599
+  'Axioms: Number of axioms': 39548
   'Entities: % of entities reused': 100.0
   'Entities: Number of annotation properties': 179
-  'Entities: Number of classes': 1913
+  'Entities: Number of classes': 1911
   'Entities: Number of data properties': 0
   'Entities: Number of individuals': 2
   'Entities: Number of object properties': 14
-  'Entities: Number of unsatisfiable classes': 36
+  'Entities: Number of unsatisfiable classes': 0
   'Info: Breakdown of OWL class expressions used':
-    Class: 6771
+    Class: 6701
     ObjectSomeValuesFrom: 86
   'Info: Does the ontology fall under OWL 2 DL?': false
   'Info: Experimental OBO score':
@@ -39,14 +39,14 @@ metrics:
   'Info: Usage of namespaces in axioms':
     BFO: 267
     BTO: 18
-    CHEBI: 2010
+    CHEBI: 1965
     CL: 103
     CLO: 5
     CMO: 39
     CTO: 21
     DOID: 218
     DRON: 32
-    EMAPA: 3
+    EMAPA: 2
     ERO: 45
     ExO: 85
     FMA: 120
@@ -58,11 +58,11 @@ metrics:
     GO: 435
     GSSO: 8
     HP: 58
-    IAO: 7164
+    IAO: 7162
     ICO: 4
     IDOMAL: 14
     INO: 26
-    MAXO: 46
+    MAXO: 45
     MF: 11
     MFOMD: 2
     MI: 25
@@ -73,11 +73,11 @@ metrics:
     MP: 10
     MPATH: 11
     NBO: 16
-    NCBITaxon: 54
-    NCIT: 1285
+    NCBITaxon: 36
+    NCIT: 1284
     OAE: 12
     OBA: 2
-    OBCS: 32
+    OBCS: 28
     OBI: 78
     OGG: 7365
     OGMS: 85
@@ -102,12 +102,12 @@ metrics:
     dc: 21
     dc11: 571
     foaf: 29
-    obo: 1847
-    oboInOwl: 16273
+    obo: 1845
+    oboInOwl: 16264
     owl: 4
     prefix_unknown: 180
     rdf: 1
-    rdfs: 2354
+    rdfs: 2352
     skos: 182
   'Info: Which ontologies use it?': []
 mirror_from: https://raw.githubusercontent.com/Fraunhofer-SCAI-Applied-Semantics/ADO/main/Releases/2.0.0/ADO.owl
@@ -144,7 +144,7 @@ results:
     status: PASS
   ROBOT Report:
     status: PASS
-sha256_hash: a8fad83eccca39f3c955f69554e63eabd0478a0d2a7f6f0d364368520906b5d0
+sha256_hash: 06b25f48dc7e7fe0a4bde9eb126655155d5db6bc9fe0f0b68c2ae381587ca195
 summary:
   comment: 2 errors
   status: ERROR

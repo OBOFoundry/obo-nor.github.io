@@ -1,35 +1,4 @@
 Level	Rule Name	Subject	Property	Value
-WARN	annotation_whitespace	Swedish Red and White; Cattle	oboInOwl:hasExactSynonym	Swedish Red and White 
-WARN	annotation_whitespace	Dharwadi, India; Buffalo	oboInOwl:hasExactSynonym	Jawari 
-WARN	annotation_whitespace	Brown Swiss, Montenegro; Cattle	oboInOwl:hasExactSynonym	Smedja rasa 
-WARN	annotation_whitespace	Milking Shorthorn, Canada; Cattle	oboInOwl:hasExactSynonym	Dual Puporse Shorthorns 
-WARN	annotation_whitespace	Guelmoise, Algeria; Cattle	oboInOwl:hasExactSynonym	El Guelmia 
-WARN	annotation_whitespace	Guelmoise, Algeria; Cattle	oboInOwl:hasExactSynonym	Ezzarga 
-WARN	annotation_whitespace	Ambo, Ethiopia; Cattle	oboInOwl:hasExactSynonym	Ethiopian Highland Zebu 
-WARN	annotation_whitespace	Malnad Gidda, India; Cattle	oboInOwl:hasExactSynonym	Varshagandhi 
-WARN	annotation_whitespace	Albatinah, Oman; Cattle	oboInOwl:hasExactSynonym	North of Oman 
-WARN	annotation_whitespace	ALGHARBIA, Libya; Dromedary	oboInOwl:hasExactSynonym	 MAGHREBIA
-WARN	annotation_whitespace	Nicobari, India; Pig	oboInOwl:hasExactSynonym	Ha-un/Naut 
-WARN	annotation_whitespace	Apulo-Calabrese, Italy; Pig	oboInOwl:hasExactSynonym	Calabrese 
-WARN	annotation_whitespace	Apulo-Calabrese, Italy; Pig	oboInOwl:hasExactSynonym	Nero abruzzese 
-WARN	annotation_whitespace	Apulo-Calabrese, Italy; Pig	oboInOwl:hasExactSynonym	Nero calabrese 
-WARN	annotation_whitespace	Apulo-Calabrese, Italy; Pig	oboInOwl:hasExactSynonym	Nero dei Monti Dauni meridionali 
-WARN	annotation_whitespace	Apulo-Calabrese, Italy; Pig	oboInOwl:hasExactSynonym	Nero dei Monti Lepini 
-WARN	annotation_whitespace	Apulo-Calabrese, Italy; Pig	oboInOwl:hasExactSynonym	Nero lucano 
-WARN	annotation_whitespace	Apulo-Calabrese, Italy; Pig	oboInOwl:hasExactSynonym	Nero pugliese 
-WARN	annotation_whitespace	Apulo-Calabrese, Italy; Pig	oboInOwl:hasExactSynonym	Nero reatino 
-WARN	annotation_whitespace	Apulo-Calabrese, Italy; Pig	oboInOwl:hasExactSynonym	Pugliese 
-WARN	annotation_whitespace	Cinta Senese, Italy; Pig	oboInOwl:hasExactSynonym	Cinta 
-WARN	annotation_whitespace	Cinta Senese, Italy; Pig	oboInOwl:hasExactSynonym	Cinto 
-WARN	annotation_whitespace	Cinta Senese, Italy; Pig	oboInOwl:hasExactSynonym	Cinto toscano 
-WARN	annotation_whitespace	Cinta Senese, Italy; Pig	oboInOwl:hasExactSynonym	Cinturello umbro 
-WARN	annotation_whitespace	Mora Romagnola, Italy; Pig	oboInOwl:hasExactSynonym	Bolognese 
-WARN	annotation_whitespace	Mora Romagnola, Italy; Pig	oboInOwl:hasExactSynonym	Mora 
-WARN	annotation_whitespace	slovenian landrace (line 11), Slovenia; Pig	oboInOwl:hasExactSynonym	Slovenian Landrace 
-WARN	annotation_whitespace	Afar, Ethiopia; Sheep	oboInOwl:hasExactSynonym	Adal 
-WARN	annotation_whitespace	Washera, Ethiopia; Sheep	oboInOwl:hasExactSynonym	Agew 
-WARN	annotation_whitespace	Washera, Ethiopia; Sheep	oboInOwl:hasExactSynonym	Dangilla 
-WARN	annotation_whitespace	White Boni, Yemen; Sheep	oboInOwl:hasExactSynonym	Yemeni White 
 WARN	missing_definition	root node	IAO:0000115	
 WARN	missing_definition	Dromedary Bactrian Camel	IAO:0000115	
 WARN	missing_definition	Alpaca; Alpaca	IAO:0000115	
@@ -198,3 +167,34 @@ WARN	missing_definition	Fries Hollands; Cattle	IAO:0000115
 WARN	missing_definition	Galician Blond; Cattle	IAO:0000115	
 WARN	missing_definition	Galloway; Cattle	IAO:0000115	
 WARN	missing_definition	Gambian N'dama; Cattle	IAO:0000115	
+WARN	missing_definition	Gascon; Cattle	IAO:0000115	
+WARN	missing_definition	Gaur; Cattle	IAO:0000115	
+WARN	missing_definition	Gelbrah; Cattle	IAO:0000115	
+WARN	missing_definition	Gelbvieh; Cattle	IAO:0000115	
+WARN	missing_definition	Georgian Mountain; Cattle	IAO:0000115	
+WARN	missing_definition	German Shorthorn; Cattle	IAO:0000115	
+WARN	missing_definition	Gir; Cattle	IAO:0000115	
+WARN	missing_definition	Girolando; Cattle	IAO:0000115	
+WARN	missing_definition	Glan; Cattle	IAO:0000115	
+WARN	missing_definition	Glan Donnersberg; Cattle	IAO:0000115	
+WARN	missing_definition	Gloucester; Cattle	IAO:0000115	
+WARN	missing_definition	Gorbatov Red; Cattle	IAO:0000115	
+WARN	missing_definition	Goudali; Cattle	IAO:0000115	
+WARN	missing_definition	Grauvieh; Cattle	IAO:0000115	
+WARN	missing_definition	Greater Caucasus; Cattle	IAO:0000115	
+WARN	missing_definition	Greek Shorthorn; Cattle	IAO:0000115	
+WARN	missing_definition	Groningen White-Headed; Cattle	IAO:0000115	
+WARN	missing_definition	Guabala; Cattle	IAO:0000115	
+WARN	missing_definition	Guernsey; Cattle	IAO:0000115	
+WARN	missing_definition	Guzerat; Cattle	IAO:0000115	
+WARN	missing_definition	Hanwoo; Cattle	IAO:0000115	
+WARN	missing_definition	Hariana; Cattle	IAO:0000115	
+WARN	missing_definition	Heck Cattle; Cattle	IAO:0000115	
+WARN	missing_definition	Hereford; Cattle	IAO:0000115	
+WARN	missing_definition	Herens; Cattle	IAO:0000115	
+WARN	missing_definition	Highland; Cattle	IAO:0000115	
+WARN	missing_definition	Hinterwald; Cattle	IAO:0000115	
+WARN	missing_definition	Hissar; Cattle	IAO:0000115	
+WARN	missing_definition	Holstein (black and white); Cattle	IAO:0000115	
+WARN	missing_definition	Holstein (red and white); Cattle	IAO:0000115	
+WARN	missing_definition	Holstein Friesian; Cattle	IAO:0000115	
