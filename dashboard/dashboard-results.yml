@@ -1,22 +1,22 @@
 oboscore:
   dashboard_score_max_impact:
-    dashboard: 2
-    impact: 3
+    dashboard: 1
+    impact: 1
     impact_external: 3
     no_base: 5
     overall_error: 20
     overall_info: 5
     overall_warning: 10
     report_errors: 10
-    report_info: 2
+    report_info: 3
     report_warning: 5
     reuse: 1
   dashboard_score_weights:
-    dashboard: 2
-    impact: 3
+    dashboard: 1
+    impact: 1
     impact_external: 3
     no_base: 5
-    overall_error: 1
+    overall_error: 5
     overall_info: 0.1
     overall_warning: 0.5
     report_errors: 0.05
@@ -53,12 +53,12 @@ ontologies:
       ObjectSomeValuesFrom: 82
     'Info: Does the ontology fall under OWL 2 DL?': false
     'Info: Experimental OBO score':
-      _dashboard: 0.919
-      _formula: (3*impact+2*dashboard)/5
+      _dashboard: 0.799
+      _formula: (1*impact+1*dashboard)/2
       _impact: 0.0
       _impact_external: 0
       _reuse: 1.0
-      oboscore: 0.368
+      oboscore: 0.4
     'Info: How many externally documented uses?': 0
     'Info: How many ontologies use it?': 0
     'Info: Logical consistency': true
@@ -206,12 +206,12 @@ ontologies:
       Class: 3405
     'Info: Does the ontology fall under OWL 2 DL?': true
     'Info: Experimental OBO score':
-      _dashboard: 0.919
-      _formula: (3*impact+2*dashboard)/5
+      _dashboard: 0.799
+      _formula: (1*impact+1*dashboard)/2
       _impact: 0.0
       _impact_external: 0
       _reuse: 1.0
-      oboscore: 0.368
+      oboscore: 0.4
     'Info: How many externally documented uses?': 0
     'Info: How many ontologies use it?': 0
     'Info: Logical consistency': true
@@ -341,12 +341,12 @@ ontologies:
       Class: 959
     'Info: Does the ontology fall under OWL 2 DL?': true
     'Info: Experimental OBO score':
-      _dashboard: 0.875
-      _formula: (3*impact+2*dashboard)/5
+      _dashboard: 0.745
+      _formula: (1*impact+1*dashboard)/2
       _impact: 0.0
       _impact_external: 0
       _reuse: 1.0
-      oboscore: 0.35
+      oboscore: 0.372
     'Info: How many externally documented uses?': 0
     'Info: How many ontologies use it?': 0
     'Info: Logical consistency': true
@@ -433,12 +433,12 @@ ontologies:
       ObjectSomeValuesFrom: 66
     'Info: Does the ontology fall under OWL 2 DL?': true
     'Info: Experimental OBO score':
-      _dashboard: 0.838
-      _formula: (3*impact+2*dashboard)/5
+      _dashboard: 0.728
+      _formula: (1*impact+1*dashboard)/2
       _impact: 0.0
       _impact_external: 0
       _reuse: 1.0
-      oboscore: 0.335
+      oboscore: 0.364
     'Info: How many externally documented uses?': 0
     'Info: How many ontologies use it?': 0
     'Info: Logical consistency': true
@@ -565,12 +565,12 @@ ontologies:
       ObjectUnionOf: 42
     'Info: Does the ontology fall under OWL 2 DL?': false
     'Info: Experimental OBO score':
-      _dashboard: 0.924
-      _formula: (3*impact+2*dashboard)/5
+      _dashboard: 0.844
+      _formula: (1*impact+1*dashboard)/2
       _impact: 0.0
       _impact_external: 0
       _reuse: 1.0
-      oboscore: 0.37
+      oboscore: 0.422
     'Info: How many externally documented uses?': 0
     'Info: How many ontologies use it?': 0
     'Info: Logical consistency': true
@@ -686,12 +686,12 @@ ontologies:
       ObjectUnionOf: 9
     'Info: Does the ontology fall under OWL 2 DL?': true
     'Info: Experimental OBO score':
-      _dashboard: 0.873
-      _formula: (3*impact+2*dashboard)/5
+      _dashboard: 0.743
+      _formula: (1*impact+1*dashboard)/2
       _impact: 0.0
       _impact_external: 0
       _reuse: 1.0
-      oboscore: 0.349
+      oboscore: 0.371
     'Info: How many externally documented uses?': 0
     'Info: How many ontologies use it?': 0
     'Info: Logical consistency': true
@@ -838,12 +838,12 @@ ontologies:
       ObjectUnionOf: 3
     'Info: Does the ontology fall under OWL 2 DL?': false
     'Info: Experimental OBO score':
-      _dashboard: 0.917
-      _formula: (3*impact+2*dashboard)/5
+      _dashboard: 0.797
+      _formula: (1*impact+1*dashboard)/2
       _impact: 0.0
       _impact_external: 0.25
       _reuse: 1.0
-      oboscore: 0.367
+      oboscore: 0.399
     'Info: How many externally documented uses?': 2
     'Info: How many ontologies use it?': 0
     'Info: Logical consistency': true
@@ -946,12 +946,12 @@ ontologies:
       Class: 3323
     'Info: Does the ontology fall under OWL 2 DL?': true
     'Info: Experimental OBO score':
-      _dashboard: 0.9
-      _formula: (3*impact+2*dashboard)/5
+      _dashboard: 0.75
+      _formula: (1*impact+1*dashboard)/2
       _impact: 0.0
       _impact_external: 0
       _reuse: 1.0
-      oboscore: 0.36
+      oboscore: 0.375
     'Info: How many externally documented uses?': 0
     'Info: How many ontologies use it?': 0
     'Info: Logical consistency': true
@@ -1083,12 +1083,12 @@ ontologies:
       ObjectUnionOf: 2
     'Info: Does the ontology fall under OWL 2 DL?': true
     'Info: Experimental OBO score':
-      _dashboard: 0.926
-      _formula: (3*impact+2*dashboard)/5
+      _dashboard: 0.886
+      _formula: (1*impact+1*dashboard)/2
       _impact: 0.0
       _impact_external: 0.5
       _reuse: 1.0
-      oboscore: 0.37
+      oboscore: 0.443
     'Info: How many externally documented uses?': 3
     'Info: How many ontologies use it?': 0
     'Info: Logical consistency': true
@@ -1175,12 +1175,12 @@ ontologies:
       Class: 50887
     'Info: Does the ontology fall under OWL 2 DL?': true
     'Info: Experimental OBO score':
-      _dashboard: 0.88
-      _formula: (3*impact+2*dashboard)/5
+      _dashboard: 0.84
+      _formula: (1*impact+1*dashboard)/2
       _impact: 0.0
       _impact_external: 0
       _reuse: 1.0
-      oboscore: 0.352
+      oboscore: 0.42
     'Info: How many externally documented uses?': 0
     'Info: How many ontologies use it?': 0
     'Info: Logical consistency': true

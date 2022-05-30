@@ -1,5 +1,33 @@
 title: "OBO Dashboard: New Ontology Requests"
 description: "Dashboard for checking new ontology requests to the OBO Foundry. Under construction."
+obo_score_weights:
+  no_base:
+    impact_factor: 5
+    max_impact: 5
+  overall_error:
+    impact_factor: 5
+    max_impact: 20
+  overall_warning:
+    impact_factor: 0.5
+    max_impact: 10
+  overall_info:
+    impact_factor: 0.1
+    max_impact: 5
+  report_errors:
+    impact_factor: 0.05
+    max_impact: 10
+  report_warning:
+    impact_factor: 0.01
+    max_impact: 5
+  report_info:
+    impact_factor: 0.005
+    max_impact: 3
+  impact:
+    impact_factor: 1
+    max_impact: 1 
+  dashboard:
+    impact_factor: 1
+    max_impact: 1
 ontologies:
   #registry: "https://raw.githubusercontent.com/OBOFoundry/OBOFoundry.github.io/master/registry/ontologies.yml"
   #todo, deal with: bto chebi dron gaz ncbitaxon ncit pr uberon
