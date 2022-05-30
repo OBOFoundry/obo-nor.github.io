@@ -5,18 +5,18 @@ base_prefixes:
 changed: true
 metrics:
   'Axioms: Breakdown of axiom types':
-    AnnotationAssertion: 5304
+    AnnotationAssertion: 5354
     AnnotationPropertyDomain: 1
     AnnotationPropertyRangeOf: 3
     ClassAssertion: 19
     DataPropertyDomain: 11
-    DataPropertyRange: 19
-    Declaration: 1235
+    DataPropertyRange: 24
+    Declaration: 1233
     DifferentIndividuals: 2
     DisjointClasses: 42
-    EquivalentClasses: 21
+    EquivalentClasses: 20
     EquivalentObjectProperties: 3
-    FunctionalDataProperty: 7
+    FunctionalDataProperty: 6
     FunctionalObjectProperty: 4
     InverseObjectProperties: 34
     IrrefexiveObjectProperty: 1
@@ -24,25 +24,25 @@ metrics:
     ObjectPropertyDomain: 91
     ObjectPropertyRange: 87
     SubAnnotationPropertyOf: 19
-    SubClassOf: 1680
-    SubDataPropertyOf: 12
+    SubClassOf: 1686
+    SubDataPropertyOf: 11
     SubObjectPropertyOf: 90
     SubPropertyChainOf: 15
     SymmetricObjectProperty: 6
     TransitiveObjectProperty: 9
-  'Axioms: Number of axioms': 8717
+  'Axioms: Number of axioms': 8773
   'Entities: % of entities reused': 100.0
   'Entities: Number of annotation properties': 105
-  'Entities: Number of classes': 936
-  'Entities: Number of data properties': 27
+  'Entities: Number of classes': 935
+  'Entities: Number of data properties': 26
   'Entities: Number of individuals': 26
   'Entities: Number of object properties': 142
   'Entities: Number of unsatisfiable classes': 2
   'Info: Breakdown of OWL class expressions used':
-    Class: 4704
+    Class: 4707
     DataExactCardinality: 6
     DataMinCardinality: 1
-    DataSomeValuesFrom: 20
+    DataSomeValuesFrom: 26
     ObjectAllValuesFrom: 29
     ObjectComplementOf: 30
     ObjectExactCardinality: 1
@@ -54,12 +54,12 @@ metrics:
     ObjectUnionOf: 42
   'Info: Does the ontology fall under OWL 2 DL?': false
   'Info: Experimental OBO score':
-    _dashboard: 0.934
+    _dashboard: 0.924
     _formula: (3*impact+2*dashboard)/5
     _impact: 0.0
     _impact_external: 0
     _reuse: 1.0
-    oboscore: 0.374
+    oboscore: 0.37
   'Info: How many externally documented uses?': 0
   'Info: How many ontologies use it?': 0
   'Info: Logical consistency': true
@@ -68,7 +68,7 @@ metrics:
     APOLLO_SV: 22
     BFO: 372
     GAZ: 4
-    IAO: 4488
+    IAO: 4486
     OBI: 123
     PATO: 16
     RO: 128
@@ -78,13 +78,13 @@ metrics:
     foaf: 5
     obo: 2
     oboInOwl: 25
-    owl: 35
-    prefix_unknown: 3762
+    owl: 33
+    prefix_unknown: 3773
     prov: 911
     rdf: 16
-    rdfs: 1537
-    skos: 178
-    xsd: 17
+    rdfs: 1598
+    skos: 179
+    xsd: 19
   'Info: Which ontologies use it?': []
 mirror_from: https://raw.githubusercontent.com/UTHealth-Ontology/MCRO/main/mcro.owl
 namespace: mcro
@@ -94,7 +94,9 @@ results:
   FP02 Common Format:
     status: PASS
   FP03 URIs:
-    status: PASS
+    comment: 0 invalid IRIs. The Ontology IRI is not valid.
+    file: fp3
+    status: ERROR
   FP04 Versioning:
     comment: Version IRI 'https://raw.githubusercontent.com/UTHealth-Ontology/MCRO/main/mcro.owl'
       is not in recommended format
@@ -121,12 +123,12 @@ results:
     status: PASS
   ROBOT Report:
     status: PASS
-sha256_hash: 4feb36698994f100bb9ecb04e78a76fd9c8ad6bfd856fc6ebeae29e9dceb02f6
+sha256_hash: 8f62b4687f3f130d896f792b9b09027c137f7c34d3201f1cd0d9c3478dd38ae0
 summary:
-  comment: 1 errors
+  comment: 2 errors
   status: ERROR
   summary_count:
-    ERROR: 1
+    ERROR: 2
     INFO: 1
     WARN: 1
 version: https://raw.githubusercontent.com/UTHealth-Ontology/MCRO/main/mcro.owl

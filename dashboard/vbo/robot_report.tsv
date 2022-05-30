@@ -1,200 +1,200 @@
 Level	Rule Name	Subject	Property	Value
-WARN	missing_definition	root node	IAO:0000115	
-WARN	missing_definition	Dromedary Bactrian Camel	IAO:0000115	
-WARN	missing_definition	Alpaca; Alpaca	IAO:0000115	
-WARN	missing_definition	Huacaya; Alpaca	IAO:0000115	
-WARN	missing_definition	Suri; Alpaca	IAO:0000115	
-WARN	missing_definition	American Bison; American Bison	IAO:0000115	
-WARN	missing_definition	Andaluza; Ass	IAO:0000115	
-WARN	missing_definition	Balearic donkey breed; Ass	IAO:0000115	
-WARN	missing_definition	Burro Criollo; Ass	IAO:0000115	
-WARN	missing_definition	Burro Kentucky; Ass	IAO:0000115	
-WARN	missing_definition	Cyprus; Ass	IAO:0000115	
-WARN	missing_definition	Damascus; Ass	IAO:0000115	
-WARN	missing_definition	Dongolawi; Ass	IAO:0000115	
-WARN	missing_definition	Hamadan; Ass	IAO:0000115	
-WARN	missing_definition	Khulan; Ass	IAO:0000115	
-WARN	missing_definition	l’Ane Africain; Ass	IAO:0000115	
-WARN	missing_definition	Majorero; Ass	IAO:0000115	
-WARN	missing_definition	Mammoth Jack Stock; Ass	IAO:0000115	
-WARN	missing_definition	Masai; Ass	IAO:0000115	
-WARN	missing_definition	Meskhet-Javakhet; Ass	IAO:0000115	
-WARN	missing_definition	Native of North Africa; Ass	IAO:0000115	
-WARN	missing_definition	Pega; Ass	IAO:0000115	
-WARN	missing_definition	Poitou; Ass	IAO:0000115	
-WARN	missing_definition	Somali; Ass	IAO:0000115	
-WARN	missing_definition	Somali Wild Ass; Ass	IAO:0000115	
-WARN	missing_definition	Syrian; Ass	IAO:0000115	
-WARN	missing_definition	Tibetan; Ass	IAO:0000115	
-WARN	missing_definition	Kazakh Bactrian; Bactrian camel	IAO:0000115	
-WARN	missing_definition	Mongolian Bactrian; Bactrian camel	IAO:0000115	
-WARN	missing_definition	Anatolian Water Buffalo; Buffalo	IAO:0000115	
-WARN	missing_definition	Arni; Buffalo	IAO:0000115	
-WARN	missing_definition	Borneo Buffalo; Buffalo	IAO:0000115	
-WARN	missing_definition	buffalo; Buffalo	IAO:0000115	
-WARN	missing_definition	Buffalypso; Buffalo	IAO:0000115	
-WARN	missing_definition	Caucasian; Buffalo	IAO:0000115	
-WARN	missing_definition	Egyptian; Buffalo	IAO:0000115	
-WARN	missing_definition	Georgian buffalo; Buffalo	IAO:0000115	
-WARN	missing_definition	Jafarabadi; Buffalo	IAO:0000115	
-WARN	missing_definition	Mediterranean; Buffalo	IAO:0000115	
-WARN	missing_definition	Mehsana; Buffalo	IAO:0000115	
-WARN	missing_definition	Murrah; Buffalo	IAO:0000115	
-WARN	missing_definition	Nili; Buffalo	IAO:0000115	
-WARN	missing_definition	Nili-Ravi; Buffalo	IAO:0000115	
-WARN	missing_definition	None; Buffalo	IAO:0000115	
-WARN	missing_definition	Philippine Carabao; Buffalo	IAO:0000115	
-WARN	missing_definition	riverine buffalo; Buffalo	IAO:0000115	
-WARN	missing_definition	Surti; Buffalo	IAO:0000115	
-WARN	missing_definition	Swamp buffalo; Buffalo	IAO:0000115	
-WARN	missing_definition	Tarai; Buffalo	IAO:0000115	
-WARN	missing_definition	water buffalo; Buffalo	IAO:0000115	
-WARN	missing_definition	Wild Water Buffalo; Buffalo	IAO:0000115	
-WARN	missing_definition	Cassowary; Cassowary	IAO:0000115	
-WARN	missing_definition	Zavot; Cattle	IAO:0000115	
-WARN	missing_definition	Aberdeen-Angus; Cattle	IAO:0000115	
-WARN	missing_definition	Abondance; Cattle	IAO:0000115	
-WARN	missing_definition	Adamawa; Cattle	IAO:0000115	
-WARN	missing_definition	African Aurochs; Cattle	IAO:0000115	
-WARN	missing_definition	Africander; Cattle	IAO:0000115	
-WARN	missing_definition	AFS; Cattle	IAO:0000115	
-WARN	missing_definition	Ala-Tau; Cattle	IAO:0000115	
-WARN	missing_definition	Alistana-Sanabresa; Cattle	IAO:0000115	
-WARN	missing_definition	Alpha 16; Cattle	IAO:0000115	
-WARN	missing_definition	American Dutch Belted; Cattle	IAO:0000115	
-WARN	missing_definition	Anatolian Grey; Cattle	IAO:0000115	
-WARN	missing_definition	Andalusian Grey; Cattle	IAO:0000115	
-WARN	missing_definition	Angeln; Cattle	IAO:0000115	
-WARN	missing_definition	Angoni; Cattle	IAO:0000115	
-WARN	missing_definition	Angus; Cattle	IAO:0000115	
-WARN	missing_definition	Ankole; Cattle	IAO:0000115	
-WARN	missing_definition	Ansbach-Triesdorfer; Cattle	IAO:0000115	
-WARN	missing_definition	Arado; Cattle	IAO:0000115	
-WARN	missing_definition	Argentine Criollo; Cattle	IAO:0000115	
-WARN	missing_definition	Armorican; Cattle	IAO:0000115	
-WARN	missing_definition	Arunachalee; Cattle	IAO:0000115	
-WARN	missing_definition	Asturian Valley; Cattle	IAO:0000115	
-WARN	missing_definition	Aubrac; Cattle	IAO:0000115	
-WARN	missing_definition	Aulie-Ata; Cattle	IAO:0000115	
-WARN	missing_definition	Australian Bazadais; Cattle	IAO:0000115	
-WARN	missing_definition	Australian Friesian Sahiwal; Cattle	IAO:0000115	
-WARN	missing_definition	Australian Lowline; Cattle	IAO:0000115	
-WARN	missing_definition	Australian Milking Zebu; Cattle	IAO:0000115	
-WARN	missing_definition	AVILEÃ‘A-NEGRA IBÃ‰RICA; Cattle	IAO:0000115	
-WARN	missing_definition	Ayrshire; Cattle	IAO:0000115	
-WARN	missing_definition	Azaouak; Cattle	IAO:0000115	
-WARN	missing_definition	Azerbaijan Zebu; Cattle	IAO:0000115	
-WARN	missing_definition	Bahima; Cattle	IAO:0000115	
-WARN	missing_definition	Balancer; Cattle	IAO:0000115	
-WARN	missing_definition	Bali; Cattle	IAO:0000115	
-WARN	missing_definition	Bambara; Cattle	IAO:0000115	
-WARN	missing_definition	Bambawa; Cattle	IAO:0000115	
-WARN	missing_definition	Banteng; Cattle	IAO:0000115	
-WARN	missing_definition	Baoulé; Cattle	IAO:0000115	
-WARN	missing_definition	Barka; Cattle	IAO:0000115	
-WARN	missing_definition	Barotse; Cattle	IAO:0000115	
-WARN	missing_definition	Bazadais; Cattle	IAO:0000115	
-WARN	missing_definition	Bearnais; Cattle	IAO:0000115	
-WARN	missing_definition	Beef Fleckvieh; Cattle	IAO:0000115	
-WARN	missing_definition	Beef Pinzgau; Cattle	IAO:0000115	
-WARN	missing_definition	Beef Shorthorn; Cattle	IAO:0000115	
-WARN	missing_definition	Beefalo; Cattle	IAO:0000115	
-WARN	missing_definition	Beefmaster; Cattle	IAO:0000115	
-WARN	missing_definition	Belgian Blue; Cattle	IAO:0000115	
-WARN	missing_definition	Belgian Blue mixte; Cattle	IAO:0000115	
-WARN	missing_definition	Belmont Red; Cattle	IAO:0000115	
-WARN	missing_definition	Belted Galloway; Cattle	IAO:0000115	
-WARN	missing_definition	Bengali; Cattle	IAO:0000115	
-WARN	missing_definition	Betizuak; Cattle	IAO:0000115	
-WARN	missing_definition	Bhagnari; Cattle	IAO:0000115	
-WARN	missing_definition	Blaarkop; Cattle	IAO:0000115	
-WARN	missing_definition	Black-Motley; Cattle	IAO:0000115	
-WARN	missing_definition	Blended Milking Shorthorn; Cattle	IAO:0000115	
-WARN	missing_definition	Bleue du Nord; Cattle	IAO:0000115	
-WARN	missing_definition	Blonde d'Aquitaine; Cattle	IAO:0000115	
-WARN	missing_definition	Blondes; Cattle	IAO:0000115	
-WARN	missing_definition	Bokolodji; Cattle	IAO:0000115	
-WARN	missing_definition	Bonsmara; Cattle	IAO:0000115	
-WARN	missing_definition	Boran; Cattle	IAO:0000115	
-WARN	missing_definition	Borgou; Cattle	IAO:0000115	
-WARN	missing_definition	Braford; Cattle	IAO:0000115	
-WARN	missing_definition	Brahman; Cattle	IAO:0000115	
-WARN	missing_definition	brand name Carinthian Blond; Cattle	IAO:0000115	
-WARN	missing_definition	Brangus; Cattle	IAO:0000115	
-WARN	missing_definition	Breton Black Pied; Cattle	IAO:0000115	
-WARN	missing_definition	British White; Cattle	IAO:0000115	
-WARN	missing_definition	Brown Atlas; Cattle	IAO:0000115	
-WARN	missing_definition	Brown cattle; Cattle	IAO:0000115	
-WARN	missing_definition	Brown Swiss; Cattle	IAO:0000115	
-WARN	missing_definition	Buša; Cattle	IAO:0000115	
-WARN	missing_definition	Burmese Gaur; Cattle	IAO:0000115	
-WARN	missing_definition	Busha; Cattle	IAO:0000115	
-WARN	missing_definition	Bushuev; Cattle	IAO:0000115	
-WARN	missing_definition	Caldelana; Cattle	IAO:0000115	
-WARN	missing_definition	Caucasian; Cattle	IAO:0000115	
-WARN	missing_definition	Caucasian Brown; Cattle	IAO:0000115	
-WARN	missing_definition	Central Asian Zebu; Cattle	IAO:0000115	
-WARN	missing_definition	Chaqueno; Cattle	IAO:0000115	
-WARN	missing_definition	Charbray; Cattle	IAO:0000115	
-WARN	missing_definition	Charolais; Cattle	IAO:0000115	
-WARN	missing_definition	Chianina; Cattle	IAO:0000115	
-WARN	missing_definition	Chillingham; Cattle	IAO:0000115	
-WARN	missing_definition	Chusco; Cattle	IAO:0000115	
-WARN	missing_definition	Creole; Cattle	IAO:0000115	
-WARN	missing_definition	Czech Red; Cattle	IAO:0000115	
-WARN	missing_definition	Dahomey; Cattle	IAO:0000115	
-WARN	missing_definition	Dairy Gir; Cattle	IAO:0000115	
-WARN	missing_definition	Dairy Shorthorn; Cattle	IAO:0000115	
-WARN	missing_definition	Dairy Shorthorn (Original Population); Cattle	IAO:0000115	
-WARN	missing_definition	Damara; Cattle	IAO:0000115	
-WARN	missing_definition	Danakil; Cattle	IAO:0000115	
-WARN	missing_definition	Danish Holstein; Cattle	IAO:0000115	
-WARN	missing_definition	Danish Red; Cattle	IAO:0000115	
-WARN	missing_definition	Devon; Cattle	IAO:0000115	
-WARN	missing_definition	Dexter; Cattle	IAO:0000115	
-WARN	missing_definition	Doñana Cattle; Cattle	IAO:0000115	
-WARN	missing_definition	Drakensberger; Cattle	IAO:0000115	
-WARN	missing_definition	Droughtmaster; Cattle	IAO:0000115	
-WARN	missing_definition	Dutch Belted; Cattle	IAO:0000115	
-WARN	missing_definition	Dutch Friesian; Cattle	IAO:0000115	
-WARN	missing_definition	Estonian Native Cattle; Cattle	IAO:0000115	
-WARN	missing_definition	Estonian Red; Cattle	IAO:0000115	
-WARN	missing_definition	Ethiopian Boran; Cattle	IAO:0000115	
-WARN	missing_definition	Ferrandais; Cattle	IAO:0000115	
-WARN	missing_definition	Fighting Bull; Cattle	IAO:0000115	
-WARN	missing_definition	Frieiresa; Cattle	IAO:0000115	
-WARN	missing_definition	Fries Hollands; Cattle	IAO:0000115	
-WARN	missing_definition	Galician Blond; Cattle	IAO:0000115	
-WARN	missing_definition	Galloway; Cattle	IAO:0000115	
-WARN	missing_definition	Gambian N'dama; Cattle	IAO:0000115	
-WARN	missing_definition	Gascon; Cattle	IAO:0000115	
-WARN	missing_definition	Gaur; Cattle	IAO:0000115	
-WARN	missing_definition	Gelbrah; Cattle	IAO:0000115	
-WARN	missing_definition	Gelbvieh; Cattle	IAO:0000115	
-WARN	missing_definition	Georgian Mountain; Cattle	IAO:0000115	
-WARN	missing_definition	German Shorthorn; Cattle	IAO:0000115	
-WARN	missing_definition	Gir; Cattle	IAO:0000115	
-WARN	missing_definition	Girolando; Cattle	IAO:0000115	
-WARN	missing_definition	Glan; Cattle	IAO:0000115	
-WARN	missing_definition	Glan Donnersberg; Cattle	IAO:0000115	
-WARN	missing_definition	Gloucester; Cattle	IAO:0000115	
-WARN	missing_definition	Gorbatov Red; Cattle	IAO:0000115	
-WARN	missing_definition	Goudali; Cattle	IAO:0000115	
-WARN	missing_definition	Grauvieh; Cattle	IAO:0000115	
-WARN	missing_definition	Greater Caucasus; Cattle	IAO:0000115	
-WARN	missing_definition	Greek Shorthorn; Cattle	IAO:0000115	
-WARN	missing_definition	Groningen White-Headed; Cattle	IAO:0000115	
-WARN	missing_definition	Guabala; Cattle	IAO:0000115	
-WARN	missing_definition	Guernsey; Cattle	IAO:0000115	
-WARN	missing_definition	Guzerat; Cattle	IAO:0000115	
-WARN	missing_definition	Hanwoo; Cattle	IAO:0000115	
-WARN	missing_definition	Hariana; Cattle	IAO:0000115	
-WARN	missing_definition	Heck Cattle; Cattle	IAO:0000115	
-WARN	missing_definition	Hereford; Cattle	IAO:0000115	
-WARN	missing_definition	Herens; Cattle	IAO:0000115	
-WARN	missing_definition	Highland; Cattle	IAO:0000115	
-WARN	missing_definition	Hinterwald; Cattle	IAO:0000115	
-WARN	missing_definition	Hissar; Cattle	IAO:0000115	
-WARN	missing_definition	Holstein (black and white); Cattle	IAO:0000115	
-WARN	missing_definition	Holstein (red and white); Cattle	IAO:0000115	
-WARN	missing_definition	Holstein Friesian; Cattle	IAO:0000115	
+WARN	annotation_whitespace	obo:VBO_0000392	oboInOwl:hasExactSynonym	Swedish Red and White 
+WARN	annotation_whitespace	obo:VBO_0002085	oboInOwl:hasExactSynonym	Jawari 
+WARN	annotation_whitespace	obo:VBO_0002640	oboInOwl:hasExactSynonym	Smedja rasa 
+WARN	annotation_whitespace	obo:VBO_0003614	oboInOwl:hasExactSynonym	Dual Puporse Shorthorns 
+WARN	annotation_whitespace	obo:VBO_0004678	oboInOwl:hasExactSynonym	El Guelmia 
+WARN	annotation_whitespace	obo:VBO_0004678	oboInOwl:hasExactSynonym	Ezzarga 
+WARN	annotation_whitespace	obo:VBO_0004725	oboInOwl:hasExactSynonym	Ethiopian Highland Zebu 
+WARN	annotation_whitespace	obo:VBO_0004908	oboInOwl:hasExactSynonym	Varshagandhi 
+WARN	annotation_whitespace	obo:VBO_0005158	oboInOwl:hasExactSynonym	North of Oman 
+WARN	annotation_whitespace	obo:VBO_0008150	oboInOwl:hasExactSynonym	 MAGHREBIA
+WARN	annotation_whitespace	obo:VBO_0013044	oboInOwl:hasExactSynonym	Ha-un/Naut 
+WARN	annotation_whitespace	obo:VBO_0013053	oboInOwl:hasExactSynonym	Calabrese 
+WARN	annotation_whitespace	obo:VBO_0013053	oboInOwl:hasExactSynonym	Nero abruzzese 
+WARN	annotation_whitespace	obo:VBO_0013053	oboInOwl:hasExactSynonym	Nero calabrese 
+WARN	annotation_whitespace	obo:VBO_0013053	oboInOwl:hasExactSynonym	Nero dei Monti Dauni meridionali 
+WARN	annotation_whitespace	obo:VBO_0013053	oboInOwl:hasExactSynonym	Nero dei Monti Lepini 
+WARN	annotation_whitespace	obo:VBO_0013053	oboInOwl:hasExactSynonym	Nero lucano 
+WARN	annotation_whitespace	obo:VBO_0013053	oboInOwl:hasExactSynonym	Nero pugliese 
+WARN	annotation_whitespace	obo:VBO_0013053	oboInOwl:hasExactSynonym	Nero reatino 
+WARN	annotation_whitespace	obo:VBO_0013053	oboInOwl:hasExactSynonym	Pugliese 
+WARN	annotation_whitespace	obo:VBO_0013055	oboInOwl:hasExactSynonym	Cinta 
+WARN	annotation_whitespace	obo:VBO_0013055	oboInOwl:hasExactSynonym	Cinto 
+WARN	annotation_whitespace	obo:VBO_0013055	oboInOwl:hasExactSynonym	Cinto toscano 
+WARN	annotation_whitespace	obo:VBO_0013055	oboInOwl:hasExactSynonym	Cinturello umbro 
+WARN	annotation_whitespace	obo:VBO_0013059	oboInOwl:hasExactSynonym	Bolognese 
+WARN	annotation_whitespace	obo:VBO_0013059	oboInOwl:hasExactSynonym	Mora 
+WARN	annotation_whitespace	obo:VBO_0013202	oboInOwl:hasExactSynonym	Slovenian Landrace 
+WARN	annotation_whitespace	obo:VBO_0015869	oboInOwl:hasExactSynonym	Adal 
+WARN	annotation_whitespace	obo:VBO_0015877	oboInOwl:hasExactSynonym	Agew 
+WARN	annotation_whitespace	obo:VBO_0015877	oboInOwl:hasExactSynonym	Dangilla 
+WARN	annotation_whitespace	obo:VBO_0016608	oboInOwl:hasExactSynonym	Yemeni White 
+WARN	duplicate_exact_synonym	obo:VBO_0002733	oboInOwl:hasExactSynonym	Å arole
+WARN	duplicate_exact_synonym	obo:VBO_0002760	oboInOwl:hasExactSynonym	Å arole
+WARN	duplicate_exact_synonym	obo:VBO_0003719	oboInOwl:hasExactSynonym	Zulu
+WARN	duplicate_exact_synonym	obo:VBO_0003721	oboInOwl:hasExactSynonym	Zulu
+WARN	duplicate_exact_synonym	obo:VBO_0003722	oboInOwl:hasExactSynonym	Zulu
+WARN	duplicate_exact_synonym	obo:VBO_0014983	oboInOwl:hasExactSynonym	Zulu
+WARN	duplicate_exact_synonym	obo:VBO_0014984	oboInOwl:hasExactSynonym	Zulu
+WARN	duplicate_exact_synonym	obo:VBO_0014985	oboInOwl:hasExactSynonym	Zulu
+WARN	duplicate_exact_synonym	obo:VBO_0005184	oboInOwl:hasExactSynonym	Zebu
+WARN	duplicate_exact_synonym	obo:VBO_0009408	oboInOwl:hasExactSynonym	Zebu
+WARN	duplicate_exact_synonym	obo:VBO_0001829	oboInOwl:hasExactSynonym	Zamorana
+WARN	duplicate_exact_synonym	obo:VBO_0004037	oboInOwl:hasExactSynonym	Zamorana
+WARN	duplicate_exact_synonym	obo:VBO_0015560	oboInOwl:hasExactSynonym	Yugoslav Zackel
+WARN	duplicate_exact_synonym	obo:VBO_0015561	oboInOwl:hasExactSynonym	Yugoslav Zackel
+WARN	duplicate_exact_synonym	obo:VBO_0015564	oboInOwl:hasExactSynonym	Yugoslav Zackel
+WARN	duplicate_exact_synonym	obo:VBO_0015565	oboInOwl:hasExactSynonym	Yugoslav Zackel
+WARN	duplicate_exact_synonym	obo:VBO_0016508	oboInOwl:hasExactSynonym	Yugoslav Zackel
+WARN	duplicate_exact_synonym	obo:VBO_0001212	oboInOwl:hasExactSynonym	Yorkshire
+WARN	duplicate_exact_synonym	obo:VBO_0004791	oboInOwl:hasExactSynonym	Yorkshire
+WARN	duplicate_exact_synonym	obo:VBO_0012408	oboInOwl:hasExactSynonym	Yorkshire
+WARN	duplicate_exact_synonym	obo:VBO_0012446	oboInOwl:hasExactSynonym	Yorkshire
+WARN	duplicate_exact_synonym	obo:VBO_0012500	oboInOwl:hasExactSynonym	Yorkshire
+WARN	duplicate_exact_synonym	obo:VBO_0006203	oboInOwl:hasExactSynonym	Yokohama
+WARN	duplicate_exact_synonym	obo:VBO_0006204	oboInOwl:hasExactSynonym	Yokohama
+WARN	duplicate_exact_synonym	obo:VBO_0014184	oboInOwl:hasExactSynonym	Yazda
+WARN	duplicate_exact_synonym	obo:VBO_0014185	oboInOwl:hasExactSynonym	Yazda
+WARN	duplicate_exact_synonym	obo:VBO_0014186	oboInOwl:hasExactSynonym	Yazda
+WARN	duplicate_exact_synonym	obo:VBO_0004351	oboInOwl:hasExactSynonym	Yakut
+WARN	duplicate_exact_synonym	obo:VBO_0011751	oboInOwl:hasExactSynonym	Yakut
+WARN	duplicate_exact_synonym	obo:VBO_0004337	oboInOwl:hasExactSynonym	Yakanaji
+WARN	duplicate_exact_synonym	obo:VBO_0004338	oboInOwl:hasExactSynonym	Yakanaji
+WARN	duplicate_exact_synonym	obo:VBO_0004340	oboInOwl:hasExactSynonym	Yakanaji
+WARN	duplicate_exact_synonym	obo:VBO_0016813	oboInOwl:hasExactSynonym	Yak
+WARN	duplicate_exact_synonym	obo:VBO_0016834	oboInOwl:hasExactSynonym	Yak
+WARN	duplicate_exact_synonym	obo:VBO_0000647	oboInOwl:hasExactSynonym	Wyandotte
+WARN	duplicate_exact_synonym	obo:VBO_0006516	oboInOwl:hasExactSynonym	Wyandotte
+WARN	duplicate_exact_synonym	obo:VBO_0006517	oboInOwl:hasExactSynonym	Wyandotte
+WARN	duplicate_exact_synonym	obo:VBO_0015310	oboInOwl:hasExactSynonym	Woloschian
+WARN	duplicate_exact_synonym	obo:VBO_0015311	oboInOwl:hasExactSynonym	Woloschian
+WARN	duplicate_exact_synonym	obo:VBO_0011973	oboInOwl:hasExactSynonym	Woburn
+WARN	duplicate_exact_synonym	obo:VBO_0011974	oboInOwl:hasExactSynonym	Woburn
+WARN	duplicate_exact_synonym	obo:VBO_0015304	oboInOwl:hasExactSynonym	White Virgin Islander
+WARN	duplicate_exact_synonym	obo:VBO_0015305	oboInOwl:hasExactSynonym	White Virgin Islander
+WARN	duplicate_exact_synonym	obo:VBO_0013803	oboInOwl:hasExactSynonym	White of Hotot
+WARN	duplicate_exact_synonym	obo:VBO_0014106	oboInOwl:hasExactSynonym	White of Hotot
+WARN	duplicate_exact_synonym	obo:VBO_0015438	oboInOwl:hasExactSynonym	White Maure
+WARN	duplicate_exact_synonym	obo:VBO_0015439	oboInOwl:hasExactSynonym	White Maure
+WARN	duplicate_exact_synonym	obo:VBO_0015440	oboInOwl:hasExactSynonym	White Maure
+WARN	duplicate_exact_synonym	obo:VBO_0000646	oboInOwl:hasExactSynonym	White Leghorn
+WARN	duplicate_exact_synonym	obo:VBO_0007597	oboInOwl:hasExactSynonym	White Leghorn
+WARN	duplicate_exact_synonym	obo:VBO_0007598	oboInOwl:hasExactSynonym	White Leghorn
+WARN	duplicate_exact_synonym	obo:VBO_0007599	oboInOwl:hasExactSynonym	White Leghorn
+WARN	duplicate_exact_synonym	obo:VBO_0007606	oboInOwl:hasExactSynonym	White Leghorn
+WARN	duplicate_exact_synonym	obo:VBO_0007607	oboInOwl:hasExactSynonym	White Leghorn
+WARN	duplicate_exact_synonym	obo:VBO_0007608	oboInOwl:hasExactSynonym	White Leghorn
+WARN	duplicate_exact_synonym	obo:VBO_0007614	oboInOwl:hasExactSynonym	White Leghorn
+WARN	duplicate_exact_synonym	obo:VBO_0007615	oboInOwl:hasExactSynonym	White Leghorn
+WARN	duplicate_exact_synonym	obo:VBO_0007616	oboInOwl:hasExactSynonym	White Leghorn
+WARN	duplicate_exact_synonym	obo:VBO_0007621	oboInOwl:hasExactSynonym	White Leghorn
+WARN	duplicate_exact_synonym	obo:VBO_0003467	oboInOwl:hasExactSynonym	White Lake Chad
+WARN	duplicate_exact_synonym	obo:VBO_0003468	oboInOwl:hasExactSynonym	White Lake Chad
+WARN	duplicate_exact_synonym	obo:VBO_0003469	oboInOwl:hasExactSynonym	White Lake Chad
+WARN	duplicate_exact_synonym	obo:VBO_0004339	oboInOwl:hasExactSynonym	White Lake Chad
+WARN	duplicate_exact_synonym	obo:VBO_0001684	oboInOwl:hasExactSynonym	White Karaman
+WARN	duplicate_exact_synonym	obo:VBO_0015541	oboInOwl:hasExactSynonym	White Karaman
+WARN	duplicate_exact_synonym	obo:VBO_0004337	oboInOwl:hasExactSynonym	White Kano
+WARN	duplicate_exact_synonym	obo:VBO_0004338	oboInOwl:hasExactSynonym	White Kano
+WARN	duplicate_exact_synonym	obo:VBO_0004340	oboInOwl:hasExactSynonym	White Kano
+WARN	duplicate_exact_synonym	obo:VBO_0000427	oboInOwl:hasExactSynonym	White Fulani
+WARN	duplicate_exact_synonym	obo:VBO_0004337	oboInOwl:hasExactSynonym	White Fulani
+WARN	duplicate_exact_synonym	obo:VBO_0005134	oboInOwl:hasExactSynonym	White Fulani
+WARN	duplicate_exact_synonym	obo:VBO_0005289	oboInOwl:hasExactSynonym	White Fulani
+WARN	duplicate_exact_synonym	obo:VBO_0016283	oboInOwl:hasExactSynonym	White Fulani
+WARN	duplicate_exact_synonym	obo:VBO_0001397	oboInOwl:hasExactSynonym	White Dorper
+WARN	duplicate_exact_synonym	obo:VBO_0014518	oboInOwl:hasExactSynonym	White Dorper
+WARN	duplicate_exact_synonym	obo:VBO_0004337	oboInOwl:hasExactSynonym	White Bororo
+WARN	duplicate_exact_synonym	obo:VBO_0014319	oboInOwl:hasExactSynonym	White Bororo
+WARN	duplicate_exact_synonym	obo:VBO_0014320	oboInOwl:hasExactSynonym	White Bororo
+WARN	duplicate_exact_synonym	obo:VBO_0014321	oboInOwl:hasExactSynonym	White Bororo
+WARN	duplicate_exact_synonym	obo:VBO_0015438	oboInOwl:hasExactSynonym	White Arab
+WARN	duplicate_exact_synonym	obo:VBO_0015439	oboInOwl:hasExactSynonym	White Arab
+WARN	duplicate_exact_synonym	obo:VBO_0015440	oboInOwl:hasExactSynonym	White Arab
+WARN	duplicate_exact_synonym	obo:VBO_0001163	oboInOwl:hasExactSynonym	White
+WARN	duplicate_exact_synonym	obo:VBO_0007627	oboInOwl:hasExactSynonym	White
+WARN	duplicate_exact_synonym	obo:VBO_0008896	oboInOwl:hasExactSynonym	West Indian
+WARN	duplicate_exact_synonym	obo:VBO_0008897	oboInOwl:hasExactSynonym	West Indian
+WARN	duplicate_exact_synonym	obo:VBO_0008898	oboInOwl:hasExactSynonym	West Indian
+WARN	duplicate_exact_synonym	obo:VBO_0008900	oboInOwl:hasExactSynonym	West Indian
+WARN	duplicate_exact_synonym	obo:VBO_0008901	oboInOwl:hasExactSynonym	West Indian
+WARN	duplicate_exact_synonym	obo:VBO_0008902	oboInOwl:hasExactSynonym	West Indian
+WARN	duplicate_exact_synonym	obo:VBO_0008904	oboInOwl:hasExactSynonym	West Indian
+WARN	duplicate_exact_synonym	obo:VBO_0008905	oboInOwl:hasExactSynonym	West Indian
+WARN	duplicate_exact_synonym	obo:VBO_0008908	oboInOwl:hasExactSynonym	West Indian
+WARN	duplicate_exact_synonym	obo:VBO_0008909	oboInOwl:hasExactSynonym	West Indian
+WARN	duplicate_exact_synonym	obo:VBO_0008910	oboInOwl:hasExactSynonym	West Indian
+WARN	duplicate_exact_synonym	obo:VBO_0008911	oboInOwl:hasExactSynonym	West Indian
+WARN	duplicate_exact_synonym	obo:VBO_0008912	oboInOwl:hasExactSynonym	West Indian
+WARN	duplicate_exact_synonym	obo:VBO_0008914	oboInOwl:hasExactSynonym	West Indian
+WARN	duplicate_exact_synonym	obo:VBO_0008915	oboInOwl:hasExactSynonym	West Indian
+WARN	duplicate_exact_synonym	obo:VBO_0008916	oboInOwl:hasExactSynonym	West Indian
+WARN	duplicate_exact_synonym	obo:VBO_0008918	oboInOwl:hasExactSynonym	West Indian
+WARN	duplicate_exact_synonym	obo:VBO_0008919	oboInOwl:hasExactSynonym	West Indian
+WARN	duplicate_exact_synonym	obo:VBO_0015518	oboInOwl:hasExactSynonym	West African Maned
+WARN	duplicate_exact_synonym	obo:VBO_0015522	oboInOwl:hasExactSynonym	West African Maned
+WARN	duplicate_exact_synonym	obo:VBO_0015523	oboInOwl:hasExactSynonym	West African Maned
+WARN	duplicate_exact_synonym	obo:VBO_0015526	oboInOwl:hasExactSynonym	West African Maned
+WARN	duplicate_exact_synonym	obo:VBO_0015527	oboInOwl:hasExactSynonym	West African Maned
+WARN	duplicate_exact_synonym	obo:VBO_0015528	oboInOwl:hasExactSynonym	West African Maned
+WARN	duplicate_exact_synonym	obo:VBO_0015530	oboInOwl:hasExactSynonym	West African Maned
+WARN	duplicate_exact_synonym	obo:VBO_0015531	oboInOwl:hasExactSynonym	West African Maned
+WARN	duplicate_exact_synonym	obo:VBO_0015533	oboInOwl:hasExactSynonym	West African Maned
+WARN	duplicate_exact_synonym	obo:VBO_0015536	oboInOwl:hasExactSynonym	West African Maned
+WARN	duplicate_exact_synonym	obo:VBO_0015537	oboInOwl:hasExactSynonym	West African Maned
+WARN	duplicate_exact_synonym	obo:VBO_0015778	oboInOwl:hasExactSynonym	West African Maned
+WARN	duplicate_exact_synonym	obo:VBO_0008892	oboInOwl:hasExactSynonym	West African Longlegged
+WARN	duplicate_exact_synonym	obo:VBO_0009175	oboInOwl:hasExactSynonym	West African Longlegged
+WARN	duplicate_exact_synonym	obo:VBO_0009177	oboInOwl:hasExactSynonym	West African Longlegged
+WARN	duplicate_exact_synonym	obo:VBO_0009180	oboInOwl:hasExactSynonym	West African Longlegged
+WARN	duplicate_exact_synonym	obo:VBO_0009183	oboInOwl:hasExactSynonym	West African Longlegged
+WARN	duplicate_exact_synonym	obo:VBO_0009189	oboInOwl:hasExactSynonym	West African Longlegged
+WARN	duplicate_exact_synonym	obo:VBO_0009190	oboInOwl:hasExactSynonym	West African Longlegged
+WARN	duplicate_exact_synonym	obo:VBO_0009296	oboInOwl:hasExactSynonym	West African Longlegged
+WARN	duplicate_exact_synonym	obo:VBO_0008944	oboInOwl:hasExactSynonym	West African Dwarf
+WARN	duplicate_exact_synonym	obo:VBO_0009313	oboInOwl:hasExactSynonym	West African Dwarf
+WARN	duplicate_exact_synonym	obo:VBO_0009316	oboInOwl:hasExactSynonym	West African Dwarf
+WARN	duplicate_exact_synonym	obo:VBO_0009325	oboInOwl:hasExactSynonym	West African Dwarf
+WARN	duplicate_exact_synonym	obo:VBO_0009330	oboInOwl:hasExactSynonym	West African Dwarf
+WARN	duplicate_exact_synonym	obo:VBO_0009334	oboInOwl:hasExactSynonym	West African Dwarf
+WARN	duplicate_exact_synonym	obo:VBO_0009336	oboInOwl:hasExactSynonym	West African Dwarf
+WARN	duplicate_exact_synonym	obo:VBO_0009472	oboInOwl:hasExactSynonym	West African Dwarf
+WARN	duplicate_exact_synonym	obo:VBO_0015522	oboInOwl:hasExactSynonym	West African Dwarf
+WARN	duplicate_exact_synonym	obo:VBO_0015523	oboInOwl:hasExactSynonym	West African Dwarf
+WARN	duplicate_exact_synonym	obo:VBO_0015526	oboInOwl:hasExactSynonym	West African Dwarf
+WARN	duplicate_exact_synonym	obo:VBO_0015527	oboInOwl:hasExactSynonym	West African Dwarf
+WARN	duplicate_exact_synonym	obo:VBO_0015530	oboInOwl:hasExactSynonym	West African Dwarf
+WARN	duplicate_exact_synonym	obo:VBO_0015531	oboInOwl:hasExactSynonym	West African Dwarf
+WARN	duplicate_exact_synonym	obo:VBO_0015533	oboInOwl:hasExactSynonym	West African Dwarf
+WARN	duplicate_exact_synonym	obo:VBO_0015536	oboInOwl:hasExactSynonym	West African Dwarf
+WARN	duplicate_exact_synonym	obo:VBO_0015537	oboInOwl:hasExactSynonym	West African Dwarf
+WARN	duplicate_exact_synonym	obo:VBO_0015778	oboInOwl:hasExactSynonym	West African Dwarf
+WARN	duplicate_exact_synonym	obo:VBO_0011133	oboInOwl:hasExactSynonym	West African Barb
+WARN	duplicate_exact_synonym	obo:VBO_0011135	oboInOwl:hasExactSynonym	West African Barb
+WARN	duplicate_exact_synonym	obo:VBO_0011138	oboInOwl:hasExactSynonym	West African Barb
+WARN	duplicate_exact_synonym	obo:VBO_0015113	oboInOwl:hasExactSynonym	West African
+WARN	duplicate_exact_synonym	obo:VBO_0015114	oboInOwl:hasExactSynonym	West African
+WARN	duplicate_exact_synonym	obo:VBO_0006495	oboInOwl:hasExactSynonym	Welsummer
+WARN	duplicate_exact_synonym	obo:VBO_0006496	oboInOwl:hasExactSynonym	Welsummer
+WARN	duplicate_exact_synonym	obo:VBO_0006498	oboInOwl:hasExactSynonym	Welsummer
+WARN	duplicate_exact_synonym	obo:VBO_0001091	oboInOwl:hasExactSynonym	Welsh Pony
+WARN	duplicate_exact_synonym	obo:VBO_0011118	oboInOwl:hasExactSynonym	Welsh Pony
+WARN	duplicate_exact_synonym	obo:VBO_0011125	oboInOwl:hasExactSynonym	Welsh Pony
+WARN	duplicate_exact_synonym	obo:VBO_0011126	oboInOwl:hasExactSynonym	Welsh Mountain Pony (Section A)
+WARN	duplicate_exact_synonym	obo:VBO_0011502	oboInOwl:hasExactSynonym	Welsh Mountain Pony (Section A)
+WARN	duplicate_exact_synonym	obo:VBO_0011503	oboInOwl:hasExactSynonym	Welsh Mountain Pony (Section A)
+WARN	duplicate_exact_synonym	obo:VBO_0011126	oboInOwl:hasExactSynonym	Welsh Mountain Pony
+WARN	duplicate_exact_synonym	obo:VBO_0011502	oboInOwl:hasExactSynonym	Welsh Mountain Pony
+WARN	duplicate_exact_synonym	obo:VBO_0011126	oboInOwl:hasExactSynonym	Welsh Mountain (Semi-Feral)
+WARN	duplicate_exact_synonym	obo:VBO_0011503	oboInOwl:hasExactSynonym	Welsh Mountain (Semi-Feral)
+WARN	duplicate_exact_synonym	obo:VBO_0011126	oboInOwl:hasExactSynonym	Welsh Mountain (Section A semi-feral)
+WARN	duplicate_exact_synonym	obo:VBO_0011502	oboInOwl:hasExactSynonym	Welsh Mountain (Section A semi-feral)
+WARN	duplicate_exact_synonym	obo:VBO_0011503	oboInOwl:hasExactSynonym	Welsh Mountain (Section A semi-feral)
+WARN	duplicate_exact_synonym	obo:VBO_0011502	oboInOwl:hasExactSynonym	Welsh (Feral Section)
+WARN	duplicate_exact_synonym	obo:VBO_0011503	oboInOwl:hasExactSynonym	Welsh (Feral Section)
+WARN	duplicate_exact_synonym	obo:VBO_0014319	oboInOwl:hasExactSynonym	Weiladjo
+WARN	duplicate_exact_synonym	obo:VBO_0014320	oboInOwl:hasExactSynonym	Weiladjo
+WARN	duplicate_exact_synonym	obo:VBO_0014321	oboInOwl:hasExactSynonym	Weiladjo
+WARN	duplicate_exact_synonym	obo:VBO_0015310	oboInOwl:hasExactSynonym	Walachian
+WARN	duplicate_exact_synonym	obo:VBO_0015311	oboInOwl:hasExactSynonym	Walachian

@@ -26,7 +26,7 @@ metrics:
     Class: 959
   'Info: Does the ontology fall under OWL 2 DL?': true
   'Info: Experimental OBO score':
-    _dashboard: 0.874
+    _dashboard: 0.875
     _formula: (3*impact+2*dashboard)/5
     _impact: 0.0
     _impact_external: 0
@@ -56,7 +56,9 @@ results:
     comment: OWL syntax (OWL/XML Syntax), but should be RDF/XML
     status: WARN
   FP03 URIs:
-    status: PASS
+    comment: 0 invalid IRIs. The Ontology IRI is not valid.
+    file: fp3
+    status: ERROR
   FP04 Versioning:
     comment: Missing version IRI
     status: ERROR
@@ -83,13 +85,7 @@ results:
     comment: Missing tracker and usages
     status: ERROR
   ROBOT Report:
-    comment: 2 errors, 0 warnings, 0 info messages.
-    file: robot_report
-    results:
-      ERROR: 2
-      INFO: 0
-      WARN: 0
-    status: ERROR
+    status: PASS
 sha256_hash: 188fcacc21122c50ca7838a476e65ad83a5109f24d067d9e2824bd1588ef1ece
 summary:
   comment: 7 errors
