@@ -3,7 +3,7 @@ base_prefixes:
 - SCHO
 - SCHOALT
 changed: true
-date: 2022-06-01 10:01:47.624146
+date: 2022-06-15 12:49:14.211361
 metrics:
   'Axioms: Breakdown of axiom types':
     AnnotationAssertion: 16287

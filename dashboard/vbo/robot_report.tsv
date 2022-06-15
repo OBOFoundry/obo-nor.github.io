@@ -30,171 +30,171 @@ WARN	annotation_whitespace	obo:VBO_0015869	oboInOwl:hasExactSynonym	Adal
 WARN	annotation_whitespace	obo:VBO_0015877	oboInOwl:hasExactSynonym	Agew 
 WARN	annotation_whitespace	obo:VBO_0015877	oboInOwl:hasExactSynonym	Dangilla 
 WARN	annotation_whitespace	obo:VBO_0016608	oboInOwl:hasExactSynonym	Yemeni White 
-WARN	missing_definition	obo:VBO_00000000	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000012	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000038	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000039	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000040	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000041	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000042	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000043	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000044	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000045	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000046	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000047	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000048	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000049	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000050	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000051	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000052	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000053	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000054	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000055	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000056	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000057	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000058	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000059	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000060	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000061	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000062	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000063	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000064	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000065	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000066	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000067	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000068	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000069	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000070	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000071	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000072	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000073	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000074	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000075	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000076	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000077	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000078	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000079	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000080	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000081	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000082	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000083	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000084	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000085	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000086	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000087	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000088	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000090	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000091	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000092	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000093	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000094	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000095	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000096	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000097	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000098	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000099	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000100	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000101	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000102	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000103	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000104	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000105	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000106	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000107	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000108	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000109	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000110	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000111	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000112	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000113	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000114	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000115	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000117	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000118	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000119	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000120	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000121	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000122	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000123	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000124	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000125	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000126	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000127	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000128	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000129	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000130	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000131	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000132	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000133	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000134	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000135	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000136	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000137	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000138	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000139	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000140	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000141	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000142	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000143	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000144	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000145	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000146	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000147	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000148	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000149	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000151	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000153	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000154	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000155	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000156	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000157	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000158	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000159	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000160	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000161	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000162	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000163	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000164	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000165	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000166	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000167	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000168	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000169	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000170	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000171	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000172	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000173	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000174	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000175	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000176	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000177	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000178	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000179	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000180	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000182	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000183	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000184	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000185	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000186	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000187	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000188	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000189	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000190	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000191	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000192	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000193	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000194	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000195	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000196	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000197	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000198	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000199	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000200	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000201	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000202	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000203	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000204	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000205	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000206	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000207	IAO:0000115	
-WARN	missing_definition	obo:VBO_0000208	IAO:0000115	
+WARN	duplicate_exact_synonym	obo:VBO_0002733	oboInOwl:hasExactSynonym	Å arole
+WARN	duplicate_exact_synonym	obo:VBO_0002760	oboInOwl:hasExactSynonym	Å arole
+WARN	duplicate_exact_synonym	obo:VBO_0003719	oboInOwl:hasExactSynonym	Zulu
+WARN	duplicate_exact_synonym	obo:VBO_0003721	oboInOwl:hasExactSynonym	Zulu
+WARN	duplicate_exact_synonym	obo:VBO_0003722	oboInOwl:hasExactSynonym	Zulu
+WARN	duplicate_exact_synonym	obo:VBO_0014983	oboInOwl:hasExactSynonym	Zulu
+WARN	duplicate_exact_synonym	obo:VBO_0014984	oboInOwl:hasExactSynonym	Zulu
+WARN	duplicate_exact_synonym	obo:VBO_0014985	oboInOwl:hasExactSynonym	Zulu
+WARN	duplicate_exact_synonym	obo:VBO_0005184	oboInOwl:hasExactSynonym	Zebu
+WARN	duplicate_exact_synonym	obo:VBO_0009408	oboInOwl:hasExactSynonym	Zebu
+WARN	duplicate_exact_synonym	obo:VBO_0001829	oboInOwl:hasExactSynonym	Zamorana
+WARN	duplicate_exact_synonym	obo:VBO_0004037	oboInOwl:hasExactSynonym	Zamorana
+WARN	duplicate_exact_synonym	obo:VBO_0015560	oboInOwl:hasExactSynonym	Yugoslav Zackel
+WARN	duplicate_exact_synonym	obo:VBO_0015561	oboInOwl:hasExactSynonym	Yugoslav Zackel
+WARN	duplicate_exact_synonym	obo:VBO_0015564	oboInOwl:hasExactSynonym	Yugoslav Zackel
+WARN	duplicate_exact_synonym	obo:VBO_0015565	oboInOwl:hasExactSynonym	Yugoslav Zackel
+WARN	duplicate_exact_synonym	obo:VBO_0016508	oboInOwl:hasExactSynonym	Yugoslav Zackel
+WARN	duplicate_exact_synonym	obo:VBO_0001212	oboInOwl:hasExactSynonym	Yorkshire
+WARN	duplicate_exact_synonym	obo:VBO_0004791	oboInOwl:hasExactSynonym	Yorkshire
+WARN	duplicate_exact_synonym	obo:VBO_0012408	oboInOwl:hasExactSynonym	Yorkshire
+WARN	duplicate_exact_synonym	obo:VBO_0012446	oboInOwl:hasExactSynonym	Yorkshire
+WARN	duplicate_exact_synonym	obo:VBO_0012500	oboInOwl:hasExactSynonym	Yorkshire
+WARN	duplicate_exact_synonym	obo:VBO_0006203	oboInOwl:hasExactSynonym	Yokohama
+WARN	duplicate_exact_synonym	obo:VBO_0006204	oboInOwl:hasExactSynonym	Yokohama
+WARN	duplicate_exact_synonym	obo:VBO_0014184	oboInOwl:hasExactSynonym	Yazda
+WARN	duplicate_exact_synonym	obo:VBO_0014185	oboInOwl:hasExactSynonym	Yazda
+WARN	duplicate_exact_synonym	obo:VBO_0014186	oboInOwl:hasExactSynonym	Yazda
+WARN	duplicate_exact_synonym	obo:VBO_0004351	oboInOwl:hasExactSynonym	Yakut
+WARN	duplicate_exact_synonym	obo:VBO_0011751	oboInOwl:hasExactSynonym	Yakut
+WARN	duplicate_exact_synonym	obo:VBO_0004337	oboInOwl:hasExactSynonym	Yakanaji
+WARN	duplicate_exact_synonym	obo:VBO_0004338	oboInOwl:hasExactSynonym	Yakanaji
+WARN	duplicate_exact_synonym	obo:VBO_0004340	oboInOwl:hasExactSynonym	Yakanaji
+WARN	duplicate_exact_synonym	obo:VBO_0016813	oboInOwl:hasExactSynonym	Yak
+WARN	duplicate_exact_synonym	obo:VBO_0016834	oboInOwl:hasExactSynonym	Yak
+WARN	duplicate_exact_synonym	obo:VBO_0000647	oboInOwl:hasExactSynonym	Wyandotte
+WARN	duplicate_exact_synonym	obo:VBO_0006516	oboInOwl:hasExactSynonym	Wyandotte
+WARN	duplicate_exact_synonym	obo:VBO_0006517	oboInOwl:hasExactSynonym	Wyandotte
+WARN	duplicate_exact_synonym	obo:VBO_0015310	oboInOwl:hasExactSynonym	Woloschian
+WARN	duplicate_exact_synonym	obo:VBO_0015311	oboInOwl:hasExactSynonym	Woloschian
+WARN	duplicate_exact_synonym	obo:VBO_0011973	oboInOwl:hasExactSynonym	Woburn
+WARN	duplicate_exact_synonym	obo:VBO_0011974	oboInOwl:hasExactSynonym	Woburn
+WARN	duplicate_exact_synonym	obo:VBO_0015304	oboInOwl:hasExactSynonym	White Virgin Islander
+WARN	duplicate_exact_synonym	obo:VBO_0015305	oboInOwl:hasExactSynonym	White Virgin Islander
+WARN	duplicate_exact_synonym	obo:VBO_0013803	oboInOwl:hasExactSynonym	White of Hotot
+WARN	duplicate_exact_synonym	obo:VBO_0014106	oboInOwl:hasExactSynonym	White of Hotot
+WARN	duplicate_exact_synonym	obo:VBO_0015438	oboInOwl:hasExactSynonym	White Maure
+WARN	duplicate_exact_synonym	obo:VBO_0015439	oboInOwl:hasExactSynonym	White Maure
+WARN	duplicate_exact_synonym	obo:VBO_0015440	oboInOwl:hasExactSynonym	White Maure
+WARN	duplicate_exact_synonym	obo:VBO_0000646	oboInOwl:hasExactSynonym	White Leghorn
+WARN	duplicate_exact_synonym	obo:VBO_0007597	oboInOwl:hasExactSynonym	White Leghorn
+WARN	duplicate_exact_synonym	obo:VBO_0007598	oboInOwl:hasExactSynonym	White Leghorn
+WARN	duplicate_exact_synonym	obo:VBO_0007599	oboInOwl:hasExactSynonym	White Leghorn
+WARN	duplicate_exact_synonym	obo:VBO_0007606	oboInOwl:hasExactSynonym	White Leghorn
+WARN	duplicate_exact_synonym	obo:VBO_0007607	oboInOwl:hasExactSynonym	White Leghorn
+WARN	duplicate_exact_synonym	obo:VBO_0007608	oboInOwl:hasExactSynonym	White Leghorn
+WARN	duplicate_exact_synonym	obo:VBO_0007614	oboInOwl:hasExactSynonym	White Leghorn
+WARN	duplicate_exact_synonym	obo:VBO_0007615	oboInOwl:hasExactSynonym	White Leghorn
+WARN	duplicate_exact_synonym	obo:VBO_0007616	oboInOwl:hasExactSynonym	White Leghorn
+WARN	duplicate_exact_synonym	obo:VBO_0007621	oboInOwl:hasExactSynonym	White Leghorn
+WARN	duplicate_exact_synonym	obo:VBO_0003467	oboInOwl:hasExactSynonym	White Lake Chad
+WARN	duplicate_exact_synonym	obo:VBO_0003468	oboInOwl:hasExactSynonym	White Lake Chad
+WARN	duplicate_exact_synonym	obo:VBO_0003469	oboInOwl:hasExactSynonym	White Lake Chad
+WARN	duplicate_exact_synonym	obo:VBO_0004339	oboInOwl:hasExactSynonym	White Lake Chad
+WARN	duplicate_exact_synonym	obo:VBO_0001684	oboInOwl:hasExactSynonym	White Karaman
+WARN	duplicate_exact_synonym	obo:VBO_0015541	oboInOwl:hasExactSynonym	White Karaman
+WARN	duplicate_exact_synonym	obo:VBO_0004337	oboInOwl:hasExactSynonym	White Kano
+WARN	duplicate_exact_synonym	obo:VBO_0004338	oboInOwl:hasExactSynonym	White Kano
+WARN	duplicate_exact_synonym	obo:VBO_0004340	oboInOwl:hasExactSynonym	White Kano
+WARN	duplicate_exact_synonym	obo:VBO_0000427	oboInOwl:hasExactSynonym	White Fulani
+WARN	duplicate_exact_synonym	obo:VBO_0004337	oboInOwl:hasExactSynonym	White Fulani
+WARN	duplicate_exact_synonym	obo:VBO_0005134	oboInOwl:hasExactSynonym	White Fulani
+WARN	duplicate_exact_synonym	obo:VBO_0005289	oboInOwl:hasExactSynonym	White Fulani
+WARN	duplicate_exact_synonym	obo:VBO_0016283	oboInOwl:hasExactSynonym	White Fulani
+WARN	duplicate_exact_synonym	obo:VBO_0001397	oboInOwl:hasExactSynonym	White Dorper
+WARN	duplicate_exact_synonym	obo:VBO_0014518	oboInOwl:hasExactSynonym	White Dorper
+WARN	duplicate_exact_synonym	obo:VBO_0004337	oboInOwl:hasExactSynonym	White Bororo
+WARN	duplicate_exact_synonym	obo:VBO_0014319	oboInOwl:hasExactSynonym	White Bororo
+WARN	duplicate_exact_synonym	obo:VBO_0014320	oboInOwl:hasExactSynonym	White Bororo
+WARN	duplicate_exact_synonym	obo:VBO_0014321	oboInOwl:hasExactSynonym	White Bororo
+WARN	duplicate_exact_synonym	obo:VBO_0015438	oboInOwl:hasExactSynonym	White Arab
+WARN	duplicate_exact_synonym	obo:VBO_0015439	oboInOwl:hasExactSynonym	White Arab
+WARN	duplicate_exact_synonym	obo:VBO_0015440	oboInOwl:hasExactSynonym	White Arab
+WARN	duplicate_exact_synonym	obo:VBO_0001163	oboInOwl:hasExactSynonym	White
+WARN	duplicate_exact_synonym	obo:VBO_0007627	oboInOwl:hasExactSynonym	White
+WARN	duplicate_exact_synonym	obo:VBO_0008896	oboInOwl:hasExactSynonym	West Indian
+WARN	duplicate_exact_synonym	obo:VBO_0008897	oboInOwl:hasExactSynonym	West Indian
+WARN	duplicate_exact_synonym	obo:VBO_0008898	oboInOwl:hasExactSynonym	West Indian
+WARN	duplicate_exact_synonym	obo:VBO_0008900	oboInOwl:hasExactSynonym	West Indian
+WARN	duplicate_exact_synonym	obo:VBO_0008901	oboInOwl:hasExactSynonym	West Indian
+WARN	duplicate_exact_synonym	obo:VBO_0008902	oboInOwl:hasExactSynonym	West Indian
+WARN	duplicate_exact_synonym	obo:VBO_0008904	oboInOwl:hasExactSynonym	West Indian
+WARN	duplicate_exact_synonym	obo:VBO_0008905	oboInOwl:hasExactSynonym	West Indian
+WARN	duplicate_exact_synonym	obo:VBO_0008908	oboInOwl:hasExactSynonym	West Indian
+WARN	duplicate_exact_synonym	obo:VBO_0008909	oboInOwl:hasExactSynonym	West Indian
+WARN	duplicate_exact_synonym	obo:VBO_0008910	oboInOwl:hasExactSynonym	West Indian
+WARN	duplicate_exact_synonym	obo:VBO_0008911	oboInOwl:hasExactSynonym	West Indian
+WARN	duplicate_exact_synonym	obo:VBO_0008912	oboInOwl:hasExactSynonym	West Indian
+WARN	duplicate_exact_synonym	obo:VBO_0008914	oboInOwl:hasExactSynonym	West Indian
+WARN	duplicate_exact_synonym	obo:VBO_0008915	oboInOwl:hasExactSynonym	West Indian
+WARN	duplicate_exact_synonym	obo:VBO_0008916	oboInOwl:hasExactSynonym	West Indian
+WARN	duplicate_exact_synonym	obo:VBO_0008918	oboInOwl:hasExactSynonym	West Indian
+WARN	duplicate_exact_synonym	obo:VBO_0008919	oboInOwl:hasExactSynonym	West Indian
+WARN	duplicate_exact_synonym	obo:VBO_0015518	oboInOwl:hasExactSynonym	West African Maned
+WARN	duplicate_exact_synonym	obo:VBO_0015522	oboInOwl:hasExactSynonym	West African Maned
+WARN	duplicate_exact_synonym	obo:VBO_0015523	oboInOwl:hasExactSynonym	West African Maned
+WARN	duplicate_exact_synonym	obo:VBO_0015526	oboInOwl:hasExactSynonym	West African Maned
+WARN	duplicate_exact_synonym	obo:VBO_0015527	oboInOwl:hasExactSynonym	West African Maned
+WARN	duplicate_exact_synonym	obo:VBO_0015528	oboInOwl:hasExactSynonym	West African Maned
+WARN	duplicate_exact_synonym	obo:VBO_0015530	oboInOwl:hasExactSynonym	West African Maned
+WARN	duplicate_exact_synonym	obo:VBO_0015531	oboInOwl:hasExactSynonym	West African Maned
+WARN	duplicate_exact_synonym	obo:VBO_0015533	oboInOwl:hasExactSynonym	West African Maned
+WARN	duplicate_exact_synonym	obo:VBO_0015536	oboInOwl:hasExactSynonym	West African Maned
+WARN	duplicate_exact_synonym	obo:VBO_0015537	oboInOwl:hasExactSynonym	West African Maned
+WARN	duplicate_exact_synonym	obo:VBO_0015778	oboInOwl:hasExactSynonym	West African Maned
+WARN	duplicate_exact_synonym	obo:VBO_0008892	oboInOwl:hasExactSynonym	West African Longlegged
+WARN	duplicate_exact_synonym	obo:VBO_0009175	oboInOwl:hasExactSynonym	West African Longlegged
+WARN	duplicate_exact_synonym	obo:VBO_0009177	oboInOwl:hasExactSynonym	West African Longlegged
+WARN	duplicate_exact_synonym	obo:VBO_0009180	oboInOwl:hasExactSynonym	West African Longlegged
+WARN	duplicate_exact_synonym	obo:VBO_0009183	oboInOwl:hasExactSynonym	West African Longlegged
+WARN	duplicate_exact_synonym	obo:VBO_0009189	oboInOwl:hasExactSynonym	West African Longlegged
+WARN	duplicate_exact_synonym	obo:VBO_0009190	oboInOwl:hasExactSynonym	West African Longlegged
+WARN	duplicate_exact_synonym	obo:VBO_0009296	oboInOwl:hasExactSynonym	West African Longlegged
+WARN	duplicate_exact_synonym	obo:VBO_0008944	oboInOwl:hasExactSynonym	West African Dwarf
+WARN	duplicate_exact_synonym	obo:VBO_0009313	oboInOwl:hasExactSynonym	West African Dwarf
+WARN	duplicate_exact_synonym	obo:VBO_0009316	oboInOwl:hasExactSynonym	West African Dwarf
+WARN	duplicate_exact_synonym	obo:VBO_0009325	oboInOwl:hasExactSynonym	West African Dwarf
+WARN	duplicate_exact_synonym	obo:VBO_0009330	oboInOwl:hasExactSynonym	West African Dwarf
+WARN	duplicate_exact_synonym	obo:VBO_0009334	oboInOwl:hasExactSynonym	West African Dwarf
+WARN	duplicate_exact_synonym	obo:VBO_0009336	oboInOwl:hasExactSynonym	West African Dwarf
+WARN	duplicate_exact_synonym	obo:VBO_0009472	oboInOwl:hasExactSynonym	West African Dwarf
+WARN	duplicate_exact_synonym	obo:VBO_0015522	oboInOwl:hasExactSynonym	West African Dwarf
+WARN	duplicate_exact_synonym	obo:VBO_0015523	oboInOwl:hasExactSynonym	West African Dwarf
+WARN	duplicate_exact_synonym	obo:VBO_0015526	oboInOwl:hasExactSynonym	West African Dwarf
+WARN	duplicate_exact_synonym	obo:VBO_0015527	oboInOwl:hasExactSynonym	West African Dwarf
+WARN	duplicate_exact_synonym	obo:VBO_0015530	oboInOwl:hasExactSynonym	West African Dwarf
+WARN	duplicate_exact_synonym	obo:VBO_0015531	oboInOwl:hasExactSynonym	West African Dwarf
+WARN	duplicate_exact_synonym	obo:VBO_0015533	oboInOwl:hasExactSynonym	West African Dwarf
+WARN	duplicate_exact_synonym	obo:VBO_0015536	oboInOwl:hasExactSynonym	West African Dwarf
+WARN	duplicate_exact_synonym	obo:VBO_0015537	oboInOwl:hasExactSynonym	West African Dwarf
+WARN	duplicate_exact_synonym	obo:VBO_0015778	oboInOwl:hasExactSynonym	West African Dwarf
+WARN	duplicate_exact_synonym	obo:VBO_0011133	oboInOwl:hasExactSynonym	West African Barb
+WARN	duplicate_exact_synonym	obo:VBO_0011135	oboInOwl:hasExactSynonym	West African Barb
+WARN	duplicate_exact_synonym	obo:VBO_0011138	oboInOwl:hasExactSynonym	West African Barb
+WARN	duplicate_exact_synonym	obo:VBO_0015113	oboInOwl:hasExactSynonym	West African
+WARN	duplicate_exact_synonym	obo:VBO_0015114	oboInOwl:hasExactSynonym	West African
+WARN	duplicate_exact_synonym	obo:VBO_0006495	oboInOwl:hasExactSynonym	Welsummer
+WARN	duplicate_exact_synonym	obo:VBO_0006496	oboInOwl:hasExactSynonym	Welsummer
+WARN	duplicate_exact_synonym	obo:VBO_0006498	oboInOwl:hasExactSynonym	Welsummer
+WARN	duplicate_exact_synonym	obo:VBO_0001091	oboInOwl:hasExactSynonym	Welsh Pony
+WARN	duplicate_exact_synonym	obo:VBO_0011118	oboInOwl:hasExactSynonym	Welsh Pony
+WARN	duplicate_exact_synonym	obo:VBO_0011125	oboInOwl:hasExactSynonym	Welsh Pony
+WARN	duplicate_exact_synonym	obo:VBO_0011126	oboInOwl:hasExactSynonym	Welsh Mountain Pony (Section A)
+WARN	duplicate_exact_synonym	obo:VBO_0011502	oboInOwl:hasExactSynonym	Welsh Mountain Pony (Section A)
+WARN	duplicate_exact_synonym	obo:VBO_0011503	oboInOwl:hasExactSynonym	Welsh Mountain Pony (Section A)
+WARN	duplicate_exact_synonym	obo:VBO_0011126	oboInOwl:hasExactSynonym	Welsh Mountain Pony
+WARN	duplicate_exact_synonym	obo:VBO_0011502	oboInOwl:hasExactSynonym	Welsh Mountain Pony
+WARN	duplicate_exact_synonym	obo:VBO_0011126	oboInOwl:hasExactSynonym	Welsh Mountain (Semi-Feral)
+WARN	duplicate_exact_synonym	obo:VBO_0011503	oboInOwl:hasExactSynonym	Welsh Mountain (Semi-Feral)
+WARN	duplicate_exact_synonym	obo:VBO_0011126	oboInOwl:hasExactSynonym	Welsh Mountain (Section A semi-feral)
+WARN	duplicate_exact_synonym	obo:VBO_0011502	oboInOwl:hasExactSynonym	Welsh Mountain (Section A semi-feral)
+WARN	duplicate_exact_synonym	obo:VBO_0011503	oboInOwl:hasExactSynonym	Welsh Mountain (Section A semi-feral)
+WARN	duplicate_exact_synonym	obo:VBO_0011502	oboInOwl:hasExactSynonym	Welsh (Feral Section)
+WARN	duplicate_exact_synonym	obo:VBO_0011503	oboInOwl:hasExactSynonym	Welsh (Feral Section)
+WARN	duplicate_exact_synonym	obo:VBO_0014319	oboInOwl:hasExactSynonym	Weiladjo
+WARN	duplicate_exact_synonym	obo:VBO_0014320	oboInOwl:hasExactSynonym	Weiladjo
+WARN	duplicate_exact_synonym	obo:VBO_0014321	oboInOwl:hasExactSynonym	Weiladjo
+WARN	duplicate_exact_synonym	obo:VBO_0015310	oboInOwl:hasExactSynonym	Walachian
+WARN	duplicate_exact_synonym	obo:VBO_0015311	oboInOwl:hasExactSynonym	Walachian
