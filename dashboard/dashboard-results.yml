@@ -29,7 +29,7 @@ ontologies:
   - ADO
   - ADOALT
   changed: true
-  date: 2022-06-15 12:45:50.862172
+  date: 2022-06-16 16:45:53.551897
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 35029
@@ -188,7 +188,7 @@ ontologies:
   - BPDO
   - BPDOALT
   changed: true
-  date: 2022-06-15 12:49:07.194791
+  date: 2022-06-16 16:49:48.170360
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 15497
@@ -320,7 +320,7 @@ ontologies:
   - CBO
   - CBOALT
   changed: true
-  date: 2022-06-15 12:49:18.773787
+  date: 2022-06-16 16:50:00.225541
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 1319
@@ -420,7 +420,7 @@ ontologies:
   - MCRO
   - MCROALT
   changed: true
-  date: 2022-06-15 12:45:45.061397
+  date: 2022-06-16 16:45:47.982751
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 5354
@@ -555,7 +555,7 @@ ontologies:
   - NGBO
   - NGBOALT
   changed: true
-  date: 2022-06-15 12:49:10.272760
+  date: 2022-06-16 16:49:51.736951
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 8066
@@ -704,7 +704,7 @@ ontologies:
   - PROCO
   - PROCOALT
   changed: true
-  date: 2022-06-15 12:45:38.094174
+  date: 2022-06-16 16:45:41.780673
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 8203
@@ -835,7 +835,7 @@ ontologies:
   - SCHO
   - SCHOALT
   changed: true
-  date: 2022-06-15 12:49:14.211361
+  date: 2022-06-16 16:49:55.999246
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 16287
@@ -967,7 +967,7 @@ ontologies:
   - T4FS
   - T4FSALT
   changed: true
-  date: 2022-06-15 12:49:32.626258
+  date: 2022-06-16 16:50:13.653125
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 1875
@@ -1067,7 +1067,7 @@ ontologies:
   - VBO
   - VBOALT
   changed: true
-  date: 2022-06-15 12:49:03.009108
+  date: 2022-06-16 16:49:43.649509
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 81411

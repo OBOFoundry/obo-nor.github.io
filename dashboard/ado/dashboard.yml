@@ -3,7 +3,7 @@ base_prefixes:
 - ADO
 - ADOALT
 changed: true
-date: 2022-06-15 12:45:50.862172
+date: 2022-06-16 16:45:53.551897
 metrics:
   'Axioms: Breakdown of axiom types':
     AnnotationAssertion: 35029
