@@ -9,7 +9,7 @@
             <div class="col-md-8">
                 <h1>Dashboard Report - <a href="http://obofoundry.org/ontology/ngbo.html">ngbo</a></h1>
                 <p class="lead"><b>Version</b>: None</p>
-                <p class="lead" style="margin-top:-15px;"><b>Date run</b>: 2022-06-16 16:49:51.736951</p>
+                <p class="lead" style="margin-top:-15px;"><b>Date run</b>: 2022-06-19 18:02:33.496120</p>
                 <p class="lead" style="margin-top:-15px;"><a href="dashboard.yml">View dashboard results as YAML</a></p>
                 <p class="lead" style="margin-top:-15px;"><a href="../index.html">Go back to Overview</a></p>
                 <h3>Error Breakdown</h3>
@@ -19,7 +19,7 @@
                         
                     
                     <div class="alert alert-danger">
-                        <center><h3>ERROR - 7 errors</h3></center>
+                        <center><h3>ERROR - 9 errors</h3></center>
                     </div>
                 
                 <table class="table">
@@ -44,7 +44,8 @@
                                 <img src="../assets/x.svg" height="15px">
                             </td>
                             
-                                <td>Registry license 'https://creativecommons.org/licenses/by/3.0/' is not a valid open license. Missing ontology license.</td>
+                                <td>Registry license 'https://creativecommons.org/licenses/by/3.0/' is not a valid open license. License should use property 'http://purl.org/dc/terms/license'. Ontology license 'this work is licensed under the creative commons attribution 4.0 international license. to view a copy of this license, visit
+http://creativecommons.org/licenses/by/4.0/.' does not match regsitry license 'https://creativecommons.org/licenses/by/3.0/'.</td>
                             
                             
                                 <td></td>
@@ -64,7 +65,7 @@
                                 <img src="../assets/warning.svg" height="15px">
                             </td>
                             
-                                <td>OWL syntax (OWL Functional Syntax), but should be RDF/XML</td>
+                                <td>OWL syntax (OWL/XML Syntax), but should be RDF/XML</td>
                             
                             
                                 <td></td>
@@ -140,11 +141,11 @@
                                 
                                 
                             
-                            <td class="table-success" style="text-align:center;">
-                                <img src="../assets/check.svg" height="15px">
+                            <td class="table-danger" style="text-align:center;">
+                                <img src="../assets/x.svg" height="15px">
                             </td>
                             
-                                <td></td>
+                                <td>4 multiple definitions. 53 missing definitions. See ROBOT Report for details.</td>
                             
                             
                                 <td></td>
@@ -160,14 +161,14 @@
                                 
                                 
                             
-                            <td class="table-success" style="text-align:center;">
-                                <img src="../assets/check.svg" height="15px">
+                            <td class="table-info" style="text-align:center;">
+                                <img src="../assets/info.svg" height="15px">
                             </td>
                             
-                                <td></td>
+                                <td>8 non-RO properties used.</td>
                             
                             
-                                <td></td>
+                                <td><a href="fp7.html">View Report</a></td>
                             
                         </tr>
                     
@@ -240,11 +241,11 @@
                                 
                                 
                             
-                            <td class="table-success" style="text-align:center;">
-                                <img src="../assets/check.svg" height="15px">
+                            <td class="table-danger" style="text-align:center;">
+                                <img src="../assets/x.svg" height="15px">
                             </td>
                             
-                                <td></td>
+                                <td>1 missing labels. See ROBOT Report for details.</td>
                             
                             
                                 <td></td>
@@ -304,7 +305,7 @@
                                 <img src="../assets/x.svg" height="15px">
                             </td>
                             
-                                <td>3 errors, 0 warnings, 0 info messages.</td>
+                                <td>6 errors, 54 warnings, 36 info messages.</td>
                             
                             
                                 <td><a href="robot_report.html">View Report</a></td>
@@ -330,13 +331,13 @@
                                     <td>
                                         <ul>
                                             
-                                                <li>AnnotationAssertion: 8066</li>
+                                                <li>AnnotationAssertion: 8073</li>
                                             
                                                 <li>AsymmetricObjectProperty: 6</li>
                                             
                                                 <li>ClassAssertion: 2</li>
                                             
-                                                <li>Declaration: 1742</li>
+                                                <li>Declaration: 1751</li>
                                             
                                                 <li>DisjointClasses: 25</li>
                                             
@@ -356,7 +357,7 @@
                                             
                                                 <li>ObjectPropertyRange: 45</li>
                                             
-                                                <li>SubClassOf: 1648</li>
+                                                <li>SubClassOf: 1657</li>
                                             
                                                 <li>SubObjectPropertyOf: 90</li>
                                             
@@ -373,7 +374,7 @@
                                 <td>Axioms: Number of axioms</td>
                                 
                                 
-                                    <td>11747</td>
+                                    <td>11772</td>
                                 
                             </tr>
                         
@@ -397,7 +398,7 @@
                                 <td>Entities: Number of classes</td>
                                 
                                 
-                                    <td>1503</td>
+                                    <td>1512</td>
                                 
                             </tr>
                         
@@ -440,7 +441,7 @@
                                     <td>
                                         <ul>
                                             
-                                                <li>Class: 4991</li>
+                                                <li>Class: 5018</li>
                                             
                                                 <li>ObjectAllValuesFrom: 6</li>
                                             
@@ -476,7 +477,7 @@
                                     <td>
                                         <ul>
                                             
-                                                <li>_dashboard: 0.444</li>
+                                                <li>_dashboard: 0.304</li>
                                             
                                                 <li>_formula: (1*impact+1*dashboard)/2</li>
                                             
@@ -486,7 +487,7 @@
                                             
                                                 <li>_reuse: 1.0</li>
                                             
-                                                <li>oboscore: 0.222</li>
+                                                <li>oboscore: 0.152</li>
                                             
                                         </ul>
                                     </td>
@@ -521,7 +522,7 @@
                                 <td>Info: Syntax</td>
                                 
                                 
-                                    <td>OWL Functional Syntax</td>
+                                    <td>OWL/XML Syntax</td>
                                 
                             </tr>
                         
@@ -548,13 +549,13 @@
                                             
                                                 <li>GAZ: 2</li>
                                             
-                                                <li>GENEPIO: 54</li>
+                                                <li>GENEPIO: 56</li>
                                             
                                                 <li>GENO: 6</li>
                                             
                                                 <li>GEO: 1</li>
                                             
-                                                <li>IAO: 5956</li>
+                                                <li>IAO: 5957</li>
                                             
                                                 <li>ICO: 22</li>
                                             
@@ -562,9 +563,9 @@
                                             
                                                 <li>NCBITaxon: 33</li>
                                             
-                                                <li>NCIT: 30</li>
+                                                <li>NCIT: 27</li>
                                             
-                                                <li>OBI: 1599</li>
+                                                <li>OBI: 1595</li>
                                             
                                                 <li>OBIB: 354</li>
                                             
@@ -588,27 +589,25 @@
                                             
                                                 <li>UBERON: 3</li>
                                             
-                                                <li>dc11: 116</li>
+                                                <li>dc11: 118</li>
                                             
                                                 <li>foaf: 2</li>
                                             
-                                                <li>obo: 465</li>
+                                                <li>obo: 492</li>
                                             
-                                                <li>oboInOwl: 246</li>
+                                                <li>oboInOwl: 244</li>
                                             
                                                 <li>owl: 9</li>
                                             
-                                                <li>prefix_unknown: 755</li>
+                                                <li>prefix_unknown: 757</li>
                                             
-                                                <li>rdf: 7</li>
+                                                <li>rdf: 15</li>
                                             
-                                                <li>rdfs: 1888</li>
+                                                <li>rdfs: 1897</li>
                                             
                                                 <li>schema: 2</li>
                                             
                                                 <li>skos: 10</li>
-                                            
-                                                <li>xsd: 8</li>
                                             
                                         </ul>
                                     </td>

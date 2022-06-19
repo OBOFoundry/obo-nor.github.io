@@ -12,18 +12,28 @@
       <div class="report_summary"><table class="table">
       <tr><th><b>Level</b></th><th><b>Number of errors</b></th></tr>
       
-      <tr><td>ERROR</td><td>3</td></tr>
+      <tr><td>ERROR</td><td>6</td></tr>
+      
+      <tr><td>WARN</td><td>54</td></tr>
+      
+      <tr><td>INFO</td><td>36</td></tr>
       
       </table></div>
       <h3>Error breakdown</h3>
       <div class="report_summary"><table class="table">
       <tr><th><b>Rule</b></th><th><b>Number of errors</b></th></tr>
       
-      <tr><td>missing_ontology_description</td><td>1</td></tr>
+      <tr><td>missing_label</td><td>1</td></tr>
       
       <tr><td>missing_ontology_license</td><td>1</td></tr>
       
-      <tr><td>missing_ontology_title</td><td>1</td></tr>
+      <tr><td>multiple_definitions</td><td>4</td></tr>
+      
+      <tr><td>equivalent_class_axiom_no_genus</td><td>1</td></tr>
+      
+      <tr><td>missing_definition</td><td>53</td></tr>
+      
+      <tr><td>lowercase_definition</td><td>36</td></tr>
       
       </table></div>
       <p style="text-align:center; margin-top:-15px;">
@@ -61,19 +71,19 @@
             
               <td>
               
-                <a href="http://robot.obolibrary.org/report_queries/missing_ontology_description">missing_ontology_description</a>
+                <a href="http://robot.obolibrary.org/report_queries/missing_label">missing_label</a>
               
               </td>
             
               <td>
               
-                <a href="http://purl.obolibrary.org/obo/ngbo.owl">http://purl.obolibrary.org/obo/ngbo.owl</a>
+                obo:NGBO_6000337
               
               </td>
             
               <td>
               
-                <a href="http://purl.org/dc/terms/description">dc:description</a>
+                <a href="http://www.w3.org/2000/01/rdf-schema#label">rdfs:label</a>
               
               </td>
             
@@ -141,25 +151,3749 @@
             
               <td>
               
-                <a href="http://robot.obolibrary.org/report_queries/missing_ontology_title">missing_ontology_title</a>
+                <a href="http://robot.obolibrary.org/report_queries/multiple_definitions">multiple_definitions</a>
               
               </td>
             
               <td>
               
-                <a href="http://purl.obolibrary.org/obo/ngbo.owl">http://purl.obolibrary.org/obo/ngbo.owl</a>
+                obo:NGBO_6000004
               
               </td>
             
               <td>
               
-                <a href="http://purl.org/dc/terms/title">dc:title</a>
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                A file format which represent represent the format of a text file used in bioinformatics for storing gene sequence variations
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-danger">
+            <td>4</td>
+            
+              <td>
+              
+                ERROR
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/multiple_definitions">multiple_definitions</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000004
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                <a href="https://en.wikipedia.org/wiki/Variant_Call_Format
+">inferred from https://en.wikipedia.org/wiki/Variant_Call_Format
+</a>
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-danger">
+            <td>5</td>
+            
+              <td>
+              
+                ERROR
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/multiple_definitions">multiple_definitions</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000259
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                data item that represent sort of archive that contains one or more files that have been reduced in size through file compression process@en
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-danger">
+            <td>6</td>
+            
+              <td>
+              
+                ERROR
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/multiple_definitions">multiple_definitions</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000259
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                <a href="https://support.microsoft.com/en-us/windows/zip-and-unzip-files-8d28fa72-f2f9-712f-67df-f80cf89fd4e5@en
+">inferred from https://support.microsoft.com/en-us/windows/zip-and-unzip-files-8d28fa72-f2f9-712f-67df-f80cf89fd4e5@en
+</a>
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>7</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                equivalent_class_axiom_no_genus
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000358
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/BFO_0000054">BFO:0000054</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000323
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>8</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_0000035
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
               
               </td>
             
               <td>
               
                 
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>9</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_0000036
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>10</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_0000037
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>11</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_0000054
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>12</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_0000055
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>13</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_0000056
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>14</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_0000057
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>15</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_0000058
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>16</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_0000059
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>17</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_0000060
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>18</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_0000061
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>19</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_0000062
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>20</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_0000063
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>21</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_0000064
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>22</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_0000065
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>23</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_0000066
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>24</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_0000067
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>25</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000009
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>26</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000029
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>27</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000057
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>28</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000089
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>29</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000103
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>30</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000139
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>31</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000161
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>32</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000200
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>33</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000233
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>34</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000249
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>35</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000250
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>36</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000273
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>37</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000302
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>38</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000303
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>39</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000304
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>40</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000305
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>41</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000337
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>42</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000354
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>43</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000358
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>44</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000365
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>45</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000377
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>46</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000380
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>47</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000381
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>48</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000399
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>49</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000409
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>50</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000410
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>51</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000411
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>52</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000412
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>53</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000413
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>54</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000626
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>55</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000689
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>56</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000690
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>57</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000691
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>58</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000692
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>59</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000693
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-warning">
+            <td>60</td>
+            
+              <td>
+              
+                WARN
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/missing_definition">missing_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6005731
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-info">
+            <td>61</td>
+            
+              <td>
+              
+                INFO
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/lowercase_definition">lowercase_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000004
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                <a href="https://en.wikipedia.org/wiki/Variant_Call_Format
+">inferred from https://en.wikipedia.org/wiki/Variant_Call_Format
+</a>
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-info">
+            <td>62</td>
+            
+              <td>
+              
+                INFO
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/lowercase_definition">lowercase_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000092
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                a document which represent a contract that governs the transfer of tangible research materials between two organizations, when the recipient intends to use it for his or her own research purposes.
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-info">
+            <td>63</td>
+            
+              <td>
+              
+                INFO
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/lowercase_definition">lowercase_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000123
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                gene expression level analysis is a bioinformatics analysis that compares the RNA expression levels of multiple genes (profiling) and/or multiple samples (screening)
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-info">
+            <td>64</td>
+            
+              <td>
+              
+                INFO
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/lowercase_definition">lowercase_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000157
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                a specimen that derives from an organism and might contain infectious materials.
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-info">
+            <td>65</td>
+            
+              <td>
+              
+                INFO
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/lowercase_definition">lowercase_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000181
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                a bioinformatics analysis that produces data structure that improves the speed of data retrieval operations on a database table at the cost of additional writes and storage space to maintain the index data structure
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-info">
+            <td>66</td>
+            
+              <td>
+              
+                INFO
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/lowercase_definition">lowercase_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000198
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                single molecule real time sequencing data is DNA sequence data generated from parallelized single molecule DNA sequencing method.@en
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-info">
+            <td>67</td>
+            
+              <td>
+              
+                INFO
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/lowercase_definition">lowercase_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000216
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                a sequence alignment which align every residue in every sequence@en
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-info">
+            <td>68</td>
+            
+              <td>
+              
+                INFO
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/lowercase_definition">lowercase_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000217
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                a sequence alignment which align dissimilar sequences that are suspected to contain regions of similarity or similar sequence motifs within their larger sequence context
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-info">
+            <td>69</td>
+            
+              <td>
+              
+                INFO
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/lowercase_definition">lowercase_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000219
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                a sequence alignment bioinformatics analysis which identify regions of similarity that may indicate functional, structural and/or evolutionary relationships between two biological sequences (protein or nucleic acid)
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-info">
+            <td>70</td>
+            
+              <td>
+              
+                INFO
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/lowercase_definition">lowercase_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000227
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                a symbol that is used to specify options for command line programs.
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-info">
+            <td>71</td>
+            
+              <td>
+              
+                INFO
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/lowercase_definition">lowercase_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000232
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                a planned process which ensure data have undergone data cleansing to ensure they have data quality, that is, that they are both correct and useful.
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-info">
+            <td>72</td>
+            
+              <td>
+              
+                INFO
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/lowercase_definition">lowercase_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000235
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                data validating whech validate sequencing quality scores and measure the probability that a base is called incorrectly.
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-info">
+            <td>73</td>
+            
+              <td>
+              
+                INFO
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/lowercase_definition">lowercase_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000236
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                processed material which contain a set of articles or equipment needed for a specific purpose.
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-info">
+            <td>74</td>
+            
+              <td>
+              
+                INFO
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/lowercase_definition">lowercase_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000246
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                data file URL is URL relative to a path variable, where file is stored
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-info">
+            <td>75</td>
+            
+              <td>
+              
+                INFO
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/lowercase_definition">lowercase_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000248
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                database is an information content entity that describe a structured set of data held in a computer, especially one that is accessible in various ways.@en
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-info">
+            <td>76</td>
+            
+              <td>
+              
+                INFO
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/lowercase_definition">lowercase_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000259
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                data item that represent sort of archive that contains one or more files that have been reduced in size through file compression process@en
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-info">
+            <td>77</td>
+            
+              <td>
+              
+                INFO
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/lowercase_definition">lowercase_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000259
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                <a href="https://support.microsoft.com/en-us/windows/zip-and-unzip-files-8d28fa72-f2f9-712f-67df-f80cf89fd4e5@en
+">inferred from https://support.microsoft.com/en-us/windows/zip-and-unzip-files-8d28fa72-f2f9-712f-67df-f80cf89fd4e5@en
+</a>
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-info">
+            <td>78</td>
+            
+              <td>
+              
+                INFO
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/lowercase_definition">lowercase_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000270
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                molecular quality that describe changes in copy number that have arisen in somatic tissues.
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-info">
+            <td>79</td>
+            
+              <td>
+              
+                INFO
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/lowercase_definition">lowercase_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000276
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                a protocol plan specification which describes the process of generating a collection of DNA fragments for sequencing
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-info">
+            <td>80</td>
+            
+              <td>
+              
+                INFO
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/lowercase_definition">lowercase_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000283
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                specimen that is divided into separate parts which are typically stored in separate containers as individual samples
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-info">
+            <td>81</td>
+            
+              <td>
+              
+                INFO
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/lowercase_definition">lowercase_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000286
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                a protocol that ensure that biospecimens can be tracked accurately from the collection site through biospecimen arrival and subsequent
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-info">
+            <td>82</td>
+            
+              <td>
+              
+                INFO
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/lowercase_definition">lowercase_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000292
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                version number denotes standard operating procedure
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-info">
+            <td>83</td>
+            
+              <td>
+              
+                INFO
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/lowercase_definition">lowercase_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000293
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                unique SOP name which captures the essence of the practice described.
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-info">
+            <td>84</td>
+            
+              <td>
+              
+                INFO
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/lowercase_definition">lowercase_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000298
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                planned process with the objective to destroy an entire collection or specific specimen.
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-info">
+            <td>85</td>
+            
+              <td>
+              
+                INFO
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/lowercase_definition">lowercase_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000299
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                specimen culling is the process of reviewing and eliminating specimens in a collection or an entire collection either by destruction or transfer to a new custodian
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-info">
+            <td>86</td>
+            
+              <td>
+              
+                INFO
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/lowercase_definition">lowercase_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000306
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                a clinical variant interpretation that represents a sequence variant that is previously unreported and is probably not causative of disease
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-info">
+            <td>87</td>
+            
+              <td>
+              
+                INFO
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/lowercase_definition">lowercase_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000307
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                a clinical variant interpretation that represents a sequence variant previously classified or reported as a recognized neutral variant
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-info">
+            <td>88</td>
+            
+              <td>
+              
+                INFO
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/lowercase_definition">lowercase_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000320
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                data item which indicates availability of specimen associated data@en
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-info">
+            <td>89</td>
+            
+              <td>
+              
+                INFO
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/lowercase_definition">lowercase_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000360
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                a protocol which describes the process of attaching synthetic oligonucleotides with known sequences to both or either ends of complementary DNA (cDNA) fragments as a prepration for sequencing@en
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-info">
+            <td>90</td>
+            
+              <td>
+              
+                INFO
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/lowercase_definition">lowercase_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000362
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                a protocol which describe the process of validation of known variant
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-info">
+            <td>91</td>
+            
+              <td>
+              
+                INFO
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/lowercase_definition">lowercase_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000364
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                a protocol which describes the process of Allele-specific polymerase chain reaction (PCR)@en
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-info">
+            <td>92</td>
+            
+              <td>
+              
+                INFO
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/lowercase_definition">lowercase_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000394
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                an objective specification to determine attaching synthetic oligonucleotides with known sequences to both or either ends of complementary DNA (cDNA) fragments
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-info">
+            <td>93</td>
+            
+              <td>
+              
+                INFO
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/lowercase_definition">lowercase_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000395
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                a protocol which describes the workflow to capture specific regions of interest after library preparation for NGS and has many advantages over whole genome sequencing (WGS).
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-info">
+            <td>94</td>
+            
+              <td>
+              
+                INFO
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/lowercase_definition">lowercase_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000397
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                data item that which represent information about subset of genes or specific regions of interest of the genome.
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-info">
+            <td>95</td>
+            
+              <td>
+              
+                INFO
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/lowercase_definition">lowercase_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000407
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                data file which contain the output of data transformation process
+
+              
+              </td>
+            
+          </tr>
+        
+          
+          
+            
+          
+          <tr class="table-info">
+            <td>96</td>
+            
+              <td>
+              
+                INFO
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://robot.obolibrary.org/report_queries/lowercase_definition">lowercase_definition</a>
+              
+              </td>
+            
+              <td>
+              
+                obo:NGBO_6000408
+              
+              </td>
+            
+              <td>
+              
+                <a href="http://purl.obolibrary.org/obo/IAO_0000115">IAO:0000115</a>
+              
+              </td>
+            
+              <td>
+              
+                data file which contain the input for data transformation process
 
               
               </td>
