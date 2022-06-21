@@ -102,7 +102,7 @@ ontologies:
         label: CC BY 4.0
       repository: https://github.com/Fraunhofer-SCAI-Applied-Semantics/ADO
       preferredPrefix: ADO
-      mirror_from: https://raw.githubusercontent.com/Fraunhofer-SCAI-Applied-Semantics/ADO/main/Releases/2.0.0/ADO.owl
+      mirror_from: https://raw.githubusercontent.com/Fraunhofer-SCAI-Applied-Semantics/ADO/main/Releases/2022-06-11/ADO.owl
     - id: vbo
       mirror_from: https://raw.githubusercontent.com/monarch-initiative/vertebrate-breed-ontology/master/vbo.owl
       title: Vertebrate Breed Ontology

@@ -3,7 +3,7 @@ base_prefixes:
 - CBO
 - CBOALT
 changed: true
-date: 2022-06-19 18:02:43.042825
+date: 2022-06-21 16:50:48.474835
 metrics:
   'Axioms: Breakdown of axiom types':
     AnnotationAssertion: 1319
