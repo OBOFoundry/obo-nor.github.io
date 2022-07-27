@@ -1,97 +1,23 @@
 Level	Rule Name	Subject	Property	Value
-ERROR	missing_label	obo:NGBO_6000337	rdfs:label	
 ERROR	missing_ontology_license	http://purl.obolibrary.org/obo/ngbo.owl	dc:license	
-ERROR	multiple_definitions	obo:NGBO_6000004	IAO:0000115	A file format which represent represent the format of a text file used in bioinformatics for storing gene sequence variations
-ERROR	multiple_definitions	obo:NGBO_6000004	IAO:0000115	inferred from https://en.wikipedia.org/wiki/Variant_Call_Format
-ERROR	multiple_definitions	obo:NGBO_6000259	IAO:0000115	data item that represent sort of archive that contains one or more files that have been reduced in size through file compression process@en
-ERROR	multiple_definitions	obo:NGBO_6000259	IAO:0000115	inferred from https://support.microsoft.com/en-us/windows/zip-and-unzip-files-8d28fa72-f2f9-712f-67df-f80cf89fd4e5@en
-WARN	equivalent_class_axiom_no_genus	obo:NGBO_6000358	BFO:0000054	obo:NGBO_6000323
-WARN	missing_definition	obo:NGBO_0000035	IAO:0000115	
-WARN	missing_definition	obo:NGBO_0000036	IAO:0000115	
-WARN	missing_definition	obo:NGBO_0000037	IAO:0000115	
-WARN	missing_definition	obo:NGBO_0000054	IAO:0000115	
-WARN	missing_definition	obo:NGBO_0000055	IAO:0000115	
-WARN	missing_definition	obo:NGBO_0000056	IAO:0000115	
-WARN	missing_definition	obo:NGBO_0000057	IAO:0000115	
-WARN	missing_definition	obo:NGBO_0000058	IAO:0000115	
-WARN	missing_definition	obo:NGBO_0000059	IAO:0000115	
-WARN	missing_definition	obo:NGBO_0000060	IAO:0000115	
-WARN	missing_definition	obo:NGBO_0000061	IAO:0000115	
-WARN	missing_definition	obo:NGBO_0000062	IAO:0000115	
-WARN	missing_definition	obo:NGBO_0000063	IAO:0000115	
-WARN	missing_definition	obo:NGBO_0000064	IAO:0000115	
-WARN	missing_definition	obo:NGBO_0000065	IAO:0000115	
-WARN	missing_definition	obo:NGBO_0000066	IAO:0000115	
-WARN	missing_definition	obo:NGBO_0000067	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6000009	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6000029	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6000057	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6000089	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6000103	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6000139	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6000161	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6000200	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6000233	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6000249	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6000250	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6000273	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6000302	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6000303	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6000304	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6000305	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6000337	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6000354	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6000358	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6000365	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6000377	IAO:0000115	
 WARN	missing_definition	obo:NGBO_6000380	IAO:0000115	
 WARN	missing_definition	obo:NGBO_6000381	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6000399	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6000409	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6000410	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6000411	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6000412	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6000413	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6000626	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6000689	IAO:0000115	
+WARN	missing_definition	obo:NGBO_6000414	IAO:0000115	
+WARN	missing_definition	obo:NGBO_6000417	IAO:0000115	
+WARN	missing_definition	obo:NGBO_6000418	IAO:0000115	
 WARN	missing_definition	obo:NGBO_6000690	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6000691	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6000692	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6000693	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6005731	IAO:0000115	
-INFO	lowercase_definition	obo:NGBO_6000004	IAO:0000115	inferred from https://en.wikipedia.org/wiki/Variant_Call_Format
-INFO	lowercase_definition	obo:NGBO_6000092	IAO:0000115	a document which represent a contract that governs the transfer of tangible research materials between two organizations, when the recipient intends to use it for his or her own research purposes.
-INFO	lowercase_definition	obo:NGBO_6000123	IAO:0000115	gene expression level analysis is a bioinformatics analysis that compares the RNA expression levels of multiple genes (profiling) and/or multiple samples (screening)
-INFO	lowercase_definition	obo:NGBO_6000157	IAO:0000115	a specimen that derives from an organism and might contain infectious materials.
-INFO	lowercase_definition	obo:NGBO_6000181	IAO:0000115	a bioinformatics analysis that produces data structure that improves the speed of data retrieval operations on a database table at the cost of additional writes and storage space to maintain the index data structure
-INFO	lowercase_definition	obo:NGBO_6000198	IAO:0000115	single molecule real time sequencing data is DNA sequence data generated from parallelized single molecule DNA sequencing method.@en
-INFO	lowercase_definition	obo:NGBO_6000216	IAO:0000115	a sequence alignment which align every residue in every sequence@en
-INFO	lowercase_definition	obo:NGBO_6000217	IAO:0000115	a sequence alignment which align dissimilar sequences that are suspected to contain regions of similarity or similar sequence motifs within their larger sequence context
-INFO	lowercase_definition	obo:NGBO_6000219	IAO:0000115	a sequence alignment bioinformatics analysis which identify regions of similarity that may indicate functional, structural and/or evolutionary relationships between two biological sequences (protein or nucleic acid)
+INFO	lowercase_definition	obo:NGBO_6000009	IAO:0000115	fixed tissue slide specimen that is contain unstained tissue section(s)
+INFO	lowercase_definition	obo:NGBO_6000029	IAO:0000115	standard operating procedure for shipping and receiving of sample
+INFO	lowercase_definition	obo:NGBO_6000057	IAO:0000115	reference genome datum which represent reference genome edition
+INFO	lowercase_definition	obo:NGBO_6000103	IAO:0000115	a one-dimensional temporal region that is a period of an duration of standard operation procedure
+INFO	lowercase_definition	obo:NGBO_6000161	IAO:0000115	a data item infromation content entity that represent any data that could potentially identify a specific individual. Any information that can be used to distinguish one person from another and can be used for de-anonymizing anonymous data can be considered PII.
 INFO	lowercase_definition	obo:NGBO_6000227	IAO:0000115	a symbol that is used to specify options for command line programs.
-INFO	lowercase_definition	obo:NGBO_6000232	IAO:0000115	a planned process which ensure data have undergone data cleansing to ensure they have data quality, that is, that they are both correct and useful.
-INFO	lowercase_definition	obo:NGBO_6000235	IAO:0000115	data validating whech validate sequencing quality scores and measure the probability that a base is called incorrectly.
-INFO	lowercase_definition	obo:NGBO_6000236	IAO:0000115	processed material which contain a set of articles or equipment needed for a specific purpose.
-INFO	lowercase_definition	obo:NGBO_6000246	IAO:0000115	data file URL is URL relative to a path variable, where file is stored
-INFO	lowercase_definition	obo:NGBO_6000248	IAO:0000115	database is an information content entity that describe a structured set of data held in a computer, especially one that is accessible in various ways.@en
-INFO	lowercase_definition	obo:NGBO_6000259	IAO:0000115	data item that represent sort of archive that contains one or more files that have been reduced in size through file compression process@en
-INFO	lowercase_definition	obo:NGBO_6000259	IAO:0000115	inferred from https://support.microsoft.com/en-us/windows/zip-and-unzip-files-8d28fa72-f2f9-712f-67df-f80cf89fd4e5@en
-INFO	lowercase_definition	obo:NGBO_6000270	IAO:0000115	molecular quality that describe changes in copy number that have arisen in somatic tissues.
-INFO	lowercase_definition	obo:NGBO_6000276	IAO:0000115	a protocol plan specification which describes the process of generating a collection of DNA fragments for sequencing
-INFO	lowercase_definition	obo:NGBO_6000283	IAO:0000115	specimen that is divided into separate parts which are typically stored in separate containers as individual samples
-INFO	lowercase_definition	obo:NGBO_6000286	IAO:0000115	a protocol that ensure that biospecimens can be tracked accurately from the collection site through biospecimen arrival and subsequent
-INFO	lowercase_definition	obo:NGBO_6000292	IAO:0000115	version number denotes standard operating procedure
-INFO	lowercase_definition	obo:NGBO_6000293	IAO:0000115	unique SOP name which captures the essence of the practice described.
-INFO	lowercase_definition	obo:NGBO_6000298	IAO:0000115	planned process with the objective to destroy an entire collection or specific specimen.
-INFO	lowercase_definition	obo:NGBO_6000299	IAO:0000115	specimen culling is the process of reviewing and eliminating specimens in a collection or an entire collection either by destruction or transfer to a new custodian
-INFO	lowercase_definition	obo:NGBO_6000306	IAO:0000115	a clinical variant interpretation that represents a sequence variant that is previously unreported and is probably not causative of disease
-INFO	lowercase_definition	obo:NGBO_6000307	IAO:0000115	a clinical variant interpretation that represents a sequence variant previously classified or reported as a recognized neutral variant
-INFO	lowercase_definition	obo:NGBO_6000320	IAO:0000115	data item which indicates availability of specimen associated data@en
-INFO	lowercase_definition	obo:NGBO_6000360	IAO:0000115	a protocol which describes the process of attaching synthetic oligonucleotides with known sequences to both or either ends of complementary DNA (cDNA) fragments as a prepration for sequencing@en
-INFO	lowercase_definition	obo:NGBO_6000362	IAO:0000115	a protocol which describe the process of validation of known variant
-INFO	lowercase_definition	obo:NGBO_6000364	IAO:0000115	a protocol which describes the process of Allele-specific polymerase chain reaction (PCR)@en
-INFO	lowercase_definition	obo:NGBO_6000394	IAO:0000115	an objective specification to determine attaching synthetic oligonucleotides with known sequences to both or either ends of complementary DNA (cDNA) fragments
-INFO	lowercase_definition	obo:NGBO_6000395	IAO:0000115	a protocol which describes the workflow to capture specific regions of interest after library preparation for NGS and has many advantages over whole genome sequencing (WGS).
-INFO	lowercase_definition	obo:NGBO_6000397	IAO:0000115	data item that which represent information about subset of genes or specific regions of interest of the genome.
-INFO	lowercase_definition	obo:NGBO_6000407	IAO:0000115	data file which contain the output of data transformation process
-INFO	lowercase_definition	obo:NGBO_6000408	IAO:0000115	data file which contain the input for data transformation process
+INFO	lowercase_definition	obo:NGBO_6000233	IAO:0000115	format validation is a process that checks that the data is in a specified format (template), e.g., dates have to be in the format DD/ MM/YYYY is correct
+INFO	lowercase_definition	obo:NGBO_6000273	IAO:0000115	a protocol plan specification which describes the process of data transfer between two entities
+INFO	lowercase_definition	obo:NGBO_6000303	IAO:0000115	a clinical variant interpretation that represents a sequence variant that is previously reported and is a recognized cause of the disorder.
+INFO	lowercase_definition	obo:NGBO_6000304	IAO:0000115	a clinical variant interpretation that represents a sequence variant that is previously unreported and is of the type which is expected to cause the disorder.
+INFO	lowercase_definition	obo:NGBO_6000305	IAO:0000115	a clinical variant interpretation that represents a sequence variant that is previously unreported and is of the type which may or may not be causative of the disorder.
+INFO	lowercase_definition	obo:NGBO_6000354	IAO:0000115	a protocol that describe the process of assigning a formal classification to the detected variant@en
+INFO	lowercase_definition	obo:NGBO_6000365	IAO:0000115	a protocol plan specification which describes the process of  reducing the likelihood that the data can identify an individual.@en
+INFO	lowercase_definition	obo:NGBO_6000399	IAO:0000115	an information content entity that is about the location of data storage
+INFO	lowercase_definition	obo:NGBO_6000689	IAO:0000115	information content entity about user information

@@ -32,36 +32,6 @@ ontologies:
   #registry: "https://raw.githubusercontent.com/OBOFoundry/OBOFoundry.github.io/master/registry/ontologies.yml"
   #todo, deal with: bto chebi dron gaz ncbitaxon ncit pr uberon
   custom:
-    - id: proco
-      title: "PROCO: Ontology of Process Chemistry"
-      mirror_from: "https://raw.githubusercontent.com/proco-ontology/PROCO/main/src/ontology/proco.owl"
-      contact:
-        email: wes_schafer@merck.com
-        label: Wes Schafer
-        github: schaferw
-        orcid: 0000-0002-8786-1756
-      description: OPC covers process chemistry, the chemical field concerned with scaling up laboratory syntheses to commercially viable processes.
-      domain: process chemistry
-      homepage: https://github.com/proco-ontology/PROCO
-      products:
-        - id: proco.owl
-        - id: proco.obo
-      dependencies:
-        - id: ro
-        - id: obi
-        - id: chebi
-        - id: pato
-        - id: cheminf
-        - id: sbo
-      tracker: https://github.com/proco-ontology/PROCO/issues
-      license:
-        url: https://creativecommons.org/licenses/by/4.0/
-        label: CC BY 4.0
-      usages:
-        - user: Merck & Co.
-          description: pharmaceutical API development
-        - user: Allotrope
-          description: important domain in pharmaceutical industry
     - id: mcro
       mirror_from: https://raw.githubusercontent.com/UTHealth-Ontology/MCRO/main/mcro.owl
       title: "Model Card Report Ontology"
@@ -128,7 +98,7 @@ ontologies:
         - id: vbo/vbo-base.json
           name: "Vertebrate Breed Ontology additional release in OBOJSon format"
       dependencies:
-      - id: ncbitaxon
+        - id: ncbitaxon
       tracker: https://github.com/monarch-initiative/vertebrate-breed-ontology/issues
       license:
         url: https://creativecommons.org/licenses/by/4.0/
@@ -196,67 +166,6 @@ ontologies:
       repository: https://github.com/SCAI-BIO/schizophrenia-ontology
       preferredPrefix: SCHO
       mirror_from: https://raw.githubusercontent.com/SCAI-BIO/schizophrenia-ontology/main/releases/1.0.0/SCHO.owl
-    - id: gombo
-      mirror_from: "https://raw.githubusercontent.com/BridgetSquidget/gombo/main/gombo_v1.owx"
-      title: General Ontology for Marine Bioluminescent Organs
-      contact:
-        email: bridget.vincent@lifesci.ucsb.edu
-        label: Bridget Vincent
-        description: An ontology describing the structures in the bioluminescent components of marine animals.
-      domain: anatomy
-      homepage: https://github.com/BridgetSquidget/gombo/blob/main/gombo_v1.owx
-      products:
-        - id: gombo.owl
-        - id: gombo.obo
-      dependencies:
-        - id: uberon
-        - id: afm
-        - id: cl
-        - id: ncit
-        - id: fma
-        - id: spd
-        - id: zfa
-        - id: plana
-        - id: go
-        - id: chebi
-        - id: ms
-        - id: bao
-        - id: ogi
-        - id: scdo
-        - id: so
-        - id: pr
-        - id: obi
-        - id: txpo
-        - id: xco
-        - id: mod
-        - id: nbitaxon
-        - id: ceph
-        - id: xao
-        - id: emapa
-        - id: aeo
-        - id: mc
-        - id: mpath
-      tracker: https://github.com/BridgetSquidget/gombo/issues
-      license:
-        url: https://creativecommons.org/licenses/by/4.0/
-        label: CC BY 4.0
-    - id: cbo
-      mirror_from: "http://cbo.biocomplexity.indiana.edu/svn/cbo/trunk/CBO.owl"
-      title: The Cell Behavior Ontology
-      contact:
-        email: jsluka@iu.edu
-        label: James Sluka
-      description: The Cell Behavior Ontology (CBO) is designed to describe multi-cell computational models. In particular to describe both the existential behaviors of cells (spatiality, growth, movement, adhesion, death, ...) and computational models of those behaviors.
-      domain: Multicell modeling
-      homepage: https://cbo.biocomplexity.indiana.edu/
-      products:
-        - id: cbo.owl
-        - id: cbo.obo
-      dependencies:
-        - id: ro
-      license:
-        url: https://creativecommons.org/licenses/by/3.0/
-        label: CC BY 4.0
     - id: t4fs
       mirror_from: "https://raw.githubusercontent.com/terms4fairskills/FAIRterminology/obo-foundry-updates/development/t4fs.owl"
       title: terms4FAIRskills

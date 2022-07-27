@@ -1,6 +1,4 @@
 IRI	Label	Issue
-http://purl.obolibrary.org/obo/NGBO_6000249	has_version	not an RO property
-http://purl.obolibrary.org/obo/NGBO_6000250	is_version_of	not an RO property
 http://purl.obolibrary.org/obo/NGBO_6000380	trace_from	not an RO property
 http://purl.obolibrary.org/obo/NGBO_6000381	track_to	not an RO property
 http://purl.obolibrary.org/obo/NGBO_6000690	useremailid	not an RO property
