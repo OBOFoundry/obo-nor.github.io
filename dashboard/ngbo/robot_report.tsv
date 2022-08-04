@@ -1,23 +1,7 @@
 Level	Rule Name	Subject	Property	Value
+ERROR	missing_ontology_description	http://purl.obolibrary.org/obo/ngbo.owl	dc:description	
 ERROR	missing_ontology_license	http://purl.obolibrary.org/obo/ngbo.owl	dc:license	
-WARN	missing_definition	obo:NGBO_6000380	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6000381	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6000414	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6000417	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6000418	IAO:0000115	
-WARN	missing_definition	obo:NGBO_6000690	IAO:0000115	
-INFO	lowercase_definition	obo:NGBO_6000009	IAO:0000115	fixed tissue slide specimen that is contain unstained tissue section(s)
-INFO	lowercase_definition	obo:NGBO_6000029	IAO:0000115	standard operating procedure for shipping and receiving of sample
-INFO	lowercase_definition	obo:NGBO_6000057	IAO:0000115	reference genome datum which represent reference genome edition
-INFO	lowercase_definition	obo:NGBO_6000103	IAO:0000115	a one-dimensional temporal region that is a period of an duration of standard operation procedure
-INFO	lowercase_definition	obo:NGBO_6000161	IAO:0000115	a data item infromation content entity that represent any data that could potentially identify a specific individual. Any information that can be used to distinguish one person from another and can be used for de-anonymizing anonymous data can be considered PII.
-INFO	lowercase_definition	obo:NGBO_6000227	IAO:0000115	a symbol that is used to specify options for command line programs.
-INFO	lowercase_definition	obo:NGBO_6000233	IAO:0000115	format validation is a process that checks that the data is in a specified format (template), e.g., dates have to be in the format DD/ MM/YYYY is correct
-INFO	lowercase_definition	obo:NGBO_6000273	IAO:0000115	a protocol plan specification which describes the process of data transfer between two entities
-INFO	lowercase_definition	obo:NGBO_6000303	IAO:0000115	a clinical variant interpretation that represents a sequence variant that is previously reported and is a recognized cause of the disorder.
-INFO	lowercase_definition	obo:NGBO_6000304	IAO:0000115	a clinical variant interpretation that represents a sequence variant that is previously unreported and is of the type which is expected to cause the disorder.
-INFO	lowercase_definition	obo:NGBO_6000305	IAO:0000115	a clinical variant interpretation that represents a sequence variant that is previously unreported and is of the type which may or may not be causative of the disorder.
+ERROR	missing_ontology_title	http://purl.obolibrary.org/obo/ngbo.owl	dc:title	
 INFO	lowercase_definition	obo:NGBO_6000354	IAO:0000115	a protocol that describe the process of assigning a formal classification to the detected variant@en
-INFO	lowercase_definition	obo:NGBO_6000365	IAO:0000115	a protocol plan specification which describes the process of  reducing the likelihood that the data can identify an individual.@en
-INFO	lowercase_definition	obo:NGBO_6000399	IAO:0000115	an information content entity that is about the location of data storage
-INFO	lowercase_definition	obo:NGBO_6000689	IAO:0000115	information content entity about user information
+INFO	lowercase_definition	obo:NGBO_6000380	IAO:0000115	a relation that is used to follow traceability of specimen activity
+INFO	lowercase_definition	obo:NGBO_6000381	IAO:0000115	a relation that is used to track specimen activity

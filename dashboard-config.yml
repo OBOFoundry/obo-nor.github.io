@@ -52,27 +52,6 @@ ontologies:
       license:
         url: https://creativecommons.org/licenses/by/3.0/
         label: CC BY 3.0
-    - id: ado
-      title: Alzheimer's Disease Ontology
-      contact:
-        email: alpha.tom.kodamullil@scai.fraunhofer.de
-        label: Alpha Tom Kodamullil
-        github: akodamullil
-        orcid: 0000-0001-9896-3531
-      description: Alzheimer's Disease Ontology is a knowledge-based ontology that encompasses varieties of concepts related to Alzheimer'S Disease, foundamentally structured by upper level Basic Formal Ontology(BFO). This Ontology is enriched by the interrelational entities that demonstrate the nextwork of the understanding on Alzheimer's disease and can be readily applied for text mining.
-      domain: health
-      homepage: https://github.com/Fraunhofer-SCAI-Applied-Semantics/ADO
-      products:
-        - id: ado.owl
-      dependencies:
-        - id: bfo
-      tracker: https://github.com/Fraunhofer-SCAI-Applied-Semantics/ADO/issues
-      license:
-        url: https://creativecommons.org/licenses/by/4.0/
-        label: CC BY 4.0
-      repository: https://github.com/Fraunhofer-SCAI-Applied-Semantics/ADO
-      preferredPrefix: ADO
-      mirror_from: https://raw.githubusercontent.com/Fraunhofer-SCAI-Applied-Semantics/ADO/main/Releases/2022-06-11/ADO.owl
     - id: vbo
       mirror_from: https://raw.githubusercontent.com/monarch-initiative/vertebrate-breed-ontology/master/vbo.owl
       title: Vertebrate Breed Ontology
@@ -127,24 +106,24 @@ ontologies:
       preferredPrefix: BPDO
       mirror_from: https://raw.githubusercontent.com/SCAI-BIO/bipolar-disorder-ontology/main/releases/1.0.0/BPDO.owl
     - id: ngbo
-      mirror_from: https://raw.githubusercontent.com/Dalalghamdi/NGBO/master/src/ontology/ngbo.owl
+      mirror_from: https://raw.githubusercontent.com/Dalalghamdi/NGBO/master/ngbo.owl
       title: Next generation biobanking ontology
       contact:
         email: dal.alghamdi92@gmail.com
         label: Dalia Alghamdi
-      description: 
-      The ontology focuses on capturing the information about three main omics data generation activities: wet bench analysis used to generate omics data, bioinformatics analysis used to analyze and interpret data, and data management.
-      domain: biobanking ontology
+        github: dalalghamdi
+        orcid: 
+      description: "The Next Generation Biobanking Ontology (NGBO) is an open application ontology representing contextual data about omics digital assets in biobank. The ontology focuses on capturing the information about three main activities: wet bench analysis used to generate omics data, bioinformatics analysis used to analyze and interpret data, and data management."
+      domain: biobanking
       homepage: https://github.com/Dalalghamdi/NGBO
       products:
         - id: ngbo.owl
-        - id: ngbo.obo
       dependencies:
         - id: ro
       tracker: https://github.com/Dalalghamdi/NGBO/issues
       license:
-        url: https://creativecommons.org/licenses/by/3.0/
-        label: CC-BY 3.0
+        url: http://creativecommons.org/licenses/by/4.0/
+        label: CC BY 4.0
     - id: scho
       title: Schizophrenia Ontology
       contact:
