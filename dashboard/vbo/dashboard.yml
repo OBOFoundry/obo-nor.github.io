@@ -3,7 +3,7 @@ base_prefixes:
 - VBO
 - VBOALT
 changed: true
-date: 2022-08-04 10:21:24.048921
+date: 2022-08-15 09:08:24.273086
 metrics:
   'Axioms: Breakdown of axiom types':
     AnnotationAssertion: 81411
