@@ -15,9 +15,9 @@ jobs:
       - name: Print some stuff
         run: echo $PWD && pwd && ls / && ls
       - name: Prepare run
-        run:  cp dashboard-config.yml /tools/OBO-Dashboard/dashboard-config.yml && cp Makefile /work/Makefile && cp -r sparql/ /tools/OBO-Dashboard/sparql
+        run:  cp dashboard-config.yml /tools/OBO-Dashboard/dashboard-config.yml && cp -r sparql/ /tools/OBO-Dashboard/sparql
       - name: Run dashboard
-        run: cd /work && mkdir -p dashboard ontologies && make run_dashboard
+        run: mkdir -p dashboard ontologies && obodash -C dashboard-config.yml
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
         with:
