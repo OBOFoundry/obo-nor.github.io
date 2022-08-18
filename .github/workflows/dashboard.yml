@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout main branch
         uses: actions/checkout@v2
+      - name: Print some stuff
+        run: echo $PWD && pwd && ls / && ls
       - name: Prepare run
         run:  cp dashboard-config.yml /tools/OBO-Dashboard/dashboard-config.yml && cp Makefile /work/Makefile && cp -r sparql/ /tools/OBO-Dashboard/sparql
       - name: Run dashboard
