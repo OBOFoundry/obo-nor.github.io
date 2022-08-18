@@ -1,0 +1,24 @@
+name: Run Dashboard
+on:
+  workflow_dispatch:
+  #schedule:
+  #  - cron: "0 13 * * 1"
+jobs:
+  diff:
+    runs-on: ubuntu-latest
+    container: obolibrary/odkfull:v1.3.1
+    strategy:
+      max-parallel: 1
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v2
+      - name: Run dashboard
+        run: rm -rf dashboard ontologies && mkdir -p dashboard ontologies && make run_dashboard
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          commit-message: Update dashboard run
+          title: 'Update dashboard run'
+          body: |
+            Updates the OBO NOR dashboard
+          assignees: matentzn
