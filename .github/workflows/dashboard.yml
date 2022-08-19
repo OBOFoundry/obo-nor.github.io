@@ -1,6 +1,7 @@
 name: Run Dashboard
 on:
-  workflow_dispatch:
+  push:
+    branches: [ master ]
   #schedule:
   #  - cron: "0 13 * * 1"
 jobs:
@@ -23,7 +24,7 @@ jobs:
       - name: Copy results
         run: cp -r /tools/OBO-Dashboard/dashboard/* dashboard/ &&  cp -r /tools/OBO-Dashboard/build/ontologies/* ontologies/
       - name: Check directory contents
-        run:  ls dashboard
+        run:  ls dashboard && git status
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
         with:
