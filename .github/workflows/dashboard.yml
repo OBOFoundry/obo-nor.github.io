@@ -5,14 +5,14 @@ on:
   #schedule:
   #  - cron: "0 13 * * 1"
 jobs:
-  dashboard:
+    dashboard:
     runs-on: ubuntu-latest
     container: obolibrary/odkfull:v1.3.1
     strategy:
       max-parallel: 1
     steps:
       - name: Checkout main branch
-        uses: actions/checkout@v3
+        uses: actions/checkout@v2
       - name: Clean directories
         run: rm -rf dashboard ontologies && mkdir -p dashboard ontologies
       - name: Prepare run
@@ -32,7 +32,7 @@ jobs:
             echo "$file was changed"
           done
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v4
+        uses: peter-evans/create-pull-request@v3
         with:
           commit-message: Update dashboard run
           title: 'Update dashboard run'
