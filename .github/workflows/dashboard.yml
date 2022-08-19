@@ -13,13 +13,13 @@ jobs:
       - name: Checkout main branch
         uses: actions/checkout@v2
       - name: Clean directories
-        run: rm -rf dashboard ontologies
+        run: rm -rf dashboard ontologies && mkdir -p dashboard ontologies
       - name: Prepare run
         run:  cp dashboard-config.yml /tools/OBO-Dashboard/dashboard-config.yml && cp -r sparql/ /tools/OBO-Dashboard/sparql
       - name: Run dashboard
-        run: mkdir -p dashboard ontologies && obodash -C dashboard-config.yml
+        run: obodash -C dashboard-config.yml
       - name: Copy results
-        run: cp -r /tools/OBO-Dashboard/dashboard/* dashboard/ &&  cp -r /tools/OBO-Dashboard/ontologies/* ontologies/
+        run: cp -r /tools/OBO-Dashboard/dashboard/* dashboard/ &&  cp -r /tools/OBO-Dashboard/build/ontologies/* ontologies/
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
         with:
