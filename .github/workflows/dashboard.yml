@@ -2,8 +2,11 @@ name: Run Dashboard
 on:
   push:
     branches: [ master ]
-  #schedule:
-  #  - cron: "0 13 * * 1"
+    paths:
+      - 'dashboard-config.yml'
+      - 'Makefile'
+  schedule:
+    - cron: "0 13 * * 1"
 jobs:
   dashboard:
     runs-on: ubuntu-latest
