@@ -13,11 +13,13 @@ jobs:
       - name: Checkout main branch
         uses: actions/checkout@v2
       - name: Print some stuff
-        run: echo $PWD && pwd && ls / && ls
+        run: pwd
       - name: Prepare run
         run:  cp dashboard-config.yml /tools/OBO-Dashboard/dashboard-config.yml && cp -r sparql/ /tools/OBO-Dashboard/sparql
       - name: Run dashboard
-        run: mkdir -p dashboard ontologies && obodash -C dashboard-config.yml
+        run: mkdir -p dashboard ontologies && obodash -C dashboard-config.yml && pwd
+      - name: Print some stuff 2
+        run: pwd
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
         with:
