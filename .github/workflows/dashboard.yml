@@ -25,7 +25,6 @@ jobs:
         uses: peter-evans/create-pull-request@v4
         with:
           commit-message: Update dashboard run
-          branch: master
           title: 'Update dashboard run'
           body: |
             Updates the OBO NOR dashboard
