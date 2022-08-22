@@ -3,7 +3,7 @@ base_prefixes:
 - T4FS
 - T4FSALT
 changed: true
-date: 2022-08-19 19:25:24.321558
+date: 2022-08-22 13:38:27.099163
 metrics:
   'Axioms: Breakdown of axiom types':
     AnnotationAssertion: 1875
