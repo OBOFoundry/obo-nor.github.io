@@ -29,7 +29,7 @@ ontologies:
   - BPDO
   - BPDOALT
   changed: true
-  date: 2022-08-22 13:38:09.746657
+  date: 2022-08-29 13:36:35.477213
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 15490
@@ -162,7 +162,7 @@ ontologies:
   - MCRO
   - MCROALT
   changed: true
-  date: 2022-08-22 13:36:55.037401
+  date: 2022-08-29 13:35:22.049278
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 5352
@@ -297,7 +297,7 @@ ontologies:
   - NGBO
   - NGBOALT
   changed: true
-  date: 2022-08-22 13:38:14.603935
+  date: 2022-08-29 13:36:41.167786
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 8103
@@ -336,12 +336,12 @@ ontologies:
       ObjectUnionOf: 9
     'Info: Does the ontology fall under OWL 2 DL?': true
     'Info: Experimental OBO score':
-      _dashboard: 0.571
+      _dashboard: 0.638
       _formula: (1*impact+1*dashboard)/2
       _impact: 0.0
       _impact_external: 0
       _reuse: 1.0
-      oboscore: 0.285
+      oboscore: 0.319
     'Info: How many externally documented uses?': 0
     'Info: How many ontologies use it?': 0
     'Info: Logical consistency': true
@@ -396,9 +396,7 @@ ontologies:
     FP02 Common Format:
       status: PASS
     FP03 URIs:
-      comment: 0 invalid IRIs. The Ontology IRI is not valid.
-      file: fp3
-      status: ERROR
+      status: PASS
     FP04 Versioning:
       status: PASS
     FP05 Scope:
@@ -432,12 +430,12 @@ ontologies:
         INFO: 3
         WARN: 0
       status: ERROR
-  sha256_hash: 9a985fb47103a86bce44a2910bc7ce54bf5c73fb1485dd7d498be9305535c9de
+  sha256_hash: 630bc73e736d9549f474edd5645e438c0d5e030c56ce9659b07f579d9dfd6ee5
   summary:
-    comment: 5 errors
+    comment: 4 errors
     status: ERROR
     summary_count:
-      ERROR: 5
+      ERROR: 4
       INFO: 1
       WARN: 1
   version: http://purl.obolibrary.org/obo/ngbo/2020-08-01/ngbo.owl
@@ -448,7 +446,7 @@ ontologies:
   - T4FS
   - T4FSALT
   changed: true
-  date: 2022-08-22 13:38:27.099163
+  date: 2022-08-29 13:36:48.356328
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 1875
@@ -548,7 +546,7 @@ ontologies:
   - VBO
   - VBOALT
   changed: true
-  date: 2022-08-22 13:38:05.745017
+  date: 2022-08-29 13:36:31.240630
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 81411
