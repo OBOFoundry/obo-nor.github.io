@@ -3,26 +3,26 @@ base_prefixes:
 - T4FS
 - T4FSALT
 changed: true
-date: 2022-08-29 19:51:45.277448
+date: 2022-09-12 13:42:55.624721
 metrics:
   'Axioms: Breakdown of axiom types':
-    AnnotationAssertion: 1875
+    AnnotationAssertion: 1872
     DataPropertyRange: 1
-    Declaration: 487
+    Declaration: 486
     ObjectPropertyDomain: 10
     ObjectPropertyRange: 10
-    SubClassOf: 623
+    SubClassOf: 622
     SubObjectPropertyOf: 7
-  'Axioms: Number of axioms': 3013
+  'Axioms: Number of axioms': 3008
   'Entities: % of entities reused': 100.0
   'Entities: Number of annotation properties': 13
-  'Entities: Number of classes': 466
+  'Entities: Number of classes': 465
   'Entities: Number of data properties': 1
   'Entities: Number of individuals': 0
   'Entities: Number of object properties': 11
   'Entities: Number of unsatisfiable classes': 0
   'Info: Breakdown of OWL class expressions used':
-    Class: 1733
+    Class: 1730
     DataSomeValuesFrom: 1
     ObjectAllValuesFrom: 7
     ObjectSomeValuesFrom: 155
@@ -40,13 +40,13 @@ metrics:
   'Info: Logical consistency': true
   'Info: Syntax': RDF/XML Syntax
   'Info: Usage of namespaces in axioms':
-    IAO: 1584
+    IAO: 1583
     dc: 1
     dc11: 1
-    obo: 1939
+    obo: 1936
     oboInOwl: 95
     owl: 7
-    rdfs: 517
+    rdfs: 515
     xsd: 2
   'Info: Which ontologies use it?': []
 mirror_from: https://raw.githubusercontent.com/terms4fairskills/FAIRterminology/obo-foundry-updates/development/t4fs.owl
@@ -89,7 +89,7 @@ results:
       INFO: 2
       WARN: 70
     status: ERROR
-sha256_hash: 88d67dbd0f56291f54fdb418398b610d54b774cc1618ac141a91f4d5199ad2dc
+sha256_hash: f03191b5816d76b48b89fd3d9830449ee209727f4f84564731302095efc5918c
 summary:
   comment: 1 errors
   status: ERROR
