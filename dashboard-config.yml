@@ -104,7 +104,7 @@ ontologies:
         label: CC BY 4.0
       repository: https://github.com/SCAI-BIO/bipolar-disorder-ontology
       preferredPrefix: BPDO
-      mirror_from: https://raw.githubusercontent.com/SCAI-BIO/bipolar-disorder-ontology/main/releases/1.0.0/BPDO.owl
+      mirror_from: https://raw.githubusercontent.com/SCAI-BIO/bipolar-disorder-ontology/main/releases/2022-06-17/BPDO.owl
     - id: ngbo
       mirror_from: https://raw.githubusercontent.com/Dalalghamdi/NGBO/master/ngbo.owl
       title: Next generation biobanking ontology
