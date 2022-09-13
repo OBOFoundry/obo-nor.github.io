@@ -24,14 +24,150 @@ oboscore:
     report_warning: 0.01
     reuse: 1
 ontologies:
-- failure: failed_download
+- base_generated: true
+  base_prefixes:
+  - BPDO
+  - BPDOALT
+  changed: true
+  date: 2022-09-13 13:10:21.619585
+  metrics:
+    'Axioms: Breakdown of axiom types':
+      AnnotationAssertion: 15469
+      Declaration: 1212
+      DisjointClasses: 19
+      SubAnnotationPropertyOf: 7
+      SubClassOf: 1140
+    'Axioms: Number of axioms': 17847
+    'Entities: % of entities reused': 98.93
+    'Entities: Number of annotation properties': 132
+    'Entities: Number of classes': 1081
+    'Entities: Number of data properties': 0
+    'Entities: Number of individuals': 0
+    'Entities: Number of object properties': 0
+    'Entities: Number of unsatisfiable classes': 2
+    'Info: Breakdown of OWL class expressions used':
+      Class: 3399
+    'Info: Does the ontology fall under OWL 2 DL?': true
+    'Info: Experimental OBO score':
+      _dashboard: 0.667
+      _formula: (1*impact+1*dashboard)/2
+      _impact: 0.0
+      _impact_external: 0
+      _reuse: 0.989
+      oboscore: 0.334
+    'Info: How many externally documented uses?': 0
+    'Info: How many ontologies use it?': 0
+    'Info: Logical consistency': true
+    'Info: Syntax': RDF/XML Syntax
+    'Info: Usage of namespaces in axioms':
+      BCGO: 7
+      BFO: 242
+      BPDOALT: 1996
+      BTO: 6
+      CHEBI: 2
+      CL: 14
+      CMO: 88
+      DOID: 571
+      ENVO: 8
+      FMA: 2
+      GO: 84
+      GSSO: 4
+      HP: 136
+      IAO: 2467
+      MF: 20
+      MFOEM: 55
+      MFOMD: 88
+      MI: 2
+      MMO: 2
+      MONDO: 44
+      MP: 46
+      NBO: 44
+      NCBITaxon: 36
+      NCIT: 1652
+      OAE: 18
+      OBI: 45
+      OBIB: 5
+      OGMS: 104
+      OMIABIS: 5
+      OMIT: 104
+      OMP: 2
+      ONTONEO: 9
+      OPMI: 7
+      PATO: 10
+      PCO: 2
+      PW: 18
+      RO: 14
+      SCDO: 46
+      SYMP: 103
+      UBERON: 347
+      ZP: 2
+      dc: 7
+      dc11: 44
+      foaf: 50
+      obo: 959
+      oboInOwl: 7693
+      owl: 1
+      prefix_unknown: 38
+      rdf: 1
+      rdfs: 1871
+      skos: 66
+    'Info: Which ontologies use it?': []
+  mirror_from: https://raw.githubusercontent.com/SCAI-BIO/bipolar-disorder-ontology/main/releases/2022-06-17/BPDO.owl
   namespace: bpdo
+  results:
+    FP01 Open:
+      status: PASS
+    FP02 Common Format:
+      status: PASS
+    FP03 URIs:
+      status: PASS
+    FP04 Versioning:
+      status: PASS
+    FP05 Scope:
+      status: PASS
+    FP06 Textual Definitions:
+      comment: 6 multiple definitions. 67 missing definitions. See ROBOT Report for
+        details.
+      status: ERROR
+    FP07 Relations:
+      status: PASS
+    FP08 Documented:
+      status: PASS
+    FP09 Plurality of Users:
+      comment: Missing usages
+      status: ERROR
+    FP11 Locus of Authority:
+      status: PASS
+    FP12 Naming Conventions:
+      comment: 6 multiple labels. See ROBOT Report for details.
+      status: ERROR
+    FP16 Maintenance:
+      status: PASS
+    FP20 Responsiveness:
+      status: PASS
+    ROBOT Report:
+      comment: 12 errors, 69 warnings, 1 info messages.
+      file: robot_report
+      results:
+        ERROR: 12
+        INFO: 1
+        WARN: 69
+      status: ERROR
+  sha256_hash: 93a0bdd64185aa96116ab9fdb8b1e5470226801caaceb4ee24e8e69ec94d5101
+  summary:
+    comment: 4 errors
+    status: ERROR
+    summary_count:
+      ERROR: 4
+      INFO: 0
+      WARN: 0
+  version: http://purl.obolibrary.org/obo/bpdo/releases/2022-06-17/bpdo.owl
 - base_generated: true
   base_prefixes:
   - MCRO
   - MCROALT
   changed: true
-  date: 2022-09-12 13:41:36.156715
+  date: 2022-09-13 13:08:34.103328
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 5352
@@ -166,7 +302,7 @@ ontologies:
   - NGBO
   - NGBOALT
   changed: true
-  date: 2022-09-12 13:42:49.338428
+  date: 2022-09-13 13:10:36.089194
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 8103
@@ -313,7 +449,7 @@ ontologies:
   - T4FS
   - T4FSALT
   changed: true
-  date: 2022-09-12 13:42:55.624721
+  date: 2022-09-13 13:10:53.821862
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 1872
@@ -413,7 +549,7 @@ ontologies:
   - VBO
   - VBOALT
   changed: true
-  date: 2022-09-12 13:42:44.411102
+  date: 2022-09-13 13:10:13.926260
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 81411
