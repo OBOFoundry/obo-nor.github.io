@@ -3,7 +3,7 @@ base_prefixes:
 - NGBO
 - NGBOALT
 changed: true
-date: 2022-09-19 13:46:29.292598
+date: 2022-09-19 13:50:58.461706
 metrics:
   'Axioms: Breakdown of axiom types':
     AnnotationAssertion: 8103
