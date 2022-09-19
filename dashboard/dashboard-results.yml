@@ -29,7 +29,7 @@ ontologies:
   - BPDO
   - BPDOALT
   changed: true
-  date: 2022-09-19 13:46:23.350671
+  date: 2022-09-19 13:50:53.244766
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 15469
@@ -167,7 +167,7 @@ ontologies:
   - MCRO
   - MCROALT
   changed: true
-  date: 2022-09-19 13:44:48.963916
+  date: 2022-09-19 13:50:44.897044
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 5352
@@ -302,7 +302,7 @@ ontologies:
   - NGBO
   - NGBOALT
   changed: true
-  date: 2022-09-19 13:46:29.292598
+  date: 2022-09-19 13:50:58.461706
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 8103
@@ -449,7 +449,7 @@ ontologies:
   - T4FS
   - T4FSALT
   changed: true
-  date: 2022-09-19 13:46:36.724295
+  date: 2022-09-19 13:51:03.986822
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 1872
@@ -544,94 +544,3 @@ ontologies:
       INFO: 1
       WARN: 1
   version: http://purl.obolibrary.org/obo/t4fs/releases/2022-05-05/t4fs.owl
-- base_generated: true
-  base_prefixes:
-  - VBO
-  - VBOALT
-  changed: true
-  date: 2022-09-19 13:46:14.311472
-  metrics:
-    'Axioms: Breakdown of axiom types':
-      AnnotationAssertion: 81411
-      Declaration: 16986
-      SubAnnotationPropertyOf: 1
-      SubClassOf: 16960
-    'Axioms: Number of axioms': 115358
-    'Entities: % of entities reused': 99.97
-    'Entities: Number of annotation properties': 22
-    'Entities: Number of classes': 16967
-    'Entities: Number of data properties': 0
-    'Entities: Number of individuals': 0
-    'Entities: Number of object properties': 0
-    'Entities: Number of unsatisfiable classes': 0
-    'Info: Breakdown of OWL class expressions used':
-      Class: 50887
-    'Info: Does the ontology fall under OWL 2 DL?': true
-    'Info: Experimental OBO score':
-      _dashboard: 0.822
-      _formula: (1*impact+1*dashboard)/2
-      _impact: 0.0
-      _impact_external: 0
-      _reuse: 1.0
-      oboscore: 0.411
-    'Info: How many externally documented uses?': 0
-    'Info: How many ontologies use it?': 0
-    'Info: Logical consistency': true
-    'Info: Syntax': RDF/XML Syntax
-    'Info: Usage of namespaces in axioms':
-      NCBITaxon: 9111
-      VBOALT: 52764
-      dc: 3
-      obo: 41911
-      oboInOwl: 89882
-      rdfs: 16974
-      xsd: 16825
-    'Info: Which ontologies use it?': []
-  mirror_from: https://raw.githubusercontent.com/monarch-initiative/vertebrate-breed-ontology/master/vbo.owl
-  namespace: vbo
-  results:
-    FP01 Open:
-      status: PASS
-    FP02 Common Format:
-      status: PASS
-    FP03 URIs:
-      status: PASS
-    FP04 Versioning:
-      status: PASS
-    FP05 Scope:
-      status: PASS
-    FP06 Textual Definitions:
-      comment: 16832 missing definitions. See ROBOT Report for details.
-      status: WARN
-    FP07 Relations:
-      status: PASS
-    FP08 Documented:
-      status: PASS
-    FP09 Plurality of Users:
-      comment: Missing usages
-      status: ERROR
-    FP11 Locus of Authority:
-      status: PASS
-    FP12 Naming Conventions:
-      status: PASS
-    FP16 Maintenance:
-      status: PASS
-    FP20 Responsiveness:
-      status: PASS
-    ROBOT Report:
-      comment: 19897 warnings, 2 info messages.
-      file: robot_report
-      results:
-        ERROR: 0
-        INFO: 2
-        WARN: 19897
-      status: WARN
-  sha256_hash: f7cdd6274ea7476fa17fed9f17c6ac1e7d569b8bb1964c1e8f2759d0376fa6c9
-  summary:
-    comment: 1 errors
-    status: ERROR
-    summary_count:
-      ERROR: 1
-      INFO: 0
-      WARN: 2
-  version: http://purl.obolibrary.org/obo/vbo/releases/2022-05-06/vbo.owl
