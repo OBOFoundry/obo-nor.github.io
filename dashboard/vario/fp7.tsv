@@ -1,0 +1,22 @@
+IRI	Label	Issue
+http://purl.obolibrary.org/obo/vario#contains	contains	shares label with http://purl.obolibrary.org/obo/RO_0001019
+http://purl.obolibrary.org/obo/vario#regulates	regulates	shares label with http://purl.obolibrary.org/obo/RO_0002211
+http://purl.obolibrary.org/obo/vario#adjacent_to	adjacent_to	not an RO property
+http://purl.obolibrary.org/obo/vario#associated_with	associated_with	not an RO property
+http://purl.obolibrary.org/obo/vario#complete_evidence_for_feature	complete_evidence_for_feature	not an RO property
+http://purl.obolibrary.org/obo/vario#derives_from	derives_from	not an RO property
+http://purl.obolibrary.org/obo/vario#evidence_for_feature	evidence_for_feature	not an RO property
+http://purl.obolibrary.org/obo/vario#genome_of	genome_of	not an RO property
+http://purl.obolibrary.org/obo/vario#has_functional_parent	has functional parent	not an RO property
+http://purl.obolibrary.org/obo/vario#has_origin	has_origin	not an RO property
+http://purl.obolibrary.org/obo/vario#has_part	has_part	not an RO property
+http://purl.obolibrary.org/obo/vario#has_quality	has_quality	not an RO property
+http://purl.obolibrary.org/obo/vario#member_of	member_of	not an RO property
+http://purl.obolibrary.org/obo/vario#negatively_regulates	negatively_regulates	not an RO property
+http://purl.obolibrary.org/obo/vario#non_functional_homolog_of	non_functional_homolog_of	not an RO property
+http://purl.obolibrary.org/obo/vario#part_of	part_of	not an RO property
+http://purl.obolibrary.org/obo/vario#partial_evidence_for_feature	partial_evidence_for_feature	not an RO property
+http://purl.obolibrary.org/obo/vario#position_of	position_of	not an RO property
+http://purl.obolibrary.org/obo/vario#positively_regulates	positively_regulates	not an RO property
+http://purl.obolibrary.org/obo/vario#sequence_of	sequence_of	not an RO property
+http://purl.obolibrary.org/obo/vario#variant_of	variant_of	not an RO property
