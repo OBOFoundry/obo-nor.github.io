@@ -1,0 +1,33 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	duplicate_definition	VariO:0134	IAO:0000115	Variation affecting structure of chromosome.
+ERROR	duplicate_definition	VariO:0180	IAO:0000115	Variation affecting structure of chromosome.
+ERROR	duplicate_definition	VariO:0064	IAO:0000115	Variation affecting protein three dimensional structure.
+ERROR	duplicate_definition	VariO:0070	IAO:0000115	Variation affecting protein three dimensional structure.
+ERROR	duplicate_definition	VariO:0354	IAO:0000115	Variation affecting post transcriptional RNA modification.
+ERROR	duplicate_definition	VariO:0498	IAO:0000115	Variation affecting post transcriptional RNA modification.
+ERROR	missing_ontology_description	http://purl.obolibrary.org/obo/vario.owl	dc:description	
+ERROR	missing_ontology_license	http://purl.obolibrary.org/obo/vario.owl	dc:license	
+ERROR	missing_ontology_title	http://purl.obolibrary.org/obo/vario.owl	dc:title	
+WARN	missing_definition	VariO:0455	IAO:0000115	
+WARN	missing_definition	VariO:0471	IAO:0000115	
+WARN	missing_definition	VariO:0485	IAO:0000115	
+WARN	missing_definition	VariO:0486	IAO:0000115	
+WARN	missing_definition	obo:vario#associated_with	IAO:0000115	
+WARN	missing_definition	obo:vario#derives_from	IAO:0000115	
+WARN	missing_definition	obo:vario#genome_of	IAO:0000115	
+WARN	missing_definition	obo:vario#has_origin	IAO:0000115	
+WARN	missing_definition	obo:vario#has_part	IAO:0000115	
+WARN	missing_definition	obo:vario#has_quality	IAO:0000115	
+WARN	missing_definition	obo:vario#member_of	IAO:0000115	
+WARN	missing_definition	obo:vario#negatively_regulates	IAO:0000115	
+WARN	missing_definition	obo:vario#part_of	IAO:0000115	
+WARN	missing_definition	obo:vario#position_of	IAO:0000115	
+WARN	missing_definition	obo:vario#positively_regulates	IAO:0000115	
+WARN	missing_definition	obo:vario#regulates	IAO:0000115	
+WARN	missing_definition	obo:vario#sequence_of	IAO:0000115	
+INFO	lowercase_definition	VariO:0017	IAO:0000115	mRNA variation leading to amino acid change in translated protein. The variant alters the codon so that it encodes another amino acid.
+INFO	lowercase_definition	VariO:0343	IAO:0000115	mRNA variation not affecting the sequence of the translated protein.
+INFO	lowercase_definition	VariO:0411	IAO:0000115	mRNA molecule matured by splicing at an alternative site.
+INFO	lowercase_definition	obo:vario#contains	IAO:0000115	'Entity A' contains 'Entity B' implies that 'Entity B' is a part of the structure of 'Entity A'.
+INFO	lowercase_definition	obo:vario#has_functional_parent	IAO:0000115	'Entity A' has_functional_parent 'Entity B' implies that 'Entity B' has at least one chacteristic group from which 'Entity A' can be derived by functional modification.
+INFO	missing_superclass	VariO:0001	rdfs:subClassOf	
