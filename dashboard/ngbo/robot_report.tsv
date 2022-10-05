@@ -1,5 +1,4 @@
 Level	Rule Name	Subject	Property	Value
-ERROR	missing_ontology_license	http://purl.obolibrary.org/obo/ngbo.owl	dc:license	
 INFO	lowercase_definition	obo:NGBO_6000354	IAO:0000115	a protocol that describe the process of assigning a formal classification to the detected variant@en
 INFO	lowercase_definition	obo:NGBO_6000380	IAO:0000115	a relation that is used to follow traceability of specimen activity
 INFO	lowercase_definition	obo:NGBO_6000381	IAO:0000115	a relation that is used to track specimen activity
