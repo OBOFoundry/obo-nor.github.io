@@ -3,7 +3,7 @@ base_prefixes:
 - BPDO
 - BPDOALT
 changed: true
-date: 2022-10-05 10:22:12.327675
+date: 2022-10-06 08:05:10.711772
 metrics:
   'Axioms: Breakdown of axiom types':
     AnnotationAssertion: 15469
