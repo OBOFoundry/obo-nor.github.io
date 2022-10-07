@@ -1,16 +1,4 @@
 Level	Rule Name	Subject	Property	Value
-ERROR	multiple_definitions	obo:BPDO_00000012	IAO:0000115	A screening method used assess impulsivity in both clinical and healthy populations.
-ERROR	multiple_definitions	obo:BPDO_00000012	IAO:0000115	An inventory that measures level of difficulty and level of assistance needed in 22 areas of functioning, including housing, food, cleaning, hygiene, daily activities, physical health, psychotic symptoms, treatment or illness information, psychological distress, personal security, social security, security of others, alcohol, drugs, social relationships, emotional relationships, sexual life, care of children, education, financial tasks use of the telephone, and use of public transportation.
-ERROR	multiple_definitions	obo:BPDO_00000189	IAO:0000115	Dysfunction of parvalbumin (PV)-positive GABAergic interneurons (PVIs) within the prefrontal cortex (PFC).
-ERROR	multiple_definitions	obo:BPDO_00000189	IAO:0000115	Infections which largely acquired from the mother in the perinatal period and manifest soon after birth.
-ERROR	multiple_definitions	obo:BPDO_00000264	IAO:0000115	A pathway projects from the hypothalamus to the pituitary gland.
-ERROR	multiple_definitions	obo:BPDO_00000264	IAO:0000115	Subcortical infarcts presenting with manic symptoms . Patients are typically older, with late-onset bipolar disorder, cognitive impairment, and extensive subcortical white matter hyperintense lesions on brain magnetic resonance images.
-ERROR	multiple_labels	obo:BPDO_00000012	rdfs:label	Camberwell assessment of need
-ERROR	multiple_labels	obo:BPDO_00000012	rdfs:label	Cambridge gamble task
-ERROR	multiple_labels	obo:BPDO_00000189	rdfs:label	parvalbumin-positive interneurons dysfunction
-ERROR	multiple_labels	obo:BPDO_00000189	rdfs:label	perinatal infection
-ERROR	multiple_labels	obo:BPDO_00000264	rdfs:label	tuberoinfundibular pathway
-ERROR	multiple_labels	obo:BPDO_00000264	rdfs:label	vascular bipolar disorder
 WARN	duplicate_label_synonym	obo:BPDO_00000190	oboInOwl:hasExactSynonym	perinatal risk factor
 WARN	duplicate_label_synonym	obo:BPDO_00000196	oboInOwl:hasExactSynonym	prenatal risk factor
 WARN	missing_definition	obo:BPDO_00000074	IAO:0000115	

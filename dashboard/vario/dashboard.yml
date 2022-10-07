@@ -4,7 +4,7 @@ base_prefixes:
 - VARIOALT
 - VariO
 changed: true
-date: 2022-10-06 08:04:59.456701
+date: 2022-10-07 08:05:50.808527
 metrics:
   'Axioms: Breakdown of axiom types':
     AnnotationAssertion: 2288
