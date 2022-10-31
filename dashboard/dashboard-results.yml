@@ -29,7 +29,7 @@ ontologies:
   - BPDO
   - BPDOALT
   changed: true
-  date: 2022-10-07 08:06:03.104704
+  date: 2022-10-31 13:45:25.601069
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 15469
@@ -165,7 +165,7 @@ ontologies:
   - MCRO
   - MCROALT
   changed: true
-  date: 2022-10-07 08:05:55.136380
+  date: 2022-10-31 13:45:17.043533
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 5352
@@ -300,7 +300,7 @@ ontologies:
   - NGBO
   - NGBOALT
   changed: true
-  date: 2022-10-07 08:06:09.424606
+  date: 2022-10-31 13:45:33.039320
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 8110
@@ -339,12 +339,12 @@ ontologies:
       ObjectUnionOf: 9
     'Info: Does the ontology fall under OWL 2 DL?': true
     'Info: Experimental OBO score':
-      _dashboard: 0.853
+      _dashboard: 0.86
       _formula: (1*impact+1*dashboard)/2
       _impact: 0.0
       _impact_external: 0
       _reuse: 1.0
-      oboscore: 0.426
+      oboscore: 0.43
     'Info: How many externally documented uses?': 0
     'Info: How many ontologies use it?': 0
     'Info: Logical consistency': true
@@ -423,20 +423,14 @@ ontologies:
     FP20 Responsiveness:
       status: PASS
     ROBOT Report:
-      comment: '{0} info messages.'
-      file: robot_report
-      results:
-        ERROR: 0
-        INFO: 3
-        WARN: 0
-      status: INFO
-  sha256_hash: ff030315207d14cf86a8a473d27a9acc9259504c80128c43d50279e97dded2f2
+      status: PASS
+  sha256_hash: 101617537cce3c87c76842bf0787de64b83e4188d12a1d738250c5d2eed6271c
   summary:
     comment: 1 errors
     status: ERROR
     summary_count:
       ERROR: 1
-      INFO: 2
+      INFO: 1
       WARN: 0
   version: http://purl.obolibrary.org/obo/ngbo/2022-10-05/ngbo.owl
 - failure: failed_download
@@ -449,7 +443,7 @@ ontologies:
   - VARIOALT
   - VariO
   changed: true
-  date: 2022-10-07 08:05:50.808527
+  date: 2022-10-31 13:45:13.558354
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 2288
