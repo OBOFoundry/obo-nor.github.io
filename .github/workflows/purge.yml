@@ -1,4 +1,4 @@
-name: Remove accepted ontologies
+name: Remove Accepted Ontologies
 on:
   workflow_dispatch:
   schedule:
