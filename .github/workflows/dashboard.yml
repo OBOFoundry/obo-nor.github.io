@@ -34,4 +34,4 @@ jobs:
           title: 'Update dashboard run'
           body: |
             Updates the OBO NOR dashboard
-          assignees: matentzn
+          assignees: pfabry
