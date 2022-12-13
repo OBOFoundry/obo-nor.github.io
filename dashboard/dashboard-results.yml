@@ -29,31 +29,32 @@ ontologies:
   - BPDO
   - BPDOALT
   changed: true
-  date: 2022-10-31 13:45:25.601069
+  date: 2022-12-12 13:20:09.490878
   metrics:
     'Axioms: Breakdown of axiom types':
-      AnnotationAssertion: 15469
-      Declaration: 1212
+      AnnotationAssertion: 15598
+      Declaration: 1226
       DisjointClasses: 19
-      SubAnnotationPropertyOf: 7
-      SubClassOf: 1140
-    'Axioms: Number of axioms': 17847
-    'Entities: % of entities reused': 98.93
-    'Entities: Number of annotation properties': 132
+      SubAnnotationPropertyOf: 8
+      SubClassOf: 1155
+    'Axioms: Number of axioms': 18006
+    'Entities: % of entities reused': 98.95
+    'Entities: Number of annotation properties': 138
     'Entities: Number of classes': 1081
     'Entities: Number of data properties': 0
     'Entities: Number of individuals': 0
-    'Entities: Number of object properties': 0
-    'Entities: Number of unsatisfiable classes': 2
+    'Entities: Number of object properties': 8
+    'Entities: Number of unsatisfiable classes': 0
     'Info: Breakdown of OWL class expressions used':
-      Class: 3399
+      Class: 3429
+      ObjectSomeValuesFrom: 13
     'Info: Does the ontology fall under OWL 2 DL?': true
     'Info: Experimental OBO score':
       _dashboard: 0.822
       _formula: (1*impact+1*dashboard)/2
       _impact: 0.0
       _impact_external: 0
-      _reuse: 0.989
+      _reuse: 0.99
       oboscore: 0.411
     'Info: How many externally documented uses?': 0
     'Info: How many ontologies use it?': 0
@@ -61,33 +62,33 @@ ontologies:
     'Info: Syntax': RDF/XML Syntax
     'Info: Usage of namespaces in axioms':
       BCGO: 7
-      BFO: 242
-      BPDOALT: 1996
+      BFO: 247
+      BPDOALT: 1995
       BTO: 6
       CHEBI: 2
       CL: 14
-      CMO: 88
-      DOID: 571
+      CMO: 89
+      DOID: 591
       ENVO: 8
       FMA: 2
-      GO: 84
+      GO: 86
       GSSO: 4
-      HP: 136
-      IAO: 2467
+      HP: 137
+      IAO: 2513
       MF: 20
       MFOEM: 55
-      MFOMD: 88
+      MFOMD: 89
       MI: 2
       MMO: 2
-      MONDO: 44
+      MONDO: 50
       MP: 46
       NBO: 44
-      NCBITaxon: 36
-      NCIT: 1655
+      NCBITaxon: 37
+      NCIT: 1643
       OAE: 18
       OBI: 45
       OBIB: 5
-      OGMS: 104
+      OGMS: 105
       OMIABIS: 5
       OMIT: 104
       OMP: 2
@@ -95,22 +96,22 @@ ontologies:
       OPMI: 7
       PATO: 10
       PCO: 2
-      PW: 18
+      PW: 17
       RO: 14
       SCDO: 46
-      SYMP: 103
-      UBERON: 347
+      SYMP: 104
+      UBERON: 348
       ZP: 2
-      dc: 7
-      dc11: 44
+      dc: 9
+      dc11: 45
       foaf: 50
-      obo: 959
-      oboInOwl: 7693
+      obo: 994
+      oboInOwl: 7722
       owl: 1
-      prefix_unknown: 38
+      prefix_unknown: 39
       rdf: 1
-      rdfs: 1868
-      skos: 66
+      rdfs: 1914
+      skos: 68
     'Info: Which ontologies use it?': []
   mirror_from: https://raw.githubusercontent.com/SCAI-BIO/bipolar-disorder-ontology/main/releases/2022-06-17/BPDO.owl
   namespace: bpdo
@@ -151,7 +152,7 @@ ontologies:
         INFO: 1
         WARN: 69
       status: WARN
-  sha256_hash: 227df6a8749d0bdfd1a2de655737149dca4adafe26758b5c12a725c06c9e37c7
+  sha256_hash: 0072619751aadedadad60f6a8313a1b1186f76e875094ae3448494f1b5f14e3e
   summary:
     comment: 1 errors
     status: ERROR
@@ -165,7 +166,7 @@ ontologies:
   - MCRO
   - MCROALT
   changed: true
-  date: 2022-10-31 13:45:17.043533
+  date: 2022-12-12 13:20:02.049089
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 5352
@@ -300,7 +301,7 @@ ontologies:
   - NGBO
   - NGBOALT
   changed: true
-  date: 2022-10-31 13:45:33.039320
+  date: 2022-12-12 13:20:15.746694
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 8110
@@ -443,7 +444,7 @@ ontologies:
   - VARIOALT
   - VariO
   changed: true
-  date: 2022-10-31 13:45:13.558354
+  date: 2022-12-12 13:19:58.466764
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 2288
