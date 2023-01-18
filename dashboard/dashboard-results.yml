@@ -29,7 +29,7 @@ ontologies:
   - BPDO
   - BPDOALT
   changed: true
-  date: 2023-01-09 13:20:36.648762
+  date: 2023-01-16 13:19:37.689076
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 15598
@@ -166,7 +166,7 @@ ontologies:
   - MCRO
   - MCROALT
   changed: true
-  date: 2023-01-09 13:19:52.589899
+  date: 2023-01-16 13:19:25.900339
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 5352
@@ -301,7 +301,7 @@ ontologies:
   - NGBO
   - NGBOALT
   changed: true
-  date: 2023-01-09 13:21:10.094332
+  date: 2023-01-16 13:19:43.192295
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 8110
@@ -442,7 +442,7 @@ ontologies:
   - VARIOALT
   - VariO
   changed: true
-  date: 2023-01-09 13:19:48.310606
+  date: 2023-01-16 13:19:21.724954
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 2288
