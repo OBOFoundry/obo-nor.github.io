@@ -74,27 +74,6 @@ ontologies:
       repository: https://github.com/SCAI-BIO/bipolar-disorder-ontology
       preferredPrefix: BPDO
       mirror_from: https://raw.githubusercontent.com/SCAI-BIO/bipolar-disorder-ontology/main/releases/2022-06-17/BPDO.owl
-    - id: scho
-      title: Schizophrenia Ontology
-      contact:
-        email: alpha.tom.kodamullil@scai.fraunhofer.de
-        label: Alpha Tom Kodamullil
-        github: akodamullil
-        orcid: 0000-0001-9896-3531
-      description: A disease ontology for the mental disorder Schizophrenia
-      domain: health
-      homepage: https://github.com/SCAI-BIO/schizophrenia-ontology
-      products:
-        - id: bfo.owl
-      dependencies:
-        - id: bfo
-      tracker: https://github.com/SCAI-BIO/schizophrenia-ontology/issues
-      license:
-        url: https://creativecommons.org/licenses/by/4.0/
-        label: CC BY 4.0
-      repository: https://github.com/SCAI-BIO/schizophrenia-ontology
-      preferredPrefix: SCHO
-      mirror_from: https://raw.githubusercontent.com/SCAI-BIO/schizophrenia-ontology/main/releases/1.0.0/SCHO.owl
 prefer_base: True
 profile:
   baseprofile: "https://raw.githubusercontent.com/ontodev/robot/master/robot-core/src/main/resources/report_profile.txt"
