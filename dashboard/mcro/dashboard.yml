@@ -3,55 +3,57 @@ base_prefixes:
 - MCRO
 - MCROALT
 changed: true
-date: 2023-02-06 13:24:34.344565
+date: 2023-02-13 13:19:49.942934
 metrics:
   'Axioms: Breakdown of axiom types':
-    AnnotationAssertion: 5352
+    AnnotationAssertion: 5479
     AnnotationPropertyDomain: 1
     AnnotationPropertyRangeOf: 3
-    ClassAssertion: 19
+    ClassAssertion: 20
     DataPropertyDomain: 11
     DataPropertyRange: 24
-    Declaration: 1231
+    Declaration: 1243
     DifferentIndividuals: 2
     DisjointClasses: 42
-    EquivalentClasses: 20
+    EquivalentClasses: 22
     EquivalentObjectProperties: 3
     FunctionalDataProperty: 6
-    FunctionalObjectProperty: 4
-    InverseObjectProperties: 34
+    FunctionalObjectProperty: 5
+    InverseFunctionalObjectProperty: 1
+    InverseObjectProperties: 33
     IrrefexiveObjectProperty: 1
     ObjectPropertyAssertion: 2
     ObjectPropertyDomain: 91
     ObjectPropertyRange: 87
-    SubAnnotationPropertyOf: 19
-    SubClassOf: 1698
+    Rule: 4
+    SubAnnotationPropertyOf: 24
+    SubClassOf: 1703
     SubDataPropertyOf: 11
     SubObjectPropertyOf: 90
     SubPropertyChainOf: 15
     SymmetricObjectProperty: 6
     TransitiveObjectProperty: 9
-  'Axioms: Number of axioms': 8781
+  'Axioms: Number of axioms': 8938
   'Entities: % of entities reused': 100.0
-  'Entities: Number of annotation properties': 105
-  'Entities: Number of classes': 933
+  'Entities: Number of annotation properties': 111
+  'Entities: Number of classes': 938
   'Entities: Number of data properties': 28
-  'Entities: Number of individuals': 26
-  'Entities: Number of object properties': 142
+  'Entities: Number of individuals': 24
+  'Entities: Number of object properties': 145
   'Entities: Number of unsatisfiable classes': 0
   'Info: Breakdown of OWL class expressions used':
-    Class: 4711
+    Class: 4738
     DataExactCardinality: 6
     DataMinCardinality: 1
     DataSomeValuesFrom: 26
     ObjectAllValuesFrom: 33
     ObjectComplementOf: 30
     ObjectExactCardinality: 1
-    ObjectIntersectionOf: 26
+    ObjectIntersectionOf: 28
     ObjectMaxCardinality: 1
     ObjectMinCardinality: 1
     ObjectOneOf: 3
-    ObjectSomeValuesFrom: 665
+    ObjectSomeValuesFrom: 668
     ObjectUnionOf: 42
   'Info: Does the ontology fall under OWL 2 DL?': false
   'Info: Experimental OBO score':
@@ -67,23 +69,22 @@ metrics:
   'Info: Syntax': RDF/XML Syntax
   'Info: Usage of namespaces in axioms':
     APOLLO_SV: 22
-    BFO: 389
-    GAZ: 4
-    IAO: 4486
+    BFO: 392
+    IAO: 4597
     OBI: 123
+    OMO: 6
     PATO: 16
-    RO: 126
+    RO: 138
     UO: 10
     dc: 5
-    dc11: 214
+    dc11: 225
     foaf: 5
-    obo: 2
-    oboInOwl: 25
-    owl: 33
+    oboInOwl: 33
+    owl: 34
     prefix_unknown: 3776
     prov: 911
     rdf: 16
-    rdfs: 1596
+    rdfs: 1634
     skos: 179
     xsd: 19
   'Info: Which ontologies use it?': []
@@ -124,7 +125,7 @@ results:
     status: PASS
   ROBOT Report:
     status: PASS
-sha256_hash: 54c968df054305ebf3f45dc8d584b753266f0940824eed51d98bee781077a941
+sha256_hash: 76c1d0995f238591c07af306d9f478ad82e72ef33075cce25055bc36acf3ee83
 summary:
   comment: 2 errors
   status: ERROR
