@@ -74,6 +74,25 @@ ontologies:
       repository: https://github.com/SCAI-BIO/bipolar-disorder-ontology
       preferredPrefix: BPDO
       mirror_from: https://raw.githubusercontent.com/SCAI-BIO/bipolar-disorder-ontology/main/releases/2022-06-17/BPDO.owl
+    - id: cdmo
+      title: Chinese Diabetes Mellitus Ontology
+      contact:
+        email: hujie@njmu.edu.cn
+        label: Hu Jie
+        github: HuJieNJ
+        orcid: 0000-0002-4634-9406
+      description: CDMO is a Chinese diabetes ontology, classes cover all aspects of diabetes, such as symptoms, medications, tests, body structure, social background, etc. Most of these classes have been mapped to existing classes in the OBO, and these mappings are represented by annotation properties. Our motivation is to apply this ontology to the construction of Chinese diabetes knowledge graph, natural language processing and medical question answering, which are all application scenarios closely related to language. We hope that this ontology can be adopted by researchers and developers of the above application systems.
+      domain: health
+      homepage: https://github.com/HuJieNJ/CDMO
+      products:
+        - id: cdmo.owl
+      tracker: https://github.com/HuJieNJ/CDMO/issues
+      license:
+        url: https://creativecommons.org/publicdomain/zero/1.0/
+        label: CC0
+      repository: https://github.com/HuJieNJ/CDMO
+      preferredPrefix: CDMO
+      mirror_from: https://raw.githubusercontent.com/HuJieNJ/CDMO/raw/main/cdmo20230218.owl
 prefer_base: True
 profile:
   baseprofile: "https://raw.githubusercontent.com/ontodev/robot/master/robot-core/src/main/resources/report_profile.txt"
