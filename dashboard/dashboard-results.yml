@@ -29,7 +29,7 @@ ontologies:
   - BPDO
   - BPDOALT
   changed: true
-  date: 2023-03-06 13:20:58.731765
+  date: 2023-03-13 13:19:19.079832
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 15598
@@ -166,7 +166,7 @@ ontologies:
   - MCRO
   - MCROALT
   changed: true
-  date: 2023-03-06 13:20:52.248155
+  date: 2023-03-13 13:19:13.649204
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 5479
@@ -200,7 +200,7 @@ ontologies:
     'Entities: % of entities reused': 100.0
     'Entities: Number of annotation properties': 111
     'Entities: Number of classes': 938
-    'Entities: Number of data properties': 28
+    'Entities: Number of data properties': 26
     'Entities: Number of individuals': 24
     'Entities: Number of object properties': 145
     'Entities: Number of unsatisfiable classes': 0
@@ -220,12 +220,12 @@ ontologies:
       ObjectUnionOf: 42
     'Info: Does the ontology fall under OWL 2 DL?': false
     'Info: Experimental OBO score':
-      _dashboard: 0.771
+      _dashboard: 0.824
       _formula: (1*impact+1*dashboard)/2
       _impact: 0.0
       _impact_external: 0
       _reuse: 1.0
-      oboscore: 0.386
+      oboscore: 0.412
     'Info: How many externally documented uses?': 0
     'Info: How many ontologies use it?': 0
     'Info: Logical consistency': true
@@ -242,9 +242,10 @@ ontologies:
       dc: 5
       dc11: 225
       foaf: 5
+      obo: 266
       oboInOwl: 33
       owl: 34
-      prefix_unknown: 3776
+      prefix_unknown: 3510
       prov: 911
       rdf: 16
       rdfs: 1634
@@ -259,9 +260,7 @@ ontologies:
     FP02 Common Format:
       status: PASS
     FP03 URIs:
-      comment: 0 invalid IRIs. The Ontology IRI is not valid.
-      file: fp3
-      status: ERROR
+      status: PASS
     FP04 Versioning:
       comment: Version IRI 'https://raw.githubusercontent.com/UTHealth-Ontology/MCRO/main/mcro.owl'
         is not in recommended format
@@ -271,7 +270,9 @@ ontologies:
     FP06 Textual Definitions:
       status: PASS
     FP07 Relations:
-      status: PASS
+      comment: 12 non-RO properties used.
+      file: fp7
+      status: INFO
     FP08 Documented:
       status: PASS
     FP09 Plurality of Users:
@@ -287,14 +288,20 @@ ontologies:
     FP20 Responsiveness:
       status: PASS
     ROBOT Report:
-      status: PASS
-  sha256_hash: 76c1d0995f238591c07af306d9f478ad82e72ef33075cce25055bc36acf3ee83
+      comment: '{0} info messages.'
+      file: robot_report
+      results:
+        ERROR: 0
+        INFO: 11
+        WARN: 0
+      status: INFO
+  sha256_hash: ca098a5ae9cd14bb9692d7a1c51a82c4bdec51f235af5a402084ee7dd349e2fe
   summary:
-    comment: 2 errors
+    comment: 1 errors
     status: ERROR
     summary_count:
-      ERROR: 2
-      INFO: 1
+      ERROR: 1
+      INFO: 3
       WARN: 1
   version: https://raw.githubusercontent.com/UTHealth-Ontology/MCRO/main/mcro.owl
 - base_generated: true
@@ -303,7 +310,7 @@ ontologies:
   - VARIOALT
   - VariO
   changed: true
-  date: 2023-03-06 13:20:47.933586
+  date: 2023-03-13 13:19:09.555208
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 2288
