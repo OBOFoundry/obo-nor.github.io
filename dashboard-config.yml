@@ -53,27 +53,6 @@ ontologies:
       license:
         url: https://creativecommons.org/licenses/by/3.0/
         label: CC BY 3.0
-    - id: bpdo
-      title: Bipolar Disorder Ontology
-      contact:
-        email: alpha.tom.kodamullil@scai.fraunhofer.de
-        label: Alpha Tom Kodamullil
-        github: akodamullil
-        orcid: 0000-0001-9896-3531
-      description: The Bipolar Disorder ontology includes bipolar disorder-related concepts, terms and related synonyms, collected from wide variety of sources such us publications and websites.
-      domain: health
-      homepage: https://github.com/SCAI-BIO/bipolar-disorder-ontology
-      products:
-        - id: bpdo.owl
-      dependencies:
-        - id: bfo
-      tracker: https://github.com/SCAI-BIO/bipolar-disorder-ontology/issues
-      license:
-        url: https://creativecommons.org/licenses/by/4.0/
-        label: CC BY 4.0
-      repository: https://github.com/SCAI-BIO/bipolar-disorder-ontology
-      preferredPrefix: BPDO
-      mirror_from: https://raw.githubusercontent.com/SCAI-BIO/bipolar-disorder-ontology/main/releases/2022-06-17/BPDO.owl
 prefer_base: True
 profile:
   baseprofile: "https://raw.githubusercontent.com/ontodev/robot/master/robot-core/src/main/resources/report_profile.txt"
