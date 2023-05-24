@@ -25,11 +25,17 @@ oboscore:
     reuse: 1
 ontologies:
 - base_generated: true
+  changed: true
+  failure: failed_robot_base
+  mirror_from: https://gitlab.com/endless-forms-studio/gndo/-/blob/main/gndo.owl
+  namespace: gndo
+  sha256_hash: 0f449712aaa17118906604b4e3fdc63f21f30be5dcf1a6f15b7fee8c3e567984
+- base_generated: true
   base_prefixes:
   - MCRO
   - MCROALT
   changed: true
-  date: 2023-05-15 13:12:47.308950
+  date: 2023-05-24 17:48:07.615498
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 5479
@@ -173,7 +179,7 @@ ontologies:
   - VARIOALT
   - VariO
   changed: true
-  date: 2023-05-15 13:12:42.579611
+  date: 2023-05-24 17:48:02.955625
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 2288
