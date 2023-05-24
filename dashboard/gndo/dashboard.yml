@@ -1,0 +1,6 @@
+base_generated: true
+changed: true
+failure: failed_robot_base
+mirror_from: https://gitlab.com/endless-forms-studio/gndo/-/blob/main/gndo.owl
+namespace: gndo
+sha256_hash: 0f449712aaa17118906604b4e3fdc63f21f30be5dcf1a6f15b7fee8c3e567984
