@@ -54,7 +54,7 @@ ontologies:
         url: https://creativecommons.org/licenses/by/3.0/
         label: CC BY 3.0
     - id: gndo
-      mirror_from: https://gitlab.com/endless-forms-studio/gndo/-/blob/main/gndo.owl
+      mirror_from: https://gitlab.com/endless-forms-studio/gndo/-/raw/main/gndo.owl
       title: "Graphic Notation and Descriptor Ontology"
       contact:
         email: mclarkson@uky.edu
