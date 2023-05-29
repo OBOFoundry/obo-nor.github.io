@@ -1,6 +1,90 @@
 base_generated: true
+base_prefixes:
+- GNDO
+- GNDOALT
 changed: true
-failure: failed_robot_base
-mirror_from: https://gitlab.com/endless-forms-studio/gndo/-/blob/main/gndo.owl
+date: 2023-05-29 13:11:40.026561
+metrics:
+  'Axioms: Breakdown of axiom types':
+    AnnotationAssertion: 372
+    DataPropertyRange: 10
+    Declaration: 185
+    DisjointClasses: 2
+    InverseObjectProperties: 3
+    SubClassOf: 148
+    SubObjectPropertyOf: 8
+    SymmetricObjectProperty: 1
+  'Axioms: Number of axioms': 729
+  'Entities: % of entities reused': 100.0
+  'Entities: Number of annotation properties': 10
+  'Entities: Number of classes': 149
+  'Entities: Number of data properties': 10
+  'Entities: Number of individuals': 0
+  'Entities: Number of object properties': 20
+  'Entities: Number of unsatisfiable classes': 0
+  'Info: Breakdown of OWL class expressions used':
+    Class: 448
+  'Info: Does the ontology fall under OWL 2 DL?': true
+  'Info: Experimental OBO score':
+    _dashboard: 0.867
+    _formula: (1*impact+1*dashboard)/2
+    _impact: 0.0
+    _impact_external: 0
+    _reuse: 1.0
+    oboscore: 0.433
+  'Info: How many externally documented uses?': 0
+  'Info: How many ontologies use it?': 0
+  'Info: Logical consistency': true
+  'Info: Syntax': RDF/XML Syntax
+  'Info: Usage of namespaces in axioms':
+    BFO: 30
+    IAO: 197
+    dc: 2
+    dc11: 3
+    owl: 1
+    prefix_unknown: 470
+    rdf: 5
+    rdfs: 187
+    xsd: 5
+  'Info: Which ontologies use it?': []
+mirror_from: https://gitlab.com/endless-forms-studio/gndo/-/raw/main/gndo.owl
 namespace: gndo
-sha256_hash: 0f449712aaa17118906604b4e3fdc63f21f30be5dcf1a6f15b7fee8c3e567984
+results:
+  FP01 Open:
+    status: PASS
+  FP02 Common Format:
+    status: PASS
+  FP03 URIs:
+    status: PASS
+  FP04 Versioning:
+    status: PASS
+  FP05 Scope:
+    status: PASS
+  FP06 Textual Definitions:
+    status: PASS
+  FP07 Relations:
+    status: PASS
+  FP08 Documented:
+    status: PASS
+  FP09 Plurality of Users:
+    comment: Missing usages
+    status: ERROR
+  FP11 Locus of Authority:
+    status: PASS
+  FP12 Naming Conventions:
+    status: PASS
+  FP16 Maintenance:
+    status: PASS
+  FP20 Responsiveness:
+    status: PASS
+  ROBOT Report:
+    status: PASS
+sha256_hash: 05a88815af75942c159665fc0b90c3ab93a905d7706b7abaaa4febd001927387
+summary:
+  comment: 1 errors
+  status: ERROR
+  summary_count:
+    ERROR: 1
+    INFO: 0
+    WARN: 0
+version: http://purl.obolibrary.org/obo/gndo/releases/2023-05-18/gndo.owl
