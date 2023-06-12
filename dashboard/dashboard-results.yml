@@ -29,7 +29,7 @@ ontologies:
   - GNDO
   - GNDOALT
   changed: true
-  date: 2023-06-05 13:13:18.031303
+  date: 2023-06-12 13:11:53.080782
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 372
@@ -119,7 +119,7 @@ ontologies:
   - MCRO
   - MCROALT
   changed: true
-  date: 2023-06-05 13:13:13.811713
+  date: 2023-06-12 13:11:48.527310
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 5479
@@ -215,8 +215,8 @@ ontologies:
     FP03 URIs:
       status: PASS
     FP04 Versioning:
-      comment: Version IRI 'https://raw.githubusercontent.com/UTHealth-Ontology/MCRO/main/mcro.owl'
-        is not in recommended format
+      comment: Version IRI 'http://purl.obolibrary.org/obo/2023-03-07/mcro.owl' is
+        not in recommended format
       status: WARN
     FP05 Scope:
       status: PASS
@@ -248,7 +248,7 @@ ontologies:
         INFO: 11
         WARN: 0
       status: INFO
-  sha256_hash: ca098a5ae9cd14bb9692d7a1c51a82c4bdec51f235af5a402084ee7dd349e2fe
+  sha256_hash: 8feb7eae741fafc18a260a559074fd3bd532ffab6ff980ec80c6b6885aef2695
   summary:
     comment: 1 errors
     status: ERROR
@@ -256,6 +256,4 @@ ontologies:
       ERROR: 1
       INFO: 3
       WARN: 1
-  version: https://raw.githubusercontent.com/UTHealth-Ontology/MCRO/main/mcro.owl
-- failure: failed_download
-  namespace: vario
+  version: http://purl.obolibrary.org/obo/2023-03-07/mcro.owl
