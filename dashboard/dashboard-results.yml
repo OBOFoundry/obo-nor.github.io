@@ -29,7 +29,7 @@ ontologies:
   - GNDO
   - GNDOALT
   changed: true
-  date: 2023-07-17 13:21:43.528359
+  date: 2023-07-24 13:14:03.196496
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 372
@@ -120,7 +120,7 @@ ontologies:
   - MCROALT
   - MCRO
   changed: true
-  date: 2023-07-17 13:21:37.926906
+  date: 2023-07-24 13:13:57.843744
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 5479
