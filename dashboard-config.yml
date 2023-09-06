@@ -52,6 +52,29 @@ ontologies:
       license:
         url: https://creativecommons.org/licenses/by/4.0/
         label: CC BY 4.0    
+    - id: occo
+      mirror_from: https://raw.githubusercontent.com/Occupation-Ontology/OccO/main/occo.owl
+      title: "Occupation Ontology"
+      contact:
+        email: zhengj2007@gmail.com
+        label: Jie Zheng
+        orcid: 0000-0002-2999-0103
+        github: zhengj2007
+      description: The Occupation Ontology (OccO) is an ontology in the domain of human occupations. OccO is an initial ontological presentation of information taken from a standardized occupation taxonomy, the US Standard Occupational Classification (SOC) as enhanced by the O*Net system.
+      domain: information
+      homepage: https://github.com/Occupation-Ontology/OccO
+      products:
+        - id: occo.owl
+      dependencies:
+        - id: bfo
+        - id: iao
+        - id: omo
+        - id: ro
+        - id: ncbitaxon
+      tracker: https://github.com/Occupation-Ontology/OccO/issues
+      license:
+        url: https://creativecommons.org/licenses/by/4.0/
+        label: CC BY 4.0    
 prefer_base: True
 profile:
   baseprofile: "https://raw.githubusercontent.com/ontodev/robot/master/robot-core/src/main/resources/report_profile.txt"
