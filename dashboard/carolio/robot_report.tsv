@@ -1,0 +1,2 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	missing_ontology_license	http://purl.obolibrary.org/obo/carolio.owl	dc:license	
