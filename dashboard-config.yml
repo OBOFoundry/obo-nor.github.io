@@ -74,7 +74,28 @@ ontologies:
       tracker: https://github.com/Occupation-Ontology/OccO/issues
       license:
         url: https://creativecommons.org/licenses/by/4.0/
-        label: CC BY 4.0    
+        label: CC BY 4.0
+    - id: carolio
+      mirror_from: https://raw.githubusercontent.com/TootooniLab/CaroliO/main/CaroliO.owl
+      title: "Caroli's Disease and Syndrome Ontology"
+      contact:
+        email: mtootooni@luc.edu
+        label: Mohammad Samie Tootooni
+        orcid: 0000-0001-7235-4914
+        github: samie3000
+      description: Ontology for Symptoms, Outcomes, and Treatment of Caroli's Disease and Syndrome
+      domain: biological systems
+      homepage: https://github.com/TootooniLab/CaroliO
+      products:
+        - id: carolio.owl
+      dependencies:
+        - id: doid
+        - id: symp
+        - id: ro
+      tracker: https://github.com/TootooniLab/CaroliO/issues
+      license:
+        url: https://creativecommons.org/licenses/by/4.0/
+        label: CC BY 4.0       
 prefer_base: True
 profile:
   baseprofile: "https://raw.githubusercontent.com/ontodev/robot/master/robot-core/src/main/resources/report_profile.txt"
