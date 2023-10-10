@@ -29,10 +29,10 @@ ontologies:
   - CAROLIO
   - CAROLIOALT
   changed: true
-  date: 2023-10-02 14:56:38.386777
+  date: 2023-10-09 13:15:26.356290
   metrics:
     'Axioms: Breakdown of axiom types':
-      AnnotationAssertion: 590
+      AnnotationAssertion: 647
       Declaration: 115
       DisjointClasses: 4
       EquivalentClasses: 8
@@ -46,7 +46,7 @@ ontologies:
       SubDataPropertyOf: 1
       SubObjectPropertyOf: 6
       TransitiveObjectProperty: 6
-    'Axioms: Number of axioms': 902
+    'Axioms: Number of axioms': 959
     'Entities: % of entities reused': 100.0
     'Entities: Number of annotation properties': 16
     'Entities: Number of classes': 87
@@ -62,12 +62,12 @@ ontologies:
       ObjectUnionOf: 2
     'Info: Does the ontology fall under OWL 2 DL?': true
     'Info: Experimental OBO score':
-      _dashboard: 0.704
+      _dashboard: 0.742
       _formula: (1*impact+1*dashboard)/2
       _impact: 0.0
       _impact_external: 0
       _reuse: 1.0
-      oboscore: 0.352
+      oboscore: 0.371
     'Info: How many externally documented uses?': 0
     'Info: How many ontologies use it?': 0
     'Info: Logical consistency': true
@@ -78,20 +78,20 @@ ontologies:
       OGMS: 9
       RO: 40
       SCDO: 3
-      SYMP: 119
-      dc11: 5
-      obo: 291
-      oboInOwl: 314
+      SYMP: 125
+      dc: 1
+      dc11: 4
+      obo: 285
+      oboInOwl: 363
       owl: 4
-      rdfs: 109
+      rdfs: 117
       xsd: 11
     'Info: Which ontologies use it?': []
   mirror_from: https://raw.githubusercontent.com/TootooniLab/CaroliO/main/CaroliO.owl
   namespace: carolio
   results:
     FP01 Open:
-      comment: License should use property 'http://purl.org/dc/terms/license'.
-      status: WARN
+      status: PASS
     FP02 Common Format:
       status: PASS
     FP03 URIs:
@@ -102,9 +102,12 @@ ontologies:
     FP05 Scope:
       status: PASS
     FP06 Textual Definitions:
-      status: PASS
+      comment: 11 missing definitions. See ROBOT Report for details.
+      status: WARN
     FP07 Relations:
-      status: PASS
+      comment: 9 non-RO properties used.
+      file: fp7
+      status: INFO
     FP08 Documented:
       status: PASS
     FP09 Plurality of Users:
@@ -120,28 +123,28 @@ ontologies:
     FP20 Responsiveness:
       status: PASS
     ROBOT Report:
-      comment: 1 errors, 0 warnings, 0 info messages.
+      comment: 11 warnings, 35 info messages.
       file: robot_report
       results:
-        ERROR: 1
-        INFO: 0
-        WARN: 0
-      status: ERROR
-  sha256_hash: 006cb4f9d694bf1d76e32db1d98ec36cbc6af2615a1d475a009b3565c8026a74
+        ERROR: 0
+        INFO: 35
+        WARN: 11
+      status: WARN
+  sha256_hash: cdacaeceae8687d1befa8ed63a3a7972fe6e1628289491a7d2d2754a2fec1770
   summary:
-    comment: 3 errors
+    comment: 2 errors
     status: ERROR
     summary_count:
-      ERROR: 3
-      INFO: 1
-      WARN: 1
+      ERROR: 2
+      INFO: 2
+      WARN: 2
   version: http://purl.obolibrary.org/obo/2023-08-25/carolio.owl
 - base_generated: true
   base_prefixes:
   - GNDO
   - GNDOALT
   changed: true
-  date: 2023-10-02 14:56:15.455079
+  date: 2023-10-09 13:15:00.448932
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 372
@@ -232,31 +235,43 @@ ontologies:
   - OCCO
   - OCCOALT
   changed: true
-  date: 2023-10-02 14:56:34.044504
+  date: 2023-10-09 13:15:21.036611
   metrics:
     'Axioms: Breakdown of axiom types':
-      AnnotationAssertion: 21251
+      AnnotationAssertion: 21509
       AnnotationPropertyRangeOf: 1
       ClassAssertion: 19
-      Declaration: 1876
+      Declaration: 1913
       DifferentIndividuals: 2
-      DisjointClasses: 19
-      EquivalentClasses: 8
+      DisjointClasses: 21
+      EquivalentClasses: 9
+      FunctionalObjectProperty: 1
+      InverseFunctionalObjectProperty: 1
+      InverseObjectProperties: 14
+      IrrefexiveObjectProperty: 1
+      ObjectPropertyDomain: 14
+      ObjectPropertyRange: 15
+      Rule: 4
       SubAnnotationPropertyOf: 17
-      SubClassOf: 12674
-    'Axioms: Number of axioms': 35867
+      SubClassOf: 12680
+      SubObjectPropertyOf: 10
+      SubPropertyChainOf: 2
+      TransitiveObjectProperty: 4
+    'Axioms: Number of axioms': 36237
     'Entities: % of entities reused': 100.0
-    'Entities: Number of annotation properties': 88
-    'Entities: Number of classes': 1769
+    'Entities: Number of annotation properties': 90
+    'Entities: Number of classes': 1774
     'Entities: Number of data properties': 1
     'Entities: Number of individuals': 20
-    'Entities: Number of object properties': 2
+    'Entities: Number of object properties': 32
     'Entities: Number of unsatisfiable classes': 0
     'Info: Breakdown of OWL class expressions used':
-      Class: 26258
+      Class: 26316
       DataHasValue: 928
+      ObjectComplementOf: 2
+      ObjectIntersectionOf: 2
       ObjectOneOf: 3
-      ObjectSomeValuesFrom: 9060
+      ObjectSomeValuesFrom: 9064
     'Info: Does the ontology fall under OWL 2 DL?': true
     'Info: Experimental OBO score':
       _dashboard: 0.749
@@ -270,18 +285,21 @@ ontologies:
     'Info: Logical consistency': true
     'Info: Syntax': RDF/XML Syntax
     'Info: Usage of namespaces in axioms':
-      BFO: 222
-      IAO: 8820
+      BFO: 289
+      IAO: 8990
       NCBITaxon: 3
       OMO: 28
-      dc: 23
-      dc11: 18
+      OMRSE: 16
+      RO: 113
+      dc: 26
+      dc11: 36
       foaf: 2
       obo: 46742
       oboInOwl: 27
-      owl: 2
+      owl: 10
       prefix_unknown: 1
-      rdfs: 1926
+      rdf: 2
+      rdfs: 1981
       xsd: 929
     'Info: Which ontologies use it?': []
   mirror_from: https://raw.githubusercontent.com/Occupation-Ontology/OccO/main/occo.owl
@@ -319,14 +337,14 @@ ontologies:
     FP20 Responsiveness:
       status: PASS
     ROBOT Report:
-      comment: 1109 warnings, 0 info messages.
+      comment: 1110 warnings, 0 info messages.
       file: robot_report
       results:
         ERROR: 0
         INFO: 0
-        WARN: 1109
+        WARN: 1110
       status: WARN
-  sha256_hash: 392c0564f2c3d568a8cd42236d94d0ee6a64eac77337b098328d439d7c8b4bc8
+  sha256_hash: 6a8fddfe2b198965a787b4e06ce9cf460bc1371c109b194bb0b0cfb40d108e82
   summary:
     comment: 2 errors
     status: ERROR
@@ -334,4 +352,4 @@ ontologies:
       ERROR: 2
       INFO: 1
       WARN: 2
-  version: http://purl.obolibrary.org/obo/occo/2023-09-01/occo.owl
+  version: http://purl.obolibrary.org/obo/occo/2023-10-02/occo.owl

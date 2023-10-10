@@ -3,10 +3,10 @@ base_prefixes:
 - CAROLIO
 - CAROLIOALT
 changed: true
-date: 2023-10-02 14:56:38.386777
+date: 2023-10-09 13:15:26.356290
 metrics:
   'Axioms: Breakdown of axiom types':
-    AnnotationAssertion: 590
+    AnnotationAssertion: 647
     Declaration: 115
     DisjointClasses: 4
     EquivalentClasses: 8
@@ -20,7 +20,7 @@ metrics:
     SubDataPropertyOf: 1
     SubObjectPropertyOf: 6
     TransitiveObjectProperty: 6
-  'Axioms: Number of axioms': 902
+  'Axioms: Number of axioms': 959
   'Entities: % of entities reused': 100.0
   'Entities: Number of annotation properties': 16
   'Entities: Number of classes': 87
@@ -36,12 +36,12 @@ metrics:
     ObjectUnionOf: 2
   'Info: Does the ontology fall under OWL 2 DL?': true
   'Info: Experimental OBO score':
-    _dashboard: 0.704
+    _dashboard: 0.742
     _formula: (1*impact+1*dashboard)/2
     _impact: 0.0
     _impact_external: 0
     _reuse: 1.0
-    oboscore: 0.352
+    oboscore: 0.371
   'Info: How many externally documented uses?': 0
   'Info: How many ontologies use it?': 0
   'Info: Logical consistency': true
@@ -52,20 +52,20 @@ metrics:
     OGMS: 9
     RO: 40
     SCDO: 3
-    SYMP: 119
-    dc11: 5
-    obo: 291
-    oboInOwl: 314
+    SYMP: 125
+    dc: 1
+    dc11: 4
+    obo: 285
+    oboInOwl: 363
     owl: 4
-    rdfs: 109
+    rdfs: 117
     xsd: 11
   'Info: Which ontologies use it?': []
 mirror_from: https://raw.githubusercontent.com/TootooniLab/CaroliO/main/CaroliO.owl
 namespace: carolio
 results:
   FP01 Open:
-    comment: License should use property 'http://purl.org/dc/terms/license'.
-    status: WARN
+    status: PASS
   FP02 Common Format:
     status: PASS
   FP03 URIs:
@@ -76,9 +76,12 @@ results:
   FP05 Scope:
     status: PASS
   FP06 Textual Definitions:
-    status: PASS
+    comment: 11 missing definitions. See ROBOT Report for details.
+    status: WARN
   FP07 Relations:
-    status: PASS
+    comment: 9 non-RO properties used.
+    file: fp7
+    status: INFO
   FP08 Documented:
     status: PASS
   FP09 Plurality of Users:
@@ -94,19 +97,19 @@ results:
   FP20 Responsiveness:
     status: PASS
   ROBOT Report:
-    comment: 1 errors, 0 warnings, 0 info messages.
+    comment: 11 warnings, 35 info messages.
     file: robot_report
     results:
-      ERROR: 1
-      INFO: 0
-      WARN: 0
-    status: ERROR
-sha256_hash: 006cb4f9d694bf1d76e32db1d98ec36cbc6af2615a1d475a009b3565c8026a74
+      ERROR: 0
+      INFO: 35
+      WARN: 11
+    status: WARN
+sha256_hash: cdacaeceae8687d1befa8ed63a3a7972fe6e1628289491a7d2d2754a2fec1770
 summary:
-  comment: 3 errors
+  comment: 2 errors
   status: ERROR
   summary_count:
-    ERROR: 3
-    INFO: 1
-    WARN: 1
+    ERROR: 2
+    INFO: 2
+    WARN: 2
 version: http://purl.obolibrary.org/obo/2023-08-25/carolio.owl
