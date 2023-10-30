@@ -3,7 +3,7 @@ base_prefixes:
 - GNDO
 - GNDOALT
 changed: true
-date: 2023-10-23 13:13:09.126676
+date: 2023-10-30 13:11:44.011439
 metrics:
   'Axioms: Breakdown of axiom types':
     AnnotationAssertion: 372
