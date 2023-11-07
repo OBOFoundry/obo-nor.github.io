@@ -29,7 +29,7 @@ ontologies:
   - CAROLIO
   - CAROLIOALT
   changed: true
-  date: 2023-10-30 13:12:06.135541
+  date: 2023-11-06 13:13:45.895366
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 647
@@ -144,7 +144,7 @@ ontologies:
   - GNDO
   - GNDOALT
   changed: true
-  date: 2023-10-30 13:11:44.011439
+  date: 2023-11-06 13:13:22.509411
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 372
@@ -235,7 +235,7 @@ ontologies:
   - OCCO
   - OCCOALT
   changed: true
-  date: 2023-10-30 13:12:01.590288
+  date: 2023-11-06 13:13:41.659215
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 21509
