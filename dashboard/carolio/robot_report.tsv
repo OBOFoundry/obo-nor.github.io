@@ -1,0 +1,47 @@
+Level	Rule Name	Subject	Property	Value
+WARN	missing_definition	obo:CAROLIO_0000223	IAO:0000115	
+WARN	missing_definition	obo:CAROLIO_0000224	IAO:0000115	
+WARN	missing_definition	obo:CAROLIO_0000225	IAO:0000115	
+WARN	missing_definition	obo:CAROLIO_0000226	IAO:0000115	
+WARN	missing_definition	obo:CAROLIO_0000227	IAO:0000115	
+WARN	missing_definition	obo:CAROLIO_0000228	IAO:0000115	
+WARN	missing_definition	obo:CAROLIO_0000410	IAO:0000115	
+WARN	missing_definition	obo:CAROLIO_0000420	IAO:0000115	
+WARN	missing_definition	obo:CAROLIO_0003121	IAO:0000115	
+WARN	missing_definition	obo:CAROLIO_0004111	IAO:0000115	
+WARN	missing_definition	obo:CAROLIO_0004222	IAO:0000115	
+INFO	lowercase_definition	obo:CAROLIO_0000400	IAO:0000115	is a class for values when it is partitioned by a group of subclasses if a) the subclasses are mutually exclusive, i.e. pairwise disjoint; and b) the subclasses completely cover the parent class, i.e. that the union of the subclasses is equal to the parent class.
+INFO	lowercase_definition	obo:CAROLIO_0000411	IAO:0000115	is a pain scale that hasPainScaleValue between 1 and 3
+INFO	lowercase_definition	obo:CAROLIO_0000412	IAO:0000115	is a pain scale that hasPainScaleValue between 4 and 6
+INFO	lowercase_definition	obo:CAROLIO_0000413	IAO:0000115	is a pain scale that hasPainScaleValue of 0
+INFO	lowercase_definition	obo:CAROLIO_0000414	IAO:0000115	is a pain scale that hasPainScaleValue between 7 and 10.
+INFO	lowercase_definition	obo:CAROLIO_0000421	IAO:0000115	is a symptom status that is for a symptom which occurs only once
+INFO	lowercase_definition	obo:CAROLIO_0000422	IAO:0000115	is a symptom status that is for a symptom which occurs more than once
+INFO	lowercase_definition	obo:CAROLIO_0001000	IAO:0000115	it is a bile duct disease that consists of Caroli’s disease and congenital hepatic fibrosis. It is characterized by multiple segmental cystic or saccular dilatations of intrahepatic bile ducts associated with congenital hepatic fibrosis.
+INFO	lowercase_definition	obo:CAROLIO_0002000	IAO:0000115	is a gastrointestinal bleeding symptom that implies on bleeding of varices found throughout the gastrointestinal tract, such as in the esophagus, stomach, and rectum
+INFO	lowercase_definition	obo:CAROLIO_0003100	IAO:0000115	is a nonsurgical technique for treating conditions affecting any part of your digestive tract.
+INFO	lowercase_definition	obo:CAROLIO_0003110	IAO:0000115	is a procedure that uses elastic bands to treat enlarged veins, or varices, in your esophagus. These abnormal veins develop in the esophagus and have thin walls with high blood pressure running through them.
+INFO	lowercase_definition	obo:CAROLIO_0003120	IAO:0000115	is a procedure that combines upper gastrointestinal (GI) endoscopy and x-rays to treat problems of the bile and pancreatic ducts.
+INFO	lowercase_definition	obo:CAROLIO_0003122	IAO:0000115	is a procedure to stretch bile ducts that are too narrow.
+INFO	lowercase_definition	obo:CAROLIO_0003123	IAO:0000115	is a endoscopic treatment  procedure that is performed to open a blocked bile duct. A stent is a small tube made of plastic or metal. The stent helps widen your bile duct and keeps it open.
+INFO	lowercase_definition	obo:CAROLIO_0003124	IAO:0000115	is an endoscopic retrograde cholangio-pancreatography (ERCP) treatment to remove gallstones
+INFO	lowercase_definition	obo:CAROLIO_0003200	IAO:0000115	is a minimally invasive operation in which the surgeon is guided by real time imaging called scopy. Depending on the intervention, the scopy used can be fluoroscopy, scanner (X-rays), echography (ultrasound) or MRI (magnetic resonance) providing between 2 and 30 images per second.
+INFO	lowercase_definition	obo:CAROLIO_0003210	IAO:0000115	is a minimally invasive therapeutic procedures. With the aid of ultrasound guidance, an antitumoral device, drug, or chemical is introduced directly into the tumor and causes tumor death.
+INFO	lowercase_definition	obo:CAROLIO_0003220	IAO:0000115	is a procedure that removes fluid (peritoneal fluid) from the abdomen through a slender needle.
+INFO	lowercase_definition	obo:CAROLIO_0003230	IAO:0000115	is a treatment that often involve placing a drain or catheter percutaneously under imaging guidance.
+INFO	lowercase_definition	obo:CAROLIO_0003240	IAO:0000115	is a procedure performed for diagnostic and/or therapeutic purposes by first accessing the biliary tree with a needle and then usually shortly after that with a catheter (percutaneous biliary drainage or PBD).
+INFO	lowercase_definition	obo:CAROLIO_0003250	IAO:0000115	is a procedure to create new connections between two blood vessels in the liver.
+INFO	lowercase_definition	obo:CAROLIO_0003300	IAO:0000115	is a  treatment of disease through the application of medications (drugs).
+INFO	lowercase_definition	obo:CAROLIO_0003310	IAO:0000115	is a treatment that is used to treat or prevent some types of bacterial infection.
+INFO	lowercase_definition	obo:CAROLIO_0003320	IAO:0000115	is a treatment that uses antimetic drugs to treat vomiting and nausea. Antiemetics are typically used to treat motion sickness and the side effects of opioid analgesics, general anaesthetics, and chemotherapy directed against cancer.
+INFO	lowercase_definition	obo:CAROLIO_0003330	IAO:0000115	is a oral treatment to improve viscosity of bile.
+INFO	lowercase_definition	obo:CAROLIO_0003340	IAO:0000115	is a pharmaceutical treatment that uses powerful chemicals to kill fast-growing cells in your body.
+INFO	lowercase_definition	obo:CAROLIO_0003350	IAO:0000115	is a therapeutic that uses diuretic medicines to help reduce fluid buildup in the body.
+INFO	lowercase_definition	obo:CAROLIO_0003360	IAO:0000115	is a medication treatment used in the management and treatment of acromegaly and thyrotrophinomas.
+INFO	lowercase_definition	obo:CAROLIO_0003370	IAO:0000115	is a medication treatment that work by reducing the amount of stomach acid made by glands in the lining of your stomach.
+INFO	lowercase_definition	obo:CAROLIO_0003380	IAO:0000115	is a topical, oral, or other treatments (e.g., light therapy)  for systemic itching
+INFO	lowercase_definition	obo:CAROLIO_0003400	IAO:0000115	is a treatment that uses high doses of radiation to kill cancer cells and shrink tumors. At low doses, radiation is used in x-rays to see inside body, as with x-rays of your teeth or broken bones. At high doses, radiation therapy kills cancer cells or slows their growth by damaging their DNA.
+INFO	lowercase_definition	obo:CAROLIO_0003500	IAO:0000115	is a medical procedure involving an incision with instruments; performed to repair damage or arrest disease in a living body.
+INFO	lowercase_definition	obo:CAROLIO_0003520	IAO:0000115	is a type of weight-loss surgery that involves creating a small pouch from the stomach and connecting the newly created pouch directly to the small intestine.
+INFO	lowercase_definition	obo:CAROLIO_0003530	IAO:0000115	is a procedure during which part or all of a certain tissue or an organ is removed. An organ or tissue may need to be removed for various reasons, including disease, damage, or trauma.
+INFO	missing_superclass	obo:CAROLIO_0000400	rdfs:subClassOf	
