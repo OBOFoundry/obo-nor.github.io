@@ -26,10 +26,97 @@ oboscore:
 ontologies:
 - base_generated: true
   base_prefixes:
+  - AFPO
+  - AFPOALT
+  changed: true
+  date: 2023-11-10 15:39:34.112678
+  metrics:
+    'Axioms: Breakdown of axiom types':
+      AnnotationAssertion: 6994
+      Declaration: 507
+      SubAnnotationPropertyOf: 12
+      SubClassOf: 1670
+    'Axioms: Number of axioms': 9183
+    'Entities: % of entities reused': 100.0
+    'Entities: Number of annotation properties': 48
+    'Entities: Number of classes': 462
+    'Entities: Number of data properties': 0
+    'Entities: Number of individuals': 0
+    'Entities: Number of object properties': 2
+    'Entities: Number of unsatisfiable classes': 0
+    'Info: Breakdown of OWL class expressions used':
+      Class: 3801
+      ObjectSomeValuesFrom: 1179
+    'Info: Does the ontology fall under OWL 2 DL?': true
+    'Info: Experimental OBO score':
+      _dashboard: 0.8
+      _formula: (1*impact+1*dashboard)/2
+      _impact: 0.0
+      _impact_external: 0
+      _reuse: 1.0
+      oboscore: 0.4
+    'Info: How many externally documented uses?': 0
+    'Info: How many ontologies use it?': 0
+    'Info: Logical consistency': true
+    'Info: Syntax': RDF/XML Syntax
+    'Info: Usage of namespaces in axioms':
+      IAO: 16
+      dc: 99
+      obo: 11182
+      oboInOwl: 96
+      owl: 2
+      prefix_unknown: 14
+      rdfs: 634
+      skos: 1
+    'Info: Which ontologies use it?': []
+  mirror_from: https://raw.githubusercontent.com/h3abionet/afpo/main/afpo.owl
+  namespace: afpo
+  results:
+    FP01 Open:
+      status: PASS
+    FP02 Common Format:
+      status: PASS
+    FP03 URIs:
+      status: PASS
+    FP04 Versioning:
+      comment: Version IRI does not resolve
+      status: ERROR
+    FP05 Scope:
+      status: PASS
+    FP06 Textual Definitions:
+      status: PASS
+    FP07 Relations:
+      status: PASS
+    FP08 Documented:
+      status: PASS
+    FP09 Plurality of Users:
+      comment: Missing usages
+      status: ERROR
+    FP11 Locus of Authority:
+      status: PASS
+    FP12 Naming Conventions:
+      status: PASS
+    FP16 Maintenance:
+      status: PASS
+    FP20 Responsiveness:
+      status: PASS
+    ROBOT Report:
+      status: PASS
+  sha256_hash: 6008b72bf8b683a391558616ae6390222ac525702ff712a4e67df1990e808442
+  summary:
+    comment: 2 errors
+    status: ERROR
+    summary_count:
+      ERROR: 2
+      INFO: 0
+      WARN: 0
+  version: http://purl.obolibrary.org/obo/afpo/releases/2023-10-30/afpo.owl
+- base_generated: true
+  base_prefixes:
   - CAROLIO
   - CAROLIOALT
   changed: true
-  date: 2023-11-06 13:13:45.895366
+  date: 2023-11-10 15:39:22.670477
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 647
@@ -144,7 +231,7 @@ ontologies:
   - GNDO
   - GNDOALT
   changed: true
-  date: 2023-11-06 13:13:22.509411
+  date: 2023-11-10 15:38:40.922211
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 372
@@ -235,7 +322,7 @@ ontologies:
   - OCCO
   - OCCOALT
   changed: true
-  date: 2023-11-06 13:13:41.659215
+  date: 2023-11-10 15:38:58.985472
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 21509
