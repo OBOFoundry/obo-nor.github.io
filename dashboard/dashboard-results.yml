@@ -29,7 +29,7 @@ ontologies:
   - AFPO
   - AFPOALT
   changed: true
-  date: 2023-11-27 13:13:28.414145
+  date: 2023-12-04 13:13:12.345844
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 6994
@@ -116,7 +116,7 @@ ontologies:
   - CAROLIO
   - CAROLIOALT
   changed: true
-  date: 2023-11-27 13:13:24.245508
+  date: 2023-12-04 13:13:08.813217
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 647
@@ -231,7 +231,7 @@ ontologies:
   - GNDO
   - GNDOALT
   changed: true
-  date: 2023-11-27 13:13:00.078982
+  date: 2023-12-04 13:12:46.064049
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 372
@@ -322,7 +322,7 @@ ontologies:
   - OCCO
   - OCCOALT
   changed: true
-  date: 2023-11-27 13:13:19.770924
+  date: 2023-12-04 13:13:04.791642
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 21509
