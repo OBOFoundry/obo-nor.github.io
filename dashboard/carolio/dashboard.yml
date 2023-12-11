@@ -3,7 +3,7 @@ base_prefixes:
 - CAROLIO
 - CAROLIOALT
 changed: true
-date: 2023-12-04 13:13:08.813217
+date: 2023-12-11 13:13:44.143324
 metrics:
   'Axioms: Breakdown of axiom types':
     AnnotationAssertion: 647
