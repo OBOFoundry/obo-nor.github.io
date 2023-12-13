@@ -29,7 +29,7 @@ ontologies:
   - AFPO
   - AFPOALT
   changed: true
-  date: 2023-12-04 13:13:12.345844
+  date: 2023-12-11 13:13:49.257864
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 6994
@@ -116,7 +116,7 @@ ontologies:
   - CAROLIO
   - CAROLIOALT
   changed: true
-  date: 2023-12-04 13:13:08.813217
+  date: 2023-12-11 13:13:44.143324
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 647
@@ -231,7 +231,7 @@ ontologies:
   - GNDO
   - GNDOALT
   changed: true
-  date: 2023-12-04 13:12:46.064049
+  date: 2023-12-11 13:13:20.326261
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 372
@@ -322,13 +322,13 @@ ontologies:
   - OCCO
   - OCCOALT
   changed: true
-  date: 2023-12-04 13:13:04.791642
+  date: 2023-12-11 13:13:39.834329
   metrics:
     'Axioms: Breakdown of axiom types':
-      AnnotationAssertion: 21509
+      AnnotationAssertion: 22130
       AnnotationPropertyRangeOf: 1
       ClassAssertion: 19
-      Declaration: 1913
+      Declaration: 1919
       DifferentIndividuals: 2
       DisjointClasses: 21
       EquivalentClasses: 9
@@ -339,14 +339,14 @@ ontologies:
       ObjectPropertyDomain: 14
       ObjectPropertyRange: 15
       Rule: 4
-      SubAnnotationPropertyOf: 17
+      SubAnnotationPropertyOf: 21
       SubClassOf: 12680
       SubObjectPropertyOf: 10
       SubPropertyChainOf: 2
       TransitiveObjectProperty: 4
-    'Axioms: Number of axioms': 36237
+    'Axioms: Number of axioms': 36868
     'Entities: % of entities reused': 100.0
-    'Entities: Number of annotation properties': 90
+    'Entities: Number of annotation properties': 96
     'Entities: Number of classes': 1774
     'Entities: Number of data properties': 1
     'Entities: Number of individuals': 20
@@ -373,20 +373,20 @@ ontologies:
     'Info: Syntax': RDF/XML Syntax
     'Info: Usage of namespaces in axioms':
       BFO: 289
-      IAO: 8990
+      IAO: 9002
       NCBITaxon: 3
-      OMO: 28
+      OMO: 34
       OMRSE: 16
       RO: 113
-      dc: 26
+      dc: 32
       dc11: 36
       foaf: 2
-      obo: 46742
-      oboInOwl: 27
+      obo: 47143
+      oboInOwl: 231
       owl: 10
       prefix_unknown: 1
       rdf: 2
-      rdfs: 1981
+      rdfs: 1987
       xsd: 929
     'Info: Which ontologies use it?': []
   mirror_from: https://raw.githubusercontent.com/Occupation-Ontology/OccO/main/occo.owl
@@ -404,7 +404,7 @@ ontologies:
     FP05 Scope:
       status: PASS
     FP06 Textual Definitions:
-      comment: 583 missing definitions. See ROBOT Report for details.
+      comment: 585 missing definitions. See ROBOT Report for details.
       status: WARN
     FP07 Relations:
       comment: 3 non-RO properties used.
@@ -424,14 +424,14 @@ ontologies:
     FP20 Responsiveness:
       status: PASS
     ROBOT Report:
-      comment: 1110 warnings, 0 info messages.
+      comment: 1112 warnings, 0 info messages.
       file: robot_report
       results:
         ERROR: 0
         INFO: 0
-        WARN: 1110
+        WARN: 1112
       status: WARN
-  sha256_hash: 6a8fddfe2b198965a787b4e06ce9cf460bc1371c109b194bb0b0cfb40d108e82
+  sha256_hash: cd6a8d55e6b31cae31a8c0cea01eb09e01be7ec1ba1baf6546eaa3b8b1ad72fb
   summary:
     comment: 2 errors
     status: ERROR
@@ -439,4 +439,4 @@ ontologies:
       ERROR: 2
       INFO: 1
       WARN: 2
-  version: http://purl.obolibrary.org/obo/occo/2023-10-02/occo.owl
+  version: http://purl.obolibrary.org/obo/occo/2023-12-09/occo.owl
