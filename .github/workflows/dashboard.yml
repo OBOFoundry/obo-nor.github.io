@@ -11,12 +11,12 @@ on:
 jobs:
   dashboard:
     runs-on: ubuntu-latest
-    container: obolibrary/odkfull:v1.3.1
+    container: obolibrary/odkfull:dev
     strategy:
       max-parallel: 1
     steps:
       - name: Checkout main branch
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: work around permission issue
         run: git config --global --add safe.directory "$GITHUB_WORKSPACE"
       - name: Clean directories
