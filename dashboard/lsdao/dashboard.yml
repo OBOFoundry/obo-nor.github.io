@@ -1,0 +1,140 @@
+base_generated: true
+base_prefixes:
+- LSDAO
+- LSDAOALT
+changed: true
+date: 2024-01-30 17:55:47.556716
+metrics:
+  'Axioms: Breakdown of axiom types':
+    AnnotationAssertion: 7097
+    ClassAssertion: 319
+    DataPropertyDomain: 110
+    DataPropertyRange: 24
+    Declaration: 1272
+    DifferentIndividuals: 2
+    DisjointClasses: 15
+    EquivalentClasses: 36
+    EquivalentObjectProperties: 12
+    FunctionalObjectProperty: 2
+    InverseFunctionalObjectProperty: 1
+    InverseObjectProperties: 30
+    IrrefexiveObjectProperty: 1
+    ObjectPropertyAssertion: 10
+    ObjectPropertyDomain: 121
+    ObjectPropertyRange: 38
+    Rule: 25
+    SubAnnotationPropertyOf: 6
+    SubClassOf: 465
+    SubDataPropertyOf: 3
+    SubObjectPropertyOf: 133
+    SubPropertyChainOf: 53
+    SymmetricObjectProperty: 3
+    TransitiveObjectProperty: 13
+  'Axioms: Number of axioms': 9791
+  'Entities: % of entities reused': 100.0
+  'Entities: Number of annotation properties': 119
+  'Entities: Number of classes': 367
+  'Entities: Number of data properties': 153
+  'Entities: Number of individuals': 309
+  'Entities: Number of object properties': 328
+  'Entities: Number of unsatisfiable classes': 0
+  'Info: Breakdown of OWL class expressions used':
+    Class: 2032
+    DataMaxCardinality: 7
+    DataMinCardinality: 4
+    DataSomeValuesFrom: 10
+    ObjectAllValuesFrom: 16
+    ObjectExactCardinality: 1
+    ObjectHasSelf: 1
+    ObjectIntersectionOf: 33
+    ObjectMinCardinality: 1
+    ObjectOneOf: 3
+    ObjectSomeValuesFrom: 171
+    ObjectUnionOf: 106
+  'Info: Does the ontology fall under OWL 2 DL?': false
+  'Info: Experimental OBO score':
+    _dashboard: 0.756
+    _formula: (1*impact+1*dashboard)/2
+    _impact: 0.0
+    _impact_external: 0
+    _reuse: 1.0
+    oboscore: 0.378
+  'Info: How many externally documented uses?': 0
+  'Info: How many ontologies use it?': 0
+  'Info: Logical consistency': true
+  'Info: Syntax': RDF/XML Syntax
+  'Info: Usage of namespaces in axioms':
+    APOLLO_SV: 12
+    BFO: 285
+    GO: 21
+    IAO: 3726
+    NCBITaxon: 47
+    NCIT: 2
+    OBI: 1159
+    PATO: 3
+    RO: 734
+    UBERON: 8
+    UO: 176
+    dc: 359
+    dc11: 122
+    foaf: 14
+    obo: 982
+    oboInOwl: 152
+    owl: 30
+    prefix_unknown: 771
+    prov: 2
+    rdf: 105
+    rdfs: 2453
+    schema: 4
+    skos: 615
+    xsd: 38
+  'Info: Which ontologies use it?': []
+mirror_from: https://raw.githubusercontent.com/nasa/LSDAO/master/lsdao.owl
+namespace: lsdao
+results:
+  FP01 Open:
+    status: PASS
+  FP02 Common Format:
+    status: PASS
+  FP03 URIs:
+    status: PASS
+  FP04 Versioning:
+    comment: Version IRI does not resolve
+    status: ERROR
+  FP05 Scope:
+    status: PASS
+  FP06 Textual Definitions:
+    comment: 1 missing definitions. See ROBOT Report for details.
+    status: WARN
+  FP07 Relations:
+    status: PASS
+  FP08 Documented:
+    status: PASS
+  FP09 Plurality of Users:
+    comment: Missing usages
+    status: ERROR
+  FP11 Locus of Authority:
+    status: PASS
+  FP12 Naming Conventions:
+    status: PASS
+  FP16 Maintenance:
+    status: PASS
+  FP20 Responsiveness:
+    status: PASS
+  ROBOT Report:
+    comment: 1 warnings, 1 info messages.
+    file: robot_report
+    results:
+      ERROR: 0
+      INFO: 1
+      WARN: 1
+    status: WARN
+sha256_hash: 212910d2aa3df7b114a91ee6833ca074a7531fbb4e1f4546a175de5b9dc0a447
+summary:
+  comment: 2 errors
+  status: ERROR
+  summary_count:
+    ERROR: 2
+    INFO: 0
+    WARN: 2
+version: http://purl.obolibrary.org/obo/lsdao/releases/2024-01-30/lsdao.owl
