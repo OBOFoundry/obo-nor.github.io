@@ -109,7 +109,33 @@ ontologies:
       tracker: https://github.com/nasa/LSDAO/issues
       license:
         url: https://creativecommons.org/licenses/by/3.0/
-        label: CC BY 3.0      
+        label: CC BY 3.0
+    - id: gallont
+      mirror_from: https://raw.githubusercontent.com/adeans/gallont/main/gallont.owl
+      title: "Plant Gall Ontology"
+      contact:
+        email: adeans@psu.edu
+        label: Andy Deans
+        orcid: 0000-0002-2119-4663
+        github: adeans
+      description: Ontology of plant gall phenotypes
+      domain: phenotype
+      homepage: https://github.com/adeans/gallont/tree/main
+      products:
+        - id: lsdao.owl
+      dependencies:
+        - id: pato
+        - id: po
+        - id: ro
+        - id: flopo
+        - id: caro
+        - id: obi
+        - id: poro
+        - id: ncbitaxon
+      tracker: https://github.com/adeans/gallont/issues
+      license:
+        url: https://creativecommons.org/publicdomain/zero/1.0/
+        label: CC0 1.0        
 prefer_base: True
 profile:
   baseprofile: "https://raw.githubusercontent.com/ontodev/robot/master/robot-core/src/main/resources/report_profile.txt"
