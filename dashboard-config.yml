@@ -32,26 +32,6 @@ ontologies:
   #registry: "https://raw.githubusercontent.com/OBOFoundry/OBOFoundry.github.io/master/registry/ontologies.yml"
   #todo, deal with: bto chebi dron gaz ncbitaxon ncit pr uberon
   custom:
-    - id: gndo
-      mirror_from: https://gitlab.com/endless-forms-studio/gndo/-/raw/main/gndo.owl
-      title: "Graphic Notation and Descriptor Ontology"
-      contact:
-        email: mclarkson@uky.edu
-        label: Melissa Clarkson
-        orcid: 0000-0001-9979-176X
-        github: melissaclarkson
-      description: The GNDO applies the language of visual communication, illustration, and technical drawing to describe graphics and their components.
-      domain: information
-      homepage: https://gitlab.com/endless-forms-studio/gndo/-/wikis/home
-      products:
-        - id: gndo.owl
-      dependencies:
-        - id: bfo
-        - id: iao
-      tracker: https://gitlab.com/endless-forms-studio/gndo/-/issues
-      license:
-        url: https://creativecommons.org/licenses/by/4.0/
-        label: CC BY 4.0    
     - id: carolio
       mirror_from: https://raw.githubusercontent.com/TootooniLab/CaroliO/main/CaroliO.owl
       title: "Caroli's Disease and Syndrome Ontology"
