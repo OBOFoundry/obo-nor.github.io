@@ -3,7 +3,7 @@ base_prefixes:
 - LSDAO
 - LSDAOALT
 changed: true
-date: 2024-02-05 15:19:44.548967
+date: 2024-02-12 13:09:41.929041
 metrics:
   'Axioms: Breakdown of axiom types':
     AnnotationAssertion: 7097
