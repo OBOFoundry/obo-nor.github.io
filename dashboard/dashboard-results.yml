@@ -29,7 +29,7 @@ ontologies:
   - AFPO
   - AFPOALT
   changed: true
-  date: 2024-02-12 13:09:38.157830
+  date: 2024-02-26 13:09:29.514828
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 6994
@@ -116,7 +116,7 @@ ontologies:
   - CAROLIO
   - CAROLIOALT
   changed: true
-  date: 2024-02-12 13:09:33.624499
+  date: 2024-02-26 13:09:25.340231
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 647
@@ -230,7 +230,7 @@ ontologies:
   - GALLONT
   - GALLONTALT
   changed: true
-  date: 2024-02-12 13:09:46.642699
+  date: 2024-02-26 13:09:39.100364
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 4057
@@ -362,14 +362,14 @@ ontologies:
   - LSDAO
   - LSDAOALT
   changed: true
-  date: 2024-02-12 13:09:41.929041
+  date: 2024-02-26 13:09:34.683263
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 7097
       ClassAssertion: 319
       DataPropertyDomain: 110
       DataPropertyRange: 24
-      Declaration: 1272
+      Declaration: 1271
       DifferentIndividuals: 2
       DisjointClasses: 15
       EquivalentClasses: 36
@@ -383,22 +383,22 @@ ontologies:
       ObjectPropertyRange: 38
       Rule: 25
       SubAnnotationPropertyOf: 6
-      SubClassOf: 465
+      SubClassOf: 467
       SubDataPropertyOf: 3
       SubObjectPropertyOf: 133
       SubPropertyChainOf: 53
       SymmetricObjectProperty: 3
       TransitiveObjectProperty: 13
-    'Axioms: Number of axioms': 9791
+    'Axioms: Number of axioms': 9792
     'Entities: % of entities reused': 100.0
     'Entities: Number of annotation properties': 119
-    'Entities: Number of classes': 367
+    'Entities: Number of classes': 366
     'Entities: Number of data properties': 153
     'Entities: Number of individuals': 309
     'Entities: Number of object properties': 328
     'Entities: Number of unsatisfiable classes': 0
     'Info: Breakdown of OWL class expressions used':
-      Class: 2032
+      Class: 2035
       DataMaxCardinality: 7
       DataMinCardinality: 4
       DataSomeValuesFrom: 10
@@ -412,21 +412,21 @@ ontologies:
       ObjectUnionOf: 106
     'Info: Does the ontology fall under OWL 2 DL?': false
     'Info: Experimental OBO score':
-      _dashboard: 0.756
+      _dashboard: 0.593
       _formula: (1*impact+1*dashboard)/2
       _impact: 0.0
       _impact_external: 0
       _reuse: 1.0
-      oboscore: 0.378
+      oboscore: 0.296
     'Info: How many externally documented uses?': 0
     'Info: How many ontologies use it?': 0
     'Info: Logical consistency': true
     'Info: Syntax': RDF/XML Syntax
     'Info: Usage of namespaces in axioms':
       APOLLO_SV: 12
-      BFO: 285
+      BFO: 286
       GO: 21
-      IAO: 3726
+      IAO: 3727
       NCBITaxon: 47
       NCIT: 2
       OBI: 1159
@@ -437,7 +437,7 @@ ontologies:
       dc: 359
       dc11: 122
       foaf: 14
-      obo: 982
+      obo: 983
       oboInOwl: 152
       owl: 30
       prefix_unknown: 771
@@ -463,10 +463,13 @@ ontologies:
     FP05 Scope:
       status: PASS
     FP06 Textual Definitions:
-      comment: 1 missing definitions. See ROBOT Report for details.
-      status: WARN
+      comment: 2 duplicate definitions.  68 missing definitions. See ROBOT Report
+        for details.
+      status: ERROR
     FP07 Relations:
-      status: PASS
+      comment: 114 non-RO properties used.
+      file: fp7
+      status: INFO
     FP08 Documented:
       status: PASS
     FP09 Plurality of Users:
@@ -475,25 +478,26 @@ ontologies:
     FP11 Locus of Authority:
       status: PASS
     FP12 Naming Conventions:
-      status: PASS
+      comment: 30 duplicate labels. See ROBOT Report for details.
+      status: ERROR
     FP16 Maintenance:
       status: PASS
     FP20 Responsiveness:
       status: PASS
     ROBOT Report:
-      comment: 1 warnings, 1 info messages.
+      comment: 32 errors, 76 warnings, 2 info messages.
       file: robot_report
       results:
-        ERROR: 0
-        INFO: 1
-        WARN: 1
-      status: WARN
-  sha256_hash: 212910d2aa3df7b114a91ee6833ca074a7531fbb4e1f4546a175de5b9dc0a447
+        ERROR: 32
+        INFO: 2
+        WARN: 76
+      status: ERROR
+  sha256_hash: d7ad6141b457232cc2cfb613e1e4dba1b1bfbbe4e0ae7fdf05466e98d5f53a32
   summary:
-    comment: 2 errors
+    comment: 5 errors
     status: ERROR
     summary_count:
-      ERROR: 2
-      INFO: 0
-      WARN: 2
-  version: http://purl.obolibrary.org/obo/lsdao/releases/2024-01-30/lsdao.owl
+      ERROR: 5
+      INFO: 1
+      WARN: 0
+  version: http://purl.obolibrary.org/obo/lsdao/releases/2024-02-23/lsdao.owl
