@@ -29,24 +29,34 @@ ontologies:
   - AFPO
   - AFPOALT
   changed: true
-  date: 2024-02-26 13:09:29.514828
+  date: 2024-04-01 13:09:43.253189
   metrics:
     'Axioms: Breakdown of axiom types':
-      AnnotationAssertion: 6994
-      Declaration: 507
-      SubAnnotationPropertyOf: 12
-      SubClassOf: 1670
-    'Axioms: Number of axioms': 9183
+      AnnotationAssertion: 8928
+      ClassAssertion: 19
+      Declaration: 555
+      DifferentIndividuals: 2
+      DisjointClasses: 2
+      EquivalentClasses: 3
+      InverseObjectProperties: 1
+      ObjectPropertyDomain: 2
+      ObjectPropertyRange: 2
+      SubAnnotationPropertyOf: 16
+      SubClassOf: 1748
+      TransitiveObjectProperty: 1
+    'Axioms: Number of axioms': 11279
     'Entities: % of entities reused': 100.0
-    'Entities: Number of annotation properties': 48
-    'Entities: Number of classes': 462
+    'Entities: Number of annotation properties': 62
+    'Entities: Number of classes': 473
     'Entities: Number of data properties': 0
-    'Entities: Number of individuals': 0
-    'Entities: Number of object properties': 2
+    'Entities: Number of individuals': 19
+    'Entities: Number of object properties': 3
     'Entities: Number of unsatisfiable classes': 0
     'Info: Breakdown of OWL class expressions used':
-      Class: 3801
-      ObjectSomeValuesFrom: 1179
+      Class: 4003
+      ObjectAllValuesFrom: 59
+      ObjectOneOf: 3
+      ObjectSomeValuesFrom: 1189
     'Info: Does the ontology fall under OWL 2 DL?': true
     'Info: Experimental OBO score':
       _dashboard: 0.8
@@ -60,14 +70,24 @@ ontologies:
     'Info: Logical consistency': true
     'Info: Syntax': RDF/XML Syntax
     'Info: Usage of namespaces in axioms':
-      IAO: 16
+      BFO: 4
+      COB: 5
+      GAZ: 8
+      HANCESTRO: 497
+      IAO: 531
+      NCIT: 64
+      OBI: 9
+      OMO: 5
+      RO: 61
       dc: 99
-      obo: 11182
-      oboInOwl: 96
-      owl: 2
-      prefix_unknown: 14
-      rdfs: 634
+      dc11: 8
+      obo: 10819
+      oboInOwl: 411
+      prefix_unknown: 1450
+      rdf: 291
+      rdfs: 667
       skos: 1
+      xsd: 1
     'Info: Which ontologies use it?': []
   mirror_from: https://raw.githubusercontent.com/h3abionet/afpo/main/afpo.owl
   namespace: afpo
@@ -102,7 +122,7 @@ ontologies:
       status: PASS
     ROBOT Report:
       status: PASS
-  sha256_hash: 6008b72bf8b683a391558616ae6390222ac525702ff712a4e67df1990e808442
+  sha256_hash: f6704f64a284bba05f9736172bcb0f058c4cc3759273a84d2ad53a8461f30765
   summary:
     comment: 2 errors
     status: ERROR
@@ -110,13 +130,13 @@ ontologies:
       ERROR: 2
       INFO: 0
       WARN: 0
-  version: http://purl.obolibrary.org/obo/afpo/releases/2023-10-30/afpo.owl
+  version: http://purl.obolibrary.org/obo/afpo/releases/2024-03-21/afpo.owl
 - base_generated: true
   base_prefixes:
   - CAROLIO
   - CAROLIOALT
   changed: true
-  date: 2024-02-26 13:09:25.340231
+  date: 2024-04-01 13:09:39.005109
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 647
@@ -229,44 +249,45 @@ ontologies:
   base_prefixes:
   - GALLONT
   - GALLONTALT
+  - GALLONT
   changed: true
-  date: 2024-02-26 13:09:39.100364
+  date: 2024-04-01 13:09:51.916258
   metrics:
     'Axioms: Breakdown of axiom types':
-      AnnotationAssertion: 4057
+      AnnotationAssertion: 4203
       ClassAssertion: 2
-      Declaration: 591
+      Declaration: 627
       DifferentIndividuals: 1
       DisjointClasses: 32
       EquivalentClasses: 37
       FunctionalObjectProperty: 2
       InverseFunctionalObjectProperty: 1
       InverseObjectProperties: 25
-      ObjectPropertyDomain: 30
+      ObjectPropertyDomain: 31
       ObjectPropertyRange: 32
       ReflexiveObjectProperty: 1
-      Rule: 25
-      SubAnnotationPropertyOf: 53
-      SubClassOf: 470
+      Rule: 41
+      SubAnnotationPropertyOf: 54
+      SubClassOf: 510
       SubObjectPropertyOf: 138
       SubPropertyChainOf: 59
       SymmetricObjectProperty: 4
       TransitiveObjectProperty: 15
-    'Axioms: Number of axioms': 5575
+    'Axioms: Number of axioms': 5815
     'Entities: % of entities reused': 100.0
-    'Entities: Number of annotation properties': 121
-    'Entities: Number of classes': 340
+    'Entities: Number of annotation properties': 124
+    'Entities: Number of classes': 374
     'Entities: Number of data properties': 0
     'Entities: Number of individuals': 9
     'Entities: Number of object properties': 125
     'Entities: Number of unsatisfiable classes': 0
     'Info: Breakdown of OWL class expressions used':
-      Class: 1525
-      ObjectAllValuesFrom: 6
+      Class: 1644
+      ObjectAllValuesFrom: 8
       ObjectHasSelf: 1
       ObjectIntersectionOf: 35
       ObjectOneOf: 1
-      ObjectSomeValuesFrom: 150
+      ObjectSomeValuesFrom: 151
       ObjectUnionOf: 1
     'Info: Does the ontology fall under OWL 2 DL?': true
     'Info: Experimental OBO score':
@@ -281,30 +302,31 @@ ontologies:
     'Info: Logical consistency': true
     'Info: Syntax': RDF/XML Syntax
     'Info: Usage of namespaces in axioms':
-      BFO: 262
-      CARO: 5
+      BFO: 271
+      CARO: 9
       CHEBI: 4
       FLOPO: 2
-      GO: 23
-      IAO: 816
-      NCBITaxon: 17
+      GO: 28
+      IAO: 817
+      NCBITaxon: 101
       NCIT: 2
       OBI: 7
+      OMO: 2
       PATO: 602
       PO: 595
-      RO: 830
+      RO: 869
       UBERON: 9
-      dc: 90
-      dc11: 58
+      dc: 158
+      dc11: 9
       foaf: 2
-      obo: 253
-      oboInOwl: 3201
-      owl: 2
-      prefix_unknown: 3
-      rdf: 609
-      rdfs: 831
+      obo: 287
+      oboInOwl: 3291
+      owl: 5
+      prefix_unknown: 4
+      rdf: 620
+      rdfs: 891
       skos: 3
-      xsd: 6
+      xsd: 7
     'Info: Which ontologies use it?': []
   mirror_from: https://raw.githubusercontent.com/adeans/gallont/main/gallont.owl
   namespace: gallont
@@ -321,7 +343,7 @@ ontologies:
     FP05 Scope:
       status: PASS
     FP06 Textual Definitions:
-      comment: 2 missing definitions. See ROBOT Report for details.
+      comment: 9 missing definitions. See ROBOT Report for details.
       status: WARN
     FP07 Relations:
       comment: 1 non-RO properties used.
@@ -341,14 +363,14 @@ ontologies:
     FP20 Responsiveness:
       status: PASS
     ROBOT Report:
-      comment: 2 warnings, 0 info messages.
+      comment: 10 warnings, 0 info messages.
       file: robot_report
       results:
         ERROR: 0
         INFO: 0
-        WARN: 2
+        WARN: 10
       status: WARN
-  sha256_hash: a8ed574fd5deac1ebca26ae7a802585b6f7f9cada282d6b2e5c8a026aa449503
+  sha256_hash: 1c2e53c1c130a5de473d5661bddbd18de1328882c281a425baa76fa5fa2c9354
   summary:
     comment: 2 errors
     status: ERROR
@@ -356,13 +378,13 @@ ontologies:
       ERROR: 2
       INFO: 1
       WARN: 2
-  version: http://purl.obolibrary.org/obo/gallont/releases/2024-02-06/gallont.owl
+  version: http://purl.obolibrary.org/obo/gallont/releases/2024-03-27/gallont.owl
 - base_generated: true
   base_prefixes:
   - LSDAO
   - LSDAOALT
   changed: true
-  date: 2024-02-26 13:09:34.683263
+  date: 2024-04-01 13:09:48.181845
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 7097
