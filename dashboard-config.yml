@@ -52,26 +52,9 @@ ontologies:
       tracker: https://github.com/TootooniLab/CaroliO/issues
       license:
         url: https://creativecommons.org/licenses/by/4.0/
-        label: CC BY 4.0
-    - id: afpo
-      mirror_from: https://raw.githubusercontent.com/h3abionet/afpo/main/afpo.owl
-      title: "African Population Ontology"
-      contact:
-        email: mcmelek@msn.com
-        label: Melek Chaouch
-        orcid: 0000-0001-5868-4204
-        github: Melek-C
-      description: AfPO is a tool which enables to annotate the African individuals, and brings together knowledge accumulated about existing populations with their genetic fingerprint in a standardized format.
-      domain: phenotype
-      homepage: https://github.com/h3abionet/afpo
-      products:
-        - id: afpo.owl
-      tracker: https://github.com/h3abionet/afpo/issues
-      license:
-        url: https://creativecommons.org/licenses/by/4.0/
-        label: CC BY 4.0       
-    - id: lsdao
-      mirror_from: https://raw.githubusercontent.com/nasa/LSDAO/master/lsdao.owl
+        label: CC BY 4.0    
+    - id: slso
+      mirror_from: https://raw.githubusercontent.com/nasa/LSDAO/v2024-03-26/slso.owl
       title: "Space Life Sciences Ontology"
       contact:
         email: daniel.c.berrios@nasa.gov
@@ -82,7 +65,7 @@ ontologies:
       domain: investigations
       homepage: https://github.com/nasa/LSDAO
       products:
-        - id: lsdao.owl
+        - id: slso.owl
       dependencies:
         - id: obi
         - id: bfo
@@ -90,32 +73,6 @@ ontologies:
       license:
         url: https://creativecommons.org/licenses/by/3.0/
         label: CC BY 3.0
-    - id: gallont
-      mirror_from: https://raw.githubusercontent.com/adeans/gallont/main/gallont.owl
-      title: "Plant Gall Ontology"
-      contact:
-        email: adeans@psu.edu
-        label: Andy Deans
-        orcid: 0000-0002-2119-4663
-        github: adeans
-      description: Ontology of plant gall phenotypes
-      domain: phenotype
-      homepage: https://github.com/adeans/gallont/tree/main
-      products:
-        - id: lsdao.owl
-      dependencies:
-        - id: pato
-        - id: po
-        - id: ro
-        - id: flopo
-        - id: caro
-        - id: obi
-        - id: poro
-        - id: ncbitaxon
-      tracker: https://github.com/adeans/gallont/issues
-      license:
-        url: https://creativecommons.org/publicdomain/zero/1.0/
-        label: CC0 1.0        
 prefer_base: True
 profile:
   baseprofile: "https://raw.githubusercontent.com/ontodev/robot/master/robot-core/src/main/resources/report_profile.txt"
