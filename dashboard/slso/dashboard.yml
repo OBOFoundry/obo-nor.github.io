@@ -1,96 +1,108 @@
 base_generated: true
 base_prefixes:
-- LSDAO
-- LSDAOALT
+- SLSO
+- SLSOALT
 changed: true
-date: 2024-04-01 13:09:48.181845
+date: 2024-04-02 18:01:49.632093
 metrics:
   'Axioms: Breakdown of axiom types':
-    AnnotationAssertion: 7097
-    ClassAssertion: 319
-    DataPropertyDomain: 110
-    DataPropertyRange: 24
-    Declaration: 1271
+    AnnotationAssertion: 7682
+    AsymmetricObjectProperty: 2
+    ClassAssertion: 326
+    DataPropertyDomain: 91
+    DataPropertyRange: 25
+    Declaration: 1331
     DifferentIndividuals: 2
-    DisjointClasses: 15
-    EquivalentClasses: 36
+    DisjointClasses: 19
+    EquivalentClasses: 51
     EquivalentObjectProperties: 12
     FunctionalObjectProperty: 2
     InverseFunctionalObjectProperty: 1
-    InverseObjectProperties: 30
+    InverseObjectProperties: 34
     IrrefexiveObjectProperty: 1
     ObjectPropertyAssertion: 10
-    ObjectPropertyDomain: 121
-    ObjectPropertyRange: 38
-    Rule: 25
+    ObjectPropertyDomain: 128
+    ObjectPropertyRange: 43
+    Rule: 41
     SubAnnotationPropertyOf: 6
-    SubClassOf: 467
+    SubClassOf: 565
     SubDataPropertyOf: 3
-    SubObjectPropertyOf: 133
+    SubObjectPropertyOf: 137
     SubPropertyChainOf: 53
     SymmetricObjectProperty: 3
     TransitiveObjectProperty: 13
-  'Axioms: Number of axioms': 9792
+  'Axioms: Number of axioms': 10581
   'Entities: % of entities reused': 100.0
-  'Entities: Number of annotation properties': 119
-  'Entities: Number of classes': 366
-  'Entities: Number of data properties': 153
-  'Entities: Number of individuals': 309
-  'Entities: Number of object properties': 328
+  'Entities: Number of annotation properties': 128
+  'Entities: Number of classes': 416
+  'Entities: Number of data properties': 135
+  'Entities: Number of individuals': 316
+  'Entities: Number of object properties': 340
   'Entities: Number of unsatisfiable classes': 0
   'Info: Breakdown of OWL class expressions used':
-    Class: 2035
+    Class: 2345
     DataMaxCardinality: 7
     DataMinCardinality: 4
-    DataSomeValuesFrom: 10
-    ObjectAllValuesFrom: 16
+    DataSomeValuesFrom: 12
+    ObjectAllValuesFrom: 21
+    ObjectComplementOf: 2
     ObjectExactCardinality: 1
     ObjectHasSelf: 1
-    ObjectIntersectionOf: 33
-    ObjectMinCardinality: 1
-    ObjectOneOf: 3
-    ObjectSomeValuesFrom: 171
-    ObjectUnionOf: 106
+    ObjectIntersectionOf: 46
+    ObjectMinCardinality: 2
+    ObjectOneOf: 4
+    ObjectSomeValuesFrom: 230
+    ObjectUnionOf: 118
   'Info: Does the ontology fall under OWL 2 DL?': false
   'Info: Experimental OBO score':
-    _dashboard: 0.593
+    _dashboard: 0.749
     _formula: (1*impact+1*dashboard)/2
     _impact: 0.0
     _impact_external: 0
     _reuse: 1.0
-    oboscore: 0.296
+    oboscore: 0.374
   'Info: How many externally documented uses?': 0
   'Info: How many ontologies use it?': 0
   'Info: Logical consistency': true
   'Info: Syntax': RDF/XML Syntax
   'Info: Usage of namespaces in axioms':
     APOLLO_SV: 12
-    BFO: 286
-    GO: 21
-    IAO: 3727
-    NCBITaxon: 47
+    BFO: 335
+    ExO: 56
+    GENO: 158
+    GO: 28
+    IAO: 4146
+    NCBITaxon: 53
     NCIT: 2
-    OBI: 1159
+    OBI: 1208
+    OBIB: 40
+    OGMS: 3
+    OMO: 3
+    OMRSE: 24
     PATO: 3
-    RO: 734
+    PCO: 3
+    RBO: 2
+    RO: 793
+    SO: 15
+    T4FS: 2
     UBERON: 8
     UO: 176
-    dc: 359
-    dc11: 122
-    foaf: 14
-    obo: 983
-    oboInOwl: 152
-    owl: 30
-    prefix_unknown: 771
+    dc: 363
+    dc11: 123
+    foaf: 16
+    obo: 889
+    oboInOwl: 288
+    owl: 36
+    prefix_unknown: 773
     prov: 2
-    rdf: 105
-    rdfs: 2453
+    rdf: 131
+    rdfs: 2607
     schema: 4
     skos: 615
-    xsd: 38
+    xsd: 47
   'Info: Which ontologies use it?': []
-mirror_from: https://raw.githubusercontent.com/nasa/LSDAO/master/lsdao.owl
-namespace: lsdao
+mirror_from: https://raw.githubusercontent.com/nasa/LSDAO/v2024-03-26/slso.owl
+namespace: slso
 results:
   FP01 Open:
     status: PASS
@@ -104,11 +116,10 @@ results:
   FP05 Scope:
     status: PASS
   FP06 Textual Definitions:
-    comment: 2 duplicate definitions.  68 missing definitions. See ROBOT Report for
-      details.
-    status: ERROR
+    comment: 50 missing definitions. See ROBOT Report for details.
+    status: WARN
   FP07 Relations:
-    comment: 114 non-RO properties used.
+    comment: 103 non-RO properties used.
     file: fp7
     status: INFO
   FP08 Documented:
@@ -119,26 +130,25 @@ results:
   FP11 Locus of Authority:
     status: PASS
   FP12 Naming Conventions:
-    comment: 30 duplicate labels. See ROBOT Report for details.
-    status: ERROR
+    status: PASS
   FP16 Maintenance:
     status: PASS
   FP20 Responsiveness:
     status: PASS
   ROBOT Report:
-    comment: 32 errors, 76 warnings, 2 info messages.
+    comment: 58 warnings, 2 info messages.
     file: robot_report
     results:
-      ERROR: 32
+      ERROR: 0
       INFO: 2
-      WARN: 76
-    status: ERROR
-sha256_hash: d7ad6141b457232cc2cfb613e1e4dba1b1bfbbe4e0ae7fdf05466e98d5f53a32
+      WARN: 58
+    status: WARN
+sha256_hash: 6ae138bc4f4afd7d04de0a996f284d7d9b6a1f51db5d56d9ad377eb8e14a2daf
 summary:
-  comment: 5 errors
+  comment: 2 errors
   status: ERROR
   summary_count:
-    ERROR: 5
+    ERROR: 2
     INFO: 1
-    WARN: 0
-version: http://purl.obolibrary.org/obo/lsdao/releases/2024-02-23/lsdao.owl
+    WARN: 2
+version: http://purl.obolibrary.org/obo/slso/releases/2024-03-26/slso.owl
