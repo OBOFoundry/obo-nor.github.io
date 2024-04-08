@@ -4,7 +4,7 @@ base_prefixes:
 - SLSOALT
 - SLSO
 changed: true
-date: 2024-04-08 13:10:02.169627
+date: 2024-04-08 15:12:49.598014
 metrics:
   'Axioms: Breakdown of axiom types':
     AnnotationAssertion: 7682
