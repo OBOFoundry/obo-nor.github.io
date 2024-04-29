@@ -53,26 +53,6 @@ ontologies:
       license:
         url: https://creativecommons.org/licenses/by/4.0/
         label: CC BY 4.0    
-    - id: slso
-      mirror_from: https://raw.githubusercontent.com/nasa/LSDAO/v2024-03-26/slso.owl
-      title: "Space Life Sciences Ontology"
-      contact:
-        email: daniel.c.berrios@nasa.gov
-        label: Dan Berrios
-        orcid: 0000-0003-4312-9552
-        github: DanBerrios
-      description: The Space Life Sciences Ontology is an application ontology and is intended to support the operation of NASA's Life Sciences Data Archive and other systems that contain space life science research data.
-      domain: investigations
-      homepage: https://github.com/nasa/LSDAO
-      products:
-        - id: slso.owl
-      dependencies:
-        - id: obi
-        - id: bfo
-      tracker: https://github.com/nasa/LSDAO/issues
-      license:
-        url: https://creativecommons.org/licenses/by/3.0/
-        label: CC BY 3.0
     - id: pbpko
       mirror_from: https://raw.githubusercontent.com/Crispae/pbpko/main/pbpko.owl
       title: "Physiologically based pharmacokinetic modelling ontology"
