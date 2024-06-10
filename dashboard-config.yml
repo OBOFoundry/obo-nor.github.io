@@ -32,23 +32,6 @@ ontologies:
   #registry: "https://raw.githubusercontent.com/OBOFoundry/OBOFoundry.github.io/master/registry/ontologies.yml"
   #todo, deal with: bto chebi dron gaz ncbitaxon ncit pr uberon
   custom:
-    - id: bmo
-      mirror_from: https://raw.githubusercontent.com/Astghik-S/BMO/main/BMO-merged.owl
-      title: "Biomarker Ontology"
-      contact:
-        email: alpha.tom.kodamullil@scai.fraunhofer.de
-        label: Alpha Tom Kodamullil
-        orcid: https://orcid.org/0000-0001-9896-3531
-        github: akodamullil
-      description: The Biomarker Ontolody comprises a comprehensive knowledge involving a variety of fields of medical and biological aspects.
-      domain: health
-      homepage: https://github.com/Astghik-S/BMO
-      products:
-        - id: BMO-merged.owl
-      tracker: https://github.com/Astghik-S/BMO/issues
-      license:
-        url: https://creativecommons.org/licenses/by/4.0/
-        label: CC BY 4.0
     - id: pbpko
       mirror_from: https://raw.githubusercontent.com/Crispae/pbpko/main/pbpko.owl
       title: "Physiologically based pharmacokinetic modelling ontology"
