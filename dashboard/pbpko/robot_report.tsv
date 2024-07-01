@@ -1,3 +1,200 @@
 Level	Rule Name	Subject	Property	Value
+ERROR	label_whitespace	obo:PBPKO_00008	rdfs:label	Body Mass Index 
+ERROR	label_whitespace	obo:PBPKO_00307	rdfs:label	Vmax_baso_in vitro 
+WARN	annotation_whitespace	obo:PBPKO_00009	IAO:0000115	 Mass or quantity of heaviness of an individual. 
+WARN	annotation_whitespace	obo:PBPKO_00011	IAO:0000115	" A measure of  total area i.e., surface of  object occupies. or
+ 
+The two dimensional measure of the outer layer of the body."
+WARN	annotation_whitespace	obo:PBPKO_00068	IAO:0000115	Organ volume in PBPK modeling refers to the volume of a specific organ or tissue in the body. 
+WARN	annotation_whitespace	obo:PBPKO_00117	IAO:0000115	Volume of the gallbaldder 
+WARN	annotation_whitespace	obo:PBPKO_00130	IAO:0000115	" Affinity of a molecule or a moiety
+for a lipophilic environment "
+WARN	annotation_whitespace	obo:PBPKO_00132	IAO:0000115	 Ratio of a dissolved xenoboitic substance in a two-phase system. 
+WARN	annotation_whitespace	obo:PBPKO_00139	IAO:0000115	" 
+A molecule can undergo oxidation by  loss of hydrogen."
+WARN	annotation_whitespace	obo:PBPKO_00188	skos:exactMatch	http://purl.bioontology.org/ontology/SNOMEDCT/17003006
+WARN	annotation_whitespace	obo:PBPKO_00212	IAO:0000115	First pass metabolism, also known as the first pass effect or presystemic metabolism, is a phenomenon in which a drug/chemical undergoes metabolism at a specific location in the body, resulting in a reduced concentration of the active drug/chemical before it reaches its site of action or systemic circulation. 
+WARN	annotation_whitespace	obo:PBPKO_00218	IAO:0000115	KD in PBPK modeling refers to the dissociation constant of a drug/chemical-receptor complex, which is a measure of the affinity of the drug/chemical for its target receptor. It affects the distribution and elimination of the drug/chemical in the body. The dissociation constant (KD) is defined as the ratio of the rate constants for the forward and reverse reactions of the drug/chemical-receptor complex. 
+WARN	annotation_whitespace	obo:PBPKO_00232	IAO:0000115	Volume of fluid cleared of xenoboitic from body per unit  time. 
+WARN	annotation_whitespace	obo:PBPKO_00233	IAO:0000115	 Fecal cleared volume of  xenoboitic from body per unit  time. 
+WARN	annotation_whitespace	obo:PBPKO_00234	IAO:0000115	 Sweat cleared volume of  xenoboitic from body per unit  time. 
+WARN	annotation_whitespace	obo:PBPKO_00235	IAO:0000115	 Urine cleared volume of  xenoboitic from body per unit time. 
+WARN	annotation_whitespace	obo:PBPKO_00236	IAO:0000115	 Bile cleared volume of  xenoboitic from body per unit time. 
+WARN	annotation_whitespace	obo:PBPKO_00237	IAO:0000115	 Liver cleared volume of  xenoboitic from body per unit time. 
+WARN	annotation_whitespace	obo:PBPKO_00266	IAO:0000115	 Bioavailability is defined as the rate and extent to which the active ingredient or active moiety is absorbed from a Xenoboitic product and becomes available at the site of action (US-FDA, CDER, 2014a).
+WARN	annotation_whitespace	obo:PBPKO_00352	IAO:0000115	A normal child, has no serious physical or mental health problems. 
+WARN	annotation_whitespace	obo:PBPKO_00355	IAO:0000115	Inter-individual differences  in anatomical and physiological characteristics 
 WARN	missing_definition	obo:PBPKO_0000000	IAO:0000115	
-INFO	missing_superclass	obo:PBPKO_0000000	rdfs:subClassOf	
+WARN	missing_definition	obo:PBPKO_00052	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00054	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00056	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00058	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00059	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00060	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00061	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00062	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00063	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00064	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00106	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00108	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00109	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00110	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00111	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00112	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00113	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00114	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00115	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00116	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00118	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00120	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00122	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00134	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00137	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00141	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00182	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00183	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00184	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00185	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00186	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00205	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00272	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00280	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00282	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00283	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00284	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00285	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00286	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00288	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00299	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00306	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00307	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00308	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00309	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00310	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00311	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00312	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00313	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00314	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00315	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00316	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00317	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00322	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00325	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00326	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00327	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00328	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00329	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00330	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00331	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00332	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00333	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00357	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00358	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00359	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00360	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00361	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00362	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00363	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00364	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00365	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00366	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00367	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00368	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00369	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00370	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00371	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00372	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00373	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00374	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00375	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00376	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00377	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00378	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00379	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00380	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00381	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00382	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00383	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00384	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00385	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00386	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00387	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00388	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00389	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00390	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00391	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00392	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00393	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00394	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00395	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00396	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00397	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00398	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00399	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00400	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00401	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00402	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00403	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00404	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00405	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00411	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00413	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00414	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00415	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00416	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00417	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00418	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00419	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00420	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00421	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00422	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00423	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00424	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00425	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00426	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00427	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00428	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00429	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00430	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00431	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00432	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00433	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00434	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00435	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00436	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00437	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00438	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00439	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00440	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00443	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00444	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00445	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00446	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00447	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00448	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00449	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00450	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00451	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00452	IAO:0000115	
+INFO	lowercase_definition	obo:PBPKO_00009	IAO:0000115	 Mass or quantity of heaviness of an individual. 
+INFO	lowercase_definition	obo:PBPKO_00011	IAO:0000115	" A measure of  total area i.e., surface of  object occupies. or
+ 
+The two dimensional measure of the outer layer of the body."
+INFO	lowercase_definition	obo:PBPKO_00070	IAO:0000115	stomach volume as total body weight fraction
+INFO	lowercase_definition	obo:PBPKO_00072	IAO:0000115	intestine volume as total body weight fraction
+INFO	lowercase_definition	obo:PBPKO_00074	IAO:0000115	small intestine volume as total body weight fraction
+INFO	lowercase_definition	obo:PBPKO_00076	IAO:0000115	large intestine volume as total body weight fraction
+INFO	lowercase_definition	obo:PBPKO_00078	IAO:0000115	pancreas volume as total body weight fraction
+INFO	lowercase_definition	obo:PBPKO_00080	IAO:0000115	liver volume as total body weight fraction
+INFO	lowercase_definition	obo:PBPKO_00082	IAO:0000115	kidney volume as total body weight fraction
+INFO	lowercase_definition	obo:PBPKO_00084	IAO:0000115	muscle volume as total body weight fraction
+INFO	lowercase_definition	obo:PBPKO_00086	IAO:0000115	heart volume as total body weight fraction
+INFO	lowercase_definition	obo:PBPKO_00088	IAO:0000115	fat volume as total body weight fraction
+INFO	lowercase_definition	obo:PBPKO_00090	IAO:0000115	gonads volume as total body weight fraction
+INFO	lowercase_definition	obo:PBPKO_00092	IAO:0000115	skin volume as total body weight fraction
+INFO	lowercase_definition	obo:PBPKO_00094	IAO:0000115	bone volume as total body weight fraction
+INFO	lowercase_definition	obo:PBPKO_00096	IAO:0000115	brain volume as total body weight fraction
+INFO	lowercase_definition	obo:PBPKO_00098	IAO:0000115	spleen volume as total body weight fraction
+INFO	lowercase_definition	obo:PBPKO_00100	IAO:0000115	lung volume as total body weight fraction
+INFO	lowercase_definition	obo:PBPKO_00102	IAO:0000115	poorly perfused tissues/organs volume as total body weight fraction
+INFO	lowercase_definition	obo:PBPKO_00104	IAO:0000115	richly perfused tissues/organs volume as total body weight fraction
