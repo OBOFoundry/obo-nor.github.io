@@ -1,0 +1,105 @@
+base_generated: true
+base_prefixes:
+- HED
+- HEDALT
+changed: true
+date: 2024-07-09 16:17:36.776284
+metrics:
+  'Axioms: Breakdown of axiom types':
+    AnnotationAssertion: 2879
+    DataPropertyDomain: 32
+    DataPropertyRange: 32
+    Declaration: 1449
+    EquivalentClasses: 388
+    FunctionalDataProperty: 4
+    ObjectPropertyDomain: 14
+    ObjectPropertyRange: 14
+    SubClassOf: 969
+  'Axioms: Number of axioms': 5781
+  'Entities: % of entities reused': 100.0
+  'Entities: Number of annotation properties': 41
+  'Entities: Number of classes': 1358
+  'Entities: Number of data properties': 32
+  'Entities: Number of individuals': 0
+  'Entities: Number of object properties': 14
+  'Entities: Number of unsatisfiable classes': 0
+  'Info: Breakdown of OWL class expressions used':
+    Class: 4576
+    DataExactCardinality: 1
+    DataHasValue: 231
+    DataMaxCardinality: 3
+    ObjectExactCardinality: 3
+    ObjectIntersectionOf: 388
+    ObjectSomeValuesFrom: 439
+    ObjectUnionOf: 3
+  'Info: Does the ontology fall under OWL 2 DL?': false
+  'Info: Experimental OBO score':
+    _dashboard: 0.704
+    _formula: (1*impact+1*dashboard)/2
+    _impact: 0.0
+    _impact_external: 0
+    _reuse: 1.0
+    oboscore: 0.352
+  'Info: How many externally documented uses?': 0
+  'Info: How many ontologies use it?': 0
+  'Info: Logical consistency': true
+  'Info: Syntax': RDF/XML Syntax
+  'Info: Usage of namespaces in axioms':
+    dc: 1
+    dc11: 1296
+    foaf: 1
+    owl: 3
+    prefix_unknown: 5474
+    rdf: 16
+    rdfs: 1441
+    xsd: 215
+  'Info: Which ontologies use it?': []
+mirror_from: https://raw.githubusercontent.com/hed-standard/hed-ontology/main/hed.owl
+namespace: hed
+results:
+  FP01 Open:
+    comment: Registry license 'https://creativecommons.org/public-domain/cc0/' is
+      not a valid open license. Ontology license 'http://creativecommons.org/licenses/by/4.0/'
+      does not match registry license 'https://creativecommons.org/public-domain/cc0/'.
+    status: ERROR
+  FP02 Common Format:
+    status: PASS
+  FP03 URIs:
+    comment: 0 invalid IRIs. The Ontology IRI is not valid.
+    file: fp3
+    status: ERROR
+  FP04 Versioning:
+    comment: Version IRI 'http://purl.org/hed/releases/2024-06-10/hed.owl' is not
+      in recommended format
+    status: WARN
+  FP05 Scope:
+    status: PASS
+  FP06 Textual Definitions:
+    status: PASS
+  FP07 Relations:
+    status: PASS
+  FP08 Documented:
+    status: PASS
+  FP09 Plurality of Users:
+    comment: Missing usages
+    status: ERROR
+  FP11 Locus of Authority:
+    status: PASS
+  FP12 Naming Conventions:
+    status: PASS
+  FP16 Maintenance:
+    comment: Version IRI does not have date information
+    status: INFO
+  FP20 Responsiveness:
+    status: PASS
+  ROBOT Report:
+    status: PASS
+sha256_hash: 33501e6584f6b56b88f3fe58c31be481f3224e3cfe845cf8e04a699e501524fb
+summary:
+  comment: 3 errors
+  status: ERROR
+  summary_count:
+    ERROR: 3
+    INFO: 1
+    WARN: 1
+version: http://purl.org/hed/releases/2024-06-10/hed.owl
