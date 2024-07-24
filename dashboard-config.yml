@@ -52,7 +52,7 @@ ontologies:
         url: https://creativecommons.org/licenses/by/4.0/
         label: CC BY 4.0
     - id: pbpko
-      mirror_from: https://raw.githubusercontent.com/Crispae/pbpko/main/pbpko.owl
+      mirror_from: https://raw.githubusercontent.com/Crispae/pbpko/main/Robot/ontologies/pbpko.owl
       title: "Physiologically based pharmacokinetic modelling ontology"
       contact:
         email: saurav.kumar@iispv.cat
