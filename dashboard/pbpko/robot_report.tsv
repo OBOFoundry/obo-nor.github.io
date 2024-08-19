@@ -1,6 +1,8 @@
 Level	Rule Name	Subject	Property	Value
 ERROR	duplicate_definition	obo:PBPKO_00374	IAO:0000115	Volume of placenta
 ERROR	duplicate_definition	obo:PBPKO_00380	IAO:0000115	Volume of placenta
+ERROR	duplicate_definition	obo:PBPKO_00176	IAO:0000115	Partition coefficient of skin to plasma
+ERROR	duplicate_definition	obo:PBPKO_00516	IAO:0000115	Partition coefficient of skin to plasma
 ERROR	duplicate_definition	obo:PBPKO_00055	IAO:0000115	Fraction of cardiac output in the portal vein
 ERROR	duplicate_definition	obo:PBPKO_00057	IAO:0000115	Fraction of cardiac output in the portal vein
 ERROR	label_whitespace	obo:PBPKO_00007	rdfs:label	Body Mass Index 
@@ -30,11 +32,29 @@ WARN	annotation_whitespace	obo:PBPKO_00390	IAO:0000115	Rate at which drug/chemic
 WARN	annotation_whitespace	obo:PBPKO_00441	IAO:0000115	Physiological barrier that separates the blood and milk compartments in lactating species. 
 WARN	annotation_whitespace	obo:PBPKO_00474	IAO:0000115	It is one long tube continuing from small intestine and includes colon, rectum and anus 
 WARN	annotation_whitespace	obo:PBPKO_00494	IAO:0000115	It is lengthy, upper part of large intestine 
+WARN	annotation_whitespace	obo:PBPKO_00529	IAO:0000115	Qfiltrate is a parameter used in pbpk modeling to describe the blood flow rate to the filtrate which is used to calculate the rate of drug/chemical delivery to the filtrate. 
+WARN	annotation_whitespace	obo:PBPKO_00531	IAO:0000115	Qgut is a parameter used in pbpk modeling to describe the blood flow rate to the gut  which is used to calculate the rate of drug/chemical delivery to the gut. 
+WARN	annotation_whitespace	obo:PBPKO_00532	IAO:0000115	Qmam is a parameter used in pbpk modeling to describe the blood flow rate to the mammary gland  which is used to calculate the rate of drug/chemical delivery to the mammary gland. 
 WARN	missing_definition	obo:PBPKO_00135	IAO:0000115	
 WARN	missing_definition	obo:PBPKO_00312	IAO:0000115	
 WARN	missing_definition	obo:PBPKO_00447	IAO:0000115	
 WARN	missing_definition	obo:PBPKO_00459	IAO:0000115	
 WARN	missing_definition	obo:PBPKO_00485	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00500	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00505	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00512	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00520	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00523	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00526	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00527	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00528	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00530	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00533	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00534	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00535	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00536	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00537	IAO:0000115	
+WARN	missing_definition	obo:PBPKO_00545	IAO:0000115	
 INFO	lowercase_definition	obo:PBPKO_00137	IAO:0000115	" 
 A molecular entity that can undergo oxidation by the loss of hydrogen atom(s)."
 INFO	lowercase_definition	obo:PBPKO_00263	IAO:0000115	 Bioavailability is defined as the rate and extent to which the active ingredient or active moiety is absorbed from a xenoboitic product and becomes available at the site of action (us-fda, cder, 2014a).
