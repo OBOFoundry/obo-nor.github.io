@@ -3,7 +3,7 @@ base_prefixes:
 - EXMO
 - EXMOALT
 changed: true
-date: 2024-08-19 13:17:27.085689
+date: 2024-08-26 13:20:10.998226
 metrics:
   'Axioms: Breakdown of axiom types':
     AnnotationAssertion: 6370
