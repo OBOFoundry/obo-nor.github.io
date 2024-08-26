@@ -7,7 +7,7 @@
         "BMOALT"
       ],
       "changed": true,
-      "date": "2024-08-19T13:17:09.552496",
+      "date": "2024-08-26T13:19:53.735508",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 7694,
@@ -162,7 +162,7 @@
         "EXMOALT"
       ],
       "changed": true,
-      "date": "2024-08-19T13:17:27.085689",
+      "date": "2024-08-26T13:20:10.998226",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 6370,
@@ -309,7 +309,7 @@
         "HEDALT"
       ],
       "changed": true,
-      "date": "2024-08-19T13:17:21.922889",
+      "date": "2024-08-26T13:20:06.018712",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 2879,
@@ -436,7 +436,7 @@
         "PBPKOALT"
       ],
       "changed": true,
-      "date": "2024-08-19T13:17:16.891506",
+      "date": "2024-08-26T13:20:01.135564",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 2338,
@@ -559,7 +559,7 @@
         "TMPALT"
       ],
       "changed": true,
-      "date": "2024-08-19T13:17:03.409211",
+      "date": "2024-08-26T13:19:47.094044",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 2,
