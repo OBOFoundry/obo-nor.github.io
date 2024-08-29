@@ -68,23 +68,6 @@ ontologies:
       license:
         url: https://creativecommons.org/licenses/by/4.0/
         label: CC BY 4.0
-    - id: hed
-      mirror_from: https://raw.githubusercontent.com/hed-standard/hed-ontology/main/hed.owl
-      title: "Hierarchical Event Descriptors"
-      contact:
-        email: kay.robbins@utsa.edu
-        label: Kay Robbins
-        orcid: 0000-0002-7147-5797
-        github: VisLab
-      description: A system for annotating experimental time lines.
-      domain: investigations
-      homepage: https://www.hedtags.org
-      products:
-        - id: hed.owl
-      tracker: https://github.com/hed-standard/hed-schemas/issues
-      license:
-        url: https://creativecommons.org/public-domain/cc0/
-        label: CC0
     - id: exmo
       mirror_from: https://raw.githubusercontent.com/DarkKnight0-0/exmo/master/exmo.owl
       title: "Exercise Medicine Ontology"
