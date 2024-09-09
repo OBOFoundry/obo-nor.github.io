@@ -29,7 +29,7 @@ ontologies:
   - BMO
   - BMOALT
   changed: true
-  date: 2024-08-29 12:33:52.393513
+  date: 2024-09-09 13:20:26.755394
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 7694
@@ -159,7 +159,7 @@ ontologies:
   - EXMO
   - EXMOALT
   changed: true
-  date: 2024-08-29 12:34:05.234526
+  date: 2024-09-09 13:20:38.605953
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 6370
@@ -283,7 +283,7 @@ ontologies:
   - PBPKO
   - PBPKOALT
   changed: true
-  date: 2024-08-29 12:34:00.024093
+  date: 2024-09-09 13:20:33.548162
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 2338
@@ -381,7 +381,7 @@ ontologies:
   - TMP
   - TMPALT
   changed: true
-  date: 2024-08-29 12:33:45.340286
+  date: 2024-09-09 13:20:20.579249
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 2
