@@ -1,15 +1,15 @@
 <head>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
-    <title>pbpko Dashboard Report</title>
+    <title>OBCI Dashboard Report</title>
 </head>
 <body>
     <div class="container">
         <div class="row" style="padding-top:30px;">
             <div class="col-md-2"></div>
             <div class="col-md-8">
-                <h1>Dashboard Report - <a href="http://obofoundry.org/ontology/pbpko.html">pbpko</a></h1>
-                <p class="lead"><b>Version</b>: http://purl.obolibrary.org/obo/pbpko/releases/2024-10-09/pbpko.owl</p>
-                <p class="lead" style="margin-top:-15px;"><b>Date run</b>: 2024-10-17 12:52:17.081320</p>
+                <h1>Dashboard Report - <a href="http://obofoundry.org/ontology/OBCI.html">OBCI</a></h1>
+                <p class="lead"><b>Version</b>: https://proteininformationresource.org/staff/nataled/OBCI/2024-10-16/obci.owl</p>
+                <p class="lead" style="margin-top:-15px;"><b>Date run</b>: 2024-10-17 12:54:40.554984</p>
                 <p class="lead" style="margin-top:-15px;"><a href="dashboard.yml">View dashboard results as YAML</a></p>
                 <p class="lead" style="margin-top:-15px;"><a href="../index.html">Go back to Overview</a></p>
                 <h3>Error Breakdown</h3>
@@ -19,7 +19,7 @@
                         
                     
                     <div class="alert alert-danger">
-                        <center><h3>ERROR - 5 errors</h3></center>
+                        <center><h3>ERROR - 4 errors</h3></center>
                     </div>
                 
                 <table class="table">
@@ -105,11 +105,11 @@
                                 
                                 
                             
-                            <td class="table-danger" style="text-align:center;">
-                                <img src="../assets/x.svg" height="15px">
+                            <td class="table-warning" style="text-align:center;">
+                                <img src="../assets/warning.svg" height="15px">
                             </td>
                             
-                                <td>Version IRI does not resolve</td>
+                                <td>Version IRI 'https://proteininformationresource.org/staff/nataled/OBCI/2024-10-16/obci.owl' is not in recommended format</td>
                             
                             
                                 <td></td>
@@ -147,11 +147,11 @@
                                 
                                 
                             
-                            <td class="table-danger" style="text-align:center;">
-                                <img src="../assets/x.svg" height="15px">
+                            <td class="table-warning" style="text-align:center;">
+                                <img src="../assets/warning.svg" height="15px">
                             </td>
                             
-                                <td>6 duplicate definitions.  20 missing definitions. See ROBOT Report for details.</td>
+                                <td>18 missing definitions. See ROBOT Report for details.</td>
                             
                             
                                 <td></td>
@@ -168,14 +168,14 @@
                                 
                                 
                             
-                            <td class="table-success" style="text-align:center;">
-                                <img src="../assets/check.svg" height="15px">
+                            <td class="table-info" style="text-align:center;">
+                                <img src="../assets/info.svg" height="15px">
                             </td>
                             
-                                <td></td>
+                                <td>18 non-RO properties used.</td>
                             
                             
-                                <td></td>
+                                <td><a href="fp7.html">View Relations Report</a></td>
                             
                         </tr>
                     
@@ -252,11 +252,11 @@
                                 
                                 
                             
-                            <td class="table-success" style="text-align:center;">
-                                <img src="../assets/check.svg" height="15px">
+                            <td class="table-danger" style="text-align:center;">
+                                <img src="../assets/x.svg" height="15px">
                             </td>
                             
-                                <td></td>
+                                <td>24 multiple labels. See ROBOT Report for details.</td>
                             
                             
                                 <td></td>
@@ -273,11 +273,11 @@
                                 
                                 
                             
-                            <td class="table-success" style="text-align:center;">
-                                <img src="../assets/check.svg" height="15px">
+                            <td class="table-info" style="text-align:center;">
+                                <img src="../assets/info.svg" height="15px">
                             </td>
                             
-                                <td></td>
+                                <td>Version IRI does not have date information</td>
                             
                             
                                 <td></td>
@@ -326,7 +326,7 @@
                           <img src="../assets/x.svg" height="15px">
                       </td>
                       
-                          <td>8 errors, 48 warnings, 12 info messages.</td>
+                          <td>24 errors, 21 warnings, 33 info messages.</td>
                       
                       
                           <td><a href="robot_report.html">View ROBOT Report</a></td>
@@ -350,11 +350,17 @@
                                     <td>
                                         <ul>
                                             
-                                                <li>AnnotationAssertion: 2939</li>
+                                                <li>AnnotationAssertion: 4727</li>
                                             
-                                                <li>Declaration: 627</li>
+                                                <li>Declaration: 453</li>
                                             
-                                                <li>SubClassOf: 560</li>
+                                                <li>EquivalentClasses: 103</li>
+                                            
+                                                <li>ObjectPropertyRange: 8</li>
+                                            
+                                                <li>SubClassOf: 506</li>
+                                            
+                                                <li>SubObjectPropertyOf: 18</li>
                                             
                                         </ul>
                                     </td>
@@ -365,7 +371,7 @@
                                 <td>Axioms: Number of axioms</td>
                                 
                                 
-                                    <td>4126</td>
+                                    <td>5815</td>
                                 
                             </tr>
                         
@@ -381,7 +387,7 @@
                                 <td>Entities: Number of annotation properties</td>
                                 
                                 
-                                    <td>64</td>
+                                    <td>82</td>
                                 
                             </tr>
                         
@@ -389,7 +395,7 @@
                                 <td>Entities: Number of classes</td>
                                 
                                 
-                                    <td>567</td>
+                                    <td>334</td>
                                 
                             </tr>
                         
@@ -405,7 +411,7 @@
                                 <td>Entities: Number of individuals</td>
                                 
                                 
-                                    <td>0</td>
+                                    <td>12</td>
                                 
                             </tr>
                         
@@ -413,7 +419,7 @@
                                 <td>Entities: Number of object properties</td>
                                 
                                 
-                                    <td>0</td>
+                                    <td>29</td>
                                 
                             </tr>
                         
@@ -432,7 +438,19 @@
                                     <td>
                                         <ul>
                                             
-                                                <li>Class: 1687</li>
+                                                <li>Class: 1775</li>
+                                            
+                                                <li>ObjectAllValuesFrom: 4</li>
+                                            
+                                                <li>ObjectExactCardinality: 4</li>
+                                            
+                                                <li>ObjectHasValue: 11</li>
+                                            
+                                                <li>ObjectIntersectionOf: 146</li>
+                                            
+                                                <li>ObjectSomeValuesFrom: 213</li>
+                                            
+                                                <li>ObjectUnionOf: 18</li>
                                             
                                         </ul>
                                     </td>
@@ -443,7 +461,7 @@
                                 <td>Info: Does the ontology fall under OWL 2 DL?</td>
                                 
                                 
-                                    <td>True</td>
+                                    <td>False</td>
                                 
                             </tr>
                         
@@ -454,7 +472,7 @@
                                     <td>
                                         <ul>
                                             
-                                                <li>_dashboard: 0.6</li>
+                                                <li>_dashboard: 0.609</li>
                                             
                                                 <li>_formula: (1*impact+1*dashboard)/2</li>
                                             
@@ -464,7 +482,7 @@
                                             
                                                 <li>_reuse: 1.0</li>
                                             
-                                                <li>oboscore: 0.3</li>
+                                                <li>oboscore: 0.304</li>
                                             
                                         </ul>
                                     </td>
@@ -510,33 +528,59 @@
                                     <td>
                                         <ul>
                                             
-                                                <li>GO: 8</li>
+                                                <li>BFO: 3</li>
                                             
-                                                <li>IAO: 1932</li>
+                                                <li>CHEBI: 623</li>
                                             
-                                                <li>OBCS: 10</li>
+                                                <li>CIDO: 3</li>
                                             
-                                                <li>RO: 18</li>
+                                                <li>CL: 29</li>
                                             
-                                                <li>UBERON: 40</li>
+                                                <li>DOID: 333</li>
                                             
-                                                <li>dc: 9</li>
+                                                <li>ExO: 10</li>
                                             
-                                                <li>foaf: 33</li>
+                                                <li>GNO: 2</li>
                                             
-                                                <li>obo: 1767</li>
+                                                <li>GO: 7</li>
                                             
-                                                <li>oboInOwl: 494</li>
+                                                <li>IAO: 510</li>
                                             
-                                                <li>prefix_unknown: 11</li>
+                                                <li>NCBITaxon: 6</li>
                                             
-                                                <li>rdf: 331</li>
+                                                <li>NCIT: 145</li>
                                             
-                                                <li>rdfs: 633</li>
+                                                <li>OBI: 3</li>
                                             
-                                                <li>skos: 102</li>
+                                                <li>PATO: 9</li>
                                             
-                                                <li>xsd: 1</li>
+                                                <li>PR: 13</li>
+                                            
+                                                <li>RO: 34</li>
+                                            
+                                                <li>SO: 7</li>
+                                            
+                                                <li>UBERON: 95</li>
+                                            
+                                                <li>dc: 10</li>
+                                            
+                                                <li>dc11: 55</li>
+                                            
+                                                <li>obo: 1291</li>
+                                            
+                                                <li>oboInOwl: 4533</li>
+                                            
+                                                <li>owl: 4</li>
+                                            
+                                                <li>prefix_unknown: 33</li>
+                                            
+                                                <li>rdf: 1123</li>
+                                            
+                                                <li>rdfs: 516</li>
+                                            
+                                                <li>skos: 7</li>
+                                            
+                                                <li>xsd: 51</li>
                                             
                                         </ul>
                                     </td>

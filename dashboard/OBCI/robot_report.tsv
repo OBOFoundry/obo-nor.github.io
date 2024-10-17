@@ -1,0 +1,79 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	multiple_labels	obo:OBCI_000000082	rdfs:label	3-hydroxy-3-methylglutaric acid in urine above normal
+ERROR	multiple_labels	obo:OBCI_000000082	rdfs:label	susceptibility/risk (BEST)
+ERROR	multiple_labels	obo:OBCI_000000083	rdfs:label	3-hydroxyisovaleric acid in urine above normal
+ERROR	multiple_labels	obo:OBCI_000000083	rdfs:label	diagnostic (BEST)
+ERROR	multiple_labels	obo:OBCI_000000084	rdfs:label	3-methylglutaric acid in urine above normal
+ERROR	multiple_labels	obo:OBCI_000000084	rdfs:label	monitoring (BEST)
+ERROR	multiple_labels	obo:OBCI_000000085	rdfs:label	O-adipoylcarnitine in blood plasma above normal
+ERROR	multiple_labels	obo:OBCI_000000085	rdfs:label	prognostic (BEST)
+ERROR	multiple_labels	obo:OBCI_000000086	rdfs:label	3-hydroxyisovalerylcarnitine in blood plasma above normal
+ERROR	multiple_labels	obo:OBCI_000000086	rdfs:label	predictive (BEST)
+ERROR	multiple_labels	obo:OBCI_000000087	rdfs:label	3-methylcrotonyl glycine in urine above normal
+ERROR	multiple_labels	obo:OBCI_000000087	rdfs:label	pharmacodynamic/response (BEST)
+ERROR	multiple_labels	obo:OBCI_000000088	rdfs:label	3-hydroxy-2-methylbutanoic acid in urine above normal
+ERROR	multiple_labels	obo:OBCI_000000088	rdfs:label	safety (BEST)
+ERROR	multiple_labels	obo:OBCI_000000089	rdfs:label	3-hydroxybutyrylcarnitine in blood plasma above normal
+ERROR	multiple_labels	obo:OBCI_000000089	rdfs:label	diagnostic (CIViC)
+ERROR	multiple_labels	obo:OBCI_000000090	rdfs:label	predictive (CIViC)
+ERROR	multiple_labels	obo:OBCI_000000090	rdfs:label	tiglylglycine in urine above normal
+ERROR	multiple_labels	obo:OBCI_000000091	rdfs:label	glutaric acid in urine above normal
+ERROR	multiple_labels	obo:OBCI_000000091	rdfs:label	predisposing (CIViC)
+ERROR	multiple_labels	obo:OBCI_000000092	rdfs:label	3-hydroxyglutaric acid in urine above normal
+ERROR	multiple_labels	obo:OBCI_000000092	rdfs:label	prognostic (CIViC)
+ERROR	multiple_labels	obo:OBCI_000000093	rdfs:label	O-glutaroyl-L-carnitine in blood plasma above normal
+ERROR	multiple_labels	obo:OBCI_000000093	rdfs:label	functional (CIViC)
+WARN	annotation_whitespace	obo:OBCI_000000001	IAO:0000116	Biomarkers require comparison between characteristics of interest obtained in test cases vs those in normal cases. What is considered 'normal' will depend on the biomarker; in some cases the comparison will be to a population average, in others it will be to an individual's known healthy state. 
+WARN	equivalent_class_axiom_no_genus	obo:OBCI_000000022	obo:OBCI_100000016	SO:0001025
+WARN	equivalent_class_axiom_no_genus	obo:OBCI_000000038	obo:OBCI_100000016	https://www.ncbi.nlm.nih.gov/snp/rs12674822
+WARN	missing_definition	obo:OBCI_000000068	IAO:0000115	
+WARN	missing_definition	obo:OBCI_000000069	IAO:0000115	
+WARN	missing_definition	obo:OBCI_000000071	IAO:0000115	
+WARN	missing_definition	obo:OBCI_000000073	IAO:0000115	
+WARN	missing_definition	obo:OBCI_000000074	IAO:0000115	
+WARN	missing_definition	obo:OBCI_000000075	IAO:0000115	
+WARN	missing_definition	obo:OBCI_000000077	IAO:0000115	
+WARN	missing_definition	obo:OBCI_000000078	IAO:0000115	
+WARN	missing_definition	obo:OBCI_000000080	IAO:0000115	
+WARN	missing_definition	obo:OBCI_000000081	IAO:0000115	
+WARN	missing_definition	obo:OBCI_100000008	IAO:0000115	
+WARN	missing_definition	obo:OBCI_100000009	IAO:0000115	
+WARN	missing_definition	obo:OBCI_100000013	IAO:0000115	
+WARN	missing_definition	obo:OBCI_100000014	IAO:0000115	
+WARN	missing_definition	obo:OBCI_100000015	IAO:0000115	
+WARN	missing_definition	obo:OBCI_100000016	IAO:0000115	
+WARN	missing_definition	obo:OBCI_100000017	IAO:0000115	
+WARN	missing_definition	obo:OBCI_100000018	IAO:0000115	
+INFO	missing_superclass	obo:OBCI_000000001	rdfs:subClassOf	
+INFO	missing_superclass	obo:OBCI_000000009	rdfs:subClassOf	
+INFO	missing_superclass	obo:OBCI_000000010	rdfs:subClassOf	
+INFO	missing_superclass	obo:OBCI_000000011	rdfs:subClassOf	
+INFO	missing_superclass	obo:OBCI_000000012	rdfs:subClassOf	
+INFO	missing_superclass	obo:OBCI_000000013	rdfs:subClassOf	
+INFO	missing_superclass	obo:OBCI_000000014	rdfs:subClassOf	
+INFO	missing_superclass	obo:OBCI_000000015	rdfs:subClassOf	
+INFO	missing_superclass	obo:OBCI_000000018	rdfs:subClassOf	
+INFO	missing_superclass	obo:OBCI_000000019	rdfs:subClassOf	
+INFO	missing_superclass	obo:OBCI_000000026	rdfs:subClassOf	
+INFO	missing_superclass	obo:OBCI_000000029	rdfs:subClassOf	
+INFO	missing_superclass	obo:OBCI_000000039	rdfs:subClassOf	
+INFO	missing_superclass	obo:OBCI_000000041	rdfs:subClassOf	
+INFO	missing_superclass	obo:OBCI_000000042	rdfs:subClassOf	
+INFO	missing_superclass	obo:OBCI_000000043	rdfs:subClassOf	
+INFO	missing_superclass	obo:OBCI_000000044	rdfs:subClassOf	
+INFO	missing_superclass	obo:OBCI_000000045	rdfs:subClassOf	
+INFO	missing_superclass	obo:OBCI_000000046	rdfs:subClassOf	
+INFO	missing_superclass	obo:OBCI_000000047	rdfs:subClassOf	
+INFO	missing_superclass	obo:OBCI_000000048	rdfs:subClassOf	
+INFO	missing_superclass	obo:OBCI_000000049	rdfs:subClassOf	
+INFO	missing_superclass	obo:OBCI_000000050	rdfs:subClassOf	
+INFO	missing_superclass	obo:OBCI_000000051	rdfs:subClassOf	
+INFO	missing_superclass	obo:OBCI_000000052	rdfs:subClassOf	
+INFO	missing_superclass	obo:OBCI_000000053	rdfs:subClassOf	
+INFO	missing_superclass	obo:OBCI_000000054	rdfs:subClassOf	
+INFO	missing_superclass	obo:OBCI_000000055	rdfs:subClassOf	
+INFO	missing_superclass	obo:OBCI_000000056	rdfs:subClassOf	
+INFO	missing_superclass	obo:OBCI_000000057	rdfs:subClassOf	
+INFO	missing_superclass	obo:OBCI_000000058	rdfs:subClassOf	
+INFO	missing_superclass	obo:OBCI_000000059	rdfs:subClassOf	
+INFO	missing_superclass	obo:OBCI_000000065	rdfs:subClassOf	

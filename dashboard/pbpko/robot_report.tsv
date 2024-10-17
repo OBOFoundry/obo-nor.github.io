@@ -1,12 +1,12 @@
 Level	Rule Name	Subject	Property	Value
 ERROR	duplicate_definition	obo:PBPKO_00374	IAO:0000115	Volume of placenta
 ERROR	duplicate_definition	obo:PBPKO_00380	IAO:0000115	Volume of placenta
-ERROR	duplicate_definition	obo:PBPKO_00176	IAO:0000115	Partition coefficient of skin to plasma
-ERROR	duplicate_definition	obo:PBPKO_00516	IAO:0000115	Partition coefficient of skin to plasma
+ERROR	duplicate_definition	obo:PBPKO_00176	IAO:0000115	Partition_coefficient of skin to plasma
+ERROR	duplicate_definition	obo:PBPKO_00516	IAO:0000115	Partition_coefficient of skin to plasma
 ERROR	duplicate_definition	obo:PBPKO_00055	IAO:0000115	Fraction of cardiac output in the portal vein
 ERROR	duplicate_definition	obo:PBPKO_00057	IAO:0000115	Fraction of cardiac output in the portal vein
-ERROR	label_whitespace	obo:PBPKO_00007	rdfs:label	Body Mass Index 
-ERROR	label_whitespace	obo:PBPKO_00304	rdfs:label	Vmax_baso_in vitro 
+ERROR	label_whitespace	obo:PBPKO_00007	rdfs:label	Body_Mass_Index 
+ERROR	label_whitespace	obo:PBPKO_00304	rdfs:label	Vmax_baso_in_vitro 
 WARN	annotation_whitespace	obo:PBPKO_00008	IAO:0000115	Mass or quantity of heaviness of an individual. 
 WARN	annotation_whitespace	obo:PBPKO_00060	IAO:0000115	Fractions of total blood flow 
 WARN	annotation_whitespace	obo:PBPKO_00066	IAO:0000115	Organ volume in pbpk modeling refers to the volume of a specific organ or tissue in the body. 
@@ -35,6 +35,7 @@ WARN	annotation_whitespace	obo:PBPKO_00494	IAO:0000115	It is lengthy, upper part
 WARN	annotation_whitespace	obo:PBPKO_00529	IAO:0000115	Qfiltrate is a parameter used in pbpk modeling to describe the blood flow rate to the filtrate which is used to calculate the rate of drug/chemical delivery to the filtrate. 
 WARN	annotation_whitespace	obo:PBPKO_00531	IAO:0000115	Qgut is a parameter used in pbpk modeling to describe the blood flow rate to the gut  which is used to calculate the rate of drug/chemical delivery to the gut. 
 WARN	annotation_whitespace	obo:PBPKO_00532	IAO:0000115	Qmam is a parameter used in pbpk modeling to describe the blood flow rate to the mammary gland  which is used to calculate the rate of drug/chemical delivery to the mammary gland. 
+WARN	annotation_whitespace	obo:PBPKO_00550	IAO:0000115	Amount of substance in the adipose tissue 
 WARN	missing_definition	obo:PBPKO_00135	IAO:0000115	
 WARN	missing_definition	obo:PBPKO_00312	IAO:0000115	
 WARN	missing_definition	obo:PBPKO_00447	IAO:0000115	
