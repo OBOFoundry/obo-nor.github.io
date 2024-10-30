@@ -85,7 +85,7 @@ ontologies:
       license:
         url: https://creativecommons.org/licenses/by/4.0/
         label: CC BY 4.0
-    - id: OBCI
+    - id: obci
       mirror_from: https://proteininformationresource.org/staff/nataled/OBCI/obci.owl
       title: "Ontology for Biomarkers of Clinical Interest"
       contact:
