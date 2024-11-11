@@ -102,6 +102,23 @@ ontologies:
       license:
         url: https://creativecommons.org/licenses/by/4.0/
         label: CC BY 4.0
+    - id: OTO
+      mirror_from: https://raw.githubusercontent.com/duygucelikertugrul/OTO/main/OTO.owl
+      title: "Obesity Tracking Ontology"
+      contact:
+        email: duygu.celik@emu.edu.tr
+        label: Dr.Duygu Çelik Ertuğrul
+        orcid: 0000-0003-1380-705X
+        github: duygucelikertugrul
+      description: OTO encompasses a representation, formal naming and definition of the categories, properties and relations between the concepts, data and entities in pediatric obesity management and treatment.
+      domain: health
+      homepage: https://github.com/duygucelikertugrul/OTO
+      products:
+        - id: OTO.owl
+      tracker: https://github.com/duygucelikertugrul/OTO
+      license:
+        url: https://creativecommons.org/publicdomain/zero/1.0/
+        label: CC0
 prefer_base: True
 profile:
   baseprofile: "https://raw.githubusercontent.com/ontodev/robot/master/robot-core/src/main/resources/report_profile.txt"
