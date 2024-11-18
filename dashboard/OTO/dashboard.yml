@@ -3,7 +3,7 @@ base_prefixes:
 - OTO
 - OTOALT
 changed: true
-date: 2024-11-11 14:36:16.916559
+date: 2024-11-18 13:25:48.210005
 metrics:
   'Axioms: Breakdown of axiom types':
     ClassAssertion: 952
