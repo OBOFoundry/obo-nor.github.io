@@ -29,7 +29,7 @@ ontologies:
   - OTO
   - OTOALT
   changed: true
-  date: 2024-11-18 13:25:48.210005
+  date: 2024-11-21 18:22:00.005844
   metrics:
     'Axioms: Breakdown of axiom types':
       ClassAssertion: 952
@@ -127,7 +127,7 @@ ontologies:
   - BMO
   - BMOALT
   changed: true
-  date: 2024-11-18 13:25:24.752226
+  date: 2024-11-21 18:21:36.781777
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 7856
@@ -150,12 +150,12 @@ ontologies:
       ObjectSomeValuesFrom: 236
     'Info: Does the ontology fall under OWL 2 DL?': false
     'Info: Experimental OBO score':
-      _dashboard: 0.667
+      _dashboard: 0.733
       _formula: (1*impact+1*dashboard)/2
       _impact: 0.0
       _impact_external: 0
       _reuse: 1.0
-      oboscore: 0.334
+      oboscore: 0.366
     'Info: How many externally documented uses?': 0
     'Info: How many ontologies use it?': 0
     'Info: Logical consistency': true
@@ -235,8 +235,7 @@ ontologies:
       comment: Missing usages
       status: ERROR
     FP11 Locus of Authority:
-      comment: Invalid contact information
-      status: ERROR
+      status: PASS
     FP12 Naming Conventions:
       status: PASS
     FP16 Maintenance:
@@ -247,10 +246,10 @@ ontologies:
       status: PASS
   sha256_hash: b792359aad1496ff9d0b982394938d68f5390185adf76bd44baf4c48386cc99e
   summary:
-    comment: 4 errors
+    comment: 3 errors
     status: ERROR
     summary_count:
-      ERROR: 4
+      ERROR: 3
       INFO: 0
       WARN: 0
   version: http://purl.obolibrary.org/obo/bmont/releases/2024-08-08/bmont.owl
@@ -259,7 +258,7 @@ ontologies:
   - EXMO
   - EXMOALT
   changed: true
-  date: 2024-11-18 13:25:37.470850
+  date: 2024-11-21 18:21:49.908796
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 6370
@@ -383,7 +382,7 @@ ontologies:
   - OBCI
   - OBCIALT
   changed: true
-  date: 2024-11-18 13:25:44.599717
+  date: 2024-11-21 18:21:56.438264
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 4770
@@ -505,7 +504,7 @@ ontologies:
   - PBPKO
   - PBPKOALT
   changed: true
-  date: 2024-11-18 13:25:32.256927
+  date: 2024-11-21 18:21:44.480646
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 2939
@@ -607,38 +606,38 @@ ontologies:
   - PRIDE_CV
   - PRIDE_CVALT
   changed: true
-  date: 2024-11-18 13:25:54.408738
+  date: 2024-11-21 18:22:06.084145
   metrics:
     'Axioms: Breakdown of axiom types':
-      AnnotationAssertion: 703802
-      Declaration: 61857
+      AnnotationAssertion: 700340
+      Declaration: 61860
       DifferentIndividuals: 2
       DisjointClasses: 282
-      EquivalentClasses: 3081
+      EquivalentClasses: 3082
       FunctionalObjectProperty: 2
       InverseFunctionalObjectProperty: 1
       InverseObjectProperties: 16
       ObjectPropertyDomain: 12
       ObjectPropertyRange: 13
       SubAnnotationPropertyOf: 10
-      SubClassOf: 91255
+      SubClassOf: 91259
       SubObjectPropertyOf: 36
       SubPropertyChainOf: 12
       SymmetricObjectProperty: 1
       TransitiveObjectProperty: 12
-    'Axioms: Number of axioms': 860394
+    'Axioms: Number of axioms': 856940
     'Entities: % of entities reused': 100.0
-    'Entities: Number of annotation properties': 177
-    'Entities: Number of classes': 61552
+    'Entities: Number of annotation properties': 172
+    'Entities: Number of classes': 61560
     'Entities: Number of data properties': 3
     'Entities: Number of individuals': 19
     'Entities: Number of object properties': 109
     'Entities: Number of unsatisfiable classes': 0
     'Info: Breakdown of OWL class expressions used':
-      Class: 259583
+      Class: 259603
       ObjectAllValuesFrom: 16
-      ObjectIntersectionOf: 8389
-      ObjectSomeValuesFrom: 22835
+      ObjectIntersectionOf: 8390
+      ObjectSomeValuesFrom: 22837
       ObjectUnionOf: 1262
     'Info: Does the ontology fall under OWL 2 DL?': true
     'Info: Experimental OBO score':
@@ -653,11 +652,11 @@ ontologies:
     'Info: Logical consistency': true
     'Info: Syntax': RDF/XML Syntax
     'Info: Usage of namespaces in axioms':
-      BFO: 7169
+      BFO: 7170
       BTO: 462
-      CHEBI: 13147
+      CHEBI: 13150
       CHMO: 9614
-      CL: 4508
+      CL: 4509
       CLO: 2128
       DOID: 43
       EO: 128
@@ -665,13 +664,13 @@ ontologies:
       FBdv: 3
       FIX: 81
       FMA: 24
-      GO: 3314
+      GO: 3294
       HANCESTRO: 227
-      HP: 6850
-      IAO: 80351
+      HP: 6855
+      IAO: 79918
       IDO: 2
       MA: 10
-      MONDO: 53579
+      MONDO: 53583
       MP: 24
       MPATH: 8
       MS: 28
@@ -687,7 +686,7 @@ ontologies:
       PO: 707
       PR: 11182
       REX: 1
-      RO: 10036
+      RO: 9999
       SO: 6
       TO: 5
       UBERON: 14887
@@ -695,16 +694,16 @@ ontologies:
       WBls: 7
       ZEA: 2
       ZFA: 72
-      dc: 8271
-      dc11: 1606
+      dc: 8668
+      dc11: 1654
       foaf: 658
-      obo: 92026
-      oboInOwl: 740580
-      owl: 12930
-      prefix_unknown: 127725
-      rdf: 299645
-      rdfs: 75376
-      skos: 4603
+      obo: 19279
+      oboInOwl: 739821
+      owl: 12934
+      prefix_unknown: 127776
+      rdf: 299242
+      rdfs: 75371
+      skos: 74242
       xsd: 405
     'Info: Which ontologies use it?': []
   mirror_from: https://raw.githubusercontent.com/PRIDE-Archive/pride-ontology/master/pride_cv.owl
@@ -759,7 +758,7 @@ ontologies:
   - TMP
   - TMPALT
   changed: true
-  date: 2024-11-18 13:25:18.752759
+  date: 2024-11-21 18:20:53.683805
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 2
