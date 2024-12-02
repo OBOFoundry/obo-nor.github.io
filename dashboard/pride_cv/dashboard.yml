@@ -3,7 +3,7 @@ base_prefixes:
 - PRIDE_CV
 - PRIDE_CVALT
 changed: true
-date: 2024-11-21 18:22:06.084145
+date: 2024-12-02 13:25:38.900240
 metrics:
   'Axioms: Breakdown of axiom types':
     AnnotationAssertion: 700340

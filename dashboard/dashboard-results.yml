@@ -29,7 +29,7 @@ ontologies:
   - OTO
   - OTOALT
   changed: true
-  date: 2024-11-21 18:22:00.005844
+  date: 2024-12-02 13:25:33.511372
   metrics:
     'Axioms: Breakdown of axiom types':
       ClassAssertion: 952
@@ -127,26 +127,26 @@ ontologies:
   - BMO
   - BMOALT
   changed: true
-  date: 2024-11-21 18:21:36.781777
+  date: 2024-12-02 13:25:10.241174
   metrics:
     'Axioms: Breakdown of axiom types':
-      AnnotationAssertion: 7856
-      Declaration: 703
+      AnnotationAssertion: 7853
+      Declaration: 702
       DisjointClasses: 19
       EquivalentClasses: 6
       SubAnnotationPropertyOf: 11
-      SubClassOf: 770
+      SubClassOf: 769
       TransitiveObjectProperty: 1
-    'Axioms: Number of axioms': 9366
+    'Axioms: Number of axioms': 9361
     'Entities: % of entities reused': 100.0
     'Entities: Number of annotation properties': 151
-    'Entities: Number of classes': 546
+    'Entities: Number of classes': 545
     'Entities: Number of data properties': 0
     'Entities: Number of individuals': 0
     'Entities: Number of object properties': 8
     'Entities: Number of unsatisfiable classes': 0
     'Info: Breakdown of OWL class expressions used':
-      Class: 2135
+      Class: 2132
       ObjectSomeValuesFrom: 236
     'Info: Does the ontology fall under OWL 2 DL?': false
     'Info: Experimental OBO score':
@@ -172,7 +172,7 @@ ontologies:
       GO: 30
       GSSO: 10
       HP: 17
-      IAO: 2117
+      IAO: 2115
       ICO: 8
       IDO: 2
       MAXO: 29
@@ -183,7 +183,7 @@ ontologies:
       NCIT: 735
       OAE: 3
       OBCS: 6
-      OBI: 97
+      OBI: 98
       OGG: 11
       OGMS: 21
       OMIT: 73
@@ -201,12 +201,12 @@ ontologies:
       dc: 35
       dc11: 41
       foaf: 4
-      obo: 884
+      obo: 880
       oboInOwl: 3758
       owl: 2
       prefix_unknown: 384
       rdf: 127
-      rdfs: 901
+      rdfs: 900
       skos: 133
     'Info: Which ontologies use it?': []
   mirror_from: https://raw.githubusercontent.com/SCAI-BIO/BiomarkerOntology/main/BMONT-merged.owl
@@ -244,7 +244,7 @@ ontologies:
       status: PASS
     ROBOT Report:
       status: PASS
-  sha256_hash: b792359aad1496ff9d0b982394938d68f5390185adf76bd44baf4c48386cc99e
+  sha256_hash: 78b596f30fe373be043d682bb74a77e8d142a55877d0a9dc2bda4402928224ac
   summary:
     comment: 3 errors
     status: ERROR
@@ -258,7 +258,7 @@ ontologies:
   - EXMO
   - EXMOALT
   changed: true
-  date: 2024-11-21 18:21:49.908796
+  date: 2024-12-02 13:25:23.119556
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 6370
@@ -382,7 +382,7 @@ ontologies:
   - OBCI
   - OBCIALT
   changed: true
-  date: 2024-11-21 18:21:56.438264
+  date: 2024-12-02 13:25:29.835852
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 4770
@@ -504,7 +504,7 @@ ontologies:
   - PBPKO
   - PBPKOALT
   changed: true
-  date: 2024-11-21 18:21:44.480646
+  date: 2024-12-02 13:25:17.497005
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 2939
@@ -606,7 +606,7 @@ ontologies:
   - PRIDE_CV
   - PRIDE_CVALT
   changed: true
-  date: 2024-11-21 18:22:06.084145
+  date: 2024-12-02 13:25:38.900240
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 700340
@@ -758,7 +758,7 @@ ontologies:
   - TMP
   - TMPALT
   changed: true
-  date: 2024-11-21 18:20:53.683805
+  date: 2024-12-02 13:25:03.989113
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 2
