@@ -29,7 +29,7 @@ ontologies:
   - OTO
   - OTOALT
   changed: true
-  date: 2024-12-02 13:25:33.511372
+  date: 2024-12-09 13:26:10.582753
   metrics:
     'Axioms: Breakdown of axiom types':
       ClassAssertion: 952
@@ -127,7 +127,7 @@ ontologies:
   - BMO
   - BMOALT
   changed: true
-  date: 2024-12-02 13:25:10.241174
+  date: 2024-12-09 13:25:45.294063
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 7853
@@ -258,7 +258,7 @@ ontologies:
   - EXMO
   - EXMOALT
   changed: true
-  date: 2024-12-02 13:25:23.119556
+  date: 2024-12-09 13:25:58.434387
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 6370
@@ -382,7 +382,7 @@ ontologies:
   - OBCI
   - OBCIALT
   changed: true
-  date: 2024-12-02 13:25:29.835852
+  date: 2024-12-09 13:26:07.024350
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 4770
@@ -504,7 +504,7 @@ ontologies:
   - PBPKO
   - PBPKOALT
   changed: true
-  date: 2024-12-02 13:25:17.497005
+  date: 2024-12-09 13:25:52.303411
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 2939
@@ -606,7 +606,7 @@ ontologies:
   - PRIDE_CV
   - PRIDE_CVALT
   changed: true
-  date: 2024-12-02 13:25:38.900240
+  date: 2024-12-09 13:26:15.902013
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 700340
@@ -758,7 +758,7 @@ ontologies:
   - TMP
   - TMPALT
   changed: true
-  date: 2024-12-02 13:25:03.989113
+  date: 2024-12-09 13:25:38.247353
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 2
@@ -832,7 +832,7 @@ ontologies:
       comment: Missing version IRI to check date
       status: ERROR
     FP20 Responsiveness:
-      comment: Missing tracker and usages
+      comment: Missing tracker
       status: ERROR
     ROBOT Report:
       comment: 3 warnings, 1 info messages.
