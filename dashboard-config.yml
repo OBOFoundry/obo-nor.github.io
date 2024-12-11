@@ -68,23 +68,23 @@ ontologies:
       license:
         url: https://creativecommons.org/licenses/by/4.0/
         label: CC BY 4.0
-    - id: exmo
-      mirror_from: https://raw.githubusercontent.com/DarkKnight0-0/exmo/master/exmo.owl
-      title: "Exercise Medicine Ontology"
+    - id: memon
+      mirror_from: https://raw.githubusercontent.com/DominikMartinat/membrane_ontology/main/memon.owl
+      title: "Membrane Ontology"
       contact:
-        email: xyz19940216@163.com
-        label: Xingyun Liu
-        orcid: 0000-0002-9295-2767
-        github: DarkKnight0-0
-      description: A core reference ontology built upon BFO about exercise medicine and it contains the related terms for healthy people, people with chronic conditions and people living with diability to exercise.
-      domain: health
-      homepage: https://github.com/DarkKnight0-0/exmo
+        email: dominik.martinat@gmail.com
+        label: Dominik Martinát
+        orcid: 0000-0001-6611-7883
+        github: dominikmartinat
+      description: Membrane Ontology aims to provide a structured, unified vocabulary for the annotation of biological data pertaining to cell membranes and their experimental and computational models. 
+      domain: biochemistry
+      homepage: https://github.com/DominikMartinat/membrane_ontology
       products:
-        - id: exmo.owl
-      tracker: https://github.com/DarkKnight0-0/exmo/issues
+        - id: memon.owl
+      tracker: https://github.com/DominikMartinat/membrane_ontology/issues
       license:
-        url: https://creativecommons.org/licenses/by/4.0/
-        label: CC BY 4.0
+        url: https://creativecommons.org/publicdomain/zero/1.0/
+        label: CC0
     - id: obci
       mirror_from: https://proteininformationresource.org/staff/nataled/OBCI/obci.owl
       title: "Ontology for Biomarkers of Clinical Interest"
@@ -102,23 +102,6 @@ ontologies:
       license:
         url: https://creativecommons.org/licenses/by/4.0/
         label: CC BY 4.0
-    - id: OTO
-      mirror_from: https://raw.githubusercontent.com/duygucelikertugrul/OTO/main/OTO.owl
-      title: "Obesity Tracking Ontology"
-      contact:
-        email: duygu.celik@emu.edu.tr
-        label: Dr.Duygu Çelik Ertuğrul
-        orcid: 0000-0003-1380-705X
-        github: duygucelikertugrul
-      description: OTO encompasses a representation, formal naming and definition of the categories, properties and relations between the concepts, data and entities in pediatric obesity management and treatment.
-      domain: diet, metabolomics, and nutrition
-      homepage: https://github.com/duygucelikertugrul/OTO
-      products:
-        - id: OTO.owl
-      tracker: https://github.com/duygucelikertugrul/OTO
-      license:
-        url: https://creativecommons.org/publicdomain/zero/1.0/
-        label: CC0
     - id: pride_cv
       mirror_from: https://raw.githubusercontent.com/PRIDE-Archive/pride-ontology/master/pride_cv.owl
       title: "Proteomics Identification Database"
