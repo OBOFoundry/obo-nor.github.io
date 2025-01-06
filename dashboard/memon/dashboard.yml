@@ -3,7 +3,7 @@ base_prefixes:
 - MEMON
 - MEMONALT
 changed: true
-date: 2024-12-11 17:41:42.149779
+date: 2025-01-06 13:21:43.024192
 metrics:
   'Axioms: Breakdown of axiom types':
     AnnotationAssertion: 2013
@@ -104,7 +104,7 @@ results:
     status: PASS
   ROBOT Report:
     status: PASS
-sha256_hash: d9eff73111d688da6c49cd406d290dd37e4c927892f5bd65e86891e767aa6f88
+sha256_hash: 8a6fb9e4cd2954904e1700beea023564c3356a84a33e6ad1aec1efb1167eb098
 summary:
   comment: 2 errors
   status: ERROR
@@ -112,4 +112,4 @@ summary:
     ERROR: 2
     INFO: 0
     WARN: 1
-version: http://purl.obolibrary.org/obo/memon/releases/2024-12-09/memon.owl
+version: http://purl.obolibrary.org/obo/memon/releases/2024-12-12/memon.owl
