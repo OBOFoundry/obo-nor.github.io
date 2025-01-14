@@ -7,7 +7,7 @@
         "BMOALT"
       ],
       "changed": true,
-      "date": "2025-01-06T13:21:29.578166",
+      "date": "2025-01-13T13:20:43.303637",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 7853,
@@ -163,7 +163,7 @@
         "MEMONALT"
       ],
       "changed": true,
-      "date": "2025-01-06T13:21:43.024192",
+      "date": "2025-01-13T13:20:56.384200",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 2013,
@@ -302,7 +302,7 @@
         "OBCIALT"
       ],
       "changed": true,
-      "date": "2025-01-06T13:21:50.315823",
+      "date": "2025-01-13T13:21:03.725242",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 4770,
@@ -450,7 +450,7 @@
         "PBPKOALT"
       ],
       "changed": true,
-      "date": "2025-01-06T13:21:37.554522",
+      "date": "2025-01-13T13:20:50.893332",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 2939,
@@ -577,11 +577,11 @@
         "PRIDE_CVALT"
       ],
       "changed": true,
-      "date": "2025-01-06T13:21:55.276758",
+      "date": "2025-01-13T13:21:08.756575",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
-          "AnnotationAssertion": 704483,
-          "Declaration": 61923,
+          "AnnotationAssertion": 704503,
+          "Declaration": 61928,
           "DifferentIndividuals": 2,
           "DisjointClasses": 276,
           "EquivalentClasses": 3079,
@@ -591,22 +591,22 @@
           "ObjectPropertyDomain": 12,
           "ObjectPropertyRange": 13,
           "SubAnnotationPropertyOf": 10,
-          "SubClassOf": 91348,
+          "SubClassOf": 91379,
           "SubObjectPropertyOf": 36,
           "SubPropertyChainOf": 12,
           "SymmetricObjectProperty": 1,
           "TransitiveObjectProperty": 12
         },
-        "Axioms: Number of axioms": 861226,
+        "Axioms: Number of axioms": 861282,
         "Entities: % of entities reused": 100.0,
         "Entities: Number of annotation properties": 172,
-        "Entities: Number of classes": 61623,
+        "Entities: Number of classes": 61628,
         "Entities: Number of data properties": 3,
         "Entities: Number of individuals": 19,
         "Entities: Number of object properties": 109,
         "Entities: Number of unsatisfiable classes": 0,
         "Info: Breakdown of OWL class expressions used": {
-          "Class": 259823,
+          "Class": 259890,
           "ObjectAllValuesFrom": 16,
           "ObjectIntersectionOf": 8387,
           "ObjectSomeValuesFrom": 22833,
@@ -641,7 +641,7 @@
           "GO": 3289,
           "HANCESTRO": 227,
           "HP": 6863,
-          "IAO": 80076,
+          "IAO": 80081,
           "IDO": 2,
           "MA": 10,
           "MONDO": 53785,
@@ -671,14 +671,14 @@
           "dc": 8678,
           "dc11": 1653,
           "foaf": 658,
-          "obo": 19304,
-          "oboInOwl": 731491,
+          "obo": 19371,
+          "oboInOwl": 731506,
           "owl": 12946,
           "prefix_unknown": 127782,
           "rdf": 287004,
-          "rdfs": 75438,
+          "rdfs": 75443,
           "skos": 74434,
-          "xsd": 405
+          "xsd": 410
         },
         "Info: Which ontologies use it?": []
       },
@@ -734,7 +734,7 @@
           "status": "PASS"
         }
       },
-      "sha256_hash": "2c0bcd9437505d4b9a78513c04658f9cfcd5329a9f081196f569d76115d6d02d",
+      "sha256_hash": "6cebb57c23516165246a4ac30db18f7ce64f056c8e9d1bb15f3665212d34060f",
       "summary": {
         "comment": "4 errors",
         "status": "ERROR",
@@ -744,7 +744,7 @@
           "WARN": 0
         }
       },
-      "version": "http://purl.obolibrary.org/obo/pride/2.1.5/pride.owl"
+      "version": "http://purl.obolibrary.org/obo/pride/2.1.7/pride.owl"
     },
     {
       "base_generated": true,
@@ -753,7 +753,7 @@
         "TMPALT"
       ],
       "changed": true,
-      "date": "2025-01-06T13:21:22.113539",
+      "date": "2025-01-13T13:20:37.214020",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 2,
