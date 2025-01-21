@@ -85,23 +85,6 @@ ontologies:
       license:
         url: https://creativecommons.org/publicdomain/zero/1.0/
         label: CC0
-    - id: obci
-      mirror_from: https://proteininformationresource.org/staff/nataled/OBCI/obci.owl
-      title: "Ontology for Biomarkers of Clinical Interest"
-      contact:
-        email: dan5@georgetown.edu
-        label: Darren A. Natale
-        orcid: 0000-0001-5809-9523
-        github: nataled
-      description: OBCI is a reference ontology for biomarkers that formalizes biomarker-centric knowledge (terms, definitions, synonyms) under a unified framework, enriched with objects imported from related reference ontologies and designed to aid clinicians seeking to identify biomarkers useful to their purpose.
-      domain: health
-      homepage: https://github.com/clinical-biomarkers/OBCI
-      products:
-        - id: obci.owl
-      tracker: https://github.com/clinical-biomarkers/OBCI/issues
-      license:
-        url: https://creativecommons.org/licenses/by/4.0/
-        label: CC BY 4.0
     - id: pride_cv
       mirror_from: https://raw.githubusercontent.com/PRIDE-Archive/pride-ontology/master/pride_cv.owl
       title: "Proteomics Identification Database"
