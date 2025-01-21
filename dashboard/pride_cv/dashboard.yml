@@ -3,38 +3,38 @@ base_prefixes:
 - PRIDE_CV
 - PRIDE_CVALT
 changed: true
-date: 2024-12-09 13:26:15.902013
+date: 2025-01-13 13:21:08.756575
 metrics:
   'Axioms: Breakdown of axiom types':
-    AnnotationAssertion: 700340
-    Declaration: 61860
+    AnnotationAssertion: 704503
+    Declaration: 61928
     DifferentIndividuals: 2
-    DisjointClasses: 282
-    EquivalentClasses: 3082
+    DisjointClasses: 276
+    EquivalentClasses: 3079
     FunctionalObjectProperty: 2
     InverseFunctionalObjectProperty: 1
     InverseObjectProperties: 16
     ObjectPropertyDomain: 12
     ObjectPropertyRange: 13
     SubAnnotationPropertyOf: 10
-    SubClassOf: 91259
+    SubClassOf: 91379
     SubObjectPropertyOf: 36
     SubPropertyChainOf: 12
     SymmetricObjectProperty: 1
     TransitiveObjectProperty: 12
-  'Axioms: Number of axioms': 856940
+  'Axioms: Number of axioms': 861282
   'Entities: % of entities reused': 100.0
   'Entities: Number of annotation properties': 172
-  'Entities: Number of classes': 61560
+  'Entities: Number of classes': 61628
   'Entities: Number of data properties': 3
   'Entities: Number of individuals': 19
   'Entities: Number of object properties': 109
   'Entities: Number of unsatisfiable classes': 0
   'Info: Breakdown of OWL class expressions used':
-    Class: 259603
+    Class: 259890
     ObjectAllValuesFrom: 16
-    ObjectIntersectionOf: 8390
-    ObjectSomeValuesFrom: 22837
+    ObjectIntersectionOf: 8387
+    ObjectSomeValuesFrom: 22833
     ObjectUnionOf: 1262
   'Info: Does the ontology fall under OWL 2 DL?': true
   'Info: Experimental OBO score':
@@ -49,59 +49,59 @@ metrics:
   'Info: Logical consistency': true
   'Info: Syntax': RDF/XML Syntax
   'Info: Usage of namespaces in axioms':
-    BFO: 7170
+    BFO: 7171
     BTO: 462
-    CHEBI: 13150
+    CHEBI: 13151
     CHMO: 9614
-    CL: 4509
+    CL: 4507
     CLO: 2128
     DOID: 43
     EO: 128
-    FBbt: 275
+    FBbt: 274
     FBdv: 3
     FIX: 81
     FMA: 24
-    GO: 3294
+    GO: 3289
     HANCESTRO: 227
-    HP: 6855
-    IAO: 79918
+    HP: 6863
+    IAO: 80081
     IDO: 2
     MA: 10
-    MONDO: 53583
+    MONDO: 53785
     MP: 24
     MPATH: 8
     MS: 28
     NCBITaxon: 7005
     NCIT: 33
-    OBA: 14349
+    OBA: 14361
     OBCS: 4
-    OBI: 1546
+    OBI: 1533
     OGMS: 93
     OMIT: 12
     OMO: 2
-    PATO: 7007
+    PATO: 7008
     PO: 707
-    PR: 11182
+    PR: 11184
     REX: 1
-    RO: 9999
+    RO: 9995
     SO: 6
     TO: 5
-    UBERON: 14887
+    UBERON: 14889
     UO: 342
     WBls: 7
     ZEA: 2
     ZFA: 72
-    dc: 8668
-    dc11: 1654
+    dc: 8678
+    dc11: 1653
     foaf: 658
-    obo: 19279
-    oboInOwl: 739821
-    owl: 12934
-    prefix_unknown: 127776
-    rdf: 299242
-    rdfs: 75371
-    skos: 74242
-    xsd: 405
+    obo: 19371
+    oboInOwl: 731506
+    owl: 12946
+    prefix_unknown: 127782
+    rdf: 287004
+    rdfs: 75443
+    skos: 74434
+    xsd: 410
   'Info: Which ontologies use it?': []
 mirror_from: https://raw.githubusercontent.com/PRIDE-Archive/pride-ontology/master/pride_cv.owl
 namespace: pride_cv
@@ -141,7 +141,7 @@ results:
     status: PASS
   ROBOT Report:
     status: PASS
-sha256_hash: 2c0bcd9437505d4b9a78513c04658f9cfcd5329a9f081196f569d76115d6d02d
+sha256_hash: 6cebb57c23516165246a4ac30db18f7ce64f056c8e9d1bb15f3665212d34060f
 summary:
   comment: 4 errors
   status: ERROR
@@ -149,4 +149,4 @@ summary:
     ERROR: 4
     INFO: 1
     WARN: 0
-version: http://purl.obolibrary.org/obo/pride/2.1.5/pride.owl
+version: http://purl.obolibrary.org/obo/pride/2.1.7/pride.owl
