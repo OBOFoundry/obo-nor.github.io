@@ -68,23 +68,6 @@ ontologies:
       license:
         url: https://creativecommons.org/licenses/by/4.0/
         label: CC BY 4.0
-    - id: memon
-      mirror_from: https://raw.githubusercontent.com/DominikMartinat/membrane_ontology/main/memon.owl
-      title: "Membrane Ontology"
-      contact:
-        email: dominik.martinat@gmail.com
-        label: Dominik Martinát
-        orcid: 0000-0001-6611-7883
-        github: dominikmartinat
-      description: Membrane Ontology aims to provide a structured, unified vocabulary for the annotation of biological data pertaining to cell membranes and their experimental and computational models. 
-      domain: biochemistry
-      homepage: https://github.com/DominikMartinat/membrane_ontology
-      products:
-        - id: memon.owl
-      tracker: https://github.com/DominikMartinat/membrane_ontology/issues
-      license:
-        url: https://creativecommons.org/publicdomain/zero/1.0/
-        label: CC0
     - id: pride_cv
       mirror_from: https://raw.githubusercontent.com/PRIDE-Archive/pride-ontology/master/pride_cv.owl
       title: "Proteomics Identification Database"
