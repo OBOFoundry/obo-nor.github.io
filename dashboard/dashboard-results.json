@@ -7,7 +7,7 @@
         "BMOALT"
       ],
       "changed": true,
-      "date": "2025-01-21T15:13:43.858429",
+      "date": "2025-02-03T13:19:38.356342",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 7853,
@@ -159,150 +159,11 @@
     {
       "base_generated": true,
       "base_prefixes": [
-        "MEMON",
-        "MEMONALT"
-      ],
-      "changed": true,
-      "date": "2025-01-21T15:13:57.330711",
-      "metrics": {
-        "Axioms: Breakdown of axiom types": {
-          "AnnotationAssertion": 2013,
-          "ClassAssertion": 2,
-          "Declaration": 432,
-          "DifferentIndividuals": 1,
-          "DisjointClasses": 7,
-          "EquivalentClasses": 1,
-          "FunctionalObjectProperty": 2,
-          "InverseFunctionalObjectProperty": 1,
-          "InverseObjectProperties": 22,
-          "ObjectPropertyDomain": 24,
-          "ObjectPropertyRange": 24,
-          "Rule": 25,
-          "SubAnnotationPropertyOf": 23,
-          "SubClassOf": 305,
-          "SubObjectPropertyOf": 121,
-          "SubPropertyChainOf": 52,
-          "SymmetricObjectProperty": 3,
-          "TransitiveObjectProperty": 13
-        },
-        "Axioms: Number of axioms": 3071,
-        "Entities: % of entities reused": 100.0,
-        "Entities: Number of annotation properties": 80,
-        "Entities: Number of classes": 242,
-        "Entities: Number of data properties": 0,
-        "Entities: Number of individuals": 9,
-        "Entities: Number of object properties": 104,
-        "Entities: Number of unsatisfiable classes": 0,
-        "Info: Breakdown of OWL class expressions used": {
-          "Class": 919,
-          "ObjectAllValuesFrom": 6,
-          "ObjectHasSelf": 1,
-          "ObjectOneOf": 1,
-          "ObjectSomeValuesFrom": 8,
-          "ObjectUnionOf": 1
-        },
-        "Info: Does the ontology fall under OWL 2 DL?": true,
-        "Info: Experimental OBO score": {
-          "_dashboard": 0.778,
-          "_formula": "(1*impact+1*dashboard)/2",
-          "_impact": 0.0,
-          "_impact_external": 0,
-          "_reuse": 1.0,
-          "oboscore": 0.389
-        },
-        "Info: How many externally documented uses?": 0,
-        "Info: How many ontologies use it?": 0,
-        "Info: Logical consistency": true,
-        "Info: Syntax": "RDF/XML Syntax",
-        "Info: Usage of namespaces in axioms": {
-          "BFO": 160,
-          "GO": 779,
-          "IAO": 640,
-          "PATO": 3,
-          "RO": 666,
-          "dc": 16,
-          "dc11": 21,
-          "foaf": 1,
-          "obo": 69,
-          "oboInOwl": 1225,
-          "owl": 2,
-          "prefix_unknown": 3,
-          "rdf": 282,
-          "rdfs": 464,
-          "skos": 3,
-          "xsd": 6
-        },
-        "Info: Which ontologies use it?": []
-      },
-      "mirror_from": "https://raw.githubusercontent.com/DominikMartinat/membrane_ontology/main/memon.owl",
-      "namespace": "memon",
-      "results": {
-        "FP01 Open": {
-          "comment": "Registry license 'https://creativecommons.org/publicdomain/zero/1.0/' is not a valid open license.",
-          "status": "WARN"
-        },
-        "FP02 Common Format": {
-          "status": "PASS"
-        },
-        "FP03 URIs": {
-          "status": "PASS"
-        },
-        "FP04 Versioning": {
-          "comment": "Version IRI does not resolve",
-          "status": "ERROR"
-        },
-        "FP05 Scope": {
-          "status": "PASS"
-        },
-        "FP06 Textual Definitions": {
-          "status": "PASS"
-        },
-        "FP07 Relations": {
-          "status": "PASS"
-        },
-        "FP08 Documented": {
-          "status": "PASS"
-        },
-        "FP09 Plurality of Users": {
-          "comment": "Missing usages",
-          "status": "ERROR"
-        },
-        "FP11 Locus of Authority": {
-          "status": "PASS"
-        },
-        "FP12 Naming Conventions": {
-          "status": "PASS"
-        },
-        "FP16 Maintenance": {
-          "status": "PASS"
-        },
-        "FP20 Responsiveness": {
-          "status": "PASS"
-        },
-        "ROBOT Report": {
-          "status": "PASS"
-        }
-      },
-      "sha256_hash": "8a6fb9e4cd2954904e1700beea023564c3356a84a33e6ad1aec1efb1167eb098",
-      "summary": {
-        "comment": "2 errors",
-        "status": "ERROR",
-        "summary_count": {
-          "ERROR": 2,
-          "INFO": 0,
-          "WARN": 1
-        }
-      },
-      "version": "http://purl.obolibrary.org/obo/memon/releases/2024-12-12/memon.owl"
-    },
-    {
-      "base_generated": true,
-      "base_prefixes": [
         "PBPKO",
         "PBPKOALT"
       ],
       "changed": true,
-      "date": "2025-01-21T15:13:51.962945",
+      "date": "2025-02-03T13:19:45.894343",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 2939,
@@ -429,10 +290,10 @@
         "PRIDE_CVALT"
       ],
       "changed": true,
-      "date": "2025-01-21T15:14:02.896160",
+      "date": "2025-02-03T13:19:51.595082",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
-          "AnnotationAssertion": 738064,
+          "AnnotationAssertion": 738131,
           "Declaration": 67552,
           "DifferentIndividuals": 2,
           "DisjointClasses": 282,
@@ -449,7 +310,7 @@
           "SymmetricObjectProperty": 1,
           "TransitiveObjectProperty": 12
         },
-        "Axioms: Number of axioms": 929623,
+        "Axioms: Number of axioms": 929690,
         "Entities: % of entities reused": 100.0,
         "Entities: Number of annotation properties": 174,
         "Entities: Number of classes": 67248,
@@ -493,7 +354,7 @@
           "GO": 3227,
           "HANCESTRO": 227,
           "HP": 6866,
-          "IAO": 84831,
+          "IAO": 84968,
           "IDO": 2,
           "MA": 10,
           "MONDO": 53838,
@@ -524,13 +385,13 @@
           "dc11": 1656,
           "foaf": 659,
           "obo": 19454,
-          "oboInOwl": 750554,
+          "oboInOwl": 750691,
           "owl": 14068,
           "prefix_unknown": 136832,
           "rdf": 295890,
-          "rdfs": 82257,
+          "rdfs": 82187,
           "skos": 74463,
-          "xsd": 412
+          "xsd": 549
         },
         "Info: Which ontologies use it?": []
       },
@@ -586,7 +447,7 @@
           "status": "PASS"
         }
       },
-      "sha256_hash": "61c935ee8c5516ba81a96f0453daf9ec2eb0297103836f4fb6ef6b23791a18ec",
+      "sha256_hash": "dc97d42d90bb02e35e789004c8392b2347f56c48683078fac96c7ee3262e9946",
       "summary": {
         "comment": "4 errors",
         "status": "ERROR",
@@ -605,7 +466,7 @@
         "TMPALT"
       ],
       "changed": true,
-      "date": "2025-01-21T15:13:36.306530",
+      "date": "2025-02-03T13:19:28.510344",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 2,
