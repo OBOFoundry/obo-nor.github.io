@@ -3,7 +3,7 @@ base_prefixes:
 - PRIDE_CV
 - PRIDE_CVALT
 changed: true
-date: 2025-02-03 13:19:51.595082
+date: 2025-02-04 20:22:29.276486
 metrics:
   'Axioms: Breakdown of axiom types':
     AnnotationAssertion: 738131
@@ -107,8 +107,7 @@ mirror_from: https://raw.githubusercontent.com/PRIDE-Archive/pride-ontology/mast
 namespace: pride_cv
 results:
   FP01 Open:
-    comment: Registry license 'https://creativecommons.org/publicdomain/zero/1.0/'
-      is not a valid open license. Missing ontology license.
+    comment: Missing ontology license.
     status: ERROR
   FP02 Common Format:
     status: PASS
