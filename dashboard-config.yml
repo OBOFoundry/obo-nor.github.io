@@ -34,6 +34,23 @@ ontologies:
   custom:
     - id: tmp
       mirror_from: "https://raw.githubusercontent.com/monarch-ebi-dev/robot_tests/master/custom-dashboard.owl"
+    - id: modal
+      mirror_from: https://raw.githubusercontent.com/broadinstitute/modal/main/DataModality.owx
+      title: "Data Modality Ontology"
+      contact:
+        email: sidcox@broadinstitute.org
+        label: Robert Sidney Cox, III, Ph.D.
+        orcid: 0000-0002-2009-6236
+        github: rsc3
+      description: Data modality describes the biological nature of information gathered as the result of an experimental activity, independent of the technology or methods used to produce the information.
+      domain: biological systems
+      homepage: https://github.com/broadinstitute/modal
+      products:
+        - id: DataModality.owx
+      tracker: https://github.com/broadinstitute/modal/issues
+      license:
+        url: https://creativecommons.org/publicdomain/zero/1.0/
+        label: CC0 1.0
     - id: bmo
       mirror_from: https://raw.githubusercontent.com/SCAI-BIO/BiomarkerOntology/main/BMONT-merged.owl
       title: "Biomarker Ontology"
@@ -84,7 +101,7 @@ ontologies:
       tracker: https://github.com/PRIDE-Archive/pride-ontology/issues
       license:
         url: https://creativecommons.org/publicdomain/zero/1.0/
-        label: CC0
+        label: CC0 1.0
 prefer_base: True
 profile:
   baseprofile: "https://raw.githubusercontent.com/ontodev/robot/master/robot-core/src/main/resources/report_profile.txt"
