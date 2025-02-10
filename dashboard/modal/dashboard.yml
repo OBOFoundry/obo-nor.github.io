@@ -3,7 +3,7 @@ base_prefixes:
 - MODAL
 - MODALALT
 changed: true
-date: 2025-02-04 20:22:09.769827
+date: 2025-02-10 13:20:39.448611
 metrics:
   'Axioms: Breakdown of axiom types':
     AnnotationAssertion: 50
