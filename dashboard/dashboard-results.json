@@ -7,7 +7,7 @@
         "MODALALT"
       ],
       "changed": true,
-      "date": "2025-02-17T13:21:51.588189",
+      "date": "2025-02-18T14:32:21.656225",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 50,
@@ -120,7 +120,7 @@
         "PBPKOALT"
       ],
       "changed": true,
-      "date": "2025-02-17T13:21:59.031529",
+      "date": "2025-02-18T14:34:00.113043",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 2939,
@@ -247,11 +247,11 @@
         "PRIDE_CVALT"
       ],
       "changed": true,
-      "date": "2025-02-17T13:22:04.023025",
+      "date": "2025-02-18T14:34:53.580166",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
-          "AnnotationAssertion": 738077,
-          "Declaration": 67528,
+          "AnnotationAssertion": 737781,
+          "Declaration": 67517,
           "DifferentIndividuals": 2,
           "DisjointClasses": 282,
           "EquivalentClasses": 5830,
@@ -261,42 +261,42 @@
           "ObjectPropertyDomain": 12,
           "ObjectPropertyRange": 13,
           "SubAnnotationPropertyOf": 10,
-          "SubClassOf": 117753,
+          "SubClassOf": 117764,
           "SubObjectPropertyOf": 37,
           "SubPropertyChainOf": 12,
           "SymmetricObjectProperty": 1,
-          "TransitiveObjectProperty": 12
+          "TransitiveObjectProperty": 10
         },
-        "Axioms: Number of axioms": 929588,
+        "Axioms: Number of axioms": 929290,
         "Entities: % of entities reused": 100.0,
-        "Entities: Number of annotation properties": 174,
-        "Entities: Number of classes": 67224,
+        "Entities: Number of annotation properties": 175,
+        "Entities: Number of classes": 67215,
         "Entities: Number of data properties": 3,
         "Entities: Number of individuals": 19,
-        "Entities: Number of object properties": 111,
+        "Entities: Number of object properties": 108,
         "Entities: Number of unsatisfiable classes": 0,
         "Info: Breakdown of OWL class expressions used": {
-          "Class": 338802,
+          "Class": 338815,
           "ObjectAllValuesFrom": 15,
           "ObjectIntersectionOf": 23662,
-          "ObjectSomeValuesFrom": 59038,
+          "ObjectSomeValuesFrom": 59005,
           "ObjectUnionOf": 1256
         },
         "Info: Does the ontology fall under OWL 2 DL?": true,
         "Info: Experimental OBO score": {
-          "_dashboard": 0.66,
+          "_dashboard": 0.667,
           "_formula": "(1*impact+1*dashboard)/2",
           "_impact": 0.0,
           "_impact_external": 0,
           "_reuse": 1.0,
-          "oboscore": 0.33
+          "oboscore": 0.334
         },
         "Info: How many externally documented uses?": 0,
         "Info: How many ontologies use it?": 0,
         "Info: Logical consistency": true,
         "Info: Syntax": "RDF/XML Syntax",
         "Info: Usage of namespaces in axioms": {
-          "BFO": 19762,
+          "BFO": 19774,
           "BTO": 460,
           "CHEBI": 20692,
           "CHMO": 9614,
@@ -308,10 +308,10 @@
           "FBdv": 3,
           "FIX": 81,
           "FMA": 24,
-          "GO": 3227,
+          "GO": 3226,
           "HANCESTRO": 227,
           "HP": 6866,
-          "IAO": 85039,
+          "IAO": 85073,
           "IDO": 2,
           "MA": 10,
           "MONDO": 53838,
@@ -330,25 +330,25 @@
           "PO": 707,
           "PR": 19717,
           "REX": 1,
-          "RO": 33616,
+          "RO": 33632,
           "SO": 6,
           "TO": 5,
-          "UBERON": 38588,
+          "UBERON": 38586,
           "UO": 342,
           "WBls": 7,
           "ZEA": 2,
           "ZFA": 72,
           "dc": 12657,
-          "dc11": 1656,
+          "dc11": 1657,
           "foaf": 659,
-          "obo": 19382,
-          "oboInOwl": 750715,
-          "owl": 14068,
-          "prefix_unknown": 136832,
-          "rdf": 295890,
-          "rdfs": 82110,
+          "obo": 19347,
+          "oboInOwl": 750970,
+          "owl": 14059,
+          "prefix_unknown": 136454,
+          "rdf": 296696,
+          "rdfs": 82168,
           "skos": 74463,
-          "xsd": 621
+          "xsd": 3
         },
         "Info: Which ontologies use it?": []
       },
@@ -356,7 +356,7 @@
       "namespace": "pride_cv",
       "results": {
         "FP01 Open": {
-          "comment": "Missing ontology license.",
+          "comment": "Ontology license 'https://creativecommons.org/licenses/by/4.0/' does not match registry license 'https://creativecommons.org/publicdomain/zero/1.0/'.",
           "status": "ERROR"
         },
         "FP02 Common Format": {
@@ -394,8 +394,7 @@
           "status": "PASS"
         },
         "FP16 Maintenance": {
-          "comment": "Version IRI does not have date information",
-          "status": "INFO"
+          "status": "PASS"
         },
         "FP20 Responsiveness": {
           "status": "PASS"
@@ -404,17 +403,17 @@
           "status": "PASS"
         }
       },
-      "sha256_hash": "114f1583ab8ec68cb253807b1fd59072f601fd1a4a96ec661becb7bbdaf8f88f",
+      "sha256_hash": "6a725477b70e981b44d2fcc56e8a7791c4680361b6b2ce8f50195fa9e94cd7ce",
       "summary": {
         "comment": "4 errors",
         "status": "ERROR",
         "summary_count": {
           "ERROR": 4,
-          "INFO": 1,
+          "INFO": 0,
           "WARN": 0
         }
       },
-      "version": "http://purl.obolibrary.org/obo/pride/2.1.12/pride.owl"
+      "version": "http://purl.obolibrary.org/obo/pride/releases/2025-02-17/pride.owl"
     },
     {
       "base_generated": true,
@@ -423,7 +422,7 @@
         "TMPALT"
       ],
       "changed": true,
-      "date": "2025-02-17T13:21:47.112391",
+      "date": "2025-02-18T14:32:17.400660",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 2,
