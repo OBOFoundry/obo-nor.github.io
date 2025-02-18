@@ -85,7 +85,7 @@ ontologies:
       license:
         url: https://creativecommons.org/licenses/by/4.0/
         label: CC BY 4.0
-    - id: pride_cv
+    - id: pride
       mirror_from: https://raw.githubusercontent.com/PRIDE-Archive/pride-ontology/master/pride_cv.owl
       title: "Proteomics Identification Database"
       contact:
@@ -100,8 +100,8 @@ ontologies:
         - id: pride_cv.owl
       tracker: https://github.com/PRIDE-Archive/pride-ontology/issues
       license:
-        url: https://creativecommons.org/publicdomain/zero/1.0/
-        label: CC0 1.0
+        url: https://creativecommons.org/licenses/by/4.0/
+        label: CC BY 4.0
 prefer_base: True
 profile:
   baseprofile: "https://raw.githubusercontent.com/ontodev/robot/master/robot-core/src/main/resources/report_profile.txt"
