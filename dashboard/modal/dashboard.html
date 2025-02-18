@@ -1,15 +1,15 @@
 <head>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
-    <title>bmo Dashboard Report</title>
+    <title>modal Dashboard Report</title>
 </head>
 <body>
     <div class="container">
         <div class="row" style="padding-top:30px;">
             <div class="col-md-2"></div>
             <div class="col-md-8">
-                <h1>Dashboard Report - <a href="http://obofoundry.org/ontology/bmo.html">bmo</a></h1>
-                <p class="lead"><b>Version</b>: http://purl.obolibrary.org/obo/bmont/releases/2024-08-08/bmont.owl</p>
-                <p class="lead" style="margin-top:-15px;"><b>Date run</b>: 2025-02-03 13:19:38.356342</p>
+                <h1>Dashboard Report - <a href="http://obofoundry.org/ontology/modal.html">modal</a></h1>
+                <p class="lead"><b>Version</b>: None</p>
+                <p class="lead" style="margin-top:-15px;"><b>Date run</b>: 2025-02-18 14:32:21.656225</p>
                 <p class="lead" style="margin-top:-15px;"><a href="dashboard.yml">View dashboard results as YAML</a></p>
                 <p class="lead" style="margin-top:-15px;"><a href="../index.html">Go back to Overview</a></p>
                 <h3>Error Breakdown</h3>
@@ -19,7 +19,7 @@
                         
                     
                     <div class="alert alert-danger">
-                        <center><h3>ERROR - 3 errors</h3></center>
+                        <center><h3>ERROR - 5 errors</h3></center>
                     </div>
                 
                 <table class="table">
@@ -42,11 +42,11 @@
                                 
                                 
                             
-                            <td class="table-success" style="text-align:center;">
-                                <img src="../assets/check.svg" height="15px">
+                            <td class="table-danger" style="text-align:center;">
+                                <img src="../assets/x.svg" height="15px">
                             </td>
                             
-                                <td></td>
+                                <td>Ontology license 'https://github.com/databiosphere/terra-interoperability-model/blob/master/license' does not match registry license 'https://creativecommons.org/publicdomain/zero/1.0/'.</td>
                             
                             
                                 <td></td>
@@ -63,11 +63,11 @@
                                 
                                 
                             
-                            <td class="table-success" style="text-align:center;">
-                                <img src="../assets/check.svg" height="15px">
+                            <td class="table-warning" style="text-align:center;">
+                                <img src="../assets/warning.svg" height="15px">
                             </td>
                             
-                                <td></td>
+                                <td>OWL syntax (OWL/XML Syntax), but should be RDF/XML</td>
                             
                             
                                 <td></td>
@@ -109,7 +109,7 @@
                                 <img src="../assets/x.svg" height="15px">
                             </td>
                             
-                                <td>Version IRI does not resolve</td>
+                                <td>Missing version IRI</td>
                             
                             
                                 <td></td>
@@ -273,11 +273,11 @@
                                 
                                 
                             
-                            <td class="table-success" style="text-align:center;">
-                                <img src="../assets/check.svg" height="15px">
+                            <td class="table-danger" style="text-align:center;">
+                                <img src="../assets/x.svg" height="15px">
                             </td>
                             
-                                <td></td>
+                                <td>Missing version IRI to check date</td>
                             
                             
                                 <td></td>
@@ -350,19 +350,11 @@
                                     <td>
                                         <ul>
                                             
-                                                <li>AnnotationAssertion: 7853</li>
+                                                <li>AnnotationAssertion: 50</li>
                                             
-                                                <li>Declaration: 702</li>
+                                                <li>Declaration: 36</li>
                                             
-                                                <li>DisjointClasses: 19</li>
-                                            
-                                                <li>EquivalentClasses: 6</li>
-                                            
-                                                <li>SubAnnotationPropertyOf: 11</li>
-                                            
-                                                <li>SubClassOf: 769</li>
-                                            
-                                                <li>TransitiveObjectProperty: 1</li>
+                                                <li>SubClassOf: 29</li>
                                             
                                         </ul>
                                     </td>
@@ -373,7 +365,7 @@
                                 <td>Axioms: Number of axioms</td>
                                 
                                 
-                                    <td>9361</td>
+                                    <td>115</td>
                                 
                             </tr>
                         
@@ -389,7 +381,7 @@
                                 <td>Entities: Number of annotation properties</td>
                                 
                                 
-                                    <td>151</td>
+                                    <td>9</td>
                                 
                             </tr>
                         
@@ -397,7 +389,7 @@
                                 <td>Entities: Number of classes</td>
                                 
                                 
-                                    <td>545</td>
+                                    <td>30</td>
                                 
                             </tr>
                         
@@ -421,7 +413,7 @@
                                 <td>Entities: Number of object properties</td>
                                 
                                 
-                                    <td>8</td>
+                                    <td>0</td>
                                 
                             </tr>
                         
@@ -440,9 +432,7 @@
                                     <td>
                                         <ul>
                                             
-                                                <li>Class: 2132</li>
-                                            
-                                                <li>ObjectSomeValuesFrom: 236</li>
+                                                <li>Class: 88</li>
                                             
                                         </ul>
                                     </td>
@@ -453,7 +443,7 @@
                                 <td>Info: Does the ontology fall under OWL 2 DL?</td>
                                 
                                 
-                                    <td>False</td>
+                                    <td>True</td>
                                 
                             </tr>
                         
@@ -464,7 +454,7 @@
                                     <td>
                                         <ul>
                                             
-                                                <li>_dashboard: 0.733</li>
+                                                <li>_dashboard: 0.578</li>
                                             
                                                 <li>_formula: (1*impact+1*dashboard)/2</li>
                                             
@@ -474,7 +464,7 @@
                                             
                                                 <li>_reuse: 1.0</li>
                                             
-                                                <li>oboscore: 0.366</li>
+                                                <li>oboscore: 0.289</li>
                                             
                                         </ul>
                                     </td>
@@ -509,7 +499,7 @@
                                 <td>Info: Syntax</td>
                                 
                                 
-                                    <td>RDF/XML Syntax</td>
+                                    <td>OWL/XML Syntax</td>
                                 
                             </tr>
                         
@@ -520,99 +510,17 @@
                                     <td>
                                         <ul>
                                             
-                                                <li>BFO: 262</li>
+                                                <li>IAO: 2</li>
                                             
-                                                <li>CARO: 2</li>
+                                                <li>dc: 2</li>
                                             
-                                                <li>CHEBI: 78</li>
+                                                <li>dc11: 2</li>
                                             
-                                                <li>CHMO: 5</li>
+                                                <li>prefix_unknown: 86</li>
                                             
-                                                <li>CL: 21</li>
+                                                <li>rdfs: 32</li>
                                             
-                                                <li>CMO: 31</li>
-                                            
-                                                <li>CTO: 3</li>
-                                            
-                                                <li>DOID: 400</li>
-                                            
-                                                <li>GO: 30</li>
-                                            
-                                                <li>GSSO: 10</li>
-                                            
-                                                <li>HP: 17</li>
-                                            
-                                                <li>IAO: 2115</li>
-                                            
-                                                <li>ICO: 8</li>
-                                            
-                                                <li>IDO: 2</li>
-                                            
-                                                <li>MAXO: 29</li>
-                                            
-                                                <li>MMO: 2</li>
-                                            
-                                                <li>MONDO: 47</li>
-                                            
-                                                <li>MP: 4</li>
-                                            
-                                                <li>MPATH: 7</li>
-                                            
-                                                <li>NCIT: 735</li>
-                                            
-                                                <li>OAE: 3</li>
-                                            
-                                                <li>OBCS: 6</li>
-                                            
-                                                <li>OBI: 98</li>
-                                            
-                                                <li>OGG: 11</li>
-                                            
-                                                <li>OGMS: 21</li>
-                                            
-                                                <li>OMIT: 73</li>
-                                            
-                                                <li>OMO: 4</li>
-                                            
-                                                <li>ONS: 2</li>
-                                            
-                                                <li>OPMI: 75</li>
-                                            
-                                                <li>PATO: 19</li>
-                                            
-                                                <li>PR: 100</li>
-                                            
-                                                <li>RO: 34</li>
-                                            
-                                                <li>SCDO: 47</li>
-                                            
-                                                <li>SO: 6</li>
-                                            
-                                                <li>STATO: 11</li>
-                                            
-                                                <li>SYMP: 12</li>
-                                            
-                                                <li>UBERON: 61</li>
-                                            
-                                                <li>dc: 35</li>
-                                            
-                                                <li>dc11: 41</li>
-                                            
-                                                <li>foaf: 4</li>
-                                            
-                                                <li>obo: 880</li>
-                                            
-                                                <li>oboInOwl: 3758</li>
-                                            
-                                                <li>owl: 2</li>
-                                            
-                                                <li>prefix_unknown: 384</li>
-                                            
-                                                <li>rdf: 127</li>
-                                            
-                                                <li>rdfs: 900</li>
-                                            
-                                                <li>skos: 133</li>
+                                                <li>skos: 20</li>
                                             
                                         </ul>
                                     </td>
