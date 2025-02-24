@@ -1,13 +1,13 @@
 base_generated: true
 base_prefixes:
-- PRIDE_CV
-- PRIDE_CVALT
+- PRIDE
+- PRIDEALT
 changed: true
-date: 2025-02-03 13:19:51.595082
+date: 2025-02-18 16:33:07.237660
 metrics:
   'Axioms: Breakdown of axiom types':
-    AnnotationAssertion: 738131
-    Declaration: 67552
+    AnnotationAssertion: 737781
+    Declaration: 67516
     DifferentIndividuals: 2
     DisjointClasses: 282
     EquivalentClasses: 5830
@@ -17,39 +17,39 @@ metrics:
     ObjectPropertyDomain: 12
     ObjectPropertyRange: 13
     SubAnnotationPropertyOf: 10
-    SubClassOf: 117777
+    SubClassOf: 117764
     SubObjectPropertyOf: 37
     SubPropertyChainOf: 12
     SymmetricObjectProperty: 1
-    TransitiveObjectProperty: 12
-  'Axioms: Number of axioms': 929690
+    TransitiveObjectProperty: 10
+  'Axioms: Number of axioms': 929289
   'Entities: % of entities reused': 100.0
-  'Entities: Number of annotation properties': 174
-  'Entities: Number of classes': 67248
+  'Entities: Number of annotation properties': 175
+  'Entities: Number of classes': 67214
   'Entities: Number of data properties': 3
   'Entities: Number of individuals': 19
-  'Entities: Number of object properties': 111
+  'Entities: Number of object properties': 108
   'Entities: Number of unsatisfiable classes': 0
   'Info: Breakdown of OWL class expressions used':
-    Class: 338874
+    Class: 338814
     ObjectAllValuesFrom: 15
     ObjectIntersectionOf: 23662
-    ObjectSomeValuesFrom: 59038
+    ObjectSomeValuesFrom: 59005
     ObjectUnionOf: 1256
   'Info: Does the ontology fall under OWL 2 DL?': true
   'Info: Experimental OBO score':
-    _dashboard: 0.66
+    _dashboard: 0.8
     _formula: (1*impact+1*dashboard)/2
     _impact: 0.0
     _impact_external: 0
     _reuse: 1.0
-    oboscore: 0.33
+    oboscore: 0.4
   'Info: How many externally documented uses?': 0
   'Info: How many ontologies use it?': 0
   'Info: Logical consistency': true
   'Info: Syntax': RDF/XML Syntax
   'Info: Usage of namespaces in axioms':
-    BFO: 19762
+    BFO: 19780
     BTO: 460
     CHEBI: 20692
     CHMO: 9614
@@ -61,10 +61,10 @@ metrics:
     FBdv: 3
     FIX: 81
     FMA: 24
-    GO: 3227
+    GO: 3226
     HANCESTRO: 227
     HP: 6866
-    IAO: 84968
+    IAO: 85073
     IDO: 2
     MA: 10
     MONDO: 53838
@@ -83,39 +83,35 @@ metrics:
     PO: 707
     PR: 19717
     REX: 1
-    RO: 33616
+    RO: 33632
     SO: 6
     TO: 5
-    UBERON: 38588
+    UBERON: 38586
     UO: 342
     WBls: 7
     ZEA: 2
     ZFA: 72
     dc: 12657
-    dc11: 1656
+    dc11: 1657
     foaf: 659
-    obo: 19454
-    oboInOwl: 750691
-    owl: 14068
-    prefix_unknown: 136832
-    rdf: 295890
-    rdfs: 82187
+    obo: 19340
+    oboInOwl: 750970
+    owl: 14059
+    prefix_unknown: 136454
+    rdf: 296696
+    rdfs: 82168
     skos: 74463
-    xsd: 549
+    xsd: 3
   'Info: Which ontologies use it?': []
 mirror_from: https://raw.githubusercontent.com/PRIDE-Archive/pride-ontology/master/pride_cv.owl
-namespace: pride_cv
+namespace: pride
 results:
   FP01 Open:
-    comment: Registry license 'https://creativecommons.org/publicdomain/zero/1.0/'
-      is not a valid open license. Missing ontology license.
-    status: ERROR
+    status: PASS
   FP02 Common Format:
     status: PASS
   FP03 URIs:
-    comment: 0 invalid IRIs. The Ontology IRI is not valid.
-    file: fp3
-    status: ERROR
+    status: PASS
   FP04 Versioning:
     comment: Version IRI does not resolve
     status: ERROR
@@ -135,18 +131,17 @@ results:
   FP12 Naming Conventions:
     status: PASS
   FP16 Maintenance:
-    comment: Version IRI does not have date information
-    status: INFO
+    status: PASS
   FP20 Responsiveness:
     status: PASS
   ROBOT Report:
     status: PASS
-sha256_hash: dc97d42d90bb02e35e789004c8392b2347f56c48683078fac96c7ee3262e9946
+sha256_hash: 671f628eaf9fbd3907bb7242493505a755bc3057a555a10ba3cd3bb29c0aa255
 summary:
-  comment: 4 errors
+  comment: 2 errors
   status: ERROR
   summary_count:
-    ERROR: 4
-    INFO: 1
+    ERROR: 2
+    INFO: 0
     WARN: 0
-version: http://purl.obolibrary.org/obo/pride/2.1.8/pride.owl
+version: http://purl.obolibrary.org/obo/pride/releases/2025-02-17/pride.owl
