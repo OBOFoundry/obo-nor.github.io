@@ -3,7 +3,7 @@ base_prefixes:
 - PRIDE
 - PRIDEALT
 changed: true
-date: 2025-02-24 18:49:27.042596
+date: 2025-03-10 13:24:11.858258
 metrics:
   'Axioms: Breakdown of axiom types':
     AnnotationAssertion: 737781
