@@ -63,7 +63,7 @@ ontologies:
       domain: health
       homepage: https://github.com/Exercise-Medicine-Ontology/EXMO
       products:
-        - id: BMONT-merged.owl
+        - id: exmo.owl
       tracker: https://github.com/Exercise-Medicine-Ontology/EXMO/issues
       license:
         url: https://creativecommons.org/licenses/by/4.0/
