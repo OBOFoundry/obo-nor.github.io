@@ -1,1 +1,5 @@
 Level	Rule Name	Subject	Property	Value
+WARN	duplicate_label_synonym	obo:PRIDE_0000675	oboInOwl:hasExactSynonym	sample name
+WARN	duplicate_label_synonym	obo:PRIDE_0000676	oboInOwl:hasExactSynonym	project name
+INFO	missing_superclass	obo:PRIDE_0000773	rdfs:subClassOf	
+INFO	missing_superclass	obo:PRIDE_0000779	rdfs:subClassOf	
