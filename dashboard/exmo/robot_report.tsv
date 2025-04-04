@@ -1,0 +1,117 @@
+Level	Rule Name	Subject	Property	Value
+WARN	duplicate_exact_synonym	obo:EXMO_0000230	oboInOwl:hasExactSynonym	
+WARN	duplicate_exact_synonym	obo:EXMO_0000233	oboInOwl:hasExactSynonym	
+WARN	invalid_xref	obo:EXMO_0000080	oboInOwl:hasDbXref	The number of times heart beats per minute when a person is at rest – such as relaxed, sitting or lying down.
+WARN	invalid_xref	obo:EXMO_0000196	oboInOwl:hasDbXref	soccer
+WARN	invalid_xref	obo:EXMO_0000270	oboInOwl:hasDbXref	All defensive players wear fielding gloves, made of leather or similar material.
+WARN	invalid_xref	obo:EXMO_0000356	oboInOwl:hasDbXref	An ability to perform all the mental processes of cognition, including the ability to learn and judge, use language, and remember.
+WARN	missing_definition	obo:EXMO_0000014	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000017	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000018	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000019	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000020	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000044	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000049	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000080	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000094	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000095	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000100	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000101	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000102	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000103	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000104	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000105	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000106	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000108	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000109	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000110	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000111	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000112	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000114	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000115	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000116	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000117	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000120	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000121	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000123	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000124	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000125	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000126	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000128	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000130	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000131	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000132	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000136	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000137	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000154	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000156	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000158	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000161	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000175	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000178	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000179	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000183	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000198	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000199	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000218	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000220	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000224	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000227	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000231	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000233	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000237	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000247	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000251	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000255	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000260	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000262	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000270	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000274	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000277	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000285	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000287	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000288	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000290	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000291	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000292	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000294	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000295	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000318	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000322	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000326	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000333	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000341	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000345	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000350	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000353	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000356	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000358	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000360	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000363	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000364	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000365	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000366	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000379	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000381	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000382	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000387	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000388	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000389	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000390	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000391	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000394	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000397	IAO:0000115	
+WARN	missing_definition	obo:EXMO_0000399	IAO:0000115	
+INFO	lowercase_definition	obo:EXMO_0000013	IAO:0000115	equipment used in exercise
+INFO	lowercase_definition	obo:EXMO_0000075	IAO:0000115	core body temperature measured in sublingual space
+INFO	lowercase_definition	obo:EXMO_0000090	IAO:0000115	video games that are also a form of exercise
+INFO	lowercase_definition	obo:EXMO_0000091	IAO:0000115	exercise at home
+INFO	lowercase_definition	obo:EXMO_0000099	IAO:0000115	a technique for systematically categorizing patients based on their health status and other factors
+INFO	lowercase_definition	obo:EXMO_0000135	IAO:0000115	a simple, yet reliable, test used to measure dynamic balance
+INFO	lowercase_definition	obo:EXMO_0000144	IAO:0000115	the maximum rate at which oxygen can be used during a specified period, usually during intense exercise
+INFO	lowercase_definition	obo:EXMO_0000145	IAO:0000115	submaximal endurance capacity. increased by endurance training. average absolute power output a person can maintain during a fixed period of time on cycle ergometer, OR average speed a person can maintain during a fixed period of time.
+INFO	lowercase_definition	obo:EXMO_0000155	IAO:0000115	physiological ability of the body to properly metabolize glucose.
+INFO	lowercase_definition	obo:EXMO_0000206	IAO:0000115	resistance exercise that builds strength
+INFO	lowercase_definition	obo:EXMO_0000234	IAO:0000115	a performance training tool that leverages gravity and the user’s body weight to complete the exercises
+INFO	lowercase_definition	obo:EXMO_0000311	IAO:0000115	exercise performed in water
+INFO	lowercase_definition	obo:EXMO_0000327	IAO:0000115	the Basal Metabolic Rate (BMR) + the Thermic Effect of Activity (TEA) + the Thermic Effect of Food (TEF)
