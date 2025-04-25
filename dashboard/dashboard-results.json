@@ -7,7 +7,7 @@
         "BMOALT"
       ],
       "changed": true,
-      "date": "2025-04-04T15:44:01.231373",
+      "date": "2025-04-25T13:08:24.555059",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 7868,
@@ -163,7 +163,7 @@
         "EXMOALT"
       ],
       "changed": true,
-      "date": "2025-04-04T15:44:09.127163",
+      "date": "2025-04-25T13:08:33.121999",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 7903,
@@ -321,173 +321,11 @@
     {
       "base_generated": true,
       "base_prefixes": [
-        "OLAS",
-        "OLASALT"
-      ],
-      "changed": true,
-      "date": "2025-04-04T15:44:39.231800",
-      "metrics": {
-        "Axioms: Breakdown of axiom types": {
-          "AnnotationAssertion": 8278,
-          "AnnotationPropertyRangeOf": 1,
-          "ClassAssertion": 27,
-          "Declaration": 1159,
-          "DifferentIndividuals": 2,
-          "DisjointClasses": 21,
-          "EquivalentClasses": 70,
-          "FunctionalObjectProperty": 1,
-          "InverseFunctionalObjectProperty": 1,
-          "InverseObjectProperties": 17,
-          "IrrefexiveObjectProperty": 1,
-          "ObjectPropertyDomain": 24,
-          "ObjectPropertyRange": 24,
-          "Rule": 4,
-          "SubAnnotationPropertyOf": 22,
-          "SubClassOf": 2444,
-          "SubObjectPropertyOf": 19,
-          "SubPropertyChainOf": 2,
-          "TransitiveObjectProperty": 5
-        },
-        "Axioms: Number of axioms": 12122,
-        "Entities: % of entities reused": 100.0,
-        "Entities: Number of annotation properties": 98,
-        "Entities: Number of classes": 984,
-        "Entities: Number of data properties": 0,
-        "Entities: Number of individuals": 28,
-        "Entities: Number of object properties": 53,
-        "Entities: Number of unsatisfiable classes": 0,
-        "Info: Breakdown of OWL class expressions used": {
-          "Class": 6205,
-          "ObjectAllValuesFrom": 2,
-          "ObjectComplementOf": 2,
-          "ObjectIntersectionOf": 67,
-          "ObjectMinCardinality": 1,
-          "ObjectOneOf": 3,
-          "ObjectSomeValuesFrom": 1159,
-          "ObjectUnionOf": 1
-        },
-        "Info: Does the ontology fall under OWL 2 DL?": true,
-        "Info: Experimental OBO score": {
-          "_dashboard": 0.749,
-          "_formula": "(1*impact+1*dashboard)/2",
-          "_impact": 0.0,
-          "_impact_external": 0,
-          "_reuse": 1.0,
-          "oboscore": 0.374
-        },
-        "Info: How many externally documented uses?": 0,
-        "Info: How many ontologies use it?": 0,
-        "Info: Logical consistency": true,
-        "Info: Syntax": "RDF/XML Syntax",
-        "Info: Usage of namespaces in axioms": {
-          "BFO": 347,
-          "CHEBI": 17,
-          "DOID": 71,
-          "GO": 32,
-          "HP": 13,
-          "IAO": 3672,
-          "MOD": 42,
-          "NCBITaxon": 1417,
-          "OAE": 7,
-          "OBI": 192,
-          "OGMS": 25,
-          "OMO": 35,
-          "OPMI": 3,
-          "PR": 272,
-          "RO": 553,
-          "SO": 22,
-          "dc": 40,
-          "dc11": 20,
-          "foaf": 2,
-          "obo": 4759,
-          "oboInOwl": 3024,
-          "owl": 4,
-          "prefix_unknown": 17,
-          "rdf": 8,
-          "rdfs": 1599,
-          "skos": 5,
-          "xsd": 1
-        },
-        "Info: Which ontologies use it?": []
-      },
-      "mirror_from": "https://raw.githubusercontent.com/OLAS-ontology/OLAS/refs/heads/master/olas.owl",
-      "namespace": "olas",
-      "results": {
-        "FP01 Open": {
-          "status": "PASS"
-        },
-        "FP02 Common Format": {
-          "status": "PASS"
-        },
-        "FP03 URIs": {
-          "status": "PASS"
-        },
-        "FP04 Versioning": {
-          "comment": "Version IRI does not resolve",
-          "status": "ERROR"
-        },
-        "FP05 Scope": {
-          "status": "PASS"
-        },
-        "FP06 Textual Definitions": {
-          "comment": "104 missing definitions. See ROBOT Report for details.",
-          "status": "WARN"
-        },
-        "FP07 Relations": {
-          "comment": "7 non-RO properties used.",
-          "file": "fp7",
-          "status": "INFO"
-        },
-        "FP08 Documented": {
-          "status": "PASS"
-        },
-        "FP09 Plurality of Users": {
-          "comment": "Missing usages",
-          "status": "ERROR"
-        },
-        "FP11 Locus of Authority": {
-          "status": "PASS"
-        },
-        "FP12 Naming Conventions": {
-          "status": "PASS"
-        },
-        "FP16 Maintenance": {
-          "status": "PASS"
-        },
-        "FP20 Responsiveness": {
-          "status": "PASS"
-        },
-        "ROBOT Report": {
-          "comment": "107 warnings, 0 info messages.",
-          "file": "robot_report",
-          "results": {
-            "ERROR": 0,
-            "INFO": 0,
-            "WARN": 107
-          },
-          "status": "WARN"
-        }
-      },
-      "sha256_hash": "646d989d8db14524fa699adb8f9d2dd7e17791927b37eb9ce675f006970820f3",
-      "summary": {
-        "comment": "2 errors",
-        "status": "ERROR",
-        "summary_count": {
-          "ERROR": 2,
-          "INFO": 1,
-          "WARN": 2
-        }
-      },
-      "version": "http://purl.obolibrary.org/obo/olas/releases/2025-02-06/olas.owl"
-    },
-    {
-      "base_generated": true,
-      "base_prefixes": [
         "PBPKO",
         "PBPKOALT"
       ],
       "changed": true,
-      "date": "2025-04-04T15:44:18.368326",
+      "date": "2025-04-25T13:08:41.604042",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 2939,
@@ -610,196 +448,11 @@
     {
       "base_generated": true,
       "base_prefixes": [
-        "PRIDE",
-        "PRIDEALT"
-      ],
-      "changed": true,
-      "date": "2025-04-04T15:44:29.024830",
-      "metrics": {
-        "Axioms: Breakdown of axiom types": {
-          "AnnotationAssertion": 743819,
-          "Declaration": 67837,
-          "DifferentIndividuals": 2,
-          "DisjointClasses": 282,
-          "EquivalentClasses": 5830,
-          "FunctionalObjectProperty": 2,
-          "InverseFunctionalObjectProperty": 1,
-          "InverseObjectProperties": 16,
-          "ObjectPropertyDomain": 12,
-          "ObjectPropertyRange": 13,
-          "SubAnnotationPropertyOf": 10,
-          "SubClassOf": 118118,
-          "SubObjectPropertyOf": 37,
-          "SubPropertyChainOf": 12,
-          "SymmetricObjectProperty": 1,
-          "TransitiveObjectProperty": 10
-        },
-        "Axioms: Number of axioms": 936002,
-        "Entities: % of entities reused": 100.0,
-        "Entities: Number of annotation properties": 188,
-        "Entities: Number of classes": 67521,
-        "Entities: Number of data properties": 3,
-        "Entities: Number of individuals": 19,
-        "Entities: Number of object properties": 109,
-        "Entities: Number of unsatisfiable classes": 0,
-        "Info: Breakdown of OWL class expressions used": {
-          "Class": 339828,
-          "ObjectAllValuesFrom": 15,
-          "ObjectIntersectionOf": 23661,
-          "ObjectSomeValuesFrom": 59175,
-          "ObjectUnionOf": 1256
-        },
-        "Info: Does the ontology fall under OWL 2 DL?": true,
-        "Info: Experimental OBO score": {
-          "_dashboard": 0.778,
-          "_formula": "(1*impact+1*dashboard)/2",
-          "_impact": 0.0,
-          "_impact_external": 0,
-          "_reuse": 1.0,
-          "oboscore": 0.389
-        },
-        "Info: How many externally documented uses?": 0,
-        "Info: How many ontologies use it?": 0,
-        "Info: Logical consistency": true,
-        "Info: Syntax": "RDF/XML Syntax",
-        "Info: Usage of namespaces in axioms": {
-          "BFO": 19782,
-          "BTO": 460,
-          "CHEBI": 20690,
-          "CHMO": 9614,
-          "CL": 4542,
-          "CLO": 2128,
-          "DOID": 43,
-          "ENVO": 4,
-          "EO": 128,
-          "FBbt": 274,
-          "FBdv": 3,
-          "FIX": 81,
-          "FMA": 24,
-          "GAZ": 3,
-          "GENEPIO": 2,
-          "GO": 3226,
-          "HANCESTRO": 227,
-          "HP": 6897,
-          "IAO": 85346,
-          "IDO": 2,
-          "MA": 10,
-          "MMO": 2,
-          "MONDO": 54057,
-          "MP": 23,
-          "MPATH": 8,
-          "MS": 28,
-          "NCBITaxon": 7005,
-          "NCIT": 111,
-          "OBA": 47383,
-          "OBCS": 4,
-          "OBI": 1523,
-          "OGMS": 93,
-          "OMIT": 12,
-          "OMO": 2,
-          "PATO": 10618,
-          "PECO": 2,
-          "PO": 707,
-          "PR": 19717,
-          "PRIDEALT": 172,
-          "REX": 1,
-          "RO": 33631,
-          "SO": 6,
-          "TO": 5,
-          "UBERON": 38587,
-          "UO": 342,
-          "WBls": 7,
-          "ZEA": 2,
-          "ZFA": 72,
-          "dc": 12677,
-          "dc11": 1691,
-          "foaf": 659,
-          "obo": 19881,
-          "oboInOwl": 752614,
-          "owl": 14061,
-          "prefix_unknown": 140898,
-          "rdf": 297379,
-          "rdfs": 82463,
-          "skos": 74650,
-          "xsd": 3
-        },
-        "Info: Which ontologies use it?": []
-      },
-      "mirror_from": "https://raw.githubusercontent.com/PRIDE-Archive/pride-ontology/master/pride_cv.owl",
-      "namespace": "pride",
-      "results": {
-        "FP01 Open": {
-          "status": "PASS"
-        },
-        "FP02 Common Format": {
-          "status": "PASS"
-        },
-        "FP03 URIs": {
-          "status": "PASS"
-        },
-        "FP04 Versioning": {
-          "comment": "Version IRI does not resolve",
-          "status": "ERROR"
-        },
-        "FP05 Scope": {
-          "status": "PASS"
-        },
-        "FP06 Textual Definitions": {
-          "status": "PASS"
-        },
-        "FP07 Relations": {
-          "status": "PASS"
-        },
-        "FP08 Documented": {
-          "status": "PASS"
-        },
-        "FP09 Plurality of Users": {
-          "comment": "Missing usages",
-          "status": "ERROR"
-        },
-        "FP11 Locus of Authority": {
-          "status": "PASS"
-        },
-        "FP12 Naming Conventions": {
-          "status": "PASS"
-        },
-        "FP16 Maintenance": {
-          "status": "PASS"
-        },
-        "FP20 Responsiveness": {
-          "status": "PASS"
-        },
-        "ROBOT Report": {
-          "comment": "2 warnings, 2 info messages.",
-          "file": "robot_report",
-          "results": {
-            "ERROR": 0,
-            "INFO": 2,
-            "WARN": 2
-          },
-          "status": "WARN"
-        }
-      },
-      "sha256_hash": "f8191b28ef97d7c2f02a74d322302a7648612891c9646b343da650f4737b0569",
-      "summary": {
-        "comment": "2 errors",
-        "status": "ERROR",
-        "summary_count": {
-          "ERROR": 2,
-          "INFO": 0,
-          "WARN": 1
-        }
-      },
-      "version": "http://purl.obolibrary.org/obo/pride/releases/2025-02-17/pride.owl"
-    },
-    {
-      "base_generated": true,
-      "base_prefixes": [
         "RTO",
         "RTOALT"
       ],
       "changed": true,
-      "date": "2025-04-04T15:44:46.890051",
+      "date": "2025-04-25T13:08:47.709718",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 1015,
@@ -938,7 +591,7 @@
         "TMPALT"
       ],
       "changed": true,
-      "date": "2025-04-04T15:43:55.971404",
+      "date": "2025-04-25T13:08:19.907157",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 2,
