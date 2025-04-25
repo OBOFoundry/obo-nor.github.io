@@ -85,40 +85,6 @@ ontologies:
       license:
         url: https://creativecommons.org/licenses/by/4.0/
         label: CC BY 4.0
-    - id: pride
-      mirror_from: https://raw.githubusercontent.com/PRIDE-Archive/pride-ontology/master/pride_cv.owl
-      title: "Proteomics Identification Database"
-      contact:
-        email: nithu@ebi.ac.uk
-        label: Nithu Sara John
-        orcid: 0000-0002-4823-6210
-        github: nithujohn
-      description: The PRIDE database is a public repository for proteomics data, enabling storage, sharing, and analysis of mass spectrometry-based proteomics experiments.
-      domain: chemistry and biochemistry
-      homepage: https://github.com/PRIDE-Archive/pride-ontology
-      products:
-        - id: pride_cv.owl
-      tracker: https://github.com/PRIDE-Archive/pride-ontology/issues
-      license:
-        url: https://creativecommons.org/licenses/by/4.0/
-        label: CC BY 4.0
-    - id: olas
-      mirror_from: https://raw.githubusercontent.com/OLAS-ontology/OLAS/refs/heads/master/olas.owl
-      title: "Ontology of Laboratory Animal Science"
-      contact:
-        email: zhengj2007@gmail.com
-        label: Jie Zheng
-        orcid: 0000-0002-2999-0103
-        github: zhengj2007
-      description: The OLAS is a community-based biomedical ontology for ontologically representing entities and their relationships in laboratory animal science.
-      domain: investigations
-      homepage: https://github.com/OLAS-ontology/OLAS
-      products:
-        - id: olas.owl
-      tracker: https://github.com/OLAS-ontology/OLAS/issues
-      license:
-        url: https://creativecommons.org/licenses/by/4.0/
-        label: CC BY 4.0
     - id: rto
       mirror_from: https://raw.githubusercontent.com/aapm-bdsc-ontology-tg/rto/main/rto.owl
       title: "Radiation Therapy Ontology"
