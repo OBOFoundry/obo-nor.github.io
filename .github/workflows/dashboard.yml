@@ -24,7 +24,7 @@ jobs:
       - name: Prepare run
         run:  cp dashboard-config.yml /tools/dashboard-config.yml && cp -r sparql/ /tools/sparql
       - name: Run dashboard
-        run: python /tools/util/dashboard_config.py rundashboard -C /tools/dashboard-config.yml
+        run: cd tools && python ./util/dashboard_config.py rundashboard -C dashboard-config.yml
       - name: Copy results
         run: cp -r /tools/dashboard/* dashboard/
       - name: Create Pull Request
