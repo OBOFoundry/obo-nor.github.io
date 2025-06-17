@@ -7,14 +7,14 @@
         "EXMOALT"
       ],
       "changed": true,
-      "date": "2025-05-05T13:25:00.792428",
+      "date": "2025-06-17T17:03:51.176459",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
-          "AnnotationAssertion": 8140,
+          "AnnotationAssertion": 8048,
           "AnnotationPropertyRangeOf": 1,
           "AsymmetricObjectProperty": 2,
           "DataPropertyRange": 1,
-          "Declaration": 1352,
+          "Declaration": 1341,
           "DifferentIndividuals": 1,
           "DisjointClasses": 23,
           "DisjointObjectProperties": 10,
@@ -27,26 +27,26 @@
           "ObjectPropertyRange": 99,
           "Rule": 31,
           "SubAnnotationPropertyOf": 78,
-          "SubClassOf": 533,
+          "SubClassOf": 525,
           "SubObjectPropertyOf": 706,
           "SubPropertyChainOf": 145,
           "SymmetricObjectProperty": 86,
           "TransitiveObjectProperty": 46
         },
-        "Axioms: Number of axioms": 11481,
+        "Axioms: Number of axioms": 11370,
         "Entities: % of entities reused": 100.0,
-        "Entities: Number of annotation properties": 211,
-        "Entities: Number of classes": 448,
+        "Entities: Number of annotation properties": 199,
+        "Entities: Number of classes": 449,
         "Entities: Number of data properties": 1,
         "Entities: Number of individuals": 35,
-        "Entities: Number of object properties": 659,
+        "Entities: Number of object properties": 658,
         "Entities: Number of unsatisfiable classes": 0,
         "Info: Breakdown of OWL class expressions used": {
-          "Class": 1778,
-          "ObjectAllValuesFrom": 19,
+          "Class": 1764,
+          "ObjectAllValuesFrom": 39,
           "ObjectComplementOf": 2,
           "ObjectIntersectionOf": 8,
-          "ObjectSomeValuesFrom": 51,
+          "ObjectSomeValuesFrom": 44,
           "ObjectUnionOf": 13
         },
         "Info: Does the ontology fall under OWL 2 DL?": false,
@@ -63,36 +63,37 @@
         "Info: Logical consistency": true,
         "Info: Syntax": "RDF/XML Syntax",
         "Info: Usage of namespaces in axioms": {
-          "BFO": 642,
+          "BFO": 643,
           "CHEBI": 25,
-          "CMO": 153,
-          "DOID": 27,
-          "ENVO": 3,
+          "CMO": 148,
+          "DOID": 29,
+          "ENVO": 2,
           "GO": 2,
           "GSSO": 15,
+          "HP": 14,
           "HsapDv": 23,
-          "IAO": 3005,
+          "IAO": 3198,
           "MAXO": 12,
-          "NCIT": 1156,
+          "NCIT": 1059,
           "OBI": 17,
           "OCCO": 4,
           "OGMS": 8,
-          "OMO": 6,
+          "OMO": 4,
           "OPMI": 8,
           "PATO": 28,
-          "RO": 3278,
-          "UBERON": 14,
-          "dc": 331,
-          "dc11": 24,
-          "foaf": 5,
-          "obo": 845,
-          "oboInOwl": 2422,
-          "owl": 5,
-          "prefix_unknown": 108,
-          "rdf": 593,
-          "rdfs": 1813,
-          "skos": 5,
-          "xsd": 121
+          "RO": 3285,
+          "SCDO": 51,
+          "UBERON": 16,
+          "dc": 334,
+          "dc11": 26,
+          "obo": 811,
+          "oboInOwl": 2250,
+          "owl": 4,
+          "prefix_unknown": 66,
+          "rdf": 616,
+          "rdfs": 1814,
+          "skos": 4,
+          "xsd": 142
         },
         "Info: Which ontologies use it?": []
       },
@@ -116,7 +117,7 @@
           "status": "PASS"
         },
         "FP06 Textual Definitions": {
-          "comment": "88 missing definitions. See ROBOT Report for details.",
+          "comment": "15 missing definitions. See ROBOT Report for details.",
           "status": "WARN"
         },
         "FP07 Relations": {
@@ -142,17 +143,17 @@
           "status": "PASS"
         },
         "ROBOT Report": {
-          "comment": "94 warnings, 12 info messages.",
+          "comment": "23 warnings, 17 info messages.",
           "file": "robot_report",
           "results": {
             "ERROR": 0,
-            "INFO": 12,
-            "WARN": 94
+            "INFO": 17,
+            "WARN": 23
           },
           "status": "WARN"
         }
       },
-      "sha256_hash": "1acdce5963c3d73d53782e67792f7920e1f9f2f4f637eecb270ef6bac8701f1e",
+      "sha256_hash": "c00feabc14fb4f3199968d611d6e9754dd49baff5bff52d0b6e9153205c4bfd8",
       "summary": {
         "comment": "2 errors",
         "status": "ERROR",
@@ -162,7 +163,7 @@
           "WARN": 2
         }
       },
-      "version": "http://purl.obolibrary.org/obo/exmo/2025-04-29/exmo.owl"
+      "version": "http://purl.obolibrary.org/obo/exmo/2025-06-05/exmo.owl"
     },
     {
       "base_generated": true,
@@ -171,7 +172,7 @@
         "PBPKOALT"
       ],
       "changed": true,
-      "date": "2025-05-05T13:25:09.171362",
+      "date": "2025-06-17T17:03:58.993401",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 2939,
@@ -298,7 +299,7 @@
         "RTOALT"
       ],
       "changed": true,
-      "date": "2025-05-05T13:25:15.615418",
+      "date": "2025-06-17T17:04:04.619953",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 1015,
@@ -437,7 +438,7 @@
         "TMPALT"
       ],
       "changed": true,
-      "date": "2025-05-05T13:24:52.198293",
+      "date": "2025-06-17T17:03:42.439800",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 2,
@@ -553,11 +554,6 @@
         }
       },
       "version": null
-    },
-    {
-      "changed": true,
-      "failure": "failed_sha256_hash",
-      "namespace": "bmo"
     }
   ],
   "oboscore": {
