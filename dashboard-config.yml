@@ -30,10 +30,7 @@ obo_score_weights:
     max_impact: 1
 ontologies:
   #registry: "https://raw.githubusercontent.com/OBOFoundry/OBOFoundry.github.io/master/registry/ontologies.yml"
-  #todo, deal with: bto chebi dron gaz ncbitaxon ncit pr uberon
   custom:
-    - id: tmp
-      mirror_from: "https://raw.githubusercontent.com/monarch-ebi-dev/robot_tests/master/custom-dashboard.owl"
     - id: exmo
       mirror_from: https://raw.githubusercontent.com/Exercise-Medicine-Ontology/EXMO/master/exmo.owl
       title: "Exercise Medicine Ontology"
