@@ -7,44 +7,50 @@
         "EMPTYALT"
       ],
       "changed": true,
-      "date": "2025-07-14T13:31:47.003794",
+      "date": "2025-09-01T13:25:12.130258",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
-          "AnnotationAssertion": 1204,
-          "ClassAssertion": 19,
-          "Declaration": 345,
+          "AnnotationAssertion": 12517,
+          "AsymmetricObjectProperty": 1,
+          "ClassAssertion": 68,
+          "Declaration": 7631,
           "DifferentIndividuals": 2,
-          "DisjointClasses": 6,
-          "EquivalentClasses": 3,
+          "DisjointClasses": 1471,
+          "DisjointObjectProperties": 1,
+          "EquivalentClasses": 5059,
           "FunctionalObjectProperty": 2,
           "InverseFunctionalObjectProperty": 1,
-          "InverseObjectProperties": 22,
+          "InverseObjectProperties": 49,
+          "IrrefexiveObjectProperty": 2,
           "ObjectPropertyAssertion": 35,
-          "ObjectPropertyDomain": 24,
-          "ObjectPropertyRange": 24,
-          "Rule": 25,
-          "SubAnnotationPropertyOf": 6,
-          "SubClassOf": 131,
-          "SubObjectPropertyOf": 121,
-          "SubPropertyChainOf": 53,
-          "SymmetricObjectProperty": 3,
-          "TransitiveObjectProperty": 13
+          "ObjectPropertyDomain": 66,
+          "ObjectPropertyRange": 64,
+          "Rule": 19,
+          "SubClassOf": 19139,
+          "SubObjectPropertyOf": 292,
+          "SubPropertyChainOf": 108,
+          "SymmetricObjectProperty": 8,
+          "TransitiveObjectProperty": 36
         },
-        "Axioms: Number of axioms": 2039,
+        "Axioms: Number of axioms": 46571,
         "Entities: % of entities reused": 100.0,
-        "Entities: Number of annotation properties": 58,
-        "Entities: Number of classes": 128,
+        "Entities: Number of annotation properties": 10,
+        "Entities: Number of classes": 7235,
         "Entities: Number of data properties": 0,
-        "Entities: Number of individuals": 58,
-        "Entities: Number of object properties": 104,
+        "Entities: Number of individuals": 107,
+        "Entities: Number of object properties": 282,
         "Entities: Number of unsatisfiable classes": 0,
         "Info: Breakdown of OWL class expressions used": {
-          "Class": 475,
+          "Class": 64258,
           "ObjectAllValuesFrom": 6,
-          "ObjectHasSelf": 1,
+          "ObjectComplementOf": 290,
+          "ObjectExactCardinality": 9,
+          "ObjectHasSelf": 2,
+          "ObjectIntersectionOf": 5100,
+          "ObjectMinCardinality": 6,
           "ObjectOneOf": 3,
-          "ObjectSomeValuesFrom": 6,
-          "ObjectUnionOf": 1
+          "ObjectSomeValuesFrom": 15605,
+          "ObjectUnionOf": 22
         },
         "Info: Does the ontology fall under OWL 2 DL?": true,
         "Info: Experimental OBO score": {
@@ -60,24 +66,32 @@
         "Info: Logical consistency": true,
         "Info: Syntax": "RDF/XML Syntax",
         "Info: Usage of namespaces in axioms": {
-          "BFO": 193,
-          "ENVO": 107,
-          "GO": 12,
-          "IAO": 643,
+          "BFO": 5223,
+          "BSPO": 185,
+          "CARO": 2,
+          "CHEBI": 2707,
+          "CL": 4316,
+          "ENVO": 111,
+          "GO": 31514,
+          "IAO": 913,
+          "NBO": 25,
+          "NCBITaxon": 2300,
+          "NCIT": 184,
+          "OBI": 3,
           "OMO": 5,
-          "PATO": 3,
-          "RO": 666,
-          "dc": 16,
-          "dc11": 16,
-          "foaf": 1,
-          "obo": 326,
-          "oboInOwl": 295,
+          "PATO": 394,
+          "PR": 660,
+          "RO": 11137,
+          "SO": 3,
+          "UBERON": 21198,
+          "dc": 3,
+          "dc11": 1,
+          "obo": 1035,
+          "oboInOwl": 4082,
           "owl": 2,
-          "prefix_unknown": 6,
-          "rdf": 20,
-          "rdfs": 371,
-          "skos": 3,
-          "xsd": 6
+          "prefix_unknown": 100,
+          "rdf": 7,
+          "rdfs": 7634
         },
         "Info: Which ontologies use it?": []
       },
@@ -126,17 +140,17 @@
           "status": "PASS"
         },
         "ROBOT Report": {
-          "comment": "1 info messages.",
+          "comment": "3 info messages.",
           "file": "robot_report",
           "results": {
             "ERROR": 0,
-            "INFO": 1,
+            "INFO": 3,
             "WARN": 0
           },
           "status": "INFO"
         }
       },
-      "sha256_hash": "6c045b798ff40a458568e3429aed09ab56436c6feb1836743e02dfce92c1dfa1",
+      "sha256_hash": "4da7d0fe0c164ccd5020b408572ed510a1299d2708039d8f5f8b136b50d0c7f8",
       "summary": {
         "comment": "2 errors",
         "status": "ERROR",
@@ -146,16 +160,17 @@
           "WARN": 0
         }
       },
-      "version": "http://purl.obolibrary.org/obo/empty/releases/2025-07-10/empty.owl"
+      "version": "http://purl.obolibrary.org/obo/empty/releases/2025-08-10/empty.owl"
     },
     {
       "base_generated": true,
       "base_prefixes": [
         "EXMO",
-        "EXMOALT"
+        "EXMOALT",
+        "EXMO"
       ],
       "changed": true,
-      "date": "2025-07-14T13:31:52.566554",
+      "date": "2025-09-01T13:25:18.110186",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 8048,
@@ -320,7 +335,7 @@
         "PBPKOALT"
       ],
       "changed": true,
-      "date": "2025-07-14T13:32:01.294117",
+      "date": "2025-09-01T13:25:26.066254",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 2939,
@@ -447,7 +462,7 @@
         "RTOALT"
       ],
       "changed": true,
-      "date": "2025-07-14T13:32:07.958934",
+      "date": "2025-09-01T13:25:31.665962",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 1015,
