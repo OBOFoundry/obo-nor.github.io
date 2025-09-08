@@ -29,7 +29,7 @@ ontologies:
   - EMPTY
   - EMPTYALT
   changed: true
-  date: 2025-09-01 13:25:12.130258
+  date: 2025-09-08 13:25:21.131958
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 12517
@@ -166,7 +166,7 @@ ontologies:
   - EXMOALT
   - EXMO
   changed: true
-  date: 2025-09-01 13:25:18.110186
+  date: 2025-09-08 13:25:26.594909
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 8048
@@ -305,7 +305,7 @@ ontologies:
   - PBPKO
   - PBPKOALT
   changed: true
-  date: 2025-09-01 13:25:26.066254
+  date: 2025-09-08 13:25:34.758203
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 2939
@@ -407,7 +407,7 @@ ontologies:
   - RTO
   - RTOALT
   changed: true
-  date: 2025-09-01 13:25:31.665962
+  date: 2025-09-08 13:25:41.457629
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 1015
