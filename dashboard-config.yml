@@ -30,10 +30,26 @@ obo_score_weights:
     max_impact: 1
 ontologies:
   #registry: "https://raw.githubusercontent.com/OBOFoundry/OBOFoundry.github.io/master/registry/ontologies.yml"
-  #todo, deal with: bto chebi dron gaz ncbitaxon ncit pr uberon
   custom:
-    - id: tmp
-      mirror_from: "https://raw.githubusercontent.com/monarch-ebi-dev/robot_tests/master/custom-dashboard.owl"
+    - id: empty
+      mirror_from: https://raw.githubusercontent.com/Waltham-Data-Science/empty-ontology/main/empty.owl
+      title: "Experimental Measurements, Purposes, and Treatments ontologY"
+      contact:
+        email: andrea@walthamdatascience.com
+        label: Andrea Gaede
+        orcid: 0000-0002-1909-7004
+        github: andreagaede
+      description: An ontology of experimental measurements in the sciences, the purposes for which experimental measurements were made, and experimental treatments, with a focus on life sciences.
+      domain: investigations
+      homepage: https://github.com/Waltham-Data-Science/empty-ontology
+      products:
+        - id: empty.owl
+        - id: empty.obo
+        - id: empty.json
+      tracker: https://github.com/Waltham-Data-Science/empty-ontology/issues
+      license:
+        url: https://creativecommons.org/licenses/by/4.0/
+        label: CC BY 4.0
     - id: exmo
       mirror_from: https://raw.githubusercontent.com/Exercise-Medicine-Ontology/EXMO/master/exmo.owl
       title: "Exercise Medicine Ontology"

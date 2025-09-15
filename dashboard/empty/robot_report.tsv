@@ -1,0 +1,4 @@
+Level	Rule Name	Subject	Property	Value
+INFO	missing_superclass	obo:EMPTY_00000085	rdfs:subClassOf	
+INFO	missing_superclass	obo:EMPTY_00000173	rdfs:subClassOf	
+INFO	missing_superclass	obo:EMPTY_00000174	rdfs:subClassOf	
