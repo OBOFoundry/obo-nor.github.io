@@ -29,7 +29,7 @@ ontologies:
   - EMPTY
   - EMPTYALT
   changed: true
-  date: 2025-09-22 13:24:04.061812
+  date: 2025-09-29 13:25:20.923542
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 12773
@@ -166,7 +166,7 @@ ontologies:
   - PBPKO
   - PBPKOALT
   changed: true
-  date: 2025-09-22 13:24:12.480543
+  date: 2025-09-29 13:25:28.771348
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 2939
@@ -268,41 +268,46 @@ ontologies:
   - RTO
   - RTOALT
   changed: true
-  date: 2025-09-22 13:24:18.056610
+  date: 2025-09-29 13:25:33.998711
   metrics:
     'Axioms: Breakdown of axiom types':
-      AnnotationAssertion: 1015
+      AnnotationAssertion: 997
       ClassAssertion: 1
-      Declaration: 202
+      DataPropertyDomain: 1
+      DataPropertyRange: 1
+      Declaration: 206
       DisjointClasses: 23
       EquivalentClasses: 1
       FunctionalObjectProperty: 1
       InverseFunctionalObjectProperty: 1
       InverseObjectProperties: 12
       IrrefexiveObjectProperty: 1
-      ObjectPropertyDomain: 16
+      ObjectPropertyDomain: 17
       ObjectPropertyRange: 17
       Rule: 4
       SubAnnotationPropertyOf: 6
-      SubClassOf: 132
-      SubObjectPropertyOf: 16
+      SubClassOf: 162
+      SubDataPropertyOf: 1
+      SubObjectPropertyOf: 17
       SubPropertyChainOf: 9
       SymmetricObjectProperty: 1
       TransitiveObjectProperty: 5
-    'Axioms: Number of axioms': 1463
+    'Axioms: Number of axioms': 1484
     'Entities: % of entities reused': 100.0
-    'Entities: Number of annotation properties': 55
-    'Entities: Number of classes': 120
-    'Entities: Number of data properties': 0
+    'Entities: Number of annotation properties': 41
+    'Entities: Number of classes': 136
+    'Entities: Number of data properties': 2
     'Entities: Number of individuals': 1
-    'Entities: Number of object properties': 30
+    'Entities: Number of object properties': 31
     'Entities: Number of unsatisfiable classes': 0
     'Info: Breakdown of OWL class expressions used':
-      Class: 467
+      Class: 546
+      DataSomeValuesFrom: 1
       ObjectAllValuesFrom: 7
       ObjectComplementOf: 2
       ObjectIntersectionOf: 3
-      ObjectSomeValuesFrom: 8
+      ObjectSomeValuesFrom: 21
+      ObjectUnionOf: 2
     'Info: Does the ontology fall under OWL 2 DL?': true
     'Info: Experimental OBO score':
       _dashboard: 0.8
@@ -316,24 +321,24 @@ ontologies:
     'Info: Logical consistency': true
     'Info: Syntax': RDF/XML Syntax
     'Info: Usage of namespaces in axioms':
-      BFO: 326
+      BFO: 337
       CHEBI: 37
       COB: 4
-      IAO: 798
-      OBI: 32
-      OGMS: 3
-      PATO: 27
-      RBO: 18
-      RO: 141
+      IAO: 820
+      OBI: 39
+      OGMS: 10
+      PATO: 30
+      RBO: 20
+      RO: 146
       dc: 7
-      dc11: 8
-      foaf: 2
+      dc11: 1
+      foaf: 1
       obo: 10
-      oboInOwl: 33
-      prefix_unknown: 93
-      rdf: 7
-      rdfs: 306
-      xsd: 1
+      oboInOwl: 29
+      prefix_unknown: 139
+      rdf: 1
+      rdfs: 271
+      xsd: 2
     'Info: Which ontologies use it?': []
   mirror_from: https://raw.githubusercontent.com/aapm-bdsc-ontology-tg/rto/main/rto.owl
   namespace: rto
@@ -368,7 +373,7 @@ ontologies:
       status: PASS
     ROBOT Report:
       status: PASS
-  sha256_hash: ac5e538fc8108166043f99f69bd9a5aa30ad4e46be459c596f2e36ffbea8ff22
+  sha256_hash: 99bc0ac3ff97ddef547881f8a9ed7626af5b424fab0c7be98eea45dc7ad14c1e
   summary:
     comment: 2 errors
     status: ERROR
@@ -376,4 +381,4 @@ ontologies:
       ERROR: 2
       INFO: 0
       WARN: 0
-  version: http://purl.obolibrary.org/obo/rto/releases/2025-02-21/rto.owl
+  version: http://purl.obolibrary.org/obo/rto/releases/2025-09-28/rto.owl
