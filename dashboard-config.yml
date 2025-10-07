@@ -84,6 +84,23 @@ ontologies:
       license:
         url: https://creativecommons.org/licenses/by/4.0/
         label: CC BY 4.0
+    - id: idpo
+      mirror_from: https://github.com/BioComputingUP/idpo/releases/download/v2025-10-01/idpo.owl
+      title: "Intrinsically Disordered Proteins Ontology"
+      contact:
+        email: ximena.castro@unipd.it
+        label: Ximena Aixa Castro Naser
+        orcid: 0000-0002-9211-1255
+        github: XimeAixa
+      description: The Intrinsically Disordered Proteins Ontology (IDPO) defines concepts and relationships for the states, transitions, and functional roles of intrinsically disordered proteins and regions.
+      domain: biochemistry
+      homepage: https://github.com/BioComputingUP/idpo
+      products:
+        - id: idpo.owl
+      tracker: https://github.com/BioComputingUP/idpo/issues
+      license:
+        url: https://creativecommons.org/licenses/by/4.0/
+        label: CC BY 4.0
 prefer_base: True
 profile:
   baseprofile: "https://raw.githubusercontent.com/ontodev/robot/master/robot-core/src/main/resources/report_profile.txt"
