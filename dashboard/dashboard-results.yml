@@ -29,7 +29,7 @@ ontologies:
   - EMPTY
   - EMPTYALT
   changed: true
-  date: 2025-10-07 13:36:08.311409
+  date: 2025-10-14 17:37:17.003304
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 12773
@@ -166,7 +166,7 @@ ontologies:
   - IDPO
   - IDPOALT
   changed: true
-  date: 2025-10-07 13:36:29.667657
+  date: 2025-10-14 17:37:40.072765
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 981
@@ -287,75 +287,139 @@ ontologies:
   - PBPKO
   - PBPKOALT
   changed: true
-  date: 2025-10-07 13:36:17.319442
+  date: 2025-10-14 17:37:27.510164
   metrics:
     'Axioms: Breakdown of axiom types':
-      AnnotationAssertion: 2939
-      Declaration: 627
-      SubClassOf: 560
-    'Axioms: Number of axioms': 4126
+      AnnotationAssertion: 44419
+      AnnotationPropertyRangeOf: 2
+      AsymmetricObjectProperty: 2
+      ClassAssertion: 308
+      DataPropertyDomain: 3
+      DataPropertyRange: 2
+      Declaration: 6956
+      DifferentIndividuals: 2
+      DisjointClasses: 28
+      DisjointObjectProperties: 10
+      EquivalentClasses: 1126
+      FunctionalDataProperty: 1
+      FunctionalObjectProperty: 5
+      InverseFunctionalObjectProperty: 1
+      InverseObjectProperties: 122
+      IrrefexiveObjectProperty: 8
+      ObjectPropertyAssertion: 45
+      ObjectPropertyDomain: 178
+      ObjectPropertyRange: 170
+      Rule: 29
+      SubAnnotationPropertyOf: 95
+      SubClassOf: 13412
+      SubDataPropertyOf: 1
+      SubObjectPropertyOf: 761
+      SubPropertyChainOf: 160
+      SymmetricObjectProperty: 87
+      TransitiveObjectProperty: 45
+    'Axioms: Number of axioms': 67978
     'Entities: % of entities reused': 100.0
-    'Entities: Number of annotation properties': 64
-    'Entities: Number of classes': 567
-    'Entities: Number of data properties': 0
-    'Entities: Number of individuals': 0
-    'Entities: Number of object properties': 0
+    'Entities: Number of annotation properties': 206
+    'Entities: Number of classes': 5600
+    'Entities: Number of data properties': 6
+    'Entities: Number of individuals': 391
+    'Entities: Number of object properties': 750
     'Entities: Number of unsatisfiable classes': 0
     'Info: Breakdown of OWL class expressions used':
-      Class: 1687
+      Class: 39073
+      DataMinCardinality: 3
+      DataSomeValuesFrom: 5
+      ObjectAllValuesFrom: 90
+      ObjectComplementOf: 21
+      ObjectExactCardinality: 5
+      ObjectHasSelf: 5
+      ObjectHasValue: 141
+      ObjectIntersectionOf: 4649
+      ObjectMaxCardinality: 1
+      ObjectMinCardinality: 3
+      ObjectOneOf: 4
+      ObjectSomeValuesFrom: 12977
+      ObjectUnionOf: 142
     'Info: Does the ontology fall under OWL 2 DL?': true
     'Info: Experimental OBO score':
-      _dashboard: 0.533
+      _dashboard: 0.587
       _formula: (1*impact+1*dashboard)/2
       _impact: 0.0
       _impact_external: 0
       _reuse: 1.0
-      oboscore: 0.267
+      oboscore: 0.293
     'Info: How many externally documented uses?': 0
     'Info: How many ontologies use it?': 0
     'Info: Logical consistency': true
     'Info: Syntax': RDF/XML Syntax
     'Info: Usage of namespaces in axioms':
-      GO: 8
-      IAO: 1932
-      OBCS: 10
-      RO: 18
-      UBERON: 40
-      dc: 9
-      foaf: 33
-      obo: 1767
-      oboInOwl: 494
-      prefix_unknown: 11
-      rdf: 331
-      rdfs: 633
-      skos: 102
-      xsd: 1
+      BFO: 2731
+      CHEBI: 752
+      CHMO: 17
+      CL: 346
+      CLO: 48
+      COB: 13
+      ENVO: 135
+      GAZ: 4
+      GO: 1322
+      HP: 9
+      IAO: 36222
+      IDO: 18
+      MRO: 131
+      NCBITaxon: 311
+      OBA: 69
+      OBI: 28700
+      OGMS: 59
+      OMIABIS: 11
+      OMO: 38
+      OMRSE: 6
+      OPL: 7
+      PATO: 372
+      PR: 223
+      RO: 5720
+      SO: 52
+      UBERON: 680
+      UO: 253
+      UPHENO: 5
+      VO: 4
+      dc: 412
+      dc11: 102
+      foaf: 43
+      obo: 13338
+      oboInOwl: 1546
+      owl: 154
+      prefix_unknown: 115
+      rdf: 243
+      rdfs: 7596
+      skos: 89
+      xsd: 21
     'Info: Which ontologies use it?': []
-  mirror_from: https://raw.githubusercontent.com/Crispae/pbpko/main/Robot/ontologies/pbpko.owl
+  mirror_from: https://github.com/InSilicoVida-Research-Lab/pbpko/releases/download/v1.3.0/pbpko_12_09_2025.owl
   namespace: pbpko
   results:
     FP01 Open:
-      status: PASS
+      comment: Ontology license 'http://creativecommons.org/licenses/by/4.0' does
+        not match registry license 'https://creativecommons.org/licenses/by/4.0/'.
+      status: ERROR
     FP02 Common Format:
       status: PASS
     FP03 URIs:
-      comment: 0 invalid IRIs. The Ontology IRI is not valid.
-      file: fp3
-      status: ERROR
+      status: PASS
     FP04 Versioning:
       comment: Version IRI does not resolve
       status: ERROR
     FP05 Scope:
       status: PASS
     FP06 Textual Definitions:
-      comment: 6 duplicate definitions.  20 missing definitions. See ROBOT Report
-        for details.
+      comment: 2 multiple definitions. 1 missing definitions. See ROBOT Report for
+        details.
       status: ERROR
     FP07 Relations:
-      status: PASS
+      comment: 8 non-RO properties used.
+      file: fp7
+      status: INFO
     FP08 Documented:
-      comment: Homepage URL (https://crispae.github.io/pbpko/) does not resolve
-      status: ERROR
+      status: PASS
     FP09 Plurality of Users:
       comment: Missing usages
       status: ERROR
@@ -364,32 +428,33 @@ ontologies:
     FP12 Naming Conventions:
       status: PASS
     FP16 Maintenance:
-      status: PASS
+      comment: Version IRI does not have date information
+      status: INFO
     FP20 Responsiveness:
       status: PASS
     ROBOT Report:
-      comment: 8 errors, 48 warnings, 12 info messages.
+      comment: 2 errors, 7 warnings, 0 info messages.
       file: robot_report
       results:
-        ERROR: 8
-        INFO: 12
-        WARN: 48
+        ERROR: 2
+        INFO: 0
+        WARN: 7
       status: ERROR
-  sha256_hash: eb22577ada737d80fb5400c2ce2704761c483847637c2efb76e6af6a883f27a3
+  sha256_hash: 9de70ac70ff64641700cde6316698f3a75ad683ec9c8fb9f6b7be1fe54f6a487
   summary:
-    comment: 6 errors
+    comment: 5 errors
     status: ERROR
     summary_count:
-      ERROR: 6
-      INFO: 0
+      ERROR: 5
+      INFO: 2
       WARN: 0
-  version: http://purl.obolibrary.org/obo/pbpko/releases/2024-10-09/pbpko.owl
+  version: http://purl.obolibrary.org/obo/pbpko/releases/1.3.0/pbpko.owl
 - base_generated: true
   base_prefixes:
   - RTO
   - RTOALT
   changed: true
-  date: 2025-10-07 13:36:23.244963
+  date: 2025-10-14 17:37:33.214091
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 997

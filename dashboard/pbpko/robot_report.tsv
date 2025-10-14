@@ -1,71 +1,10 @@
 Level	Rule Name	Subject	Property	Value
-ERROR	duplicate_definition	obo:PBPKO_00374	IAO:0000115	Volume of placenta
-ERROR	duplicate_definition	obo:PBPKO_00380	IAO:0000115	Volume of placenta
-ERROR	duplicate_definition	obo:PBPKO_00176	IAO:0000115	Partition_coefficient of skin to plasma
-ERROR	duplicate_definition	obo:PBPKO_00516	IAO:0000115	Partition_coefficient of skin to plasma
-ERROR	duplicate_definition	obo:PBPKO_00055	IAO:0000115	Fraction of cardiac output in the portal vein
-ERROR	duplicate_definition	obo:PBPKO_00057	IAO:0000115	Fraction of cardiac output in the portal vein
-ERROR	label_whitespace	obo:PBPKO_00007	rdfs:label	Body_Mass_Index 
-ERROR	label_whitespace	obo:PBPKO_00304	rdfs:label	Vmax_baso_in_vitro 
-WARN	annotation_whitespace	obo:PBPKO_00008	IAO:0000115	Mass or quantity of heaviness of an individual. 
-WARN	annotation_whitespace	obo:PBPKO_00060	IAO:0000115	Fractions of total blood flow 
-WARN	annotation_whitespace	obo:PBPKO_00066	IAO:0000115	Organ volume in pbpk modeling refers to the volume of a specific organ or tissue in the body. 
-WARN	annotation_whitespace	obo:PBPKO_00115	IAO:0000115	Volume of the gallbaldder 
-WARN	annotation_whitespace	obo:PBPKO_00130	IAO:0000115	Ratio of a dissolved xenoboitic substance in a two-phase system. 
-WARN	annotation_whitespace	obo:PBPKO_00137	IAO:0000115	" 
-A molecular entity that can undergo oxidation by the loss of hydrogen atom(s)."
-WARN	annotation_whitespace	obo:PBPKO_00186	skos:exactMatch	http://purl.bioontology.org/ontology/SNOMEDCT/17003006
-WARN	annotation_whitespace	obo:PBPKO_00210	IAO:0000115	First pass metabolism, also known as the first pass effect or presystemic metabolism, is a phenomenon in which a drug/chemical undergoes metabolism at a specific location in the body, resulting in a reduced concentration of the active drug/chemical before it reaches its site of action or systemic circulation. 
-WARN	annotation_whitespace	obo:PBPKO_00216	IAO:0000115	Kd in pbpk modeling refers to the dissociation constant of a drug/chemical-receptor complex, which is a measure of the affinity of the drug/chemical for its target receptor. it affects the distribution and elimination of the drug/chemical in the body. the dissociation constant (kd) is defined as the ratio of the rate constants for the forward and reverse reactions of the drug/chemical-receptor complex. 
-WARN	annotation_whitespace	obo:PBPKO_00229	IAO:0000115	Volume of fluid cleared of xenoboitic from body per unit  time. 
-WARN	annotation_whitespace	obo:PBPKO_00230	IAO:0000115	Fecal cleared volume of  xenoboitic from body per unit  time. 
-WARN	annotation_whitespace	obo:PBPKO_00231	IAO:0000115	Sweat cleared volume of  xenoboitic from body per unit  time. 
-WARN	annotation_whitespace	obo:PBPKO_00232	IAO:0000115	Urine cleared volume of  xenoboitic from body per unit time. 
-WARN	annotation_whitespace	obo:PBPKO_00233	IAO:0000115	Bile cleared volume of  xenoboitic from body per unit time. 
-WARN	annotation_whitespace	obo:PBPKO_00234	IAO:0000115	Liver cleared volume of  xenoboitic from body per unit time. 
-WARN	annotation_whitespace	obo:PBPKO_00263	IAO:0000115	 Bioavailability is defined as the rate and extent to which the active ingredient or active moiety is absorbed from a xenoboitic product and becomes available at the site of action (us-fda, cder, 2014a).
-WARN	annotation_whitespace	obo:PBPKO_00319	IAO:0000115	A one-compartment model assumes that all the tissues in the body are contained in a single compartment called the  central compartment.  
-WARN	annotation_whitespace	obo:PBPKO_00345	IAO:0000115	Inter-individual differences  in anatomical and physiological characteristics 
-WARN	annotation_whitespace	obo:PBPKO_00387	IAO:0000115	 Measure of the age of a pregnancy, indicating how far along the pregnancy is. typically measured in weeks
-WARN	annotation_whitespace	obo:PBPKO_00388	IAO:0000115	 Measure of the week of a pregnancy, indicating how far along the pregnancy is. 
-WARN	annotation_whitespace	obo:PBPKO_00390	IAO:0000115	Rate at which drug/chemical transfer from materal circulation to amniotic fluid 
-WARN	annotation_whitespace	obo:PBPKO_00441	IAO:0000115	Physiological barrier that separates the blood and milk compartments in lactating species. 
-WARN	annotation_whitespace	obo:PBPKO_00474	IAO:0000115	It is one long tube continuing from small intestine and includes colon, rectum and anus 
-WARN	annotation_whitespace	obo:PBPKO_00494	IAO:0000115	It is lengthy, upper part of large intestine 
-WARN	annotation_whitespace	obo:PBPKO_00529	IAO:0000115	Qfiltrate is a parameter used in pbpk modeling to describe the blood flow rate to the filtrate which is used to calculate the rate of drug/chemical delivery to the filtrate. 
-WARN	annotation_whitespace	obo:PBPKO_00531	IAO:0000115	Qgut is a parameter used in pbpk modeling to describe the blood flow rate to the gut  which is used to calculate the rate of drug/chemical delivery to the gut. 
-WARN	annotation_whitespace	obo:PBPKO_00532	IAO:0000115	Qmam is a parameter used in pbpk modeling to describe the blood flow rate to the mammary gland  which is used to calculate the rate of drug/chemical delivery to the mammary gland. 
-WARN	annotation_whitespace	obo:PBPKO_00550	IAO:0000115	Amount of substance in the adipose tissue 
-WARN	missing_definition	obo:PBPKO_00135	IAO:0000115	
-WARN	missing_definition	obo:PBPKO_00312	IAO:0000115	
-WARN	missing_definition	obo:PBPKO_00447	IAO:0000115	
-WARN	missing_definition	obo:PBPKO_00459	IAO:0000115	
-WARN	missing_definition	obo:PBPKO_00485	IAO:0000115	
-WARN	missing_definition	obo:PBPKO_00500	IAO:0000115	
-WARN	missing_definition	obo:PBPKO_00505	IAO:0000115	
-WARN	missing_definition	obo:PBPKO_00512	IAO:0000115	
-WARN	missing_definition	obo:PBPKO_00520	IAO:0000115	
-WARN	missing_definition	obo:PBPKO_00523	IAO:0000115	
-WARN	missing_definition	obo:PBPKO_00526	IAO:0000115	
-WARN	missing_definition	obo:PBPKO_00527	IAO:0000115	
-WARN	missing_definition	obo:PBPKO_00528	IAO:0000115	
-WARN	missing_definition	obo:PBPKO_00530	IAO:0000115	
-WARN	missing_definition	obo:PBPKO_00533	IAO:0000115	
-WARN	missing_definition	obo:PBPKO_00534	IAO:0000115	
-WARN	missing_definition	obo:PBPKO_00535	IAO:0000115	
-WARN	missing_definition	obo:PBPKO_00536	IAO:0000115	
-WARN	missing_definition	obo:PBPKO_00537	IAO:0000115	
-WARN	missing_definition	obo:PBPKO_00545	IAO:0000115	
-INFO	lowercase_definition	obo:PBPKO_00137	IAO:0000115	" 
-A molecular entity that can undergo oxidation by the loss of hydrogen atom(s)."
-INFO	lowercase_definition	obo:PBPKO_00263	IAO:0000115	 Bioavailability is defined as the rate and extent to which the active ingredient or active moiety is absorbed from a xenoboitic product and becomes available at the site of action (us-fda, cder, 2014a).
-INFO	lowercase_definition	obo:PBPKO_00387	IAO:0000115	 Measure of the age of a pregnancy, indicating how far along the pregnancy is. typically measured in weeks
-INFO	lowercase_definition	obo:PBPKO_00388	IAO:0000115	 Measure of the week of a pregnancy, indicating how far along the pregnancy is. 
-INFO	lowercase_definition	obo:PBPKO_00440	IAO:0000115	pH of milk
-INFO	missing_superclass	obo:PBPKO_00000	rdfs:subClassOf	
-INFO	missing_superclass	obo:PBPKO_00002	rdfs:subClassOf	
-INFO	missing_superclass	obo:PBPKO_00003	rdfs:subClassOf	
-INFO	missing_superclass	obo:PBPKO_00217	rdfs:subClassOf	
-INFO	missing_superclass	obo:PBPKO_00443	rdfs:subClassOf	
-INFO	missing_superclass	obo:PBPKO_00444	rdfs:subClassOf	
-INFO	missing_superclass	obo:PBPKO_00446	rdfs:subClassOf	
+ERROR	multiple_definitions	obo:PBPKO_00387	IAO:0000115	A physiological parameter representing the age of a pregnancy, typically measured in weeks.
+ERROR	multiple_definitions	obo:PBPKO_00387	IAO:0000115	A physiological parameter representing thickness of the skin (both dermis and epidermis).
+WARN	duplicate_exact_synonym	obo:PBPKO_00394	IAO:0000118	restbody plasma pc
+WARN	duplicate_exact_synonym	obo:PBPKO_00518	IAO:0000118	restbody plasma pc
+WARN	duplicate_exact_synonym	obo:PBPKO_00267	IAO:0000118	be
+WARN	duplicate_exact_synonym	obo:PBPKO_00287	IAO:0000118	be
+WARN	duplicate_exact_synonym	obo:PBPKO_00136	IAO:0000118	A
+WARN	duplicate_exact_synonym	obo:PBPKO_00140	IAO:0000118	A
+WARN	missing_definition	obo:PBPKO_00635	IAO:0000115	
