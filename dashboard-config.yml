@@ -51,7 +51,7 @@ ontologies:
         url: https://creativecommons.org/licenses/by/4.0/
         label: CC BY 4.0
     - id: pbpko
-      mirror_from: https://raw.githubusercontent.com/Crispae/pbpko/main/Robot/ontologies/pbpko.owl
+      mirror_from: https://github.com/InSilicoVida-Research-Lab/pbpko/releases/download/v1.3.0/pbpko_12_09_2025.owl
       title: "Physiologically based pharmacokinetic modelling ontology"
       contact:
         email: saurav.kumar@iispv.cat
@@ -60,10 +60,10 @@ ontologies:
         github: Crispae
       description: The Physiologically-Based Pharmacokinetics (PBPK) ontology is a comprehensive framework designed to systematically capture and represent the intricate relationships and behaviors of pharmacokinetic processes within living organisms.
       domain: simulation
-      homepage: https://crispae.github.io/pbpko/
+      homepage: https://github.com/InSilicoVida-Research-Lab/pbpko
       products:
         - id: pbpko.owl
-      tracker: https://github.com/Crispae/pbpko/issues
+      tracker: https://github.com/InSilicoVida-Research-Lab/pbpko/issues
       license:
         url: https://creativecommons.org/licenses/by/4.0/
         label: CC BY 4.0
