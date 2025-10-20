@@ -101,6 +101,23 @@ ontologies:
       license:
         url: https://creativecommons.org/licenses/by/4.0/
         label: CC BY 4.0
+     - id: ocs
+      mirror_from: https://raw.githubusercontent.com/edithlaszny/OCS/main/OCS.rdf
+      title: "Foundational Ontology for Computational Sociology"
+      contact:
+        email: edithlaszny@gmail.com
+        label: Dr Edit Hlaszny
+        orcid: https://orcid.org/0009-0005-6549-9839
+        github: edithlaszny
+      description: 701 classes covering general sociology, 254 object properties, 78 data properties, and 201 n-ary causal relations - all properly mapped under BFO 2020 toplevel ontology classes.
+      domain: investigations
+      homepage: https://github.com/edithlaszny/OCS/
+      products:
+        - id: idpo.owl
+      tracker: https://github.com/edithlaszny/OCS/issues
+      license:
+        url: https://creativecommons.org/licenses/by/4.0/
+        label: CC BY 4.0
 prefer_base: True
 profile:
   baseprofile: "https://raw.githubusercontent.com/ontodev/robot/master/robot-core/src/main/resources/report_profile.txt"
