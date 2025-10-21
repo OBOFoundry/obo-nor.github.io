@@ -7,7 +7,7 @@
         "EMPTYALT"
       ],
       "changed": true,
-      "date": "2025-10-14T17:37:17.003304",
+      "date": "2025-10-20T13:25:03.557430",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 12773,
@@ -170,7 +170,7 @@
         "IDPOALT"
       ],
       "changed": true,
-      "date": "2025-10-14T17:37:40.072765",
+      "date": "2025-10-20T13:25:25.470149",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 981,
@@ -317,7 +317,7 @@
         "PBPKOALT"
       ],
       "changed": true,
-      "date": "2025-10-14T17:37:27.510164",
+      "date": "2025-10-20T13:25:13.465503",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 44419,
@@ -508,7 +508,7 @@
         "RTOALT"
       ],
       "changed": true,
-      "date": "2025-10-14T17:37:33.214091",
+      "date": "2025-10-20T13:25:19.151593",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 997,
