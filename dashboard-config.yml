@@ -101,7 +101,7 @@ ontologies:
       license:
         url: https://creativecommons.org/licenses/by/4.0/
         label: CC BY 4.0
-     - id: ocs
+    - id: ocs
       mirror_from: https://raw.githubusercontent.com/edithlaszny/OCS/main/OCS.rdf
       title: "Foundational Ontology for Computational Sociology"
       contact:
