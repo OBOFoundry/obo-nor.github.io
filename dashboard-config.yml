@@ -113,7 +113,7 @@ ontologies:
       domain: investigations
       homepage: https://github.com/edithlaszny/OCS/
       products:
-        - id: idpo.owl
+        - id: ocs.owl
       tracker: https://github.com/edithlaszny/OCS/issues
       license:
         url: https://creativecommons.org/licenses/by/4.0/
