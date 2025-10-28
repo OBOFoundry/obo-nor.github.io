@@ -67,23 +67,6 @@ ontologies:
       license:
         url: https://creativecommons.org/licenses/by/4.0/
         label: CC BY 4.0
-    - id: rto
-      mirror_from: https://raw.githubusercontent.com/aapm-bdsc-ontology-tg/rto/main/rto.owl
-      title: "Radiation Therapy Ontology"
-      contact:
-        email: jonathanbona@gmail.com
-        label: Jonathan Bona
-        orcid: 0000-0003-1402-9616
-        github: jonathanbona
-      description: An ontology describing the domain of radiation therapy concerned primarily with the processes and equipment used to deliver therapeutic radiation in a clinical setting.
-      domain: health
-      homepage: https://github.com/aapm-bdsc-ontology-tg/rto
-      products:
-        - id: rto.owl
-      tracker: https://github.com/aapm-bdsc-ontology-tg/rto/issues
-      license:
-        url: https://creativecommons.org/licenses/by/4.0/
-        label: CC BY 4.0
     - id: idpo
       mirror_from: https://github.com/BioComputingUP/idpo/releases/download/v2025-10-01/idpo.owl
       title: "Intrinsically Disordered Proteins Ontology"
