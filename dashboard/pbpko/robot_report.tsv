@@ -1,6 +1,4 @@
 Level	Rule Name	Subject	Property	Value
-ERROR	multiple_definitions	obo:PBPKO_00387	IAO:0000115	A physiological parameter representing the age of a pregnancy, typically measured in weeks.
-ERROR	multiple_definitions	obo:PBPKO_00387	IAO:0000115	A physiological parameter representing thickness of the skin (both dermis and epidermis).
 WARN	duplicate_exact_synonym	obo:PBPKO_00394	IAO:0000118	restbody plasma pc
 WARN	duplicate_exact_synonym	obo:PBPKO_00518	IAO:0000118	restbody plasma pc
 WARN	duplicate_exact_synonym	obo:PBPKO_00267	IAO:0000118	be
