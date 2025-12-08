@@ -7,7 +7,7 @@
         "EMPTYALT"
       ],
       "changed": true,
-      "date": "2025-11-24T13:29:27.350219",
+      "date": "2025-12-08T13:30:41.075759",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 12773,
@@ -170,7 +170,7 @@
         "IDPOALT"
       ],
       "changed": true,
-      "date": "2025-11-24T13:29:45.379968",
+      "date": "2025-12-08T13:30:56.761595",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 981,
@@ -210,12 +210,12 @@
         },
         "Info: Does the ontology fall under OWL 2 DL?": true,
         "Info: Experimental OBO score": {
-          "_dashboard": 0.682,
+          "_dashboard": 0.749,
           "_formula": "(1*impact+1*dashboard)/2",
           "_impact": 0.0,
           "_impact_external": 0,
           "_reuse": 1.0,
-          "oboscore": 0.341
+          "oboscore": 0.374
         },
         "Info: How many externally documented uses?": 0,
         "Info: How many ontologies use it?": 0,
@@ -269,8 +269,7 @@
           "status": "INFO"
         },
         "FP08 Documented": {
-          "comment": "Homepage URL (https://github.com/BioComputingUP/idpo) does not resolve",
-          "status": "ERROR"
+          "status": "PASS"
         },
         "FP09 Plurality of Users": {
           "comment": "Missing usages",
@@ -301,10 +300,10 @@
       },
       "sha256_hash": "6b55d12de79266f75ff86240fdf4dbfa06b28719d87c3cc87abb5b30e8d5dcd8",
       "summary": {
-        "comment": "3 errors",
+        "comment": "2 errors",
         "status": "ERROR",
         "summary_count": {
-          "ERROR": 3,
+          "ERROR": 2,
           "INFO": 1,
           "WARN": 2
         }
@@ -318,7 +317,7 @@
         "OCSALT"
       ],
       "changed": true,
-      "date": "2025-11-24T13:29:51.001490",
+      "date": "2025-12-08T13:31:00.512701",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 2419,
@@ -456,7 +455,7 @@
         "PBPKOALT"
       ],
       "changed": true,
-      "date": "2025-11-24T13:29:37.520900",
+      "date": "2025-12-08T13:30:50.536749",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 44418,

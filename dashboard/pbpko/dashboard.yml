@@ -3,7 +3,7 @@ base_prefixes:
 - PBPKO
 - PBPKOALT
 changed: true
-date: 2025-11-24 13:29:37.520900
+date: 2025-12-08 13:30:50.536749
 metrics:
   'Axioms: Breakdown of axiom types':
     AnnotationAssertion: 44418
