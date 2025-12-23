@@ -50,23 +50,6 @@ ontologies:
       license:
         url: https://creativecommons.org/licenses/by/4.0/
         label: CC BY 4.0
-    - id: pbpko
-      mirror_from: https://github.com/InSilicoVida-Research-Lab/pbpko/releases/download/v1.3.1/pbpko_19_10_2025.owl
-      title: "Physiologically based pharmacokinetic modelling ontology"
-      contact:
-        email: saurav.kumar@iispv.cat
-        label: Saurav Kumar
-        orcid: 0000-0003-0593-2598
-        github: Crispae
-      description: The Physiologically-Based Pharmacokinetics (PBPK) ontology is a comprehensive framework designed to systematically capture and represent the intricate relationships and behaviors of pharmacokinetic processes within living organisms.
-      domain: simulation
-      homepage: https://github.com/InSilicoVida-Research-Lab/pbpko
-      products:
-        - id: pbpko.owl
-      tracker: https://github.com/InSilicoVida-Research-Lab/pbpko/issues
-      license:
-        url: https://creativecommons.org/licenses/by/4.0/
-        label: CC BY 4.0
     - id: idpo
       mirror_from: https://github.com/BioComputingUP/idpo/releases/download/v2025-10-01/idpo.owl
       title: "Intrinsically Disordered Proteins Ontology"
@@ -84,20 +67,37 @@ ontologies:
       license:
         url: https://creativecommons.org/licenses/by/4.0/
         label: CC BY 4.0
-    - id: ocs
-      mirror_from: https://raw.githubusercontent.com/edithlaszny/OCS/main/OCS.rdf
-      title: "Foundational Ontology for Computational Sociology"
+    - id: euph
+      mirror_from: https://gitlab.com/bee-life/controlled-vocabulary/-/raw/main/EUPH.owl
+      title: "Pollinator Ontology"
       contact:
-        email: edithlaszny@gmail.com
-        label: Dr Edit Hlaszny
-        orcid: https://orcid.org/0009-0005-6549-9839
-        github: edithlaszny
-      description: 701 classes covering general sociology, 254 object properties, 78 data properties, and 201 n-ary causal relations - all properly mapped under BFO 2020 toplevel ontology classes.
-      domain: investigations
-      homepage: https://github.com/edithlaszny/OCS/
+        email: susanj@bee-life.eu
+        label: Gregor Sušanj
+        orcid: 0009-0000-6519-9709
+        github: gsusanj
+      description: A controlled vocabulary for pollinator related data maintained by Bee-life under the guidance of EFSA.
+      domain: environment
+      homepage: https://gitlab.com/bee-life/controlled-vocabulary
       products:
-        - id: ocs.owl
-      tracker: https://github.com/edithlaszny/OCS/issues
+        - id: euph.owl
+      tracker: https://gitlab.com/bee-life/controlled-vocabulary/-/issues
+      license:
+        url: https://creativecommons.org/licenses/by/4.0/
+        label: CC BY 4.0
+    - id: prefer
+      mirror_from: https://github.com/Multiomics-Analytics-Group/prefer_ontology/releases/download/v2025-12-22/prefer.owl
+      title: "Precision Fermentation Ontology"
+      contact:
+        email: txellmgsol@gmail.com
+        label: Txell Amigó
+        orcid: 0009-0009-0018-4253
+        github: txellext
+      description: PREFER is an ontology designed to integrate high-throughput bioprocess data, covering operational, environmental and process parameters across different scales of a precision fermentation process, to accelerate the development and scaling of biosustainable production processes.
+      domain: investigations
+      homepage: https://github.com/Multiomics-Analytics-Group/prefer_ontology
+      products:
+        - id: prefer.owl
+      tracker: https://github.com/Multiomics-Analytics-Group/prefer_ontology/issues
       license:
         url: https://creativecommons.org/licenses/by/4.0/
         label: CC BY 4.0
