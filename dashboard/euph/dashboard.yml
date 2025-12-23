@@ -1,0 +1,6 @@
+base_generated: true
+changed: true
+failure: failed_robot_base
+mirror_from: https://gitlab.com/bee-life/controlled-vocabulary/-/raw/main/EUPH.owl
+namespace: euph
+sha256_hash: b3a7bd5846d7e0664b1a267f07b3f190caa368ddfabc75841743019864be5cad
