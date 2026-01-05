@@ -31,22 +31,20 @@ obo_score_weights:
 ontologies:
   #registry: "https://raw.githubusercontent.com/OBOFoundry/OBOFoundry.github.io/master/registry/ontologies.yml"
   custom:
-    - id: empty
-      mirror_from: https://raw.githubusercontent.com/Waltham-Data-Science/empty-ontology/main/empty.owl
-      title: "Experimental Measurements, Purposes, and Treatments ontologY"
+    - id: cmeo
+      mirror_from: https://raw.githubusercontent.com/komi786/cmeo/main/cmeo-core.owl
+      title: "Clinical Metadata Exploration Ontology"
       contact:
-        email: andrea@walthamdatascience.com
-        label: Andrea Gaede
-        orcid: 0000-0002-1909-7004
-        github: andreagaede
-      description: An ontology of experimental measurements in the sciences, the purposes for which experimental measurements were made, and experimental treatments, with a focus on life sciences.
-      domain: investigations
-      homepage: https://github.com/Waltham-Data-Science/empty-ontology
+        email: komalsyeda29@gmail.com
+        label: Komal Gilani
+        orcid: 0000-0001-7292-1026
+        github: komi786
+      description: CMEO (Clinical Metadata Exploration Ontology) is a semantic model for representing and querying clinical cohort study metadata to enable cross-study discovery and metadata-driven harmonization.
+      domain: health
+      homepage: https://komi786.github.io/cmeo/
       products:
-        - id: empty.owl
-        - id: empty.obo
-        - id: empty.json
-      tracker: https://github.com/Waltham-Data-Science/empty-ontology/issues
+        - id: cmeo-core.owl
+      tracker: https://github.com/komi786/cmeo/issues
       license:
         url: https://creativecommons.org/licenses/by/4.0/
         label: CC BY 4.0
