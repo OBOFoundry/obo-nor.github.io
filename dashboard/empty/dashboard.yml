@@ -3,7 +3,7 @@ base_prefixes:
 - EMPTY
 - EMPTYALT
 changed: true
-date: 2025-12-08 13:30:41.075759
+date: 2026-01-05 13:36:17.030064
 metrics:
   'Axioms: Breakdown of axiom types':
     AnnotationAssertion: 12773
