@@ -29,38 +29,38 @@ ontologies:
   - CMEO
   - CMEOALT
   changed: true
-  date: 2026-01-05 18:37:32.920619
+  date: 2026-01-19 13:39:58.730042
   metrics:
     'Axioms: Breakdown of axiom types':
-      AnnotationAssertion: 3086
+      AnnotationAssertion: 3114
       AnnotationPropertyRangeOf: 1
       ClassAssertion: 26
-      Declaration: 566
+      Declaration: 574
       DisjointClasses: 25
       EquivalentClasses: 8
       EquivalentObjectProperties: 2
       FunctionalObjectProperty: 3
       InverseFunctionalObjectProperty: 1
-      InverseObjectProperties: 15
+      InverseObjectProperties: 17
       IrrefexiveObjectProperty: 1
-      ObjectPropertyDomain: 22
-      ObjectPropertyRange: 22
+      ObjectPropertyDomain: 23
+      ObjectPropertyRange: 23
       Rule: 4
       SubAnnotationPropertyOf: 11
-      SubClassOf: 359
-      SubObjectPropertyOf: 22
+      SubClassOf: 360
+      SubObjectPropertyOf: 28
       SubPropertyChainOf: 3
       TransitiveObjectProperty: 5
-    'Axioms: Number of axioms': 4182
+    'Axioms: Number of axioms': 4229
     'Entities: % of entities reused': 100.0
     'Entities: Number of annotation properties': 94
     'Entities: Number of classes': 374
     'Entities: Number of data properties': 1
     'Entities: Number of individuals': 26
-    'Entities: Number of object properties': 66
+    'Entities: Number of object properties': 74
     'Entities: Number of unsatisfiable classes': 0
     'Info: Breakdown of OWL class expressions used':
-      Class: 1251
+      Class: 1255
       DataSomeValuesFrom: 2
       ObjectAllValuesFrom: 4
       ObjectComplementOf: 2
@@ -84,7 +84,7 @@ ontologies:
       BFO: 359
       DUO: 66
       GAZ: 2
-      IAO: 2403
+      IAO: 2415
       NCBITaxon: 3
       OBA: 2
       OBCS: 139
@@ -92,17 +92,17 @@ ontologies:
       OGMS: 2
       OMO: 7
       PATO: 20
-      RO: 122
+      RO: 123
       STATO: 49
       dc: 9
       dc11: 36
       foaf: 2
       obo: 2
-      oboInOwl: 65
+      oboInOwl: 74
       owl: 107
-      prefix_unknown: 248
+      prefix_unknown: 276
       rdf: 1
-      rdfs: 708
+      rdfs: 716
       skos: 4
       xsd: 7
     'Info: Which ontologies use it?': []
@@ -142,7 +142,7 @@ ontologies:
       status: PASS
     ROBOT Report:
       status: PASS
-  sha256_hash: 9a89cf3b3bc519abf45bd07ed6b707211728cdfbf8e80ba1cc2673ac1e124127
+  sha256_hash: 78275598776ad193693639dc8694632980f3466e855c1dd3303f64412257ecd1
   summary:
     comment: 3 errors
     status: ERROR
@@ -156,7 +156,7 @@ ontologies:
   - IDPO
   - IDPOALT
   changed: true
-  date: 2026-01-05 18:37:40.866915
+  date: 2026-01-19 13:40:07.073824
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 981
@@ -277,7 +277,7 @@ ontologies:
   - PREFER
   - PREFERALT
   changed: true
-  date: 2026-01-05 18:37:48.271239
+  date: 2026-01-19 13:40:13.925823
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 1245
