@@ -3,14 +3,14 @@ base_prefixes:
 - CMEO
 - CMEOALT
 changed: true
-date: 2026-01-19 13:39:58.730042
+date: 2026-02-02 13:57:01.370046
 metrics:
   'Axioms: Breakdown of axiom types':
-    AnnotationAssertion: 3114
+    AnnotationAssertion: 3133
     AnnotationPropertyRangeOf: 1
     ClassAssertion: 26
-    Declaration: 574
-    DisjointClasses: 25
+    Declaration: 578
+    DisjointClasses: 26
     EquivalentClasses: 8
     EquivalentObjectProperties: 2
     FunctionalObjectProperty: 3
@@ -21,20 +21,20 @@ metrics:
     ObjectPropertyRange: 23
     Rule: 4
     SubAnnotationPropertyOf: 11
-    SubClassOf: 360
+    SubClassOf: 364
     SubObjectPropertyOf: 28
     SubPropertyChainOf: 3
     TransitiveObjectProperty: 5
-  'Axioms: Number of axioms': 4229
+  'Axioms: Number of axioms': 4257
   'Entities: % of entities reused': 100.0
   'Entities: Number of annotation properties': 94
-  'Entities: Number of classes': 374
+  'Entities: Number of classes': 378
   'Entities: Number of data properties': 1
   'Entities: Number of individuals': 26
   'Entities: Number of object properties': 74
   'Entities: Number of unsatisfiable classes': 0
   'Info: Breakdown of OWL class expressions used':
-    Class: 1255
+    Class: 1269
     DataSomeValuesFrom: 2
     ObjectAllValuesFrom: 4
     ObjectComplementOf: 2
@@ -58,8 +58,9 @@ metrics:
     BFO: 359
     DUO: 66
     GAZ: 2
-    IAO: 2415
+    IAO: 2426
     NCBITaxon: 3
+    NCIT: 5
     OBA: 2
     OBCS: 139
     OBI: 416
@@ -67,16 +68,17 @@ metrics:
     OMO: 7
     PATO: 20
     RO: 123
-    STATO: 49
-    dc: 9
+    SCDO: 6
+    STATO: 50
+    dc: 11
     dc11: 36
     foaf: 2
     obo: 2
-    oboInOwl: 74
+    oboInOwl: 78
     owl: 107
-    prefix_unknown: 276
+    prefix_unknown: 277
     rdf: 1
-    rdfs: 716
+    rdfs: 719
     skos: 4
     xsd: 7
   'Info: Which ontologies use it?': []
@@ -116,7 +118,7 @@ results:
     status: PASS
   ROBOT Report:
     status: PASS
-sha256_hash: 78275598776ad193693639dc8694632980f3466e855c1dd3303f64412257ecd1
+sha256_hash: 5cc3a4421471af29fcaaf56af5b9de687de02187fcd872f9dce8e2e7f8a4291c
 summary:
   comment: 3 errors
   status: ERROR
