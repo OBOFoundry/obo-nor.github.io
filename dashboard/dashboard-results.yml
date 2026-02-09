@@ -29,7 +29,7 @@ ontologies:
   - CMEO
   - CMEOALT
   changed: true
-  date: 2026-02-02 13:57:01.370046
+  date: 2026-02-09 14:09:32.985366
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 3133
@@ -158,7 +158,7 @@ ontologies:
   - IDPO
   - IDPOALT
   changed: true
-  date: 2026-02-02 13:57:08.714314
+  date: 2026-02-09 14:09:39.825878
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 981
@@ -279,7 +279,7 @@ ontologies:
   - PREFER
   - PREFERALT
   changed: true
-  date: 2026-02-02 13:57:15.997840
+  date: 2026-02-09 14:09:47.268019
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 1245
