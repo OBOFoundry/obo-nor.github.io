@@ -1,1 +1,14 @@
 Level	Rule Name	Subject	Property	Value
+WARN	equivalent_class_axiom_no_genus	obo:CMEO_0000074	obo:cmeo.owlhas_value	xsd:dateTime
+WARN	equivalent_class_axiom_no_genus	obo:CMEO_0000075	obo:cmeo.owlhas_value	xsd:dateTime
+WARN	missing_definition	obo:CMEO_0000004	IAO:0000115	
+WARN	missing_definition	obo:CMEO_0000013	IAO:0000115	
+WARN	missing_definition	obo:CMEO_0000014	IAO:0000115	
+WARN	missing_definition	obo:CMEO_0000060	IAO:0000115	
+WARN	missing_definition	obo:CMEO_0000074	IAO:0000115	
+WARN	missing_definition	obo:CMEO_0000075	IAO:0000115	
+WARN	missing_definition	obo:CMEO_0000077	IAO:0000115	
+INFO	lowercase_definition	obo:CMEO_0000007	IAO:0000115	linking a concept to unique identifier in respective domain standard such as linking variable bp to blood pressure concept in SNOMED@en
+INFO	lowercase_definition	obo:CMEO_0000016	IAO:0000115	a medical device adverse event that is induced or caused by a medical device. There is a causal relation between the adverse event and the usage of a medical device.@en
+INFO	lowercase_definition	obo:CMEO_0000042	IAO:0000115	family history is the systematic narrative and research of past events relating to a specific family, or specific families.@en
+INFO	lowercase_definition	obo:CMEO_0000059	IAO:0000115	data type of variables such as int, float, str, datetime etc.@en
