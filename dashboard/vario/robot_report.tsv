@@ -1,0 +1,11 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	multiple_labels	VariO:0141	rdfs:label	DNA deletion
+ERROR	multiple_labels	VariO:0141	rdfs:label	nucleotide deletion
+ERROR	multiple_labels	VariO:0142	rdfs:label	DNA insertion
+ERROR	multiple_labels	VariO:0142	rdfs:label	nucleotide insertion
+ERROR	multiple_labels	VariO:0215	rdfs:label	chromosome set number variation
+ERROR	multiple_labels	VariO:0215	rdfs:label	euploidy
+ERROR	multiple_labels	VariO:0449	rdfs:label	eccDNA
+ERROR	multiple_labels	VariO:0449	rdfs:label	extrachromosomal circular DNA
+ERROR	multiple_labels	VariO:0466	rdfs:label	retrotransposon RNA intermediate@en
+ERROR	multiple_labels	VariO:0466	rdfs:label	transposon via RNA intermediate
