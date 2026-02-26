@@ -32,7 +32,7 @@ ontologies:
   #registry: "https://raw.githubusercontent.com/OBOFoundry/OBOFoundry.github.io/master/registry/ontologies.yml"
   custom:
     - id: cmeo
-      mirror_from: https://raw.githubusercontent.com/komi786/cmeo/main/cmeo-core.owl
+      mirror_from: https://raw.githubusercontent.com/komi786/cmeo/main/cmeo.owl
       title: "Clinical Metadata Exploration Ontology"
       contact:
         email: komalsyeda29@gmail.com
@@ -65,23 +65,6 @@ ontologies:
       license:
         url: https://creativecommons.org/licenses/by/4.0/
         label: CC BY 4.0
-    - id: euph
-      mirror_from: https://gitlab.com/bee-life/controlled-vocabulary/-/raw/main/EUPH.owl
-      title: "Pollinator Ontology"
-      contact:
-        email: susanj@bee-life.eu
-        label: Gregor Sušanj
-        orcid: 0009-0000-6519-9709
-        github: gsusanj
-      description: A controlled vocabulary for pollinator related data maintained by Bee-life under the guidance of EFSA.
-      domain: environment
-      homepage: https://gitlab.com/bee-life/controlled-vocabulary
-      products:
-        - id: euph.owl
-      tracker: https://gitlab.com/bee-life/controlled-vocabulary/-/issues
-      license:
-        url: https://creativecommons.org/licenses/by/4.0/
-        label: CC BY 4.0
     - id: prefer
       mirror_from: https://github.com/Multiomics-Analytics-Group/prefer_ontology/releases/download/v2025-12-22/prefer.owl
       title: "Precision Fermentation Ontology"
@@ -99,6 +82,23 @@ ontologies:
       license:
         url: https://creativecommons.org/licenses/by/4.0/
         label: CC BY 4.0
+    - id: vario
+      mirror_from: https://variationontology.org/UberVariO/UberVariO100.xml
+      title: "Ontology of biological heterogeneity"
+      contact:
+        email: mauno.vihinen@med.lu.se
+        label: Mauno Vihinen
+        orcid: 0000-0002-9614-7976
+        github: mvihinen
+      description: UberVariO is an ontology for the standardised, systematic description of pervasive heterogeneity throughout biological entities. It facilitates the systematic characterisation of the various types, effects, consequences, mechanisms, regulatory and limiting factors, and other properties of heterogeneity.
+      domain: biochemistry
+      homepage: https://variationontology.org/UberVariO
+      products:
+        - id: prefer.owl
+      tracker: https://variationontology.org/UberVariO
+      license:
+        url:  https://creativecommons.org/publicdomain/zero/1.0/
+        label: CC0 1.0
 prefer_base: True
 profile:
   baseprofile: "https://raw.githubusercontent.com/ontodev/robot/master/robot-core/src/main/resources/report_profile.txt"
