@@ -1,5 +1,5 @@
 <head>
-  <title>OBO Dashboard: New Ontology Requests (2026-02-26)</title>
+  <title>OBO Dashboard: New Ontology Requests (2026-03-13)</title>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
   <style>
 body {
@@ -38,9 +38,9 @@ $(function () {
 </script>
 </head>
 <body>
-  <h1>OBO Dashboard: New Ontology Requests (2026-02-26)</h1>
+  <h1>OBO Dashboard: New Ontology Requests (2026-03-13)</h1>
   <h4>Dashboard for checking new ontology requests to the OBO Foundry. Under construction. <a href="about.html">Learn More!</a></h4>
-  <p>Created with <a href="http://robot.obolibrary.org/">ROBOT version 1.9.8</a> and <a href="https://github.com/OBOFoundry/OBO-Dashboard/commit/00870c98e2aa2be790407d728d1733c9797bcd31">OBO Metadata Schema</a>.</p>
+  <p>Created with <a href="http://robot.obolibrary.org/">ROBOT version 1.9.8</a> and <a href="https://github.com/OBOFoundry/OBO-Dashboard/commit/4b2a81becb599f4c526c069fbf277023d004c173">OBO Metadata Schema</a>.</p>
   <p>A very basic analysis of the results can be found <a href="analysis.html">here</a>.</p>
   <table class="table table-borderless">
     <thead>
@@ -528,7 +528,7 @@ $(function () {
         </tr>
     
         <tr>
-            <td><b><a href="vario/dashboard.html">vario</a></b></td>
+            <td><b><a href="vvo/dashboard.html">vvo</a></b></td>
             
             
             
@@ -538,7 +538,7 @@ $(function () {
                         
                         
                     
-                    <td class="check table-danger"><img src="assets/x.svg" height="15px" data-toggle="tooltip" data-html="true" data-placement="right" title="Missing ontology license."></td>
+                    <td class="check table-danger"><img src="assets/x.svg" height="15px" data-toggle="tooltip" data-html="true" data-placement="right" title="License should use property 'http://purl.org/dc/terms/license'. Ontology license 'this ontology is distributed under an attribution 4.0 international (cc by 4.0). the license is: https://creativecommons.org/licenses/by/4.0/. copyright: dr edit hlaszny (2026-)' does not match registry license 'https://creativecommons.org/licenses/by/4.0/'."></td>
                 
             
                 
@@ -547,7 +547,7 @@ $(function () {
                         
                         
                     
-                    <td class="check table-warning"><img src="assets/warning.svg" height="15px" data-toggle="tooltip" data-html="true" data-placement="right" title="OWL syntax (OWL/XML Syntax), but should be RDF/XML"></td>
+                    <td class="check table-success"><img src="assets/check.svg" height="15px"></td>
                 
             
                 
@@ -556,7 +556,7 @@ $(function () {
                         
                         
                     
-                    <td class="check table-danger"><img src="assets/x.svg" height="15px" data-toggle="tooltip" data-html="true" data-placement="right" title="0 invalid IRIs. The Ontology IRI is not valid."></td>
+                    <td class="check table-success"><img src="assets/check.svg" height="15px"></td>
                 
             
                 
@@ -565,7 +565,7 @@ $(function () {
                         
                         
                     
-                    <td class="check table-danger"><img src="assets/x.svg" height="15px" data-toggle="tooltip" data-html="true" data-placement="right" title="Missing version IRI"></td>
+                    <td class="check table-danger"><img src="assets/x.svg" height="15px" data-toggle="tooltip" data-html="true" data-placement="right" title="Version IRI does not resolve"></td>
                 
             
                 
@@ -628,7 +628,7 @@ $(function () {
                         
                         
                     
-                    <td class="check table-danger"><img src="assets/x.svg" height="15px" data-toggle="tooltip" data-html="true" data-placement="right" title="10 multiple labels. See ROBOT Report for details."></td>
+                    <td class="check table-success"><img src="assets/check.svg" height="15px"></td>
                 
             
                 
@@ -637,7 +637,7 @@ $(function () {
                         
                         
                     
-                    <td class="check table-danger"><img src="assets/x.svg" height="15px" data-toggle="tooltip" data-html="true" data-placement="right" title="Missing version IRI to check date"></td>
+                    <td class="check table-info"><img src="assets/info.svg" height="15px" data-toggle="tooltip" data-html="true" data-placement="right" title="Version IRI does not have date information"></td>
                 
             
                 
@@ -655,7 +655,7 @@ $(function () {
                         
                         
                     
-                    <td class="check table-danger"><img src="assets/x.svg" height="15px" data-toggle="tooltip" data-html="true" data-placement="right" title="10 errors, 0 warnings, 0 info messages."></td>
+                    <td class="check table-danger"><img src="assets/x.svg" height="15px" data-toggle="tooltip" data-html="true" data-placement="right" title="1 errors, 0 warnings, 0 info messages."></td>
                 
             
             
