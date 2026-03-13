@@ -82,23 +82,23 @@ ontologies:
       license:
         url: https://creativecommons.org/licenses/by/4.0/
         label: CC BY 4.0
-    - id: vario
-      mirror_from: https://variationontology.org/UberVariO/UberVariO100.xml
-      title: "Ontology of biological heterogeneity"
+    - id: vvo
+      mirror_from: https://raw.githubusercontent.com/edithlaszny/vvo/main/vvo.owl
+      title: "Vitis Vinifera Ontology"
       contact:
-        email: mauno.vihinen@med.lu.se
-        label: Mauno Vihinen
-        orcid: 0000-0002-9614-7976
-        github: mvihinen
-      description: UberVariO is an ontology for the standardised, systematic description of pervasive heterogeneity throughout biological entities. It facilitates the systematic characterisation of the various types, effects, consequences, mechanisms, regulatory and limiting factors, and other properties of heterogeneity.
-      domain: biochemistry
-      homepage: https://variationontology.org/UberVariO
+        email: edithlaszny@gmail.com
+        label: Dr Edit Hlaszny PhD
+        orcid: 0009-0005-6549-9839
+        github: edithlaszny
+      description: A BFO 2020-aligned ontology formally describing the morphological structures, phenological development stages, quality parameters, dispositions, roles, and information entities of Vitis vinifera L., the common grapevine.
+      domain: agriculture
+      homepage: https://github.com/edithlaszny/vvo
       products:
         - id: prefer.owl
-      tracker: https://variationontology.org/UberVariO
+      tracker: https://github.com/edithlaszny/vvo/issues
       license:
-        url:  https://creativecommons.org/publicdomain/zero/1.0/
-        label: CC0 1.0
+        url: https://creativecommons.org/licenses/by/4.0/
+        label: CC BY 4.0
 prefer_base: True
 profile:
   baseprofile: "https://raw.githubusercontent.com/ontodev/robot/master/robot-core/src/main/resources/report_profile.txt"
