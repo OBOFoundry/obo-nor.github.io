@@ -3,7 +3,7 @@ base_prefixes:
 - VVO
 - VVOALT
 changed: true
-date: 2026-03-13 14:37:55.635142
+date: 2026-03-30 14:25:20.974128
 metrics:
   'Axioms: Breakdown of axiom types':
     AnnotationAssertion: 49255
@@ -25,11 +25,11 @@ metrics:
     ObjectPropertyRange: 24
     Rule: 4
     SubAnnotationPropertyOf: 7
-    SubClassOf: 3683
+    SubClassOf: 3677
     SubObjectPropertyOf: 26
     SubPropertyChainOf: 2
     TransitiveObjectProperty: 4
-  'Axioms: Number of axioms': 57877
+  'Axioms: Number of axioms': 57871
   'Entities: % of entities reused': 100.0
   'Entities: Number of annotation properties': 74
   'Entities: Number of classes': 3597
@@ -38,7 +38,7 @@ metrics:
   'Entities: Number of object properties': 53
   'Entities: Number of unsatisfiable classes': 0
   'Info: Breakdown of OWL class expressions used':
-    Class: 14435
+    Class: 14423
     DataExactCardinality: 6
     DataMinCardinality: 1
     ObjectAllValuesFrom: 6
@@ -73,7 +73,7 @@ metrics:
     dc: 2
     dc11: 29
     foaf: 4
-    obo: 13320
+    obo: 13308
     oboInOwl: 3362
     owl: 29
     prefix_unknown: 1
@@ -118,14 +118,14 @@ results:
   FP20 Responsiveness:
     status: PASS
   ROBOT Report:
-    comment: 1 errors, 0 warnings, 0 info messages.
+    comment: 1 errors, 3057 warnings, 4 info messages.
     file: robot_report
     results:
       ERROR: 1
-      INFO: 0
-      WARN: 0
+      INFO: 4
+      WARN: 3057
     status: ERROR
-sha256_hash: d468afc2c9b01e64b4205d20b0d9e9e0d604d07b61d67d265059484b56dd6956
+sha256_hash: 3a5ed5daca4ce21f2cef47354deffd231d220822a155c284705859479f65ad91
 summary:
   comment: 4 errors
   status: ERROR
@@ -133,4 +133,4 @@ summary:
     ERROR: 4
     INFO: 1
     WARN: 0
-version: http://purl.obolibrary.org/obo/vvo/1-001/vvo.owl
+version: http://purl.obolibrary.org/obo/vvo/2-003/vvo.owl
