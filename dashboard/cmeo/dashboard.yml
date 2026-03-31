@@ -3,13 +3,13 @@ base_prefixes:
 - CMEO
 - CMEOALT
 changed: true
-date: 2026-03-13 14:37:35.514501
+date: 2026-03-30 14:23:43.843630
 metrics:
   'Axioms: Breakdown of axiom types':
     AnnotationAssertion: 3203
     AnnotationPropertyRangeOf: 1
     ClassAssertion: 26
-    Declaration: 569
+    Declaration: 570
     DisjointClasses: 26
     EquivalentClasses: 8
     EquivalentObjectProperties: 2
@@ -21,20 +21,20 @@ metrics:
     ObjectPropertyRange: 23
     Rule: 4
     SubAnnotationPropertyOf: 11
-    SubClassOf: 355
+    SubClassOf: 356
     SubObjectPropertyOf: 28
     SubPropertyChainOf: 3
     TransitiveObjectProperty: 5
-  'Axioms: Number of axioms': 4309
+  'Axioms: Number of axioms': 4311
   'Entities: % of entities reused': 100.0
   'Entities: Number of annotation properties': 94
-  'Entities: Number of classes': 369
+  'Entities: Number of classes': 370
   'Entities: Number of data properties': 1
   'Entities: Number of individuals': 26
   'Entities: Number of object properties': 74
   'Entities: Number of unsatisfiable classes': 0
   'Info: Breakdown of OWL class expressions used':
-    Class: 1242
+    Class: 1245
     DataSomeValuesFrom: 2
     ObjectAllValuesFrom: 4
     ObjectComplementOf: 2
@@ -58,7 +58,7 @@ metrics:
     BFO: 358
     DUO: 66
     GAZ: 2
-    IAO: 2493
+    IAO: 2496
     NCBITaxon: 3
     NCIT: 5
     OBA: 2
@@ -73,12 +73,12 @@ metrics:
     dc: 11
     dc11: 36
     foaf: 2
-    obo: 241
+    obo: 244
     oboInOwl: 78
     owl: 107
     prefix_unknown: 15
     rdf: 1
-    rdfs: 721
+    rdfs: 718
     skos: 4
     xsd: 7
   'Info: Which ontologies use it?': []
@@ -122,7 +122,7 @@ results:
       INFO: 4
       WARN: 9
     status: WARN
-sha256_hash: e152a1124e9ac8738f0e19a78ee768225ca8debab363c4deb9711fe190d14fd5
+sha256_hash: 12437cd97b5861261af967d83744551169a83615603f6efd2efb41953af1c232
 summary:
   comment: 2 errors
   status: ERROR

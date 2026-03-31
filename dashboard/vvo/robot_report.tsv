@@ -1,2 +1,200 @@
 Level	Rule Name	Subject	Property	Value
 ERROR	missing_ontology_license	http://purl.obolibrary.org/obo/vvo.owl	dc:license	
+WARN	duplicate_exact_synonym	obo:VVO_0000032	IAO:0000118	Äpfelsäure-Abbau@de
+WARN	duplicate_exact_synonym	obo:VVO_0001645	IAO:0000118	Äpfelsäure-Abbau@de
+WARN	duplicate_exact_synonym	obo:VVO_0001655	IAO:0000118	Äpfelsäure-Abbau@de
+WARN	duplicate_exact_synonym	obo:VVO_0000852	IAO:0000118	Zygoten-Spaltung@de
+WARN	duplicate_exact_synonym	obo:VVO_0003332	IAO:0000118	Zygoten-Spaltung@de
+WARN	duplicate_exact_synonym	obo:VVO_0000825	IAO:0000118	zygote formation@en
+WARN	duplicate_exact_synonym	obo:VVO_0000945	IAO:0000118	zygote formation@en
+WARN	duplicate_exact_synonym	obo:VVO_0000852	IAO:0000118	zygote cleavage@en
+WARN	duplicate_exact_synonym	obo:VVO_0003332	IAO:0000118	zygote cleavage@en
+WARN	duplicate_exact_synonym	obo:VVO_0000180	IAO:0000118	Zulassungsdatum@de
+WARN	duplicate_exact_synonym	obo:VVO_0000468	IAO:0000118	Zulassungsdatum@de
+WARN	duplicate_exact_synonym	obo:VVO_0002848	IAO:0000118	Zuckergehalt@de
+WARN	duplicate_exact_synonym	obo:VVO_0002852	IAO:0000118	Zuckergehalt@de
+WARN	duplicate_exact_synonym	obo:VVO_0000350	IAO:0000118	Zucker-Säure-Verhältnis@de
+WARN	duplicate_exact_synonym	obo:VVO_0002846	IAO:0000118	Zucker-Säure-Verhältnis@de
+WARN	duplicate_exact_synonym	obo:VVO_0002878	IAO:0000118	Zucker-Säure-Verhältnis@de
+WARN	duplicate_exact_synonym	obo:VVO_0002845	IAO:0000118	Zucker-Säure-Gleichgewicht@de
+WARN	duplicate_exact_synonym	obo:VVO_0002878	IAO:0000118	Zucker-Säure-Gleichgewicht@de
+WARN	duplicate_exact_synonym	obo:VVO_0000344	IAO:0000118	Zuchtselektion@de
+WARN	duplicate_exact_synonym	obo:VVO_0002606	IAO:0000118	Zuchtselektion@de
+WARN	duplicate_exact_synonym	obo:VVO_0003329	IAO:0000118	Zn-Akquisition@de
+WARN	duplicate_exact_synonym	obo:VVO_0003330	IAO:0000118	Zn-Akquisition@de
+WARN	duplicate_exact_synonym	obo:VVO_0000500	IAO:0000118	Zitronensäurekonzentration@de
+WARN	duplicate_exact_synonym	obo:VVO_0000501	IAO:0000118	Zitronensäurekonzentration@de
+WARN	duplicate_exact_synonym	obo:VVO_0003329	IAO:0000118	zinc acquisition@en
+WARN	duplicate_exact_synonym	obo:VVO_0003330	IAO:0000118	zinc acquisition@en
+WARN	duplicate_exact_synonym	obo:VVO_0000448	IAO:0000118	Zellzahl-Etablierung@de
+WARN	duplicate_exact_synonym	obo:VVO_0000794	IAO:0000118	Zellzahl-Etablierung@de
+WARN	duplicate_exact_synonym	obo:VVO_0000445	IAO:0000118	Zellvermehrungs-Beere@de
+WARN	duplicate_exact_synonym	obo:VVO_0001382	IAO:0000118	Zellvermehrungs-Beere@de
+WARN	duplicate_exact_synonym	obo:VVO_0000451	IAO:0000118	Zellturgor@de
+WARN	duplicate_exact_synonym	obo:VVO_0003075	IAO:0000118	Zellturgor@de
+WARN	duplicate_exact_synonym	obo:VVO_0000725	IAO:0000118	yield tolerance@en
+WARN	duplicate_exact_synonym	obo:VVO_0003308	IAO:0000118	yield tolerance@en
+WARN	duplicate_exact_synonym	obo:VVO_0003306	IAO:0000118	yield reliability@en
+WARN	duplicate_exact_synonym	obo:VVO_0003314	IAO:0000118	yield reliability@en
+WARN	duplicate_exact_synonym	obo:VVO_0002796	IAO:0000118	Xylemleitfähigkeit@de
+WARN	duplicate_exact_synonym	obo:VVO_0003236	IAO:0000118	Xylemleitfähigkeit@de
+WARN	duplicate_exact_synonym	obo:VVO_0000847	IAO:0000118	xylem recovery@en
+WARN	duplicate_exact_synonym	obo:VVO_0000848	IAO:0000118	xylem recovery@en
+WARN	duplicate_exact_synonym	obo:VVO_0001318	IAO:0000118	xylem recovery@en
+WARN	duplicate_exact_synonym	obo:VVO_0002459	IAO:0000118	Wurzel-Leitfähigkeit@de
+WARN	duplicate_exact_synonym	obo:VVO_0002460	IAO:0000118	Wurzel-Leitfähigkeit@de
+WARN	duplicate_exact_synonym	obo:VVO_0000395	IAO:0000118	Wundheilungs-Gewebe@de
+WARN	duplicate_exact_synonym	obo:VVO_0000396	IAO:0000118	Wundheilungs-Gewebe@de
+WARN	duplicate_exact_synonym	obo:VVO_0003049	IAO:0000118	WUE@de
+WARN	duplicate_exact_synonym	obo:VVO_0003238	IAO:0000118	WUE@de
+WARN	duplicate_exact_synonym	obo:VVO_0001412	IAO:0000118	wood formation@en
+WARN	duplicate_exact_synonym	obo:VVO_0002653	IAO:0000118	wood formation@en
+WARN	duplicate_exact_synonym	obo:VVO_0000746	IAO:0000118	Winterruhe@de
+WARN	duplicate_exact_synonym	obo:VVO_0000752	IAO:0000118	Winterruhe@de
+WARN	duplicate_exact_synonym	obo:VVO_0000865	IAO:0000118	Winterruhe@de
+WARN	duplicate_exact_synonym	obo:VVO_0000746	IAO:0000118	winter rest@en
+WARN	duplicate_exact_synonym	obo:VVO_0000865	IAO:0000118	winter rest@en
+WARN	duplicate_exact_synonym	obo:VVO_0000548	IAO:0000118	winter injury recovery@en
+WARN	duplicate_exact_synonym	obo:VVO_0000549	IAO:0000118	winter injury recovery@en
+WARN	duplicate_exact_synonym	obo:VVO_0000546	IAO:0000118	winter hardiness@en
+WARN	duplicate_exact_synonym	obo:VVO_0000551	IAO:0000118	winter hardiness@en
+WARN	duplicate_exact_synonym	obo:VVO_0000552	IAO:0000118	wine color@en
+WARN	duplicate_exact_synonym	obo:VVO_0000555	IAO:0000118	wine color@en
+WARN	duplicate_exact_synonym	obo:VVO_0000504	IAO:0000118	wine clarity@en
+WARN	duplicate_exact_synonym	obo:VVO_0000505	IAO:0000118	wine clarity@en
+WARN	duplicate_exact_synonym	obo:VVO_0003201	IAO:0000118	wine appearance@en
+WARN	duplicate_exact_synonym	obo:VVO_0003202	IAO:0000118	wine appearance@en
+WARN	duplicate_exact_synonym	obo:VVO_0003277	IAO:0000118	Weintypbeschreibung@de
+WARN	duplicate_exact_synonym	obo:VVO_0003278	IAO:0000118	Weintypbeschreibung@de
+WARN	duplicate_exact_synonym	obo:VVO_0002915	IAO:0000118	Weinsäuregehalt@de
+WARN	duplicate_exact_synonym	obo:VVO_0002916	IAO:0000118	Weinsäuregehalt@de
+WARN	duplicate_exact_synonym	obo:VVO_0003277	IAO:0000118	Weinproduktbeschreibung@de
+WARN	duplicate_exact_synonym	obo:VVO_0003278	IAO:0000118	Weinproduktbeschreibung@de
+WARN	duplicate_exact_synonym	obo:VVO_0000318	IAO:0000118	Weingewicht@de
+WARN	duplicate_exact_synonym	obo:VVO_0000319	IAO:0000118	Weingewicht@de
+WARN	duplicate_exact_synonym	obo:VVO_0000552	IAO:0000118	Weinfarbe@de
+WARN	duplicate_exact_synonym	obo:VVO_0000555	IAO:0000118	Weinfarbe@de
+WARN	duplicate_exact_synonym	obo:VVO_0002330	IAO:0000118	Weinbewertung@de
+WARN	duplicate_exact_synonym	obo:VVO_0003275	IAO:0000118	Weinbewertung@de
+WARN	duplicate_exact_synonym	obo:VVO_0000599	IAO:0000118	weather-dependent dormancy@en
+WARN	duplicate_exact_synonym	obo:VVO_0003250	IAO:0000118	weather-dependent dormancy@en
+WARN	duplicate_exact_synonym	obo:VVO_0002398	IAO:0000118	water status recovery@en
+WARN	duplicate_exact_synonym	obo:VVO_0002399	IAO:0000118	water status recovery@en
+WARN	duplicate_exact_synonym	obo:VVO_0000133	IAO:0000118	water channel activity@en
+WARN	duplicate_exact_synonym	obo:VVO_0000134	IAO:0000118	water channel activity@en
+WARN	duplicate_exact_synonym	obo:VVO_0003047	IAO:0000118	Wasserverlust@de
+WARN	duplicate_exact_synonym	obo:VVO_0003050	IAO:0000118	Wasserverlust@de
+WARN	duplicate_exact_synonym	obo:VVO_0002092	IAO:0000118	Wasserstoffionenkonzentration@de
+WARN	duplicate_exact_synonym	obo:VVO_0002093	IAO:0000118	Wasserstoffionenkonzentration@de
+WARN	duplicate_exact_synonym	obo:VVO_0003049	IAO:0000118	Wassernutzungseffizienz@de
+WARN	duplicate_exact_synonym	obo:VVO_0003238	IAO:0000118	Wassernutzungseffizienz@de
+WARN	duplicate_exact_synonym	obo:VVO_0000717	IAO:0000118	Wachstumsstadium@de
+WARN	duplicate_exact_synonym	obo:VVO_0002102	IAO:0000118	Wachstumsstadium@de
+WARN	duplicate_exact_synonym	obo:VVO_0000046	IAO:0000118	Wachstumsreaktivierung@de
+WARN	duplicate_exact_synonym	obo:VVO_0002188	IAO:0000118	Wachstumsreaktivierung@de
+WARN	duplicate_exact_synonym	obo:VVO_0000759	IAO:0000118	Wachstumskompetenz-Wiederherstellung@de
+WARN	duplicate_exact_synonym	obo:VVO_0001192	IAO:0000118	Wachstumskompetenz-Wiederherstellung@de
+WARN	duplicate_exact_synonym	obo:VVO_0000914	IAO:0000118	Wachstums-Dezeleration@de
+WARN	duplicate_exact_synonym	obo:VVO_0001193	IAO:0000118	Wachstums-Dezeleration@de
+WARN	duplicate_exact_synonym	obo:VVO_0000315	IAO:0000118	Wachsschicht@de
+WARN	duplicate_exact_synonym	obo:VVO_0000653	IAO:0000118	Wachsschicht@de
+WARN	duplicate_exact_synonym	obo:VVO_0001084	IAO:0000118	vollreife Beere@de
+WARN	duplicate_exact_synonym	obo:VVO_0001680	IAO:0000118	Vollreife Beere@de
+WARN	duplicate_exact_synonym	obo:VVO_0001165	IAO:0000118	viticultural role@en
+WARN	duplicate_exact_synonym	obo:VVO_0003185	IAO:0000118	viticultural role@en
+WARN	duplicate_exact_synonym	obo:VVO_0003201	IAO:0000118	visual assessment@en
+WARN	duplicate_exact_synonym	obo:VVO_0003202	IAO:0000118	visual assessment@en
+WARN	duplicate_exact_synonym	obo:VVO_0003162	IAO:0000118	vine vigor assessment@en
+WARN	duplicate_exact_synonym	obo:VVO_0003163	IAO:0000118	vine vigor assessment@en
+WARN	duplicate_exact_synonym	obo:VVO_0001495	IAO:0000118	vestigial petiole@en
+WARN	duplicate_exact_synonym	obo:VVO_0002556	IAO:0000118	vestigial petiole@en
+WARN	duplicate_exact_synonym	obo:VVO_0000695	IAO:0000118	verzögerte Inkompatibilität@de
+WARN	duplicate_exact_synonym	obo:VVO_0000697	IAO:0000118	Verzögerte Inkompatibilität@de
+WARN	duplicate_exact_synonym	obo:VVO_0001781	IAO:0000118	Verrieselung@de
+WARN	duplicate_exact_synonym	obo:VVO_0002639	IAO:0000118	Verrieselung@de
+WARN	duplicate_exact_synonym	obo:VVO_0000572	IAO:0000118	Vermarktungsbezeichnung@de
+WARN	duplicate_exact_synonym	obo:VVO_0001669	IAO:0000118	Vermarktungsbezeichnung@de
+WARN	duplicate_exact_synonym	obo:VVO_0001379	IAO:0000118	Vergrößerungs-Initiierung@de
+WARN	duplicate_exact_synonym	obo:VVO_0003041	IAO:0000118	Vergrößerungs-Initiierung@de
+WARN	duplicate_exact_synonym	obo:VVO_0001151	IAO:0000118	Veredelte Rebe@de
+WARN	duplicate_exact_synonym	obo:VVO_0001152	IAO:0000118	veredelte Rebe@de
+WARN	duplicate_exact_synonym	obo:VVO_0001960	IAO:0000118	Verbreitungsgeschichte@de
+WARN	duplicate_exact_synonym	obo:VVO_0002770	IAO:0000118	Verbreitungsgeschichte@de
+WARN	duplicate_exact_synonym	obo:VVO_0000912	IAO:0000118	veraison berry@en
+WARN	duplicate_exact_synonym	obo:VVO_0001768	IAO:0000118	veraison berry@en
+WARN	duplicate_exact_synonym	obo:VVO_0003164	IAO:0000118	vegetative vigor@en
+WARN	duplicate_exact_synonym	obo:VVO_0003169	IAO:0000118	vegetative vigor@en
+WARN	duplicate_exact_synonym	obo:VVO_0003134	IAO:0000118	vegetative growth intensity@en
+WARN	duplicate_exact_synonym	obo:VVO_0003163	IAO:0000118	vegetative growth intensity@en
+WARN	duplicate_exact_synonym	obo:VVO_0001442	IAO:0000118	VCR clone@en
+WARN	duplicate_exact_synonym	obo:VVO_0002358	IAO:0000118	VCR clone@en
+WARN	duplicate_exact_synonym	obo:VVO_0003083	IAO:0000118	varietal typicity@en
+WARN	duplicate_exact_synonym	obo:VVO_0003122	IAO:0000118	varietal typicity@en
+WARN	duplicate_exact_synonym	obo:VVO_0002996	IAO:0000118	varietal thiol precursor content@en
+WARN	duplicate_exact_synonym	obo:VVO_0002997	IAO:0000118	varietal thiol precursor content@en
+WARN	duplicate_exact_synonym	obo:VVO_0000506	IAO:0000118	varietal classification@en
+WARN	duplicate_exact_synonym	obo:VVO_0003123	IAO:0000118	varietal classification@en
+WARN	duplicate_exact_synonym	obo:VVO_0002236	IAO:0000118	varietal aroma@en
+WARN	duplicate_exact_synonym	obo:VVO_0002237	IAO:0000118	varietal aroma@en
+WARN	duplicate_exact_synonym	obo:VVO_0000013	IAO:0000118	Uptake-specialized root@en
+WARN	duplicate_exact_synonym	obo:VVO_0000015	IAO:0000118	Uptake-specialized root@en
+WARN	duplicate_exact_synonym	obo:VVO_0003097	IAO:0000118	unilateral cordon@en
+WARN	duplicate_exact_synonym	obo:VVO_0003098	IAO:0000118	unilateral cordon@en
+WARN	duplicate_exact_synonym	obo:VVO_0002800	IAO:0000118	unfruchtbarer Trieb@de
+WARN	duplicate_exact_synonym	obo:VVO_0003136	IAO:0000118	unfruchtbarer Trieb@de
+WARN	duplicate_exact_synonym	obo:VVO_0000817	IAO:0000118	Umweltdormanz@de
+WARN	duplicate_exact_synonym	obo:VVO_0000819	IAO:0000118	Umweltdormanz@de
+WARN	duplicate_exact_synonym	obo:VVO_0000961	IAO:0000118	ultimate veinlet@en
+WARN	duplicate_exact_synonym	obo:VVO_0002966	IAO:0000118	ultimate veinlet@en
+WARN	duplicate_exact_synonym	obo:VVO_0003061	IAO:0000118	trunk sucker@en
+WARN	duplicate_exact_synonym	obo:VVO_0003069	IAO:0000118	trunk sucker@en
+WARN	duplicate_exact_synonym	obo:VVO_0003234	IAO:0000118	trunk sucker@en
+WARN	duplicate_exact_synonym	obo:VVO_0002644	IAO:0000118	Triebwachstumsrate@de
+WARN	duplicate_exact_synonym	obo:VVO_0002649	IAO:0000118	Triebwachstumsrate@de
+WARN	duplicate_exact_synonym	obo:VVO_0000043	IAO:0000118	Triebstreckung@de
+WARN	duplicate_exact_synonym	obo:VVO_0002645	IAO:0000118	Triebstreckung@de
+WARN	duplicate_exact_synonym	obo:VVO_0002648	IAO:0000118	Triebstreckung@de
+WARN	duplicate_exact_synonym	obo:VVO_0002652	IAO:0000118	Triebstreckung@de
+WARN	duplicate_exact_synonym	obo:VVO_0000407	IAO:0000118	Triebausreifung@de
+WARN	duplicate_exact_synonym	obo:VVO_0001412	IAO:0000118	Triebausreifung@de
+WARN	duplicate_exact_synonym	obo:VVO_0001561	IAO:0000118	Triebausreifung@de
+WARN	duplicate_exact_synonym	obo:VVO_0002653	IAO:0000118	Triebausreifung@de
+WARN	duplicate_exact_synonym	obo:VVO_0000281	IAO:0000118	Traubentemperatur@de
+WARN	duplicate_exact_synonym	obo:VVO_0001065	IAO:0000118	Traubentemperatur@de
+WARN	duplicate_exact_synonym	obo:VVO_0000521	IAO:0000118	Traubenstruktur@de
+WARN	duplicate_exact_synonym	obo:VVO_0000529	IAO:0000118	Traubenstruktur@de
+WARN	duplicate_exact_synonym	obo:VVO_0001164	IAO:0000118	Traubenqualität@de
+WARN	duplicate_exact_synonym	obo:VVO_0002329	IAO:0000118	Traubenqualität@de
+WARN	duplicate_exact_synonym	obo:VVO_0000532	IAO:0000118	Traubengröße@de
+WARN	duplicate_exact_synonym	obo:VVO_0000535	IAO:0000118	Traubengröße@de
+WARN	duplicate_exact_synonym	obo:VVO_0000532	IAO:0000118	Traubengewicht@de
+WARN	duplicate_exact_synonym	obo:VVO_0000536	IAO:0000118	Traubengewicht@de
+WARN	duplicate_exact_synonym	obo:VVO_0000523	IAO:0000118	Traubendichte@de
+WARN	duplicate_exact_synonym	obo:VVO_0000529	IAO:0000118	Traubendichte@de
+WARN	duplicate_exact_synonym	obo:VVO_0001764	IAO:0000118	trace element uptake@en
+WARN	duplicate_exact_synonym	obo:VVO_0001765	IAO:0000118	trace element uptake@en
+WARN	duplicate_exact_synonym	obo:VVO_0003023	IAO:0000118	total polyphenols@en
+WARN	duplicate_exact_synonym	obo:VVO_0003024	IAO:0000118	total polyphenols@en
+WARN	duplicate_exact_synonym	obo:VVO_0003023	IAO:0000118	total phenolic index@en
+WARN	duplicate_exact_synonym	obo:VVO_0003024	IAO:0000118	total phenolic index@en
+WARN	duplicate_exact_synonym	obo:VVO_0003017	IAO:0000118	titrierbare Säure@de
+WARN	duplicate_exact_synonym	obo:VVO_0003020	IAO:0000118	titrierbare Säure@de
+WARN	duplicate_exact_synonym	obo:VVO_0000575	IAO:0000118	tight flower bunch@en
+WARN	duplicate_exact_synonym	obo:VVO_0003006	IAO:0000118	tight flower bunch@en
+WARN	duplicate_exact_synonym	obo:VVO_0002132	IAO:0000118	textural property@en
+WARN	duplicate_exact_synonym	obo:VVO_0002985	IAO:0000118	textural property@en
+WARN	duplicate_exact_synonym	obo:VVO_0002968	IAO:0000118	Terpengehalt@de
+WARN	duplicate_exact_synonym	obo:VVO_0002971	IAO:0000118	Terpengehalt@de
+WARN	duplicate_exact_synonym	obo:VVO_0002947	IAO:0000118	tendril development@en
+WARN	duplicate_exact_synonym	obo:VVO_0002955	IAO:0000118	tendril development@en
+WARN	duplicate_exact_synonym	obo:VVO_0000817	IAO:0000118	temperature-limited dormancy@en
+WARN	duplicate_exact_synonym	obo:VVO_0000819	IAO:0000118	temperature-limited dormancy@en
+WARN	duplicate_exact_synonym	obo:VVO_0002915	IAO:0000118	tartrate content@en
+WARN	duplicate_exact_synonym	obo:VVO_0002916	IAO:0000118	tartrate content@en
+WARN	duplicate_exact_synonym	obo:VVO_0002903	IAO:0000118	Tanninqualität@de
+WARN	duplicate_exact_synonym	obo:VVO_0002911	IAO:0000118	Tanninqualität@de
+WARN	duplicate_exact_synonym	obo:VVO_0002904	IAO:0000118	Tanninextrahierbarkeit@de
+WARN	duplicate_exact_synonym	obo:VVO_0002905	IAO:0000118	Tanninextrahierbarkeit@de
+WARN	duplicate_exact_synonym	obo:VVO_0000167	IAO:0000118	tannin texture@en
+WARN	duplicate_exact_synonym	obo:VVO_0002907	IAO:0000118	tannin texture@en
+WARN	duplicate_exact_synonym	obo:VVO_0000170	IAO:0000118	tannin sensation@en

@@ -7,13 +7,13 @@
         "CMEOALT"
       ],
       "changed": true,
-      "date": "2026-03-13T14:37:35.514501",
+      "date": "2026-03-30T14:23:43.843630",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 3203,
           "AnnotationPropertyRangeOf": 1,
           "ClassAssertion": 26,
-          "Declaration": 569,
+          "Declaration": 570,
           "DisjointClasses": 26,
           "EquivalentClasses": 8,
           "EquivalentObjectProperties": 2,
@@ -25,21 +25,21 @@
           "ObjectPropertyRange": 23,
           "Rule": 4,
           "SubAnnotationPropertyOf": 11,
-          "SubClassOf": 355,
+          "SubClassOf": 356,
           "SubObjectPropertyOf": 28,
           "SubPropertyChainOf": 3,
           "TransitiveObjectProperty": 5
         },
-        "Axioms: Number of axioms": 4309,
+        "Axioms: Number of axioms": 4311,
         "Entities: % of entities reused": 100.0,
         "Entities: Number of annotation properties": 94,
-        "Entities: Number of classes": 369,
+        "Entities: Number of classes": 370,
         "Entities: Number of data properties": 1,
         "Entities: Number of individuals": 26,
         "Entities: Number of object properties": 74,
         "Entities: Number of unsatisfiable classes": 0,
         "Info: Breakdown of OWL class expressions used": {
-          "Class": 1242,
+          "Class": 1245,
           "DataSomeValuesFrom": 2,
           "ObjectAllValuesFrom": 4,
           "ObjectComplementOf": 2,
@@ -65,7 +65,7 @@
           "BFO": 358,
           "DUO": 66,
           "GAZ": 2,
-          "IAO": 2493,
+          "IAO": 2496,
           "NCBITaxon": 3,
           "NCIT": 5,
           "OBA": 2,
@@ -80,12 +80,12 @@
           "dc": 11,
           "dc11": 36,
           "foaf": 2,
-          "obo": 241,
+          "obo": 244,
           "oboInOwl": 78,
           "owl": 107,
           "prefix_unknown": 15,
           "rdf": 1,
-          "rdfs": 721,
+          "rdfs": 718,
           "skos": 4,
           "xsd": 7
         },
@@ -147,7 +147,7 @@
           "status": "WARN"
         }
       },
-      "sha256_hash": "e152a1124e9ac8738f0e19a78ee768225ca8debab363c4deb9711fe190d14fd5",
+      "sha256_hash": "12437cd97b5861261af967d83744551169a83615603f6efd2efb41953af1c232",
       "summary": {
         "comment": "2 errors",
         "status": "ERROR",
@@ -166,7 +166,7 @@
         "IDPOALT"
       ],
       "changed": true,
-      "date": "2026-03-13T14:37:42.824345",
+      "date": "2026-03-30T14:23:50.866547",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 981,
@@ -313,7 +313,7 @@
         "PREFERALT"
       ],
       "changed": true,
-      "date": "2026-03-13T14:37:49.831629",
+      "date": "2026-03-30T14:23:58.499370",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 1245,
@@ -462,7 +462,7 @@
         "VVOALT"
       ],
       "changed": true,
-      "date": "2026-03-13T14:37:55.635142",
+      "date": "2026-03-30T14:25:20.974128",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 49255,
@@ -484,12 +484,12 @@
           "ObjectPropertyRange": 24,
           "Rule": 4,
           "SubAnnotationPropertyOf": 7,
-          "SubClassOf": 3683,
+          "SubClassOf": 3677,
           "SubObjectPropertyOf": 26,
           "SubPropertyChainOf": 2,
           "TransitiveObjectProperty": 4
         },
-        "Axioms: Number of axioms": 57877,
+        "Axioms: Number of axioms": 57871,
         "Entities: % of entities reused": 100.0,
         "Entities: Number of annotation properties": 74,
         "Entities: Number of classes": 3597,
@@ -498,7 +498,7 @@
         "Entities: Number of object properties": 53,
         "Entities: Number of unsatisfiable classes": 0,
         "Info: Breakdown of OWL class expressions used": {
-          "Class": 14435,
+          "Class": 14423,
           "DataExactCardinality": 6,
           "DataMinCardinality": 1,
           "ObjectAllValuesFrom": 6,
@@ -535,7 +535,7 @@
           "dc": 2,
           "dc11": 29,
           "foaf": 4,
-          "obo": 13320,
+          "obo": 13308,
           "oboInOwl": 3362,
           "owl": 29,
           "prefix_unknown": 1,
@@ -592,17 +592,17 @@
           "status": "PASS"
         },
         "ROBOT Report": {
-          "comment": "1 errors, 0 warnings, 0 info messages.",
+          "comment": "1 errors, 3057 warnings, 4 info messages.",
           "file": "robot_report",
           "results": {
             "ERROR": 1,
-            "INFO": 0,
-            "WARN": 0
+            "INFO": 4,
+            "WARN": 3057
           },
           "status": "ERROR"
         }
       },
-      "sha256_hash": "d468afc2c9b01e64b4205d20b0d9e9e0d604d07b61d67d265059484b56dd6956",
+      "sha256_hash": "3a5ed5daca4ce21f2cef47354deffd231d220822a155c284705859479f65ad91",
       "summary": {
         "comment": "4 errors",
         "status": "ERROR",
@@ -612,7 +612,7 @@
           "WARN": 0
         }
       },
-      "version": "http://purl.obolibrary.org/obo/vvo/1-001/vvo.owl"
+      "version": "http://purl.obolibrary.org/obo/vvo/2-003/vvo.owl"
     }
   ],
   "oboscore": {
