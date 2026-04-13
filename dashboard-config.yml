@@ -82,20 +82,20 @@ ontologies:
       license:
         url: https://creativecommons.org/licenses/by/4.0/
         label: CC BY 4.0
-    - id: vvo
-      mirror_from: https://raw.githubusercontent.com/edithlaszny/vvo/main/vvo.owl
-      title: "Vitis Vinifera Ontology"
+    - id: emro
+      mirror_from: https://raw.githubusercontent.com/uflcod/emotion-response-ontology/refs/heads/main/emro.owl
+      title: "Emotion Response Ontology"
       contact:
-        email: edithlaszny@gmail.com
-        label: Dr Edit Hlaszny PhD
-        orcid: 0009-0005-6549-9839
-        github: edithlaszny
-      description: A BFO 2020-aligned ontology formally describing the morphological structures, phenological development stages, quality parameters, dispositions, roles, and information entities of Vitis vinifera L., the common grapevine.
-      domain: agriculture
-      homepage: https://github.com/edithlaszny/vvo
+        email: wdduncan@gmail.com
+        label: Bill Duncan
+        orcid: 0000-0001-9625-1899
+        github: wdduncan
+      description: The Emotion Response Ontology represents emotions as behavioral responses to a situation or event, or internal process which evokes positive feelings, negative feelings, or surprise (i.e., emotional experiences).
+      domain: health
+      homepage: https://github.com/uflcod/emotion-response-ontology
       products:
-        - id: prefer.owl
-      tracker: https://github.com/edithlaszny/vvo/issues
+        - id: emro.owl
+      tracker: https://github.com/uflcod/emotion-response-ontology/issues
       license:
         url: https://creativecommons.org/licenses/by/4.0/
         label: CC BY 4.0
