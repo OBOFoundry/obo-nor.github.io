@@ -7,7 +7,7 @@
         "CMEOALT"
       ],
       "changed": true,
-      "date": "2026-04-13T19:02:17.694871",
+      "date": "2026-04-20T14:29:20.348203",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 3203,
@@ -166,67 +166,69 @@
         "EMROALT"
       ],
       "changed": true,
-      "date": "2026-04-13T19:02:35.655183",
+      "date": "2026-04-20T14:29:41.554988",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
-          "AnnotationAssertion": 1199,
+          "AnnotationAssertion": 1360,
           "AnnotationPropertyRangeOf": 1,
-          "Declaration": 207,
+          "Declaration": 219,
           "DifferentIndividuals": 2,
           "EquivalentClasses": 4,
           "FunctionalObjectProperty": 1,
           "InverseFunctionalObjectProperty": 1,
           "InverseObjectProperties": 9,
           "SubAnnotationPropertyOf": 17,
-          "SubClassOf": 92,
+          "SubClassOf": 99,
           "SubObjectPropertyOf": 29,
           "SubPropertyChainOf": 11,
           "SymmetricObjectProperty": 1,
           "TransitiveObjectProperty": 8
         },
-        "Axioms: Number of axioms": 1582,
+        "Axioms: Number of axioms": 1762,
         "Entities: % of entities reused": 100.0,
-        "Entities: Number of annotation properties": 93,
-        "Entities: Number of classes": 64,
+        "Entities: Number of annotation properties": 98,
+        "Entities: Number of classes": 71,
         "Entities: Number of data properties": 0,
         "Entities: Number of individuals": 23,
         "Entities: Number of object properties": 31,
         "Entities: Number of unsatisfiable classes": 0,
         "Info: Breakdown of OWL class expressions used": {
-          "Class": 265,
+          "Class": 286,
           "ObjectIntersectionOf": 4,
           "ObjectSomeValuesFrom": 13,
           "ObjectUnionOf": 1
         },
         "Info: Does the ontology fall under OWL 2 DL?": true,
         "Info: Experimental OBO score": {
-          "_dashboard": 0.727,
+          "_dashboard": 0.793,
           "_formula": "(1*impact+1*dashboard)/2",
           "_impact": 0.0,
           "_impact_external": 0,
           "_reuse": 1.0,
-          "oboscore": 0.363
+          "oboscore": 0.397
         },
         "Info: How many externally documented uses?": 0,
         "Info: How many ontologies use it?": 0,
         "Info: Logical consistency": true,
         "Info: Syntax": "RDF/XML Syntax",
         "Info: Usage of namespaces in axioms": {
-          "BFO": 47,
+          "BFO": 49,
           "COB": 2,
           "GO": 96,
-          "IAO": 518,
+          "IAO": 536,
           "OMO": 29,
           "PATO": 6,
-          "RO": 123,
+          "RO": 133,
+          "UBERON": 19,
           "dc": 172,
           "dc11": 17,
-          "oboInOwl": 286,
+          "obo": 160,
+          "oboInOwl": 429,
           "owl": 1,
-          "prefix_unknown": 163,
+          "prefix_unknown": 9,
           "prov": 1,
-          "rdf": 43,
-          "rdfs": 359,
+          "rdf": 65,
+          "rdfs": 373,
           "skos": 3,
           "xsd": 1
         },
@@ -242,9 +244,7 @@
           "status": "PASS"
         },
         "FP03 URIs": {
-          "comment": "0 invalid IRIs. The Ontology IRI is not valid.",
-          "file": "fp3",
-          "status": "ERROR"
+          "status": "PASS"
         },
         "FP04 Versioning": {
           "comment": "Version IRI does not resolve",
@@ -273,27 +273,33 @@
           "status": "PASS"
         },
         "FP16 Maintenance": {
-          "comment": "Version IRI does not have date information",
-          "status": "INFO"
+          "status": "PASS"
         },
         "FP20 Responsiveness": {
           "status": "PASS"
         },
         "ROBOT Report": {
-          "status": "PASS"
+          "comment": "2 info messages.",
+          "file": "robot_report",
+          "results": {
+            "ERROR": 0,
+            "INFO": 2,
+            "WARN": 0
+          },
+          "status": "INFO"
         }
       },
-      "sha256_hash": "85daf6c0a2d97f19c569e7cab7c8436fc28cadca04676643fc0132aaf328c9be",
+      "sha256_hash": "9c0ca2f6606ab900c668a8ab4e2c6ede230e5370ccc6b23c17b40f97a22093b2",
       "summary": {
-        "comment": "3 errors",
+        "comment": "2 errors",
         "status": "ERROR",
         "summary_count": {
-          "ERROR": 3,
+          "ERROR": 2,
           "INFO": 1,
           "WARN": 0
         }
       },
-      "version": "http://purl.bioontology.org/ontology/emro/releases/2026-04-13/emro.owl"
+      "version": "http://purl.obolibrary.org/obo/emro/releases/2026-04-15/emro.owl"
     },
     {
       "base_generated": true,
@@ -302,7 +308,7 @@
         "IDPOALT"
       ],
       "changed": true,
-      "date": "2026-04-13T19:02:24.690020",
+      "date": "2026-04-20T14:29:27.916970",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 981,
@@ -449,7 +455,7 @@
         "PREFERALT"
       ],
       "changed": true,
-      "date": "2026-04-13T19:02:31.930579",
+      "date": "2026-04-20T14:29:35.030426",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 1245,
