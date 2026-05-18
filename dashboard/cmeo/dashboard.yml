@@ -3,7 +3,7 @@ base_prefixes:
 - CMEO
 - CMEOALT
 changed: true
-date: 2026-05-11 15:52:29.016643
+date: 2026-05-18 16:18:22.351463
 metrics:
   'Axioms: Breakdown of axiom types':
     AnnotationAssertion: 3203
