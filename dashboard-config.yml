@@ -65,23 +65,23 @@ ontologies:
       license:
         url: https://creativecommons.org/licenses/by/4.0/
         label: CC BY 4.0
-    - id: prefer
-      mirror_from: https://github.com/Multiomics-Analytics-Group/prefer_ontology/releases/download/v2025-12-22/prefer.owl
-      title: "Precision Fermentation Ontology"
+    - id: pain
+      mirror_from: https://raw.githubusercontent.com/uflcod/pain-ontology/refs/heads/main/pain.owl
+      title: "The Pain Ontology"
       contact:
-        email: txellmgsol@gmail.com
-        label: Txell Amigó
-        orcid: 0009-0009-0018-4253
-        github: txellext
-      description: PREFER is an ontology designed to integrate high-throughput bioprocess data, covering operational, environmental and process parameters across different scales of a precision fermentation process, to accelerate the development and scaling of biosustainable production processes.
-      domain: investigations
-      homepage: https://github.com/Multiomics-Analytics-Group/prefer_ontology
+        email: wdduncan@gmail.com
+        label: Bill Duncan
+        orcid: 0000-0001-9625-1899
+        github: wdduncan
+      description: The Pain Ontology contains terms for representing pain aligned with the International Association For the Study of Pain (IASP).
+      domain: health
+      homepage: https://bioportal.bioontology.org/ontologies/PAIN
       products:
-        - id: prefer.owl
-      tracker: https://github.com/Multiomics-Analytics-Group/prefer_ontology/issues
+        - id: pain.owl
+      tracker: https://github.com/uflcod/pain-ontology/issues
       license:
-        url: https://creativecommons.org/licenses/by/4.0/
-        label: CC BY 4.0
+        url: https://creativecommons.org/publicdomain/zero/1.0/
+        label: CC0
     - id: emro
       mirror_from: https://raw.githubusercontent.com/uflcod/emotion-response-ontology/refs/heads/main/emro.owl
       title: "Emotion Response Ontology"
