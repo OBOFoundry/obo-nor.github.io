@@ -1,1 +1,3 @@
 Level	Rule Name	Subject	Property	Value
+INFO	lowercase_definition	obo:EMRO_0000020	IAO:0000115	psychophysiological response to emotion that is part of a fear process.
+INFO	lowercase_definition	obo:EMRO_0000021	IAO:0000115	psychophysiological response to emotion that is part of an anxiety process.
