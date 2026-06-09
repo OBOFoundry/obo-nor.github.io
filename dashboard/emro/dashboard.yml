@@ -3,12 +3,12 @@ base_prefixes:
 - EMRO
 - EMROALT
 changed: true
-date: 2026-05-26 13:44:59.015335
+date: 2026-06-08 16:44:31.763021
 metrics:
   'Axioms: Breakdown of axiom types':
-    AnnotationAssertion: 1360
+    AnnotationAssertion: 1358
     AnnotationPropertyRangeOf: 1
-    Declaration: 219
+    Declaration: 220
     DifferentIndividuals: 2
     EquivalentClasses: 4
     FunctionalObjectProperty: 1
@@ -20,16 +20,16 @@ metrics:
     SubPropertyChainOf: 11
     SymmetricObjectProperty: 1
     TransitiveObjectProperty: 8
-  'Axioms: Number of axioms': 1762
+  'Axioms: Number of axioms': 1761
   'Entities: % of entities reused': 100.0
   'Entities: Number of annotation properties': 98
-  'Entities: Number of classes': 71
+  'Entities: Number of classes': 72
   'Entities: Number of data properties': 0
   'Entities: Number of individuals': 23
   'Entities: Number of object properties': 31
   'Entities: Number of unsatisfiable classes': 0
   'Info: Breakdown of OWL class expressions used':
-    Class: 286
+    Class: 287
     ObjectIntersectionOf: 4
     ObjectSomeValuesFrom: 13
     ObjectUnionOf: 1
@@ -54,10 +54,10 @@ metrics:
     PATO: 6
     RO: 133
     UBERON: 19
-    dc: 172
+    dc: 170
     dc11: 17
     obo: 160
-    oboInOwl: 429
+    oboInOwl: 430
     owl: 1
     prefix_unknown: 9
     prov: 1
@@ -105,7 +105,7 @@ results:
       INFO: 2
       WARN: 0
     status: INFO
-sha256_hash: 9c0ca2f6606ab900c668a8ab4e2c6ede230e5370ccc6b23c17b40f97a22093b2
+sha256_hash: 3418c01f299501ca13dd1fa2be616483e00b6b65b540e38c4d5f382d06949e59
 summary:
   comment: 2 errors
   status: ERROR
@@ -113,4 +113,4 @@ summary:
     ERROR: 2
     INFO: 1
     WARN: 0
-version: http://purl.obolibrary.org/obo/emro/releases/2026-04-15/emro.owl
+version: http://purl.obolibrary.org/obo/emro/releases/2026-06-07/emro.owl

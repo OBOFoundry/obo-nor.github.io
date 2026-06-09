@@ -7,7 +7,7 @@
         "CMEOALT"
       ],
       "changed": true,
-      "date": "2026-05-26T13:44:41.257642",
+      "date": "2026-06-08T16:44:13.724218",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 3203,
@@ -166,12 +166,12 @@
         "EMROALT"
       ],
       "changed": true,
-      "date": "2026-05-26T13:44:59.015335",
+      "date": "2026-06-08T16:44:31.763021",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
-          "AnnotationAssertion": 1360,
+          "AnnotationAssertion": 1358,
           "AnnotationPropertyRangeOf": 1,
-          "Declaration": 219,
+          "Declaration": 220,
           "DifferentIndividuals": 2,
           "EquivalentClasses": 4,
           "FunctionalObjectProperty": 1,
@@ -184,16 +184,16 @@
           "SymmetricObjectProperty": 1,
           "TransitiveObjectProperty": 8
         },
-        "Axioms: Number of axioms": 1762,
+        "Axioms: Number of axioms": 1761,
         "Entities: % of entities reused": 100.0,
         "Entities: Number of annotation properties": 98,
-        "Entities: Number of classes": 71,
+        "Entities: Number of classes": 72,
         "Entities: Number of data properties": 0,
         "Entities: Number of individuals": 23,
         "Entities: Number of object properties": 31,
         "Entities: Number of unsatisfiable classes": 0,
         "Info: Breakdown of OWL class expressions used": {
-          "Class": 286,
+          "Class": 287,
           "ObjectIntersectionOf": 4,
           "ObjectSomeValuesFrom": 13,
           "ObjectUnionOf": 1
@@ -220,10 +220,10 @@
           "PATO": 6,
           "RO": 133,
           "UBERON": 19,
-          "dc": 172,
+          "dc": 170,
           "dc11": 17,
           "obo": 160,
-          "oboInOwl": 429,
+          "oboInOwl": 430,
           "owl": 1,
           "prefix_unknown": 9,
           "prov": 1,
@@ -289,7 +289,7 @@
           "status": "INFO"
         }
       },
-      "sha256_hash": "9c0ca2f6606ab900c668a8ab4e2c6ede230e5370ccc6b23c17b40f97a22093b2",
+      "sha256_hash": "3418c01f299501ca13dd1fa2be616483e00b6b65b540e38c4d5f382d06949e59",
       "summary": {
         "comment": "2 errors",
         "status": "ERROR",
@@ -299,7 +299,7 @@
           "WARN": 0
         }
       },
-      "version": "http://purl.obolibrary.org/obo/emro/releases/2026-04-15/emro.owl"
+      "version": "http://purl.obolibrary.org/obo/emro/releases/2026-06-07/emro.owl"
     },
     {
       "base_generated": true,
@@ -308,7 +308,7 @@
         "IDPOALT"
       ],
       "changed": true,
-      "date": "2026-05-26T13:44:48.832477",
+      "date": "2026-06-08T16:44:21.487784",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 981,
@@ -455,12 +455,12 @@
         "PAINALT"
       ],
       "changed": true,
-      "date": "2026-05-26T13:44:52.145114",
+      "date": "2026-06-08T16:44:24.740414",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
-          "AnnotationAssertion": 3294,
+          "AnnotationAssertion": 3407,
           "AnnotationPropertyRangeOf": 2,
-          "Declaration": 381,
+          "Declaration": 406,
           "DisjointClasses": 4,
           "EquivalentClasses": 44,
           "FunctionalObjectProperty": 1,
@@ -469,22 +469,22 @@
           "ObjectPropertyDomain": 2,
           "ObjectPropertyRange": 3,
           "SubAnnotationPropertyOf": 18,
-          "SubClassOf": 303,
+          "SubClassOf": 331,
           "SubObjectPropertyOf": 29,
           "SubPropertyChainOf": 12,
           "SymmetricObjectProperty": 1,
           "TransitiveObjectProperty": 8
         },
-        "Axioms: Number of axioms": 4112,
+        "Axioms: Number of axioms": 4278,
         "Entities: % of entities reused": 100.0,
-        "Entities: Number of annotation properties": 128,
-        "Entities: Number of classes": 214,
+        "Entities: Number of annotation properties": 129,
+        "Entities: Number of classes": 239,
         "Entities: Number of data properties": 0,
         "Entities: Number of individuals": 9,
         "Entities: Number of object properties": 34,
         "Entities: Number of unsatisfiable classes": 0,
         "Info: Breakdown of OWL class expressions used": {
-          "Class": 967,
+          "Class": 1048,
           "ObjectIntersectionOf": 44,
           "ObjectSomeValuesFrom": 104,
           "ObjectUnionOf": 1
@@ -506,22 +506,22 @@
           "BFO": 82,
           "CL": 56,
           "COB": 4,
-          "GO": 198,
-          "IAO": 583,
+          "GO": 203,
+          "IAO": 589,
           "OMO": 32,
           "PATO": 63,
           "RO": 222,
           "UBERON": 327,
-          "dc": 174,
-          "dc11": 18,
+          "dc": 176,
+          "dc11": 39,
           "foaf": 19,
-          "obo": 81,
-          "oboInOwl": 2225,
-          "owl": 1,
-          "prefix_unknown": 381,
+          "obo": 77,
+          "oboInOwl": 2267,
+          "owl": 24,
+          "prefix_unknown": 455,
           "prov": 1,
-          "rdf": 415,
-          "rdfs": 684,
+          "rdf": 418,
+          "rdfs": 712,
           "skos": 124,
           "xsd": 3
         },
@@ -580,7 +580,7 @@
           "status": "PASS"
         }
       },
-      "sha256_hash": "7a415ec034d61ce20ba2e4edfd4bedc8d4a1d94b4a07f79f8c594df13c7a4d96",
+      "sha256_hash": "715761563318f63bee0d21ddedf2550e764c22ab579ac178396a553f27fbc149",
       "summary": {
         "comment": "5 errors",
         "status": "ERROR",
@@ -590,7 +590,7 @@
           "WARN": 0
         }
       },
-      "version": "http://purl.bioontology.org/ontology/pain/releases/2026-04-13/pain.owl"
+      "version": "http://purl.bioontology.org/ontology/pain/releases/2026-06-05/pain.owl"
     }
   ],
   "oboscore": {
