@@ -99,6 +99,23 @@ ontologies:
       license:
         url: https://creativecommons.org/licenses/by/4.0/
         label: CC BY 4.0
+     - id: coho
+      mirror_from: https://github.com/EBISPOT/cohort-ontology/releases/download/v2026-05-19/coho.owl
+      title: "Cohort Ontology"
+      contact:
+        email: aleix@ebi.ac.uk
+        label: Aleix Puig
+        orcid: 0000-0001-6677-8489
+        github: aleixpuigb
+      description: The Cohort Ontology (COHO) is an ontology designed to represent and classify human cohorts across biomedical research databases.
+      domain: investigations
+      homepage: https://github.com/EBISPOT/cohort-ontology
+      products:
+        - id: coho.owl
+      tracker: https://github.com/EBISPOT/cohort-ontology/issues
+      license:
+        url: https://creativecommons.org/publicdomain/zero/1.0/
+        label: CC0
 prefer_base: True
 profile:
   baseprofile: "https://raw.githubusercontent.com/ontodev/robot/master/robot-core/src/main/resources/report_profile.txt"
