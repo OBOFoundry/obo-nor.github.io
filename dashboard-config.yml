@@ -65,57 +65,6 @@ ontologies:
       license:
         url: https://creativecommons.org/licenses/by/4.0/
         label: CC BY 4.0
-    - id: pain
-      mirror_from: https://raw.githubusercontent.com/uflcod/pain-ontology/refs/heads/main/pain.owl
-      title: "The Pain Ontology"
-      contact:
-        email: wdduncan@gmail.com
-        label: Bill Duncan
-        orcid: 0000-0001-9625-1899
-        github: wdduncan
-      description: The Pain Ontology contains terms for representing pain aligned with the International Association For the Study of Pain (IASP).
-      domain: health
-      homepage: https://bioportal.bioontology.org/ontologies/PAIN
-      products:
-        - id: pain.owl
-      tracker: https://github.com/uflcod/pain-ontology/issues
-      license:
-        url: https://creativecommons.org/publicdomain/zero/1.0/
-        label: CC0
-    - id: emro
-      mirror_from: https://raw.githubusercontent.com/uflcod/emotion-response-ontology/refs/heads/main/emro.owl
-      title: "Emotion Response Ontology"
-      contact:
-        email: wdduncan@gmail.com
-        label: Bill Duncan
-        orcid: 0000-0001-9625-1899
-        github: wdduncan
-      description: The Emotion Response Ontology represents emotions as behavioral responses to a situation or event, or internal process which evokes positive feelings, negative feelings, or surprise (i.e., emotional experiences).
-      domain: health
-      homepage: https://github.com/uflcod/emotion-response-ontology
-      products:
-        - id: emro.owl
-      tracker: https://github.com/uflcod/emotion-response-ontology/issues
-      license:
-        url: https://creativecommons.org/licenses/by/4.0/
-        label: CC BY 4.0
-     - id: coho
-      mirror_from: https://github.com/EBISPOT/cohort-ontology/releases/download/v2026-05-19/coho.owl
-      title: "Cohort Ontology"
-      contact:
-        email: aleix@ebi.ac.uk
-        label: Aleix Puig
-        orcid: 0000-0001-6677-8489
-        github: aleixpuigb
-      description: The Cohort Ontology (COHO) is an ontology designed to represent and classify human cohorts across biomedical research databases.
-      domain: investigations
-      homepage: https://github.com/EBISPOT/cohort-ontology
-      products:
-        - id: coho.owl
-      tracker: https://github.com/EBISPOT/cohort-ontology/issues
-      license:
-        url: https://creativecommons.org/publicdomain/zero/1.0/
-        label: CC0
 prefer_base: True
 profile:
   baseprofile: "https://raw.githubusercontent.com/ontodev/robot/master/robot-core/src/main/resources/report_profile.txt"
