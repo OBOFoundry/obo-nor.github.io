@@ -1,0 +1,13 @@
+Level	Rule Name	Subject	Property	Value
+ERROR	multiple_definitions	obo:PROMOT_0020005	IAO:0000115	A body structure related to a body function such that the body structure is functionally related to the body function.@en
+ERROR	multiple_definitions	obo:PROMOT_0020005	IAO:0000115	Estructura corporal que está implicada en una función corporal.@es
+ERROR	multiple_definitions	obo:PROMOT_0020005	IAO:0000115	Une structure anatomique qui est nécessaire au fonctionnement d'une fonction organique.@fr
+ERROR	multiple_labels	obo:PROMOT_0020005	rdfs:label	Body function related body structure@en
+ERROR	multiple_labels	obo:PROMOT_0020005	rdfs:label	Structure anatomique nécessaire à une fonction corporelle@fr
+ERROR	multiple_labels	obo:PROMOT_0020005	rdfs:label	estructura corporal relacionada con la función corporal@es
+INFO	lowercase_definition	obo:PROMOT_0010001	IAO:0000115	an information content entity where the information is an age.@en
+INFO	lowercase_definition	obo:PROMOT_0010003	IAO:0000115	an information content entity where the information is a decimal.@en
+INFO	lowercase_definition	obo:PROMOT_0010004	IAO:0000115	an information content entity where the information is a duration.@en
+INFO	lowercase_definition	obo:PROMOT_0010005	IAO:0000115	an information content entity where the information is an int.@en
+INFO	lowercase_definition	obo:PROMOT_0010006	IAO:0000115	an information content entity where the information is a token.@en
+INFO	lowercase_definition	obo:PROMOT_0010007	IAO:0000115	an information content entity where the information is a year.@en
