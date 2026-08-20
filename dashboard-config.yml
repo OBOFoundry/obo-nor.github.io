@@ -65,6 +65,23 @@ ontologies:
       license:
         url: https://creativecommons.org/licenses/by/4.0/
         label: CC BY 4.0
+    - id: promot
+      mirror_from: https://raw.githubusercontent.com/JuPoIm/promot/master/promot-en.owl
+      title: "PROMOT Ontology"
+      contact:
+        email: juliette.potier@institutimagine.org
+        label: Juliette Potier
+        orcid: 0009-0000-5160-7927
+        github: JuPoIm
+      description: PROMOT Ontology describes three groups of neuromuscular diseases, their related gene variants, phenotypes, and affected anatomical entities, body structures, body functions and activities.
+      domain: health
+      homepage: https://github.com/JuPoIm/promot/
+      products:
+        - id: promot-en.owl
+      tracker: https://github.com/JuPoIm/promot/issues
+      license:
+        url: https://creativecommons.org/licenses/by/4.0/
+        label: CC BY 4.0
 prefer_base: True
 profile:
   baseprofile: "https://raw.githubusercontent.com/ontodev/robot/master/robot-core/src/main/resources/report_profile.txt"
