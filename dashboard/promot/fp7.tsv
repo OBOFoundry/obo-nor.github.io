@@ -1,0 +1,15 @@
+IRI	Label	Issue
+http://purl.obolibrary.org/obo/PROMOT_2000001	affects	not an RO property
+http://purl.obolibrary.org/obo/PROMOT_2000002	assesses	not an RO property
+http://purl.obolibrary.org/obo/PROMOT_2000005	is assessed by	not an RO property
+http://purl.obolibrary.org/obo/PROMOT_2000006	is measured by	not an RO property
+http://purl.obolibrary.org/obo/PROMOT_2000007	is related to	not an RO property
+http://purl.obolibrary.org/obo/PROMOT_2000008	is used by	not an RO property
+http://purl.obolibrary.org/obo/PROMOT_3000001	has age for value	not an RO property
+http://purl.obolibrary.org/obo/PROMOT_3000002	has date for value	not an RO property
+http://purl.obolibrary.org/obo/PROMOT_3000003	has decimal for value	not an RO property
+http://purl.obolibrary.org/obo/PROMOT_3000004	has duration for value	not an RO property
+http://purl.obolibrary.org/obo/PROMOT_3000005	has int for value	not an RO property
+http://purl.obolibrary.org/obo/PROMOT_3000006	has token for value	not an RO property
+http://purl.obolibrary.org/obo/PROMOT_3000007	has year for value	not an RO property
+http://purl.obolibrary.org/obo/PROMOT_3000008	has boolean for value	not an RO property
