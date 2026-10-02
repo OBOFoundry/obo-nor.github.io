@@ -25,7 +25,7 @@ The technical review consists of three main steps:
 2. Add the ontology metadata to the dashboard configuration.
 3. Perform lexical matching.
 
-Each step should be completed before moving on to the next. If significant issues are identified during any stage of the review, they should be addressed by the submitter before the review proceeds.
+If significant issues are identified during any stage of the review, they should be addressed by the submitter before the review proceeds.
 
 ---
 
@@ -81,16 +81,11 @@ Additional fields may be included when supporting information is available.
 
 ### Important Notes
 
-The ontology identifier (id) should be the ontology namespace in lowercase.
-
-mirror_from should point directly to the raw ontology file.
-
-The ontology product must be provided as an .owl file.
-
-Contact information should correspond to the submitter identified in the request.
-
-License information should accurately reflect the license declared by the ontology developers.
-
+- The ontology identifier (id) should be the ontology namespace in lowercase.
+- mirror_from should point directly to the raw ontology file.
+- The ontology product must be provided as an .owl file.
+- Contact information should correspond to the submitter identified in the request.
+- License information should accurately reflect the license declared by the ontology developers.
 
 ## Submitting the Changes
 
@@ -98,15 +93,16 @@ Dashboard configuration updates should be submitted as a pull request (PR) rathe
 
 After the pull request has been merged:
 
-Merge the automatically generated Update Dashboard Run PR.
-Wait for the dashboard to refresh.
-Review the dashboard results and provide feedback to the submitter if necessary.
+- Merge the automatically generated Update Dashboard Run PR.
+- Wait for the dashboard to refresh.
+- Review the dashboard results and provide feedback to the submitter if necessary.
 
 # 3. Perform lexical matching
 
 ## Overview
 
-The `obo-lexical-review` command is available through the PyOBO CLI. A convenient way to run it is with `uv`, which creates an isolated environment and installs the required dependencies automatically. In some cases, running pyobo need to explicitely assert the dependency with the `Gilda` library.
+The lexical match is based on the OBO-lexical-review command from the [PyOBO library](https://github.com/biopragmatics/pyobo) available through the PyOBO CLI. 
+A convenient way to run it is with `uv`, which creates an isolated environment and installs the required dependencies automatically. In some cases, running pyobo need to explicitely assert the dependency with the `Gilda` library.
 
 ## Prerequisites
 
@@ -163,4 +159,6 @@ Example using a local ontology file:
 ```bash
 uv run --with "pyobo[gilda]" pyobo obo-lexical-review MY_ONTOLOGY_NAMESPACE --location "\folder\location\my_ontology.owl" --skip-upper
 ```
+The `--skip-upper`option allow to skip upper level ontologies during the matching process.
 
+Expect between 5-10 minutes for the command to run. Results are automatically copied into the clipboard in .md format to allow easy pasting into the github issue.
