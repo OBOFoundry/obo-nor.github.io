@@ -7,7 +7,7 @@
         "CMEOALT"
       ],
       "changed": true,
-      "date": "2026-09-21T18:24:31.084041",
+      "date": "2026-10-05T21:04:31.867912",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 3237,
@@ -163,7 +163,7 @@
         "IDPOALT"
       ],
       "changed": true,
-      "date": "2026-09-21T18:24:37.862568",
+      "date": "2026-10-05T21:04:39.270336",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 981,
@@ -203,12 +203,12 @@
         },
         "Info: Does the ontology fall under OWL 2 DL?": true,
         "Info: Experimental OBO score": {
-          "_dashboard": 0.749,
+          "_dashboard": 0.742,
           "_formula": "(1*impact+1*dashboard)/2",
           "_impact": 0.0,
           "_impact_external": 0,
           "_reuse": 1.0,
-          "oboscore": 0.374
+          "oboscore": 0.371
         },
         "Info: How many externally documented uses?": 0,
         "Info: How many ontologies use it?": 0,
@@ -275,7 +275,8 @@
           "status": "PASS"
         },
         "FP16 Maintenance": {
-          "status": "PASS"
+          "comment": "last version (2025-10-01) is over one year(s) old",
+          "status": "INFO"
         },
         "FP20 Responsiveness": {
           "status": "PASS"
@@ -297,7 +298,7 @@
         "status": "ERROR",
         "summary_count": {
           "ERROR": 2,
-          "INFO": 1,
+          "INFO": 2,
           "WARN": 2
         }
       },
@@ -310,7 +311,7 @@
         "PROMOTALT"
       ],
       "changed": true,
-      "date": "2026-09-21T18:24:44.962914",
+      "date": "2026-10-05T21:04:46.136929",
       "metrics": {
         "Axioms: Breakdown of axiom types": {
           "AnnotationAssertion": 8010,
