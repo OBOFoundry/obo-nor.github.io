@@ -26,141 +26,10 @@ oboscore:
 ontologies:
 - base_generated: true
   base_prefixes:
-  - CMEO
-  - CMEOALT
-  changed: true
-  date: 2026-09-21 18:24:31.084041
-  metrics:
-    'Axioms: Breakdown of axiom types':
-      AnnotationAssertion: 3237
-      AnnotationPropertyRangeOf: 1
-      ClassAssertion: 26
-      Declaration: 568
-      DisjointClasses: 28
-      EquivalentClasses: 6
-      EquivalentObjectProperties: 2
-      FunctionalObjectProperty: 3
-      InverseFunctionalObjectProperty: 1
-      InverseObjectProperties: 17
-      IrrefexiveObjectProperty: 1
-      ObjectPropertyDomain: 24
-      ObjectPropertyRange: 24
-      Rule: 4
-      SubAnnotationPropertyOf: 11
-      SubClassOf: 372
-      SubObjectPropertyOf: 26
-      SubPropertyChainOf: 3
-      TransitiveObjectProperty: 5
-    'Axioms: Number of axioms': 4359
-    'Entities: % of entities reused': 100.0
-    'Entities: Number of annotation properties': 94
-    'Entities: Number of classes': 370
-    'Entities: Number of data properties': 1
-    'Entities: Number of individuals': 26
-    'Entities: Number of object properties': 72
-    'Entities: Number of unsatisfiable classes': 0
-    'Info: Breakdown of OWL class expressions used':
-      Class: 1281
-      DataSomeValuesFrom: 2
-      ObjectAllValuesFrom: 4
-      ObjectComplementOf: 2
-      ObjectExactCardinality: 1
-      ObjectIntersectionOf: 15
-      ObjectMinCardinality: 3
-      ObjectSomeValuesFrom: 59
-      ObjectUnionOf: 3
-    'Info: Does the ontology fall under OWL 2 DL?': true
-    'Info: Experimental OBO score':
-      _dashboard: 0.793
-      _formula: (1*impact+1*dashboard)/2
-      _impact: 0.0
-      _impact_external: 0
-      _reuse: 1.0
-      oboscore: 0.397
-    'Info: How many externally documented uses?': 0
-    'Info: How many ontologies use it?': 0
-    'Info: Logical consistency': true
-    'Info: Syntax': RDF/XML Syntax
-    'Info: Usage of namespaces in axioms':
-      BFO: 367
-      CMO: 7
-      COB: 3
-      DUO: 66
-      GAZ: 2
-      IAO: 2529
-      NCBITaxon: 3
-      NCIT: 5
-      OBA: 2
-      OBCS: 142
-      OBI: 423
-      OGMS: 8
-      OMO: 7
-      PATO: 22
-      RO: 124
-      SCDO: 6
-      STATO: 56
-      dc: 11
-      dc11: 36
-      foaf: 2
-      obo: 221
-      oboInOwl: 103
-      owl: 107
-      prefix_unknown: 23
-      rdf: 1
-      rdfs: 708
-      skos: 6
-      xsd: 7
-    'Info: Which ontologies use it?': []
-  mirror_from: https://raw.githubusercontent.com/komi786/cmeo/main/cmeo.owl
-  namespace: cmeo
-  results:
-    FP01 Open:
-      status: PASS
-    FP02 Common Format:
-      status: PASS
-    FP03 URIs:
-      status: PASS
-    FP04 Versioning:
-      comment: Version IRI does not resolve
-      status: ERROR
-    FP05 Scope:
-      status: PASS
-    FP06 Textual Definitions:
-      status: PASS
-    FP07 Relations:
-      comment: 2 non-RO properties used.
-      file: fp7
-      status: INFO
-    FP08 Documented:
-      status: PASS
-    FP09 Plurality of Users:
-      comment: Missing usages
-      status: ERROR
-    FP11 Locus of Authority:
-      status: PASS
-    FP12 Naming Conventions:
-      status: PASS
-    FP16 Maintenance:
-      status: PASS
-    FP20 Responsiveness:
-      status: PASS
-    ROBOT Report:
-      status: PASS
-  sha256_hash: de61097318926ff55cd7cfe23775ffaf3a680410c92067e38e6aa194a1e7deea
-  summary:
-    comment: 2 errors
-    status: ERROR
-    summary_count:
-      ERROR: 2
-      INFO: 1
-      WARN: 0
-  version: http://purl.obolibrary.org/obo/cmeo/releases/2026-07-21/cmeo.owl
-- base_generated: true
-  base_prefixes:
   - IDPO
   - IDPOALT
   changed: true
-  date: 2026-09-21 18:24:37.862568
+  date: 2026-10-26 18:57:27.390985
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 981
@@ -198,12 +67,12 @@ ontologies:
       ObjectUnionOf: 1
     'Info: Does the ontology fall under OWL 2 DL?': true
     'Info: Experimental OBO score':
-      _dashboard: 0.749
+      _dashboard: 0.742
       _formula: (1*impact+1*dashboard)/2
       _impact: 0.0
       _impact_external: 0
       _reuse: 1.0
-      oboscore: 0.374
+      oboscore: 0.371
     'Info: How many externally documented uses?': 0
     'Info: How many ontologies use it?': 0
     'Info: Logical consistency': true
@@ -256,7 +125,8 @@ ontologies:
     FP12 Naming Conventions:
       status: PASS
     FP16 Maintenance:
-      status: PASS
+      comment: last version (2025-10-01) is over one year(s) old
+      status: INFO
     FP20 Responsiveness:
       status: PASS
     ROBOT Report:
@@ -273,7 +143,7 @@ ontologies:
     status: ERROR
     summary_count:
       ERROR: 2
-      INFO: 1
+      INFO: 2
       WARN: 2
   version: http://purl.obolibrary.org/obo/idpo/releases/2025-10-01/idpo.owl
 - base_generated: true
@@ -281,7 +151,7 @@ ontologies:
   - PROMOT
   - PROMOTALT
   changed: true
-  date: 2026-09-21 18:24:44.962914
+  date: 2026-10-26 18:57:34.841310
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 8010
@@ -394,3 +264,9 @@ ontologies:
       INFO: 1
       WARN: 0
   version: http://purl.obolibrary.org/obo/promot/releases/2026-09-10/promot.owl
+- base_generated: true
+  changed: true
+  failure: failed_robot_base
+  mirror_from: https://raw.githubusercontent.com/komi786/cmeo/main/cmeo.owl
+  namespace: cmeo
+  sha256_hash: 841c34d708a2339c3ba67cb20758e45ad38d95fd2a0dcada1812dc9fe914d571
