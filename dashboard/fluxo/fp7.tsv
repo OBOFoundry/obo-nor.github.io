@@ -1,0 +1,7 @@
+IRI	Label	Issue
+http://purl.obolibrary.org/obo/FLUXO_0000266	has specified data input	not an RO property
+http://purl.obolibrary.org/obo/FLUXO_0000284	has specified data output	not an RO property
+http://purl.obolibrary.org/obo/FLUXO_0000285	is specified data input of	not an RO property
+http://purl.obolibrary.org/obo/FLUXO_0000286	is specified data output of	not an RO property
+http://purl.obolibrary.org/obo/FLUXO_0000300	has measurement unit	not an RO property
+http://purl.obolibrary.org/obo/FLUXO_0000301	is model of	not an RO property

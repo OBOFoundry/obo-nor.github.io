@@ -1,0 +1,130 @@
+base_generated: true
+base_prefixes:
+- FLUXO
+- FLUXOALT
+changed: true
+date: 2026-11-04 20:48:10.427906
+metrics:
+  'Axioms: Breakdown of axiom types':
+    AnnotationAssertion: 2422
+    AsymmetricObjectProperty: 1
+    ClassAssertion: 19
+    Declaration: 583
+    DifferentIndividuals: 2
+    DisjointClasses: 26
+    EquivalentClasses: 16
+    FunctionalObjectProperty: 2
+    InverseFunctionalObjectProperty: 1
+    InverseObjectProperties: 34
+    IrrefexiveObjectProperty: 1
+    ObjectPropertyAssertion: 35
+    ObjectPropertyDomain: 44
+    ObjectPropertyRange: 45
+    Rule: 19
+    SubAnnotationPropertyOf: 2
+    SubClassOf: 517
+    SubObjectPropertyOf: 135
+    SubPropertyChainOf: 55
+    SymmetricObjectProperty: 3
+    TransitiveObjectProperty: 14
+  'Axioms: Number of axioms': 3976
+  'Entities: % of entities reused': 100.0
+  'Entities: Number of annotation properties': 30
+  'Entities: Number of classes': 365
+  'Entities: Number of data properties': 0
+  'Entities: Number of individuals': 58
+  'Entities: Number of object properties': 135
+  'Entities: Number of unsatisfiable classes': 0
+  'Info: Breakdown of OWL class expressions used':
+    Class: 1607
+    ObjectAllValuesFrom: 7
+    ObjectHasSelf: 1
+    ObjectIntersectionOf: 15
+    ObjectMinCardinality: 1
+    ObjectOneOf: 3
+    ObjectSomeValuesFrom: 179
+    ObjectUnionOf: 5
+  'Info: Does the ontology fall under OWL 2 DL?': true
+  'Info: Experimental OBO score':
+    _dashboard: 0.749
+    _formula: (1*impact+1*dashboard)/2
+    _impact: 0.0
+    _impact_external: 0
+    _reuse: 1.0
+    oboscore: 0.374
+  'Info: How many externally documented uses?': 0
+  'Info: How many ontologies use it?': 0
+  'Info: Logical consistency': true
+  'Info: Syntax': RDF/XML Syntax
+  'Info: Usage of namespaces in axioms':
+    APOLLO_SV: 4
+    BFO: 487
+    COB: 42
+    ENVO: 107
+    GO: 15
+    IAO: 1709
+    OBI: 48
+    OMO: 5
+    PATO: 3
+    RO: 767
+    dc: 1
+    dc11: 16
+    foaf: 23
+    obo: 1099
+    oboInOwl: 323
+    owl: 4
+    prefix_unknown: 2
+    rdf: 29
+    rdfs: 733
+  'Info: Which ontologies use it?': []
+mirror_from: https://raw.githubusercontent.com/dtu-qmcm/fluxo/main/fluxo.owl
+namespace: fluxo
+results:
+  FP01 Open:
+    status: PASS
+  FP02 Common Format:
+    status: PASS
+  FP03 URIs:
+    status: PASS
+  FP04 Versioning:
+    comment: Version IRI does not resolve
+    status: ERROR
+  FP05 Scope:
+    status: PASS
+  FP06 Textual Definitions:
+    comment: 7 missing definitions. See ROBOT Report for details.
+    status: WARN
+  FP07 Relations:
+    comment: 6 non-RO properties used.
+    file: fp7
+    status: INFO
+  FP08 Documented:
+    status: PASS
+  FP09 Plurality of Users:
+    comment: Missing usages
+    status: ERROR
+  FP11 Locus of Authority:
+    status: PASS
+  FP12 Naming Conventions:
+    status: PASS
+  FP16 Maintenance:
+    status: PASS
+  FP20 Responsiveness:
+    status: PASS
+  ROBOT Report:
+    comment: 13 warnings, 3 info messages.
+    file: robot_report
+    results:
+      ERROR: 0
+      INFO: 3
+      WARN: 13
+    status: WARN
+sha256_hash: 7e4dae715e6b2dc68849e306f5fc3cbffaa3ac9f027aebc52f54e950ab53c30b
+summary:
+  comment: 2 errors
+  status: ERROR
+  summary_count:
+    ERROR: 2
+    INFO: 1
+    WARN: 2
+version: http://purl.obolibrary.org/obo/fluxo/releases/2026-09-04/fluxo.owl

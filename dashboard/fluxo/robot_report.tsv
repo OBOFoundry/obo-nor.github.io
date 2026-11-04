@@ -1,0 +1,17 @@
+Level	Rule Name	Subject	Property	Value
+WARN	duplicate_label_synonym	obo:FLUXO_0000040	oboInOwl:hasExactSynonym	metabolic flux analysis
+WARN	duplicate_label_synonym	obo:FLUXO_0000259	oboInOwl:hasExactSynonym	fluxomics
+WARN	equivalent_class_axiom_no_genus	obo:FLUXO_0000098	RO:0017010	obo:FLUXO_0000099
+WARN	equivalent_class_axiom_no_genus	obo:FLUXO_0000099	RO:0017002	obo:FLUXO_0000098
+WARN	equivalent_class_axiom_no_genus	obo:FLUXO_0000235	RO:0017010	obo:FLUXO_0000282
+WARN	equivalent_class_axiom_no_genus	obo:FLUXO_0000282	RO:0017002	obo:FLUXO_0000235
+WARN	missing_definition	obo:FLUXO_0000262	IAO:0000115	
+WARN	missing_definition	obo:FLUXO_0000266	IAO:0000115	
+WARN	missing_definition	obo:FLUXO_0000284	IAO:0000115	
+WARN	missing_definition	obo:FLUXO_0000285	IAO:0000115	
+WARN	missing_definition	obo:FLUXO_0000286	IAO:0000115	
+WARN	missing_definition	obo:FLUXO_0000300	IAO:0000115	
+WARN	missing_definition	obo:FLUXO_0000301	IAO:0000115	
+INFO	lowercase_definition	obo:FLUXO_0000177	IAO:0000115	a state or condition of a system or process (such as one of the energy states of an atom) that does not change in time concerned.
+INFO	lowercase_definition	obo:FLUXO_0000260	IAO:0000115	a confidence interval which covers 95% of the sampling distribution, meaning that there is a 5% risk of false positive (type I error).
+INFO	lowercase_definition	obo:FLUXO_0000263	IAO:0000115	a confidence interval which gives a largest value bounding a confidence interval.
