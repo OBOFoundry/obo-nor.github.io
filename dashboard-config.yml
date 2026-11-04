@@ -82,6 +82,40 @@ ontologies:
       license:
         url: https://creativecommons.org/licenses/by/4.0/
         label: CC BY 4.0
+    - id: euph
+      mirror_from: https://gitlab.com/bee-life/controlled-vocabulary/-/raw/V1.4/PolOn_V.1.4_rdf-xml.owl
+      title: "Pollinator Ontology"
+      contact:
+        email: m.rubinigg@visualife.at
+        label: "Michael Rubinigg"
+        orcid: 0000-0002-7061-920X
+        github: visual133
+      description: "The Pollinator Ontology (PolOn) is a domain ontology for information and data on pollinators and their interactions with the abiotic and biotic environment, particularly humans."
+      domain: "environment"
+      homepage: https://app.pollinatorhub.eu/ontology
+      products:
+        - id: PolOn_V.1.4_rdf-xml.owl
+      tracker: https://gitlab.com/bee-life/controlled-vocabulary/-/issues
+      license:
+        url: https://creativecommons.org/licenses/by/4.0/
+        label: "CC BY 4.0"
+    - id: fluxo
+      mirror_from: https://raw.githubusercontent.com/dtu-qmcm/fluxo/main/fluxo.owl
+      title: "Metabolic Flux Analysis Ontology (FLUXO)"
+      contact:
+        email: techen@dtu.dk
+        label: "Te Chen"
+        orcid: 0009-0003-4029-9836
+        github: teisnotte
+      description: "The Metabolic Flux Analysis Ontology (FLUXO) provides an ontology for fluxomics and particularly isotope-based metabolic flux analysis, covering the methods, experiments, software and data involved in determining intracellular metabolic fluxes."
+      domain: "biological systems"
+      homepage: https://dtu-qmcm.github.io/fluxo/
+      products:
+        - id: fluxo.owl
+      tracker: https://github.com/dtu-qmcm/fluxo/issues
+      license:
+        url: https://creativecommons.org/licenses/by/4.0/
+        label: "CC BY 4.0"
 prefer_base: True
 profile:
   baseprofile: "https://raw.githubusercontent.com/ontodev/robot/master/robot-core/src/main/resources/report_profile.txt"
