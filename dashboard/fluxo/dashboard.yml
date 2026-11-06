@@ -3,7 +3,7 @@ base_prefixes:
 - FLUXO
 - FLUXOALT
 changed: true
-date: 2026-11-04 20:48:10.427906
+date: 2026-11-06 15:56:32.931657
 metrics:
   'Axioms: Breakdown of axiom types':
     AnnotationAssertion: 2422

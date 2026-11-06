@@ -3,4 +3,4 @@ changed: true
 failure: failed_robot_base
 mirror_from: https://raw.githubusercontent.com/komi786/cmeo/main/cmeo.owl
 namespace: cmeo
-sha256_hash: c00d7a069ecd6612923b5823581a760e621edd9fd63dbdcc7e335e3b8469b844
+sha256_hash: 5d1aae2177fa4b5d84467f4cfa1e06ffea3d47910c3585b107f76df750e06f96
