@@ -116,6 +116,23 @@ ontologies:
       license:
         url: https://creativecommons.org/licenses/by/4.0/
         label: "CC BY 4.0"
+    - id: hmdm
+      mirror_from: https://raw.githubusercontent.com/raphenya/hmdm-ontology/refs/heads/main/hmdm.owl
+      title: "The Human Microbiome Drug Metabolism (HMDM) Ontology"
+      contact:
+        email: raphenar@mcmaster.ca
+        label: "Amogelang R. Raphenya"
+        orcid: 0000-0001-9259-5280
+        github: raphenya
+      description: "The HMDM ontology describes drug metabolism by bacterial enzymes in the human microbiome."
+      domain: "information technology"
+      homepage: https://github.com/raphenya/hmdm-ontology
+      products:
+        - id: hmdm.owl
+      tracker: https://github.com/raphenya/hmdm-ontology/issues
+      license:
+        url: https://creativecommons.org/licenses/by/4.0/
+        label: "CC BY 4.0"
 prefer_base: True
 profile:
   baseprofile: "https://raw.githubusercontent.com/ontodev/robot/master/robot-core/src/main/resources/report_profile.txt"
