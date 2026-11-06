@@ -29,7 +29,7 @@ ontologies:
   - EUPH
   - EUPHALT
   changed: true
-  date: 2026-11-04 20:48:05.628722
+  date: 2026-11-06 15:56:27.823013
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 25637
@@ -137,7 +137,7 @@ ontologies:
   - FLUXO
   - FLUXOALT
   changed: true
-  date: 2026-11-04 20:48:10.427906
+  date: 2026-11-06 15:56:32.931657
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 2422
@@ -264,10 +264,137 @@ ontologies:
   version: http://purl.obolibrary.org/obo/fluxo/releases/2026-09-04/fluxo.owl
 - base_generated: true
   base_prefixes:
+  - HMDM
+  - HMDMALT
+  changed: true
+  date: 2026-11-06 15:56:39.268265
+  metrics:
+    'Axioms: Breakdown of axiom types':
+      AnnotationAssertion: 7782
+      ClassAssertion: 2
+      Declaration: 2084
+      DifferentIndividuals: 1
+      DisjointClasses: 7
+      EquivalentClasses: 4
+      FunctionalObjectProperty: 2
+      InverseFunctionalObjectProperty: 1
+      InverseObjectProperties: 25
+      ObjectPropertyAssertion: 35
+      ObjectPropertyDomain: 25
+      ObjectPropertyRange: 25
+      Rule: 19
+      SubClassOf: 5258
+      SubObjectPropertyOf: 132
+      SubPropertyChainOf: 49
+      SymmetricObjectProperty: 3
+      TransitiveObjectProperty: 14
+    'Axioms: Number of axioms': 15468
+    'Entities: % of entities reused': 100.0
+    'Entities: Number of annotation properties': 20
+    'Entities: Number of classes': 1885
+    'Entities: Number of data properties': 0
+    'Entities: Number of individuals': 48
+    'Entities: Number of object properties': 133
+    'Entities: Number of unsatisfiable classes': 0
+    'Info: Breakdown of OWL class expressions used':
+      Class: 12476
+      ObjectAllValuesFrom: 6
+      ObjectHasSelf: 1
+      ObjectIntersectionOf: 3
+      ObjectOneOf: 1
+      ObjectSomeValuesFrom: 2360
+      ObjectUnionOf: 1
+    'Info: Does the ontology fall under OWL 2 DL?': true
+    'Info: Experimental OBO score':
+      _dashboard: 0.787
+      _formula: (1*impact+1*dashboard)/2
+      _impact: 0.0
+      _impact_external: 0
+      _reuse: 1.0
+      oboscore: 0.394
+    'Info: How many externally documented uses?': 0
+    'Info: How many ontologies use it?': 0
+    'Info: Logical consistency': true
+    'Info: Syntax': RDF/XML Syntax
+    'Info: Usage of namespaces in axioms':
+      BFO: 480
+      CHEBI: 10921
+      DOID: 40
+      ENVO: 107
+      GO: 15
+      IAO: 1703
+      MI: 2
+      MOP: 112
+      NCIT: 27
+      PATO: 3
+      RO: 2812
+      UBERON: 31
+      dc: 218
+      dc11: 1
+      obo: 1117
+      oboInOwl: 4018
+      owl: 5
+      prefix_unknown: 2
+      rdf: 192
+      rdfs: 2087
+      xsd: 1
+    'Info: Which ontologies use it?': []
+  mirror_from: https://raw.githubusercontent.com/raphenya/hmdm-ontology/refs/heads/main/hmdm.owl
+  namespace: hmdm
+  results:
+    FP01 Open:
+      status: PASS
+    FP02 Common Format:
+      status: PASS
+    FP03 URIs:
+      status: PASS
+    FP04 Versioning:
+      comment: Version IRI does not resolve
+      status: ERROR
+    FP05 Scope:
+      status: PASS
+    FP06 Textual Definitions:
+      status: PASS
+    FP07 Relations:
+      comment: 1 non-RO properties used.
+      file: fp7
+      status: INFO
+    FP08 Documented:
+      status: PASS
+    FP09 Plurality of Users:
+      comment: Missing usages
+      status: ERROR
+    FP11 Locus of Authority:
+      status: PASS
+    FP12 Naming Conventions:
+      status: PASS
+    FP16 Maintenance:
+      status: PASS
+    FP20 Responsiveness:
+      status: PASS
+    ROBOT Report:
+      comment: 1 info messages.
+      file: robot_report
+      results:
+        ERROR: 0
+        INFO: 1
+        WARN: 0
+      status: INFO
+  sha256_hash: 6c09963739dab04b04853953c3f7a0a97a84c40889769a90e2b6347d1036862a
+  summary:
+    comment: 2 errors
+    status: ERROR
+    summary_count:
+      ERROR: 2
+      INFO: 2
+      WARN: 0
+  version: http://purl.obolibrary.org/obo/hmdm/releases/2026-09-27/hmdm.owl
+- base_generated: true
+  base_prefixes:
   - IDPO
   - IDPOALT
   changed: true
-  date: 2026-11-04 20:47:56.783982
+  date: 2026-11-06 15:56:18.326613
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 981
@@ -389,7 +516,7 @@ ontologies:
   - PROMOT
   - PROMOTALT
   changed: true
-  date: 2026-11-04 20:48:01.985042
+  date: 2026-11-06 15:56:24.070254
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 8010
@@ -507,4 +634,4 @@ ontologies:
   failure: failed_robot_base
   mirror_from: https://raw.githubusercontent.com/komi786/cmeo/main/cmeo.owl
   namespace: cmeo
-  sha256_hash: c00d7a069ecd6612923b5823581a760e621edd9fd63dbdcc7e335e3b8469b844
+  sha256_hash: 5d1aae2177fa4b5d84467f4cfa1e06ffea3d47910c3585b107f76df750e06f96

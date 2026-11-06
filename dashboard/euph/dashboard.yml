@@ -3,7 +3,7 @@ base_prefixes:
 - EUPH
 - EUPHALT
 changed: true
-date: 2026-11-04 20:48:05.628722
+date: 2026-11-06 15:56:27.823013
 metrics:
   'Axioms: Breakdown of axiom types':
     AnnotationAssertion: 25637
