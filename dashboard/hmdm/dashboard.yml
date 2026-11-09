@@ -1,9 +1,8 @@
 base_generated: true
 base_prefixes:
 - HMDM
-- HMDMALT
 changed: true
-date: 2026-11-06 15:56:39.268265
+date: 2026-11-09 15:55:05.683953
 metrics:
   'Axioms: Breakdown of axiom types':
     AnnotationAssertion: 7782
