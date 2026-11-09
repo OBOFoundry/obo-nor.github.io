@@ -2,7 +2,7 @@ base_generated: true
 base_prefixes:
 - PROMOT
 changed: true
-date: 2026-11-09 15:54:39.534149
+date: 2026-11-09 18:27:24.726842
 metrics:
   'Axioms: Breakdown of axiom types':
     AnnotationAssertion: 8010

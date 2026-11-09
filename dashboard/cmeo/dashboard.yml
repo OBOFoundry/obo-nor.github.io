@@ -2,7 +2,7 @@ base_generated: true
 base_prefixes:
 - CMEO
 changed: true
-date: 2026-11-09 15:54:17.011326
+date: 2026-11-09 18:27:10.331442
 metrics:
   'Axioms: Breakdown of axiom types':
     AnnotationAssertion: 7734

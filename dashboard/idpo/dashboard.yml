@@ -2,7 +2,7 @@ base_generated: true
 base_prefixes:
 - IDPO
 changed: true
-date: 2026-11-09 15:54:24.529140
+date: 2026-11-09 18:27:17.697732
 metrics:
   'Axioms: Breakdown of axiom types':
     AnnotationAssertion: 981
