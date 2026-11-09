@@ -48,6 +48,8 @@ ontologies:
       license:
         url: https://creativecommons.org/licenses/by/4.0/
         label: CC BY 4.0
+      base_ns:
+        - http://purl.obolibrary.org/obo/CMEO_
     - id: idpo
       mirror_from: https://github.com/BioComputingUP/idpo/releases/download/v2025-10-01/idpo.owl
       title: "Intrinsically Disordered Proteins Ontology"
@@ -65,6 +67,8 @@ ontologies:
       license:
         url: https://creativecommons.org/licenses/by/4.0/
         label: CC BY 4.0
+      base_ns:
+        - http://purl.obolibrary.org/obo/IDPO_
     - id: promot
       mirror_from: https://raw.githubusercontent.com/JuPoIm/promot/master/promot-en.owl
       title: "PROMOT Ontology"
@@ -82,6 +86,8 @@ ontologies:
       license:
         url: https://creativecommons.org/licenses/by/4.0/
         label: CC BY 4.0
+      base_ns:
+        - http://purl.obolibrary.org/obo/PROMOT_
     - id: euph
       mirror_from: https://gitlab.com/bee-life/controlled-vocabulary/-/raw/V1.4/PolOn_V.1.4_rdf-xml.owl
       title: "Pollinator Ontology"
@@ -99,6 +105,8 @@ ontologies:
       license:
         url: https://creativecommons.org/licenses/by/4.0/
         label: "CC BY 4.0"
+      base_ns:
+        - https://w3id.org/euph/
     - id: fluxo
       mirror_from: https://raw.githubusercontent.com/dtu-qmcm/fluxo/main/fluxo.owl
       title: "Metabolic Flux Analysis Ontology (FLUXO)"
@@ -116,6 +124,8 @@ ontologies:
       license:
         url: https://creativecommons.org/licenses/by/4.0/
         label: "CC BY 4.0"
+      base_ns:
+        - http://purl.obolibrary.org/obo/FLUXO_
     - id: hmdm
       mirror_from: https://raw.githubusercontent.com/raphenya/hmdm-ontology/refs/heads/main/hmdm.owl
       title: "The Human Microbiome Drug Metabolism (HMDM) Ontology"
@@ -133,6 +143,8 @@ ontologies:
       license:
         url: https://creativecommons.org/licenses/by/4.0/
         label: "CC BY 4.0"
+      base_ns:
+        - http://purl.obolibrary.org/obo/HMDM_
 prefer_base: True
 profile:
   baseprofile: "https://raw.githubusercontent.com/ontodev/robot/master/robot-core/src/main/resources/report_profile.txt"
