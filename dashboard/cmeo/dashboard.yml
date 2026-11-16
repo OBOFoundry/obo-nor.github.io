@@ -1,18 +1,19 @@
 base_generated: true
 base_prefixes:
 - CMEO
+- CMEO
 changed: true
-date: 2026-11-09 15:54:17.011326
+date: 2026-11-16 22:41:09.415034
 metrics:
   'Axioms: Breakdown of axiom types':
-    AnnotationAssertion: 7734
+    AnnotationAssertion: 7809
     AsymmetricObjectProperty: 2
     ClassAssertion: 237
     DataPropertyDomain: 1
     DataPropertyRange: 1
-    Declaration: 1051
+    Declaration: 1076
     DisjointClasses: 30
-    EquivalentClasses: 60
+    EquivalentClasses: 65
     FunctionalObjectProperty: 7
     InverseFunctionalObjectProperty: 4
     InverseObjectProperties: 48
@@ -22,33 +23,33 @@ metrics:
     ObjectPropertyRange: 62
     ReflexiveObjectProperty: 3
     SubAnnotationPropertyOf: 1
-    SubClassOf: 621
+    SubClassOf: 642
     SubDataPropertyOf: 1
     SubObjectPropertyOf: 187
-    SubPropertyChainOf: 83
+    SubPropertyChainOf: 84
     SymmetricObjectProperty: 7
     TransitiveObjectProperty: 22
-  'Axioms: Number of axioms': 10240
+  'Axioms: Number of axioms': 10367
   'Entities: % of entities reused': 100.0
   'Entities: Number of annotation properties': 142
-  'Entities: Number of classes': 495
+  'Entities: Number of classes': 509
   'Entities: Number of data properties': 5
   'Entities: Number of individuals': 236
-  'Entities: Number of object properties': 190
+  'Entities: Number of object properties': 191
   'Entities: Number of unsatisfiable classes': 0
   'Info: Breakdown of OWL class expressions used':
-    Class: 2356
+    Class: 2429
     DataMinCardinality: 1
     DataSomeValuesFrom: 8
-    ObjectAllValuesFrom: 20
+    ObjectAllValuesFrom: 27
     ObjectComplementOf: 4
     ObjectHasSelf: 1
-    ObjectIntersectionOf: 58
+    ObjectIntersectionOf: 63
     ObjectMinCardinality: 5
     ObjectOneOf: 3
-    ObjectSomeValuesFrom: 217
-    ObjectUnionOf: 24
-  'Info: Does the ontology fall under OWL 2 DL?': false
+    ObjectSomeValuesFrom: 231
+    ObjectUnionOf: 25
+  'Info: Does the ontology fall under OWL 2 DL?': true
   'Info: Experimental OBO score':
     _dashboard: 0.793
     _formula: (1*impact+1*dashboard)/2
@@ -61,39 +62,40 @@ metrics:
   'Info: Logical consistency': true
   'Info: Syntax': RDF/XML Syntax
   'Info: Usage of namespaces in axioms':
-    BFO: 390
-    CHEBI: 4
+    BFO: 404
+    CHEBI: 6
     CL: 4
-    COB: 66
+    COB: 74
     CTO: 2
     DUO: 82
     GAZ: 2
-    GO: 10
-    IAO: 4321
+    GO: 16
+    IAO: 4389
     MONDO: 2
     NCBITaxon: 109
     NCIT: 1561
     OAE: 108
-    OBCS: 78
-    OBI: 1234
+    OBCS: 79
+    OBI: 1281
     OGMS: 13
     OMO: 9
     PATO: 43
-    RO: 883
+    PR: 2
+    RO: 890
     SCDO: 31
-    STATO: 155
+    STATO: 157
     SYMP: 1
     TAXRANK: 34
     UBERON: 109
     UO: 2
-    dc: 96
+    dc: 101
     dc11: 98
-    obo: 266
+    obo: 270
     oboInOwl: 1094
     owl: 9
-    prefix_unknown: 469
+    prefix_unknown: 474
     rdf: 162
-    rdfs: 1266
+    rdfs: 1276
     skos: 14
     xsd: 15
   'Info: Which ontologies use it?': []
@@ -132,7 +134,7 @@ results:
     status: PASS
   ROBOT Report:
     status: PASS
-sha256_hash: 5d1aae2177fa4b5d84467f4cfa1e06ffea3d47910c3585b107f76df750e06f96
+sha256_hash: d366892bd348b3afdc31f710b8cdc21b7148be2eff0dcc6b8c98b79b999fb49b
 summary:
   comment: 2 errors
   status: ERROR
